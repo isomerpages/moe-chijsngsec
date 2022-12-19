@@ -2,4 +2,5 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
+      - ACADEMIC/.keep
       - JOINT INTEGRATED PROGRAMME.md
