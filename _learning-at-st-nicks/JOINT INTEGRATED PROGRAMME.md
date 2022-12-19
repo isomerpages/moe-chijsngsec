@@ -18,3 +18,6 @@ Please click [here](https://eunoiajc.moe.edu.sg/) to find out more about Eunoi
 <b>Our Unified Approach</b> 
   
 The JIP approach for developing our students to be Principled Leaders of Tomorrow includes the three main pillars of <b>(1) Cognitive development, (2) Character development and (3) Leadership development.</b> The outer portion of the diagram shows our desired outcomes, in terms of the knowledge, skills and attitudes that are embodied by our graduates.
+
+
+<img src="/images/JIP1.png" style="width:80%">
