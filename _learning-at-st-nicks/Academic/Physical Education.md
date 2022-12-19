@@ -38,10 +38,10 @@ Secondary 4 – Advance Skills Development 
 Sec 3/4 – Exercise and Sports Science (O Level Programme)  
   
 <b>DSA Sports & Games</b> \- [Sports Excellence Programme](https://chijstnicholasgirls.moe.edu.sg/secondary/learning-at-st-nicks/key-programmes/talent-development/sports-excellence-programme)   
-  
-<b>Enrichment Curriculum</b>   
+
+<b>Enrichment Curriculum</b>  
 \- Games Carnival   
-\- Sports Fiesta  
-\- Passion Pursuit modules   
-\- Sports Camp
+\- Sports Fiesta   
+\- Passion Pursuit modules  
+\- Sports Camp   
 \- Sports Leader Programme
