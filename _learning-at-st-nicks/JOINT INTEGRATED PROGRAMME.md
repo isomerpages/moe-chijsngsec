@@ -30,3 +30,17 @@ The JIP curriculum offers students a common core of learning experiences. The st
 
 
 <img src="/images/JIP2.png" style="width:100%">
+
+<b>Our Core Curriculum</b>   
+
+Our <b>Core Academic Programme</b> ensures that students in the JIP are poised to further their intellectual pursuits and actualise their potential in different areas of interests and specialisations by providing a strong grounding in knowledge and skills across the different subject disciplines. Our core curriculum, developed collaboratively by the three partner schools, ensure a strong grounding in the content, skills, and rigour required to excel in the core subject disciplines offered within the same disciplinary clusters at Eunoia Junior College.  
+  
+A deep understanding of subject matter is emphasised as it supports further intellectual pursuits by enabling students to transform factual information into new and applied knowledge. All Year 1 and 2 students offer a general curriculum that enables them to explore various disciplinary fields and make an informed choice regarding the subject options to be offered at Years 3 and 4, and subsequently at Year 5 and Year 6 including the MOE Special Programmes offered by EJC.  
+  
+<b>World Readiness Programme</b>   
+  
+Beyond the Core Academic Programme, our unique <b>World Readiness Programme (WRP)</b> aims to develop our students’ ability to impact lives in positive, ethical ways and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage.   
+  
+From Year 1 to 4, modules offered under <b>Philosophy, Current Affairs and Emerging Asia</b>, some in the Chinese language, ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well‐versed in eastern and western perspectives on knowledge, reason, and values. In turn, the <b>Current Affairs</b> modules are designed to promote an understanding of global issues and megatrends.   
+  
+The WRP utilises a variety of learning platforms to engage students and also for them to practise and sharpen their skills. In addition to lessons in school, JIP students have the opportunity to participate in programmes organised by external agencies (e.g Model United Nations Conferences), our annual WRP Symposium, and also to interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
