@@ -29,7 +29,8 @@ The programme aims to develop creativity, cognitive flexibility and problem solv
 
   
 This integrated project aims to infuse concepts from Mathematics, Science and Geography, and promote students’ learning via field investigation, scientific inquiry, Mathematical modeling and Polya’s problem-solving process.  
-  Level: Sec 1   
+  
+Level: Sec 1   
   Time Period: Term 1 to Term 3   
   Offered by: Science, Mathematics and Humanities Departments  
   
@@ -39,7 +40,8 @@ This integrated project aims to infuse concepts from Mathematics, Science and Ge
 
   
 The Innovation Programme (IvP) provides a unique opportunity for pupils to develop their problem-solving and thinking skills. At the end of the programme, pupils will be able to think critically about existing problems, generate ideas to improve the situation, develop prototypes to test and improve their ideas, be exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.  
-  Level: Sec 2 to 3  
+  
+Level: Sec 2 to 3  
   Time Period: Term 1 to Term 3  
   Offered by: Science and Mathematics Department   
   
@@ -48,6 +50,4 @@ The Innovation Programme (IvP) provides a unique opportunity for pupils to devel
     
 
   
-The Singapore Mathematics Society Project Festival encourages secondary school students in Singapore to carry out and present innovative and creative work in Mathematics, foregrounding the importance of project-based learning in the secondary school curriculum. The festival features selected Mathematical projects completed by secondary school students in the year preceding submission.  
-  
-
+The Singapore Mathematics Society Project Festival encourages secondary school students in Singapore to carry out and present innovative and creative work in Mathematics, foregrounding the importance of project-based learning in the secondary school curriculum. The festival features selected Mathematical projects completed by secondary school students in the year preceding submission.
