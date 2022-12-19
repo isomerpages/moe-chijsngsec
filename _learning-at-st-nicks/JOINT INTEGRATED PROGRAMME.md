@@ -47,3 +47,12 @@ The WRP utilises a variety of learning platforms to engage students and also for
 
 
 <img src="/images/JIP3.png" style="width:100%">
+
+
+<b>Passion Pursuit</b>  
+
+Guided by the firm belief that joy for learning is integral to supporting future learning and igniting a zest for life, our Passion Pursuit (PP) programme offers customised opportunities for JIP students to pursue their learning at an extended or deeper level in both the academic and non-academic domains during their six-year journey with the JIP.   
+  
+<b>Passion Pursuit (PP)</b>   provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of <i>Diverge, Converge and Emerge</i>. Students get to explore a broad spectrum of interest areas under the <i>Diverge</i> phase, understand what passion really means through the <i>Converge</i> phase and eventually actualise it as part of purposeful living in the <i>Emerge</i> phase. Our PP will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.   
+  
+PP is implemented through <i>Platforms for Exploration</i> and <i>Platforms for Pursuit</i>, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
