@@ -2,6 +2,7 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
+      - Academic/Mathematics.md
       - Academic/Physical Education.md
       - Academic/Science.md
       - Academic/.keep
