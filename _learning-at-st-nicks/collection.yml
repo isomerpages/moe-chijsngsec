@@ -2,7 +2,7 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
-      - ACADEMIC/PHYSICAL EDUCATION.md
-      - ACADEMIC/SCIENCE.md
-      - ACADEMIC/.keep
+      - Academic/PHYSICAL EDUCATION.md
+      - Academic/SCIENCE.md
+      - Academic/.keep
       - Joint Integrated Programme.md
