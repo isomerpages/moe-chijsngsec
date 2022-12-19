@@ -27,3 +27,6 @@ The JIP approach for developing our students to be Principled Leaders of Tomorro
 JIP students can expect to immerse themselves in an enriched and authentic six‐year learning experience that effectively equips them to explore and further develop their personal strengths, passions and talents.   
   
 The JIP curriculum offers students a common core of learning experiences. The student’s learning experience is enhanced by our JIP flagship programmes, World Readiness Programme (WRP) and Passion Pursuit (PP). Our flagship programmes seek to excite and engage students in the breadth of global perspectives as well as cultivate their interest and talents.
+
+
+<img src="/images/JIP2.png" style="width:80%">
