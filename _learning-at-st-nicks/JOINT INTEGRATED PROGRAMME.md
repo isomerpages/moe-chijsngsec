@@ -20,7 +20,7 @@ Please click [here](https://eunoiajc.moe.edu.sg/) to find out more about Eunoi
 The JIP approach for developing our students to be Principled Leaders of Tomorrow includes the three main pillars of <b>(1) Cognitive development, (2) Character development and (3) Leadership development.</b> The outer portion of the diagram shows our desired outcomes, in terms of the knowledge, skills and attitudes that are embodied by our graduates.
 
 
-<img src="/images/JIP1.png" style="width:80%">
+<img src="/images/JIP1.png" style="width:100%">
 
 <b>Weaving Together the JIP Curriculum</b>   
 
@@ -29,4 +29,4 @@ JIP students can expect to immerse themselves in an enriched and authentic six�
 The JIP curriculum offers students a common core of learning experiences. The student’s learning experience is enhanced by our JIP flagship programmes, World Readiness Programme (WRP) and Passion Pursuit (PP). Our flagship programmes seek to excite and engage students in the breadth of global perspectives as well as cultivate their interest and talents.
 
 
-<img src="/images/JIP2.png" style="width:80%">
+<img src="/images/JIP2.png" style="width:100%">
