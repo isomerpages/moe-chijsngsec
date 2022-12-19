@@ -44,3 +44,6 @@ Beyond the Core Academic Programme, our unique <b>World Readiness Programme (WR
 From Year 1 to 4, modules offered under <b>Philosophy, Current Affairs and Emerging Asia</b>, some in the Chinese language, ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well‐versed in eastern and western perspectives on knowledge, reason, and values. In turn, the <b>Current Affairs</b> modules are designed to promote an understanding of global issues and megatrends.   
   
 The WRP utilises a variety of learning platforms to engage students and also for them to practise and sharpen their skills. In addition to lessons in school, JIP students have the opportunity to participate in programmes organised by external agencies (e.g Model United Nations Conferences), our annual WRP Symposium, and also to interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
+
+
+<img src="/images/JIP3.png" style="width:100%">
