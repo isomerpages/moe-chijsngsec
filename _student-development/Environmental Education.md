@@ -54,3 +54,72 @@ Through these programmes, it is hoped that our students will exude the qualities
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">Competition</th>
+    <th class="tg-s2rg">Achievement</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25">School Green Awards 2019</td>
+    <td class="tg-vo25">Vanda Miss Joaquim Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">School Green Awards 2018</td>
+    <td class="tg-vo25">Yellow Flame Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">School Green Awards 2017</td>
+    <td class="tg-vo25">Lotus Sustained Achievement Award </td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">School Green Awards 2016 </td>
+    <td class="tg-vo25">Lotus Sustained Achievement Award </td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">School Green Awards 2015 </td>
+    <td class="tg-vo25">Lotus Sustained Achievement Award </td>
+  </tr>
+  <tr>
+    <td class="tg-vo25"> 3R Awards 2015</td>
+    <td class="tg-vo25"> Sustained 3R Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25"> School Green Awards 2014</td>
+    <td class="tg-vo25">Lotus Award </td>
+  </tr>
+  <tr>
+    <td class="tg-vo25"> 3R Awards 2014</td>
+    <td class="tg-vo25"> Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Green Carpet Award 2014</td>
+    <td class="tg-vo25">Merit</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">National Youth Envirolympics Challenge 2014</td>
+    <td class="tg-vo25">3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">3R Awards 2013</td>
+    <td class="tg-vo25">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Green Audit Award 2013</td>
+    <td class="tg-vo25">Lotus Award</td>
+  </tr>
+</tbody>
+</table>
