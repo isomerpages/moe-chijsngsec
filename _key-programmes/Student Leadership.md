@@ -256,3 +256,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
   </tr>
 </tbody>
 </table>
+
+
+
+<figure><img src="/images/16th%20Student%20Council%20Investiture.jpeg" style="width:100%"><figcaption> <b>The 16th Student Council (2022 - 2023)</b></figcaption></figure>
