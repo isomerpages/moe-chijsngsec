@@ -208,3 +208,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
     As a bridge to link the student body and the school, the Student Council constantly acts on feedback from the student population and together with the Council teachers, discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday and DJ Booth which aim to improve the general welfare of the students. In 2014, the Councillors were also involved in the conceptualisation of the Students’ Lounge 乐悠轩, a facility which is enjoyed by students from both secondary and primary sections.
 
     The Student Council comprises of Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their school mates while striving for the betterment of the student body.
+		
+
+
+<img src="/images/SL5.jpg" style="width:80%">
