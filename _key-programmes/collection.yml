@@ -2,5 +2,6 @@ collections:
   key-programmes:
     output: true
     order:
+      - Student Leadership.md
       - Cultural Intelligence.md
       - Research and Mentorship.md
