@@ -48,3 +48,60 @@ The Secondary Four students get involved in community activities such as fund-ra
 
 
 ### **Opportunities/Organisations**
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-71s7{color:#222;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-ohq8{color:#005B9A;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ohq8"><a href="http://www.nyc.pa.gov.sg/">National Youth Council (NYC)</a><br></th>
+    <th class="tg-ohq8"><a href="http://www.nlb.gov.sg/">National Library Board</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.nparks.gov.sg/">National Parks (NParks)</a><br></td>
+    <td class="tg-ohq8"><a href="http://www.kindness.sg/">Singapore Kindness movement (SKM)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.onepeople.sg/">OnePeople.sg (OPSG)</a></td>
+    <td class="tg-ohq8"><a href="http://www.nvpc.org.sg/">National Volunteer &amp; Philanthropy Centre (NVPC)</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.ncss.org.sg/">National Council of Social Services (NCSS)</a><br></td>
+    <td class="tg-ohq8"><a href="http://app2.nea.gov.sg/home">National Environment Agency (NEA)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.nhb.gov.sg/">National Heritage Board (NHB)</a></td>
+    <td class="tg-ohq8"><a href="http://www.paym.org.sg/">People’s Association Youth Movement (PAYM)</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/YOAmbassadorProg">Housing and Development Board (HDB)</a><br></td>
+    <td class="tg-71s7">North-West Community Development Council (NW CDC)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-71s7">Heartware Network<br></td>
+    <td class="tg-71s7">Rainbow Centre Singapore<br></td>
+  </tr>
+  <tr>
+    <td class="tg-71s7">Hospice Care Association<br></td>
+    <td class="tg-71s7">Infant Jesus Home and Children’s Centres (IJHCC)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://www.singaporehospice.org.sg/">Singapore Hospice Council (SHC)</a></td>
+    <td class="tg-71s7">SUN-DAC (People with Special Needs)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ohq8"><a href="http://sdsc.org.sg/">Singapore Disability Sports Council (SDSC)</a></td>
+    <td class="tg-71s7">Association for People with Special Needs</td>
+  </tr>
+</tbody>
+</table>
