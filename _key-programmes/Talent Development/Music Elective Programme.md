@@ -13,6 +13,7 @@ Students selected for the programme will be equipped with skills for music analy
 The programme prepares students for the GCE ‘O’ Level Higher Music Examination, which can be considered in place of a Humanities subject for Junior College admission.   
 
 ### **Programme Highlights**
+--------------------
 
 *   Masterclasses
 
