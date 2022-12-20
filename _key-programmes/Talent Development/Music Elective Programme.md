@@ -53,3 +53,24 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
 
      *   Four Soundscapes in Response to a Global Pandemic for the 2020 EMP and MEP Online Showcase. Click this [link](https://www.youtube.com/watch?v=01Js3yL48X8&list=PL2J2ewFyYjsgRNxvoT25NZ6EcYG2jWowN&index=17).
     *   Two original piano works for the celebration of 40 Years of the Music Elective Programme (MEP) 2022. Click [here](https://www.youtube.com/watch?v=CifcQLI4_3k&ab_channel=EMPandMEPYouTubePage) and [here](https://www.youtube.com/watch?v=GOnVp6i7wGQ&ab_channel=EMPandMEPYouTubePage).
+
+
+
+### **Admission Criteria**
+------------------
+
+Upon admission into the school, interested students are required to go through a Selection Exercise comprising listening and aural tests, an audition and an interview. The Selection Exercise will be held at the end of December 2022 for the 2023 intake.   
+  
+Application for 2023 S1 MEP will be open on the day of the release of the S1 Posting Results. Click on [this link](https://sites.google.com/moe.edu.sg/2023-s1-mep-admission/selection-exercise) to submit your application and for information about the selection exercise.  
+
+[](https://go.gov.sg/specialmusicprogrammes)
+
+### **Additonal Resources**
+-------------------
+
+For more information and resources on the MEP, please visit the following websites:   
+  
+
+*   [MOE MEP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)  
+    
+*   [GCE O-Level Higher Music Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6086_y23_sy.pdf)
