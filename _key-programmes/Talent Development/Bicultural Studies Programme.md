@@ -67,3 +67,20 @@ Bicultural Studies Programme
 
     *   H2 China Studies in Chinese is compulsory for MOE BSP scholars; non-scholars in the BSP are encouraged to offer this subject.
     *   Related enrichment modules for all BSP students.
+
+
+<b>深广学习</b>  
+
+*   专家学者讲座
+*   中国浸濡计划
+*   西方浸濡计划（仅限奖学金得主）
+*   教育部主办的全国双文化课程研讨会与双文化营
+*   学术研究入门：针对当代中国发展选择个人感兴趣的课题进行文献分析，社会调查或新中比较研究
+
+<b>Enrichment</b>   
+
+*   Talks by academics and industry experts
+*   Immersion programmes in China
+*   Immersion programme in a Western country (for scholars only)
+*   Enrichment programmes organised by MOE, i.e. annual Bicultural Studies Symposium, BSP Camp
+*   Research on contemporary China in an area of interest, or a comparative study between China and Singapore in an area of interest
