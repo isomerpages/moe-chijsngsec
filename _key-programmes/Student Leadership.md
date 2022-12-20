@@ -182,3 +182,20 @@ Our Student Leaders at Harmony Centre and An-Nahdhah Mosque, understanding the i
 
 
 Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food Bank - to learn about the importance of resilience through her sharing about her journey as an ex-St Nicks’ student and how she overcome challenges in her personal and professional life.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-6hjr">SNGS Student Council</td>
+  </tr>
+</thead>
+</table>
