@@ -140,3 +140,16 @@ We have also included some resources that may be helpful for understanding your 
 </table>
 
 \*denotes resources which cover broad topics
+
+
+<b>Acknowledgements:</b>   
+
+*   Media Literacy Council: [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+    
+*   National Crime Prevention Council: [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
+    
+*   National Library Board: [https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)
+    
+*   Cyber Security Agency: [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)
+    
+*   Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
