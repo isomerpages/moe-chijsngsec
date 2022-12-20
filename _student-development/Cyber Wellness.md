@@ -172,3 +172,32 @@ Besides learning about Cyber Wellness through structured CCE lessons at all four
 Leadership development is focused on developing a core team of student leaders who are able to lead the student population both at the class and school level to drive the various Cyber Wellness programmes. This is done primarily through the Cyber Wellness Ambassadors.  
   
 <b>Additional Cyber Wellness Resources</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-zb5k{color:#15C;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-tr70{color:#005B9A;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-frbo"><span style="color:#000">Resources for Students</span></th>
+    <th class="tg-zb5k"><a href="https://ictconnection.moe.edu.sg/cyber-wellness/cyber-wellness-101"><span style="text-decoration:underline;color:#15C">Cyberwellness 101</span></a><br><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-students"><span style="text-decoration:underline;color:#15C">MOE ICT Connection CW resources for Students</span></a><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-frbo"><span style="color:#000">Resources for Parents</span></td>
+    <td class="tg-tr70"><a href="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Cyberwellness/3B)%202018%20T1%20Parents%20Tip%20Sheet_pdf.pdf"><span style="text-decoration:underline">Cyberwellness Tip Sheet for Parents</span></a><br><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-parents"><span style="text-decoration:underline;color:#15C">MOE ICT Connection CW Resources for Parents</span></a><br><a href="https://www.moe.gov.sg/programmes/cyber-wellness"><span style="text-decoration:underline;color:#0563C1">https://www.moe.gov.sg/programmes/cyber-wellness</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-frbo"><span style="color:#000">Resources for Educators</span></td>
+    <td class="tg-zb5k"><a href="https://drive.google.com/a/moe.edu.sg/file/d/0B6q5XqoAUXmMVWJneWVOZ3BFX3pYVEZsTk1zWXAzZ19JZkJB/view?usp=sharing"><span style="text-decoration:underline;color:#15C">Cyberwellness Bite-size Resources for Teachers</span></a><br><a href="https://ictconnection.moe.edu.sg/cyber-wellness/for-educators"><span style="text-decoration:underline;color:#15C">MOE ICT Connection CW resources for Educators</span></a></td>
+  </tr>
+</tbody>
+</table>
