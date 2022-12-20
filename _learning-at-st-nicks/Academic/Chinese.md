@@ -32,6 +32,7 @@ We strive to nurture students as effective and confident communicators of their 
     *   我校双文化课程致力于为我国培养学贯中西、了解当代中国与西方社会的青少年。课程主要内容包括改革开放以来的中国经济、社会、政治与外交，教学形式包括课堂教学，讲座，中国浸濡和西方浸濡等。
     *   双文化课程为期四年，在中三至高二年级进行，供综合课程学生选修，由我校和诺雅初级学院联合主办。优秀的双文化课程学生可以在中三或高一申请教育部双文化奖学金。
     *   更多详情请见[双文化课程网页](https://chijstnicholasgirls.moe.edu.sg/secondary/learning-at-st-nicks/key-programmes/bicultural-studies-programme)。
+Note: 双文化课程网页 link broken.
 
 *   <b>O水准华文文学课程</b>
 
@@ -70,6 +71,7 @@ As a SAP school, St Nicks provides an immersive bilingual environment, and the C
     *   The BSP aims to nurture a bicultural orientation amongst a core group of students. The programme will help them develop an interest in and capacity to engage China and the West. Students will take up a more intensive Chinese curriculum to learn about contemporary China’s economy, society, politics and international relations, as well as experience significant immersion in China and a learning trip in a Western country. 
     *   The BSP is a 4-year programme offered from IP Years 3 to 6, and is jointly offered by our Integrated Programme partner school Eunoia Junior College. Outstanding students can apply for the MOE BSP Scholarship in Year 3 or Year 5. 
     *   More details can be found [here](https://chijstnicholasgirls.moe.edu.sg/secondary/learning-at-st-nicks/key-programmes/bicultural-studies-programme). 
+Note: BSP link broken.
 
 *   <b>O-Level Literature in Chinese</b>
     *   Through the O-Level Literature in Chinese course, students can learn to better appreciate Chinese literature, as well as acquire skills in literary critique. Passionate students can grow as bilingual language specialists in high demand in Singapore’s education, media, translation and cultural industries.
