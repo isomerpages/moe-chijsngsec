@@ -45,3 +45,25 @@ Bicultural Studies Programme
 
     *   奖学金得主必须修读H2中国通识，非奖学金得主则鼓励修读。
     *   所有双文化课程学生每周参加相关讲座或活动。
+
+
+<b>Curriculum</b>  
+
+*   IP Years 3-4 (taught within Higher Chinese lessons)
+
+    *   Content on China’s history, culture and contemporary developments in relation to Singapore, Southeast Asia and the world: 
+
+        *   China’s economic development and its impact
+        *   China’s governance and its challenges
+        *   China’s society and its evolution
+        *   China’s international relations
+        
+			(Medium of instruction is Chinese; readings are in Chinese and English.)  
+
+    *   O-level Higher Chinese Language curriculum
+    *   School-based curriculum on the evolution of Singapore’s Chinese heritage, and classical Chinese philosophy
+
+*   IP Years 5-6 at Eunoia Junior College
+
+    *   H2 China Studies in Chinese is compulsory for MOE BSP scholars; non-scholars in the BSP are encouraged to offer this subject.
+    *   Related enrichment modules for all BSP students.
