@@ -1,8 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: LEARNING @ ST NICKS
+    url: /permalink
+    sublinks: []
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: LEARNING @ ST NICKS
-    collection: learning-at-st-nicks
