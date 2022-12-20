@@ -27,6 +27,8 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
 
 
 *    Concerts 
+    
+	Students will have opportunities to attend concerts and performances to broaden their understanding and appreciation of music.
 
 
   
