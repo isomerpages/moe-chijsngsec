@@ -2,6 +2,7 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
+      - Academic/Academic.md
       - Academic/Aesthetics.md
       - Academic/Chinese.md
       - Academic/English.md
