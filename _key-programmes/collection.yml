@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Talent Development/Talent Development.md
       - Talent Development/Bicultural Studies Programme.md
       - Talent Development/Music Elective Programme.md
       - Talent Development/Humanities Talent Development Programme.md
