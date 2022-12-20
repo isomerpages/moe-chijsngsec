@@ -1,4 +1,5 @@
 collections:
   co-curricular-activities-ccas:
     output: true
-    order: []
+    order:
+      - Visual & Performing Arts/.keep
