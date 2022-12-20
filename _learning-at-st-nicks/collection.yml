@@ -2,7 +2,6 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
-      - Key Programmes/.keep
       - Academic/Academic.md
       - Academic/Aesthetics.md
       - Academic/Chinese.md
