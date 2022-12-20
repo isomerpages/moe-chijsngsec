@@ -21,6 +21,8 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
   
 
 *   School-Based MEP Performances and Projects
+    
+	Students will have the opportunities to plan and put together performances for their friends and family. Students can also showcase their music knowledge and skills at school platforms. Listen to Two Songs for our IJ Teachers, 2021 composed by our MEP students that were gifted to our teachers this year. Click [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Learning%20at%20St%20Nicks/Key%20Programmes/Music%20Elective%20Programme/Two%20Songs%20for%20our%20IJ%20Teachers.pdf) to listen to the songs.
 
 
 
