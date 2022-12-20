@@ -169,3 +169,6 @@ As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leade
   </tr>
 </tbody>
 </table>
+
+
+Here are some examples of leadership opportunities available in our school:
