@@ -30,3 +30,18 @@ The school’s Aesthetics programme is guided by the 3-E approach – Exposure, 
     *   Aesthetics Week takes place in March each year. It aims to encourage a love for the Arts and to foster a deeper understanding of the Aesthetics subjects that are offered in school. Students participate in exciting activities relating to Music, Art, Design & Technology and Food and Consumer Education over the course of the week.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMlNhQpmucA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+*   Music Elective Programme
+
+    *   The Music Elective Programme (MEP) provides opportunities for students with a passion for music to pursue a deeper and more comprehensive study in the subject. The MEP is a four-year programme at the secondary level. Students will enjoy rich classroom experiences that nurture a deeper appreciation of music, as well as exciting opportunities at master classes and workshops to enrich their understanding and knowledge with composers, performers and professionals from the music industry
+    *   Selected MEP students are chosen to represent the school regularly at national level MEP events conducted by MOE such as the National MEP Outreach programme and biennal MEP Concert.
+
+  
+
+*   Passion Pursuit Modules
+
+    *   <i>Basic Technical Skills in our Homes</i> is a Passion Pursuit module which provides students with basic technical skills that are required in our homes. Together with the knowledge of the use of saws, files, hammers, screwdrivers and portable hand drills as well as the different types of wood, plastics, metals and adhesives, students will be able to produce everyday items.
+     *   <i>The Creative Ceramics</i> module is conducted as a Passion Pursuit module which introduces students to ceramic making. Students are taught several methods including the pinching and hollowing method, and slabbing method, as well as how to glaze their work.
+    *   <i>The Art Bridging Course</i> is a Passion Pursuit module which exposes students to the study of visual arts (SOVA) artists and artworks. Students will learn about art terminology and develop a better understanding of SOVA artists and artworks. This module is intended for Secondary 2 IP students who are keen to offer Art at the upper secondary level.
+    *   <i>Fun with Baking</i> is a Passion Pursuit module in which students will learn how to bake various pastries and cakes. The module builds on lessons learnt during FCE lessons and enables students to experiment with baking a variety of snacks and desserts.
