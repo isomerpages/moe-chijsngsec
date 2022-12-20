@@ -34,6 +34,8 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
   
 
 *   Workshops 
+    
+	Students will enjoy fun-filled afternoons immersed in authentic performance settings and have hands-on experience in order to deepen their appreciation for various musical cultures. Workshops conducted over the years include playing Jazz Music, Gamelan or learning Malay Cultural Dances.
 
   
 
