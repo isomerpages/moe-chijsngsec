@@ -19,3 +19,5 @@ description: ""
       
     
 4.  To nurture a deep sense of gratitude amongst the students, students are given weekly themes, to pen down one thing they are grateful for. These themes extend from family to school and nation. Each term, a special individual or organisation is identified for staff, students and parents to pen a special thank you note to express their appreciation for their contributions. Past recipients include Mr Lee Kuan Yew, SAF, NParks and most recently, to our frontline healthcare workers who are battling the COVID-19 pandemic.
+
+<img src="/images/VE%202.jpg" style="width:60%">
