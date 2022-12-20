@@ -20,7 +20,8 @@ Prior to the envisioning exercise at the end of 2012, the school had a Pupil Dev
 
 The SNGS CCE Programme encompasses Co-Curricular Activities (CCA), National Education (NE), Values in Action (VIA), Student Leadership and [Values Education](https://chijstnicholasgirls.moe.edu.sg/secondary/cce-programme/values-education). It is anchored on the school Vision, Mission, Values, Motto and the ethos of care, gratitude and sisterly love that stems from the philosophy of 饮水思源 (Gratitude). These are aligned to MOE’s desired outcomes of education, SEL competencies 21CC as well as the R3ICH values of respect, responsibility, resilience, integrity, care and harmony.
 
-  
+ 
+Note: Values Education page not found.
 
 
 
@@ -49,6 +50,3 @@ Platforms that integrate the components of CCE – CCA, NE, VIA, Student Leaders
   
 
 Supporting all these efforts are our partners: the IJ Board, PSG (Parents@StNicks) and Alumni Association, who lend strong support to the school to shape and develop the girls through direction setting, strong collaboration, presence as well as contribution of time, effort and resources. Our N6 Cluster, KBCC and community at large provide additional platforms and opportunities for our girls to develop and live out their values. Together we shape them to be Girls of Grace, Women of Strength and Leaders with Heart.
-
-
-
