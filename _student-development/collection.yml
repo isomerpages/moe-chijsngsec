@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Environmental Education.md
       - Counselling.md
       - Education & Career Guidance (ECG).md
       - Mental Health Education Programme.md
