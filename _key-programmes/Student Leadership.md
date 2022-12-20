@@ -212,3 +212,47 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 
 
 <img src="/images/SL5.jpg" style="width:80%">
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i" colspan="2">Teachers-in-charge<br><span style="font-weight:normal">Mrs Lily Tan, Mrs Uma Jacob &amp; Ms Vivian Foo</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-s2rg" colspan="2">2022 - 2023 Executive Committee <br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">President</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Andrea Lim (4 Diligence)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Vice-Presidents </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Ee Ching</span>	<span style="color:#222;background-color:transparent">(4 Diligence)</span><br><span style="color:#222;background-color:transparent">Ariel Grace Cheah Po Yi (4 Unity)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Logistics Wing)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amelie Koh Wei Lyn (4 Grace)</span><br><span style="color:#222;background-color:transparent">Wah Ro Shin Eriel (4 Unity)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Events Wing)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Hui Xin Chloe (4 Purity)</span><br><span style="color:#222;background-color:transparent">Valerie Koh Han Ning (4 Unity)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Welfare Wing)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nicole Lim Zi Qing (4 Grace)</span><br><span style="color:#222;background-color:transparent">Rebecca Kui (4 Wisdom)</span></td>
+  </tr>
+</tbody>
+</table>
