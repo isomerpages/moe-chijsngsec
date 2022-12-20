@@ -37,3 +37,44 @@ Guided by our school values of <b>Truth</b>, <b>Justice</b>, <b>Freedom</b> 
   
 
 As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2) to be ready and able to serve and impact the community and others.
+
+
+<figure><img src="/images/Student%20Leadership%20Framework.jpeg" style="width:75%"><figcaption> <b>SNGS Student Leadership Framework</b></figcaption></figure>
+
+
+<b>OUR PROGRAMME</b>
+
+   The <b>St Nicholas Leadership Programme (SNLP)</b> is based on two principal provisions, the provision of ‘<b>Trainings</b>’ and ‘<b>Opportunities</b>’. The trainings consist of leadership workshops which focus on equipping and honing leadership skills and inculcating the school’s values required for students to exercise their leadership competencies and skills with excellence. Hands-on training are also integral parts of leadership training, whereby student leaders are given the support and skills needed to become effective leaders. Through these trainings, students will develop their individual leadership aptitude, formulate personal goals to attain, as well as to be a good team player.
+
+  
+
+(1) Trainings
+
+  
+
+    All St Nicholas students go through the SNLP which provides structured developmental leadership training. This includes leadership milestone trainings, which identifies specific leadership skills to be taught at each level. Key skills such as coordination, facilitation and communication skills are explicitly taught to our students through workshops and training sessions. The five Practices of ‘The Leadership Challenge © ’are also mapped out as focus areas for the respective cohort. This ensures that there is segmented and progressive leadership development programme for our students throughout their four year journey in our school.
+
+  
+
+(2) Opportunities
+
+  
+
+    Our school believes in empowering students and developing important 21 CC skills through an array of platforms, as outlined in the table below. Students are invited to participate actively in the life of the school and to play their part as members of the St Nicholas family.
+		
+		
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-6hjr">Leadership development at CHIJ St Nicholas Girls' School (Sec)</td>
+  </tr>
+</thead>
+</table>
