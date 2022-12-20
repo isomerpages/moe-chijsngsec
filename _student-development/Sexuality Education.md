@@ -181,3 +181,43 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">UNIT</th>
+    <th class="tg-v41i">LESSONS / DURATION</th>
+    <th class="tg-v41i">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-v41i">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-brl1">1A<br>(60 mins)</td>
+    <td class="tg-vo25">·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline. <br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours. <br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship. </td>
+    <td class="tg-brl1">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">1B<br>(60 mins)</td>
+    <td class="tg-vo25">·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges. <br>·       Know that a decision to end a relationship will have consequences on oneself and others. <br>·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience. <br>·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. </td>
+    <td class="tg-brl1">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">2<br>(60 mins)</td>
+    <td class="tg-vo25">Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them. <br>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs. </td>
+    <td class="tg-brl1">Term 4 Week 1</td>
+  </tr>
+</tbody>
+</table>
