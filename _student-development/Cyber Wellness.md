@@ -138,3 +138,5 @@ We have also included some resources that may be helpful for understanding your 
   </tr>
 </tbody>
 </table>
+
+\*denotes resources which cover broad topics
