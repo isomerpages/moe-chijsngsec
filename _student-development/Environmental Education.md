@@ -23,3 +23,34 @@ Leadership development is focused on developing a core team of student leaders w
 Partnership looks at identifying organisations with programmes which we can tap on to help promote our cause in Environment conservation. We also engage the help of our Parent Support Group and Alumnae Association to collaborate with our Environment ambassadors in carrying out the various Environment activities in school.  
   
 Through these programmes, it is hoped that our students will exude the qualities of Girls of Grace, Women of Strength and Leaders with Heart – A person who truly cares, participate, influence and lead others in environmentally conscious habits and activities.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vo25">Academic programs</th>
+    <th class="tg-vo25">- Enrichment Activities with environment focus<br>    &gt; Mac Ritchie Learning Trail<br>    &gt; Field investigations<br>- Outdoor learning classrooms<br>- Subject based programs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25">Character and Citizenship Education</td>
+    <td class="tg-vo25">- Assembly programs and interclass competitions<br>     &gt; Chinese New Year Recycling Drive<br>     &gt; World Water Day exhibition (Water Conservation)<br>    - Values In Action (Block Cleaning, Beach Clean Up, Learning trails at the Waterways)<br>- CCE lessons (Singapore Green Plan, 3R, Energy and Water Conservation and Sustainable Living)</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Leadership development</td>
+    <td class="tg-vo25">- Environment Leaders and Green Club Members<br>- Green Club Girls to lead in school wide campaigns<br>- Environment leaders to lead their classmates in green initiatives</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Partnership</td>
+    <td class="tg-vo25">- City Developments Limited<br>- National Environment Agency<br>- Singapore Environment Council<br>- Public Utilities Board<br>- National Parks Board<br>- Parent Support Group (PSG)<br>- SNGS Alumnae Association</td>
+  </tr>
+</tbody>
+</table>
