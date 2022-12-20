@@ -11,3 +11,11 @@ description: ""
 2.  Lessons and narratives on the IJ and school’s history and ethos are infused in the Character and Citizenship Education (CCE) and Form Teacher Guidance Period (FTGP) curriculum, as well as during assemblies and school events.   
       
     The CCE curriculum is based on CCE lessons from MOE, which incorporates modules for VIA, Cyber Wellness, Sexuality Education and Education & Career Guidance, dedicated to imparting values and life skills to students. Resources from the Civics and Moral Education for Catholic Schools (CMECS) package from the Archdiocesan Commission for Catholic Schools (ACCS) are also used to complement MOE’s CCE lesson packages.
+		
+		
+<img src="/images/VE%201.png" style="width:70%">
+
+3.  School values are also inculcated through specific programmes such as the VIA Programme for both staff and students (class, CCA, cohort and school-wide VIA), the Student Leadership programme as well as the National Education curriculum.  
+      
+    
+4.  To nurture a deep sense of gratitude amongst the students, students are given weekly themes, to pen down one thing they are grateful for. These themes extend from family to school and nation. Each term, a special individual or organisation is identified for staff, students and parents to pen a special thank you note to express their appreciation for their contributions. Past recipients include Mr Lee Kuan Yew, SAF, NParks and most recently, to our frontline healthcare workers who are battling the COVID-19 pandemic.
