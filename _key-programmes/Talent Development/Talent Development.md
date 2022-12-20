@@ -28,6 +28,6 @@ Our Talent Development Framework draws on Treffinger’s Levels of Service model
   
 The approach involves services at 4 levels, ranging from services to build foundations for talent development and provide exposure (Level 1) to services that recognise and respond to the needs of students who have demonstrated high levels of aptitude in specific domains (Level 4).
 
-
+<figure><img src="/images/XX.png" style="width:100%"><figcaption> Examples of Talent Development opportunities</figcaption></figure>
 
 <i>Students may download a full list of the SNGS Talent Development Programmes for 2018 from MConline.</i>
