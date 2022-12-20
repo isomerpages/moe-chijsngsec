@@ -134,3 +134,38 @@ As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leade
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6bqh{color:#595959;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Positional Leadership</span></th>
+    <th class="tg-s2rg">School Project Appointments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Student Councillor</span><br><span style="color:#222;background-color:transparent">CCA Committee</span><br><span style="color:#222;background-color:transparent">Class Management Committee</span><br><span style="color:#222;background-color:transparent">House Committee</span><br><span style="color:#222;background-color:transparent">Sports Leaders</span><br><span style="color:#222;background-color:transparent">SyNerGiSe Committee</span></td>
+    <td class="tg-brl1">JIP Student Leaders' Exchange<br>Sports Carnival<br>Open House<br>Department programmes, e.g. English Language and Literature Festival, Mother Tongue Fortnight<br>National Education Programmes</td>
+  </tr>
+  <tr>
+    <td class="tg-v41i" colspan="2">Non-positional Leadership</td>
+  </tr>
+  <tr>
+    <td class="tg-6bqh" colspan="2"><span style="color:#222;background-color:transparent">Being a good influence and a contributing and involved member of the school community.   </span></td>
+  </tr>
+</tbody>
+</table>
