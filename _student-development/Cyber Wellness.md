@@ -81,3 +81,6 @@ In St Nicks’, the Cyber Wellness curriculum takes reference from the five them
   </tr>
 </tbody>
 </table>
+
+
+We have also included some resources that may be helpful for understanding your child’s involvement in the Digital Space across the topics covered in our curriculum. We understand that to manage our students’ well-being in the Digital Space effectively, parents play an integral role in reinforcing the messages shared in school.
