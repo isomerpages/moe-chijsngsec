@@ -18,3 +18,9 @@ Bicultural Studies Programme
 1.  培养学生对现当代中国发展的概括性认识，包括其与新加坡华族文化，亚细安视角和西方国情的联系。
 2.  培养学生独立思考的能力，鼓励学生发展批判性思维，运用多元视角分析问题。
 3.  培养学生的人文素养，包括提升学生的跨文化智商。
+
+<b>Programme Objectives</b>   
+
+1.  Develop students’ understanding of contemporary China’s developments in relation to Singapore, ASEAN, the West and the world in general. 
+2.  Hone students’ critical thinking skills in considering multiple perspectives and sound reasoning. 
+3.  Nurture students’ humanistic qualities and cross-cultural intelligence
