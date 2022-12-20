@@ -8,4 +8,4 @@ third_nav_title: Values in Action
 
 <u><b>CHIJ SNGS Values-in-Action(VIA) Framework:
 
-Service beyond Self and Schoo</u></b>
+Service beyond Self and School</u></b>
