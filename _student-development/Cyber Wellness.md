@@ -158,3 +158,17 @@ Note: Ministry of Education link broken.
 
 
 <img src="/images/Cyberwellness%20Image%202.jpg" style="width:75%">
+
+Together, we hope to partner our parents in ensuring that our students’ participation in the Digital Space remains safe and value adds to her growth.  
+  
+Besides learning about Cyber Wellness through structured CCE lessons at all four levels, positive online behaviour and safe surfing habits are also inculcated through the following:  
+  
+(1) ICT-enabled lessons of various subjects  
+(2) Cyber Wellness Carnival  
+(3) Cyber Wellness Assembly/FTGP   
+(4) Class Cyber Wellness Ambassadors  
+(5) Discussion of contemporary issues arising from usage in the Cyber Space   
+  
+Leadership development is focused on developing a core team of student leaders who are able to lead the student population both at the class and school level to drive the various Cyber Wellness programmes. This is done primarily through the Cyber Wellness Ambassadors.  
+  
+<b>Additional Cyber Wellness Resources</b>
