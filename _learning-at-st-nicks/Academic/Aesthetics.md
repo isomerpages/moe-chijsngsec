@@ -27,8 +27,6 @@ The school’s Aesthetics programme is guided by the 3-E approach – Exposure, 
  
 
 *   Aesthetics Week  
-    
-
     *   Aesthetics Week takes place in March each year. It aims to encourage a love for the Arts and to foster a deeper understanding of the Aesthetics subjects that are offered in school. Students participate in exciting activities relating to Music, Art, Design & Technology and Food and Consumer Education over the course of the week.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMlNhQpmucA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
