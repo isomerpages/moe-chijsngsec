@@ -9,3 +9,5 @@ description: ""
 Student Leadership
 ==================
 
+
+<b>Girls of Grace • Women of Strength • Leaders with Heart</b>
