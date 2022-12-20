@@ -16,12 +16,41 @@ ECG is about equipping students with the necessary knowledge, skills and values 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-amwm">KEY ECG MESSAGES FOR STUDENTS<br><span style="font-weight:400;font-style:normal;text-decoration:none">■ Discover Who You Are</span><br>■ <span style="font-weight:400">Navigate Pathways with Confidence</span><br>■ <span style="font-weight:400">Make Informed Decisions and Own Them</span><br>■ <span style="font-weight:400">Keep Learning. Be Resilient</span></td>
+    <th class="tg-aw21">KEY ECG MESSAGES FOR STUDENTS</th>
   </tr>
 </thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><span style="font-weight:400;font-style:normal;text-decoration:none">■ Discover Who You Are</span><br>■ <span style="font-weight:400">Navigate Pathways with Confidence</span><br>■ <span style="font-weight:400">Make Informed Decisions and Own Them</span><br>■ <span style="font-weight:400">Keep Learning. Be Resilient</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-km2t">KEY ECG MESSAGES FOR STUDENTS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-zv4m"><span style="font-weight:400;font-style:normal;text-decoration:none">■ </span>Discover Who You Are<br>■ <span style="font-weight:400">Navigate Pathways with Confidence</span><br>■ <span style="font-weight:400">Make Informed Decisions and Own Them</span><br>■ <span style="font-weight:400">Keep Learning. Be Resilient</span></td>
+  </tr>
+</tbody>
 </table>
