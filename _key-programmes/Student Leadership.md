@@ -78,3 +78,44 @@ As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leade
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pfgq{border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-05v1{border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-r1cs{border-color:inherit;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-tz56{border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-05v1" colspan="4"><span style="color:#222;background-color:transparent">Future Readiness (21 CC Skills)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">Civic-Literacy, Global Awareness &amp; Cross-Cultural Skills</span></td>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">Critical &amp; Inventive Thinking </span><br><br></td>
+    <td class="tg-r1cs" colspan="2"><span style="color:#222;background-color:transparent">Communication, Collaboration &amp; Information</span><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">Our Workshops</span><br><br><br></td>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">Leadership Appointments</span><br><br></td>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">Working with others &amp; Student Voice and Choice</span></td>
+    <td class="tg-r1cs"><span style="color:#222;background-color:transparent">External Opportunities (selected students only)</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-tz56"><span style="color:#222;background-color:transparent">Mass Student Leadership Workshops</span><br><br><span style="color:#222;background-color:transparent">Class Management Committee - role training</span><br><br><span style="color:#222;background-color:transparent">Design Thinking</span><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-pfgq">Student Council<br><br>Class Management Committee<br><br>CCA Leaders<br><br>Sports Leaders<br><br>SyNerGiSe Committee<br><br><br><br><br><br></td>
+    <td class="tg-pfgq"><span style="text-decoration:underline">Level Camps</span><br>• Sec 1 Orientation Camp<br>• Sec 2 Alumni Camp<br>• Sec 3 OBS Camp<br><br><span style="color:#222;background-color:transparent">Values-in-Action projects (student-initiated)</span><br><br><span style="color:#222;background-color:transparent">Leadership appointments projects (Org school events)</span><br><br><br><br></td>
+    <td class="tg-pfgq"><span style="text-decoration:underline">Interschool Leadership Camps</span><br>• Student Leaders Convention (HCI)<br>• Youth.Lead (RVHS)<br>• JIP Student Leadership networking (CHS, SCGS)<br><br><span style="text-decoration:underline">Signature Programmes</span><br>• Camp facilitators<br>• Cultural Scope / Break fast (cross cultural skills)<br>• Heart-to-heart talks with industry leaders (Alumni)<br>• Community Outreach (grassroots collaboration)</td>
+  </tr>
+</tbody>
+</table>
+
+
