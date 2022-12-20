@@ -8,9 +8,11 @@ third_nav_title: Academic
 
 
 <b>Our Philosophy</b>   
+
 Words have power. We strive to develop our students to become effective, eloquent and empathetic communicators so that they can harness the power of words in various contexts, to positively influence the world around them. We also seek to inspire appreciation, understanding and passion for language, through the study of English Language and Literature.   
   
 <b>Our Approach</b>   
+
 Thinking, writing and reading critically are essential skills for the 21st century. Students apply these skills as they engage in discussions on complex issues and texts both within and beyond the classroom. They are exposed to a wide range of texts to enable them to develop new ways of perceiving the world around them. Students are also given opportunities to present their thoughts and views to others, in order to develop their confidence in public speaking.  
   
 <b>Our Signature Programmes</b>   
