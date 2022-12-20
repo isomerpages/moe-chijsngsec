@@ -326,3 +326,16 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+
+<b>Information for Parents</b>
+
+10.      Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+11.      Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/VIA2022/Info_on_SEd_for_schs_website_Sec_2022_23%20Nov_AnnexA.pdf). The completed form is to be submitted by 20/05/2022.
+
+12.      Parents who wish to opt their children out of the <i><b>eTeens</b></i> <b>programme</b> need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/VIA2022/Info_on_SEd_for_schs_website_Sec_2022_23%20Nov_AnnexB.pdf).  The completed form is to be submitted by 20/05/2022.
+
+13.      Parents can contact the school at chijsng_sec@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
+14.      Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
