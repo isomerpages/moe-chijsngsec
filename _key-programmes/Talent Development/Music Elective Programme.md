@@ -40,7 +40,16 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
   
 
 *   National Enhanced Music Programme (EMP) and MEP Camp
+    
+	Organized annually by the MOE Arts Education Branch, students will have the opportunity to collaborate on musical projects with peers from other MEP and EMP schools and build lifelong friendships.
 
 
 
 *   National EMP/MEP Concert
+    
+	Selected students will have the opportunity to represent the school at the biennial National EMP/MEP Concert organized by the MOE Arts Education Branch.  
+  
+     Hear SNGS' online contributions over the past few years at these national platforms:  
+
+     *   Four Soundscapes in Response to a Global Pandemic for the 2020 EMP and MEP Online Showcase. Click this [link](https://www.youtube.com/watch?v=01Js3yL48X8&list=PL2J2ewFyYjsgRNxvoT25NZ6EcYG2jWowN&index=17).
+    *   Two original piano works for the celebration of 40 Years of the Music Elective Programme (MEP) 2022. Click [here](https://www.youtube.com/watch?v=CifcQLI4_3k&ab_channel=EMPandMEPYouTubePage) and [here](https://www.youtube.com/watch?v=GOnVp6i7wGQ&ab_channel=EMPandMEPYouTubePage).
