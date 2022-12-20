@@ -144,7 +144,7 @@ We have also included some resources that may be helpful for understanding your 
 
 <b>Acknowledgements:</b>   
 
-*   Media Literacy Council: [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+*   <i>Media Literacy Council: [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
     
 *   National Crime Prevention Council: [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
     
@@ -152,4 +152,4 @@ We have also included some resources that may be helpful for understanding your 
     
 *   Cyber Security Agency: [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)
     
-*   Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)
+*   Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)</i>
