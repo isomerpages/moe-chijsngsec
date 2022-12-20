@@ -26,3 +26,10 @@ description: ""
 5.   Days of Recollection are held for all secondary level to reflect on the past year and put into action the school values of love (gratitude and humility) by getting them to show their gratitude to their friends and teachers, and to reconcile with those whom they have caused hurt or who have hurt them.
 
 <img src="/images/VE%203.jpg" style="width:70%">
+
+6.   As part of our effort to expose our students to various socio-cultural backgrounds, learning journeys to different places of worship were organised for both CCE and NE leaders, starting in 2019. The girls learnt about the multiple facets of different religions, as they interacted with the religious leaders from the Sri Mariamman temple; Kong Meng San Monastery; An-Nahdhah Mosque and the Gurdwara Sahib Silat Road Sikh Temple.
+
+<img src="/images/VE%204.jpg" style="width:60%">
+
+
+7.  In our bid to increase civic-literacy, global awareness and communication skills, our CCE leaders are trained to carry out discussions on contemporary issues during CCE lessons using the ‘Clarify, Sensitise and Influence’ approach. These issues range from local issues such as discernment of fake news to global issues such as the Australian bushfires. During CCE lessons, our students are encouraged by the CCE leaders to share their thoughts on the issues through various classroom strategies such as ‘Fear in the bag’ etc.
