@@ -30,4 +30,6 @@ The approach involves services at 4 levels, ranging from services to build found
 
 <figure><img src="/images/XX.png" style="width:100%"><figcaption> Examples of Talent Development opportunities</figcaption></figure>
 
+Note: Talent Development opportunities image not found.
+
 <i>Students may download a full list of the SNGS Talent Development Programmes for 2018 from MConline.</i>
