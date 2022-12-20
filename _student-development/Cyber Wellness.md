@@ -13,3 +13,5 @@ The school's Cyber Wellness programme is designed to develop our students into r
 (1) Respect for Self and Others  
 (2) Safe and Responsible Use  
 (3) Positive Peer Influence
+
+<figure><img src="/images/Cyberwellness%20Image.jpg" style="width:80%"><figcaption> © MOE Educational Technology Division (ETD) Baseline ICT Standards</figcaption></figure>
