@@ -2,6 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: LEARNING @ ST NICKS
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Key Programmes
+        url: /permalink
+      - title: Academic
+        url: /permalink
+      - title: Joint Integrated Programme
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
