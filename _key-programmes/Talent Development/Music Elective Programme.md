@@ -74,4 +74,4 @@ For more information and resources on the MEP, please visit the following websit
 
 *   [MOE MEP Webpage](https://www.moe.gov.sg/education-in-sg/our-programmes/mep-sec)  
     
-*   [GCE O-Level Higher Music Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6086_y23_sy.pdf)
+*   [GCE O-Level Higher Music Syllabus](/files/6086_y23_sy.pdf)
