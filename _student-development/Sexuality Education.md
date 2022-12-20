@@ -124,3 +124,43 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">UNIT</th>
+    <th class="tg-v41i">LESSONS / DURATION</th>
+    <th class="tg-v41i">Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-v41i">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-brl1">1<br>(60  mins)</td>
+    <td class="tg-vo25">·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails</td>
+    <td class="tg-brl1">Term 3 Week 2</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">2A<br>(60 mins)</td>
+    <td class="tg-vo25">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-brl1">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">2B<br>(60 mins)</td>
+    <td class="tg-vo25">·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender <br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-brl1">Term 3 Week 5</td>
+  </tr>
+</tbody>
+</table>
