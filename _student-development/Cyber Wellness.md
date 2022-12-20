@@ -154,4 +154,7 @@ We have also included some resources that may be helpful for understanding your 
     
 *   Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)</i>
 
-Note: Ministry of Education link broken. 
+Note: Ministry of Education link broken.
+
+
+<img src="/images/xxx.png" style="width:80%">
