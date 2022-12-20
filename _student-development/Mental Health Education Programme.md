@@ -3,6 +3,8 @@ title: Mental Health Education Programme
 permalink: /student-development/Mental-Health-Education-Programme/
 description: ""
 ---
+![](/images/Student-Development_v2.jpg)
+
 The school's Mental Health Education (MHE) Programme is designed to achieve the following goals for our students:
 
 G1: Strengthen students’ resilience and well-being and for them to obtain and maintain good mental health 
