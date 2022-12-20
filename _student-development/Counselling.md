@@ -16,3 +16,7 @@ Secondary School Counselling Room:
 Mon to Fri, 9am to 5pm (make appointment via email)  
 ([low\_li\_eng@moe.edu.sg](mailto:low_li_eng@moe.edu.sg)) or HP: 81019656  
 Blessings Block, Spec Stand Level (just a level below the canteen)
+
+
+
+<img src="/images/Cheer.png" style="width:90%">
