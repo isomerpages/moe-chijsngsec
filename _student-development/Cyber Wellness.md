@@ -157,4 +157,4 @@ We have also included some resources that may be helpful for understanding your 
 Note: Ministry of Education link broken.
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/Cyberwellness%20Image%202.jpg" style="width:75%">
