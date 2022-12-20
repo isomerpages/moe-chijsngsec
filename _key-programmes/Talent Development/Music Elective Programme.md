@@ -16,6 +16,7 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
 
 *   Masterclasses
 
+	Students will have the opportunity to learn from world-class practitioners who will share their experience in training and give students an insight into the music industry both locally and globally.
 
   
 
@@ -37,4 +38,3 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
 
 
 *   National EMP/MEP Concert
-
