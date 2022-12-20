@@ -9,7 +9,7 @@ third_nav_title: Academic
 
 <b>Our Philosophy</b>  
  
-Humanities education plays a vital role in helping our students acquire the necessary knowledge, skills and confidence to navigate in an increasingly connected and unpredictable world.  
+ Humanities education plays a vital role in helping our students acquire the necessary knowledge, skills and confidence to navigate in an increasingly connected and unpredictable world.  
   
 Through the subjects of Geography, History and Social Studies, we seek to nurture in our students:   
   
@@ -22,7 +22,7 @@ Through the subjects of Geography, History and Social Studies, we seek to nurtur
   
 <b>Our Approach</b>  
  
-<b>Think. Feel. Imagine</b>  
+ <b>Think. Feel. Imagine</b>  
 The Humanities curriculum is centered on disciplinary thinking which draws connections within and between disciplines. The robust curriculum inspires students to think critically about current issues and fosters a questioning mind.  
   
 Through multiple and fluid perspectives behind complex and authentic issues, students construct their own understanding of the world. This deepens their sense of empathy and appreciation for people and the environment, as they reflect on their own beliefs, values and thinking.  
