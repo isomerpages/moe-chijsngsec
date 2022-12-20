@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Talent Development/.keep
       - SAP Flagship Programme.md
       - Student Leadership.md
       - Cultural Intelligence.md
