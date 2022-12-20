@@ -4,3 +4,5 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Symphonic-B
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+Symphonic Band
+==============
