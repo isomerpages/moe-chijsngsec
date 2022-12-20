@@ -60,3 +60,40 @@ We strive to nurture students as effective and confident communicators of their 
         *   古琴初探
         *   围棋入门
         *   中国浸濡
+
+
+<b>Key Programmes and Enrichment Activities</b>  
+As a SAP school, St Nicks provides an immersive bilingual environment, and the CL department promotes students’ interests and competencies through an enriching and comprehensive suite of programmes and enrichment activities:
+
+*   <b>Bicultural Studies Programme (BSP)</b>     
+
+    *   The BSP aims to nurture a bicultural orientation amongst a core group of students. The programme will help them develop an interest in and capacity to engage China and the West. Students will take up a more intensive Chinese curriculum to learn about contemporary China’s economy, society, politics and international relations, as well as experience significant immersion in China and a learning trip in a Western country. 
+    *   The BSP is a 4-year programme offered from IP Years 3 to 6, and is jointly offered by our Integrated Programme partner school Eunoia Junior College. Outstanding students can apply for the MOE BSP Scholarship in Year 3 or Year 5. 
+    *   More details can be found [here](https://chijstnicholasgirls.moe.edu.sg/secondary/learning-at-st-nicks/key-programmes/bicultural-studies-programme). 
+
+*   <b>O-Level Literature in Chinese</b>
+    *   Through the O-Level Literature in Chinese course, students can learn to better appreciate Chinese literature, as well as acquire skills in literary critique. Passionate students can grow as bilingual language specialists in high demand in Singapore’s education, media, translation and cultural industries.
+    *   This is a 2-year course offered from Secondary 3 to 4. Interested graduates can look forward to joining the Language Elective Programme (Chinese) offered in Junior Colleges, and benefit from bonus points for JC admission. Outstanding students can also apply for the MOE LEP Scholarship in JC 1.
+
+*   <b>Appreciation of Chinese Culture (ACC)</b>
+
+    *   All our Sec 1 and 2 students attend a 1-hour ACC lesson each week, where they learn about the culture of Chinese Singaporeans, an introduction to China’s history, literature and contemporary developments, as well as translation. 
+    *   In upper secondary, students can opt for optional modules on Traditional Chinese Medicine, intermediate translation, and an introduction to interpretation. Integrated Programme students’ Higher Chinese curriculum also includes modules on classical Chinese philosophy.
+
+*   <b>Mother Tongue Fortnight and Other Enrichment Activities</b>
+
+    *   To promote students’ learning of Chinese language,  literature, culture and research, the CL department organises the annual Mother Tongue Fortnight and other enrichment activities such as: 
+
+        *   Learning Journeys on local culture and history
+        *   Chinese drama outings
+        *   Museum guide training
+        *   SAP Schools Research Mentorship Programme
+        *   Chinese & bilingual debates
+        *   Song writing workshops
+        *   SNGS Chinese Knowledge Challenge
+        *   Author-in-Residence Programme
+        *   Creative writing
+        *   Basic DJ course
+        *   Introduction to Zither
+        *   Introduction to <i>Weiqi</i>
+        *   China immersion programmes
