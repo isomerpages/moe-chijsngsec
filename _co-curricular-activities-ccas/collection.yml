@@ -2,4 +2,5 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Visual & Performing Arts/Symphonic Band.md
       - Visual & Performing Arts/.keep
