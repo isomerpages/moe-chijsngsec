@@ -172,3 +172,7 @@ As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leade
 
 
 Here are some examples of leadership opportunities available in our school:
+
+<img src="/images/SL1.jpg" style="width:90%">
+
+Our Student Leaders at Harmony Centre and An-Nahdhah Mosque, understanding the importance of cross-cultural skills.
