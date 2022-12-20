@@ -24,3 +24,5 @@ description: ""
 
 
 5.   Days of Recollection are held for all secondary level to reflect on the past year and put into action the school values of love (gratitude and humility) by getting them to show their gratitude to their friends and teachers, and to reconcile with those whom they have caused hurt or who have hurt them.
+
+<img src="/images/VE%203.jpg" style="width:70%">
