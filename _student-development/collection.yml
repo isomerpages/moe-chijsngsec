@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Values Education.md
       - Values in Action/Values in Action.md
       - Values in Action/Forms.md
       - Values in Action/.keep
