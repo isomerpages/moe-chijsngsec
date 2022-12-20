@@ -260,3 +260,9 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 
 
 <figure><img src="/images/16th%20Student%20Council%20Investiture.jpeg" style="width:100%"><figcaption> <b>The 16th Student Council (2022 - 2023)</b></figcaption></figure>
+
+
+    The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exco Exchange with our Joint Integrated Programme (JIP) partner schools.
+		
+		
+<figure><img src="/images/SL6.jpg" style="width:85%"><figcaption> <b>Student Leadership Board Exco Exchange</b></figcaption></figure>
