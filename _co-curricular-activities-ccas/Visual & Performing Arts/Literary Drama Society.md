@@ -156,7 +156,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-v41i">SYF Showcase Performance</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/03%20SYF%20Showcase%20Performance.jpg" alt="03 SYF Showcase Performance.jpg" width="557"></td>
+    <td class="tg-vo25"><img src="/images/SYF%20Showcase%20Performance.jpeg" style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">LD Showcase Performance</td>
@@ -166,4 +166,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Arts%20Presentation%202.jpeg" style="width:80%">
+<img src="/images/SYF%20Showcase%20Performance.jpeg" style="width:80%">
