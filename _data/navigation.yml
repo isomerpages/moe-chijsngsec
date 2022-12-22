@@ -1,5 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Flagship Programmes
+    collection: flagship-programmes
   - title: LEARNING @ ST NICKS
     url: /key-programmes/Talent-Development/Talent-Development/
     sublinks:
