@@ -4,3 +4,6 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Visual-and-
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/CCA.png)
+
+
