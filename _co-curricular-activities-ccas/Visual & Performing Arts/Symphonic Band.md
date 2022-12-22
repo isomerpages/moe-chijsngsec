@@ -291,10 +291,8 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture5.jpg" alt="Picture5.jpg" width="487" height="276"></td>
+    <td class="tg-vo25"><img src="/images/Picture5.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
-
-<img src="/images/Picture5.jpg" style="width:100%">
