@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Visual & Performing Arts/Visual & Performing Arts.md
       - Visual & Performing Arts/Chinese Drama Society.md
       - Visual & Performing Arts/Chinese Orchestra.md
       - Visual & Performing Arts/Choir.md
