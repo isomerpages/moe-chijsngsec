@@ -199,3 +199,32 @@ CCA Highlights
 
 CCA Achievements
 ----------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chief Commissioner Badge 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Selected Sec 4 cadets</span> <br></td>
+    <td class="tg-tsok"><span style="background-color:#FFF">Amber Buy Rui Qi</span><br><span style="background-color:#FFF">Ashley Chong Ying Rou</span><br><span style="background-color:#FFF">Goh Jia Hui Trina</span><br><span style="background-color:#FFF">Hannah Gan Xin Hui</span><br><span style="background-color:#FFF">Lim Jing Yun Hannah</span><br><span style="background-color:#FFF">Nathanee Lim Xiang Yun</span><br><span style="background-color:#FFF">Ng Hui En Iris</span><br><span style="background-color:#FFF">Soon Yoke Ting Isabelle</span><br><span style="background-color:#FFF">Tan Zi Ying Faith</span><br><span style="background-color:#FFF">Teo Hui Hui Hillary Sidney</span><br><span style="background-color:#FFF">Yolindrea Chow Wen Ning</span></td>
+  </tr>
+</tbody>
+</table>
