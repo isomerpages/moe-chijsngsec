@@ -296,3 +296,37 @@ CCA Highlights
 </tbody>
 </table>
 
+
+CCA Achievements
+----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation 2021 (Band A)</span> <br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Secondary School Bands &amp; Ensembles</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Certificate of Distinction </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation 2021 (Band B)</span>  <br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Secondary School Bands &amp; Ensembles</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Certificate of Accomplishment </span></td>
+  </tr>
+</tbody>
+</table>
