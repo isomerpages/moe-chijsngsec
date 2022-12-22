@@ -34,3 +34,32 @@ To be courteous and honest in all my words and actions</i>
 CCA Information :
 -----------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
+    <th class="tg-brl1"><span style="font-weight:normal">St John Room / Basketball Court / Classrooms</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i">Training Day / Time</td>
+    <td class="tg-brl1">Fri:                       4:00 pm - 6:30 pm<br><span style="color:#494949">Tue &amp; Wed*:</span>     <span style="color:#494949">3:30 pm - 6:00 pm</span><br><span style="color:#494949">* for school team cadets during competition period  </span><br><br>Selected Weekends at NHQ</td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Instructors</td>
+    <td class="tg-frbo"><span style="color:#494949">Ms Cherilyn Lee</span><br><span style="color:#494949">Ms Cheryl Wong</span><br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td>
+  </tr>
+</tbody>
+</table>
