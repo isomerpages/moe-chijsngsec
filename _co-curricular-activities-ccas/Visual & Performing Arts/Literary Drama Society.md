@@ -160,10 +160,8 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-v41i">LD Showcase Performance</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/04%20LD%20Showcase%20Performance.jpg" alt="04 LD Showcase Performance.jpg" width="557"></td>
+    <td class="tg-vo25"><img src="/images/LD%20Showcase%20Performance.jpeg" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
 
-
-<img src="/images/SYF%20Showcase%20Performance.jpeg" style="width:80%">
