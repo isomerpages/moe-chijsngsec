@@ -62,3 +62,30 @@ CCA Information
 
 Teachers-in-charge
 ------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cees">Ms Lim Hwee Chin<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cees">Mdm Goh Siew Ngoh<br></td>
+  </tr>
+  <tr>
+    <td class="tg-cees">Ms Lua Yi Wen Clarissa<br></td>
+  </tr>
+  <tr>
+    <td class="tg-cees">Mr David Chang</td>
+  </tr>
+</tbody>
+</table>
