@@ -191,11 +191,11 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Public Duty</span><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture7.jpg" alt="Picture7.jpg" width="465" height="308"></td>
+    <td class="tg-vo25"><img src="/images/SJB6.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-
-<img src="/images/SJB5.jpeg" style="width:100%">
+CCA Achievements
+----------------
