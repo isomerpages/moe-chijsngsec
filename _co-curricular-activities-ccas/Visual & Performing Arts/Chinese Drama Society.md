@@ -219,10 +219,47 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2021 青年节戏剧艺术汇演</span><br><span style="font-weight:bold">2021 SYF Drama Arts Presentation</span><br>Performance Title:<br>带我到巅峰 / Take Me to the Top<br><br><br>荣获特优奖 (Certificate of Distinction)<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CDS/04%20SYF%20Drama%20Arts%20Presentation.jpg" alt="04 SYF Drama Arts Presentation.jpg" width="464" height="288"></td>
+    <td class="tg-vo25"><img src="/images/04%20SYF%20Drama%20Arts%20Presentation.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Qihang.jpeg" style="width:100%">
+CCA Achievement
+---------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 2021 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Distinction </span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">2019 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Certificate of Accomplishment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">2017 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Distinction</span></td>
+  </tr>
+</tbody>
+</table>
