@@ -134,3 +134,33 @@ Student Executive Committee (2022 - 2023)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama 2021</span><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/02%20SYF%20Arts%20Presentation%202021.jpg" alt="02 SYF Arts Presentation 2021.jpg" width="538" height="272"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i">SYF Showcase Performance</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/03%20SYF%20Showcase%20Performance.jpg" alt="03 SYF Showcase Performance.jpg" width="557"></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">LD Showcase Performance</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/04%20LD%20Showcase%20Performance.jpg" alt="04 LD Showcase Performance.jpg" width="557"></td>
+  </tr>
+</tbody>
+</table>
