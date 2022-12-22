@@ -8,3 +8,5 @@ third_nav_title: Visual & Performing Arts
 
 Choir
 =====
+
+![](/images/Choir.png)
