@@ -161,10 +161,10 @@ CCA Highlights
 .tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 822px">
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
 <colgroup>
-<col style="width: 411px">
-<col style="width: 411px">
+<col style="width: 401px">
+<col style="width: 401px">
 </colgroup>
 <thead>
   <tr>
