@@ -4,3 +4,7 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Literary-Dr
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/CCA.png)
+
+Literary Drama Society
+======================
