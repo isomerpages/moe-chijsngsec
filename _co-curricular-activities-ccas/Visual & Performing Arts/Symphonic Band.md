@@ -297,4 +297,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Picture2.jpg" style="width:80%">
+<img src="/images/xxx.png" style="width:80%">
