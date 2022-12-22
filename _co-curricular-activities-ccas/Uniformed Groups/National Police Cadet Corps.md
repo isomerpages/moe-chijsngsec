@@ -157,7 +157,7 @@ Student Executive Committee (2021-2022)
 <thead>
   <tr>
     <th class="tg-v41i">Camps<br><br><span style="font-weight:normal">Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</span></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/NPCC/02%20Camps.jpg" alt="02 Camps.jpg" width="472" height="354"></th>
+    <th class="tg-s2rg"><img src="/images/NPCC1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -179,3 +179,6 @@ Student Executive Committee (2021-2022)
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/NPCC1.jpeg" style="width:100%">
