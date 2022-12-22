@@ -283,7 +283,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">School National Day Observance Ceremony</span><br><br>Working together with SN’s uniform groups, band members worked hard to create a memorable National Day performance.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture3.jpg" alt="Picture3.jpg" width="490" height="366"></td>
+    <td class="tg-vo25"><img src="/images/Picture3.jpg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
@@ -297,4 +297,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/Picture3.jpg" style="width:100%">
