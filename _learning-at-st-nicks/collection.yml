@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Key Programmes.md
-      - Academic/Academic.md
       - Academic/.keep
       - Joint Integrated Programme.md
