@@ -183,3 +183,86 @@ Student Executive Committee (2021-2022)
 
 CCA Achievements
 ----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Inter-Unit Crime Scene Investigation Competition 2022  </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 8th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall Proficiency Award 2021 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Gold (since 2011)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">GOTC II Virtual Tournament 2021 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team A: Silver<br>Team B: Gold </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall Proficiency Award 2020</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Gold (since 2011)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">GOTC II Virtual Tournament 2020 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team A: Silver<br>Team B: Silver </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2019</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team 1: 2nd<br>Team 2: 37th</td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit Drills Competition 2019</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 8th</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2018</span>  <br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team 1: 23rd<br>Team 2: 6th </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit Campcraft Competition 2018</span> <br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team 1:16th<br>Team 2: 20th  </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NFEC-NCDCC Inter Unit Quiz Open Category 2017</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3rd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2017</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-vo25">Team 1: 31st<br>Team 2: 14th </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> NPCC Inter Unit Drills Competition 2017</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">17th </span></td>
+  </tr>
+</tbody>
+</table>
