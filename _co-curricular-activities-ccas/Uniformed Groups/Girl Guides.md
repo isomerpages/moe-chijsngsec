@@ -227,7 +227,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">World Thinking Day and North Division Day</span><br><br>The annual North Division Day is a day where Brownies and Girl Guides from all units in the North Division meet to learn from and share with each other their guiding practices through activities and competitions. In 2022, it was held virtually.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture3.jpg" alt="Picture3.jpg" width="380" height="284"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture4.jpg" alt="Picture4.jpg" width="382" height="198"></td>
+    <td class="tg-vo25"><img src="/images/GG2.jpeg" style="width:100%"><img src="/images/GG3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">5-Point Programme, Proficiency &amp; Interest Badges</span><br><br>The 5-Point Programme provides Girl Guides with opportunities to develop in the following areas:<br><br>• Personal &amp; Social Development<br>• Home<br>• Outdoor<br>• Community<br>• International<br><br>Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides, for example:<br><br>• Craft badge<br>• Entertainer badge<br>• Friends to the Visually Impaired badge<br>• Gardens by the Bay Ambassador badge<br>• Pathfinder badge</td>
@@ -237,4 +237,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/GG1.jpeg" style="width:100%">
+<img src="/images/GG3.jpeg" style="width:100%">
