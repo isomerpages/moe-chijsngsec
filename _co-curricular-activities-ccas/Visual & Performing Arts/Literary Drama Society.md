@@ -8,3 +8,6 @@ third_nav_title: Visual & Performing Arts
 
 Literary Drama Society
 ======================
+
+
+<img src="/images/Literary%20Drama%20Society.jpeg" style="width:80%">
