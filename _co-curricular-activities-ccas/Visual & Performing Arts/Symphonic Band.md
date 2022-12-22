@@ -90,3 +90,80 @@ Teachers-in-Charge
 
 Student Executive Committee (2022 - 2023)
 -----------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clare Bernadette Wong En Ning</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Band Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Elizabeth Wen Jun Lee</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Drum Major</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Ong Si Yu</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Student Conductor</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Shan Xuan Gracelyn</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary/Treasurer </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Gan Pei Em</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Brass) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Maegin Ma Wye Kit</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Woodwind) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeanette Tan Tze Yan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Percussion) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lam Yann Yi</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ashley Tay Rui En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Li Lin</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Jia Yi Sonia</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
+  </tr>
+</tbody>
+</table>
