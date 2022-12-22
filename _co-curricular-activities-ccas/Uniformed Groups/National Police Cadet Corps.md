@@ -175,10 +175,11 @@ Student Executive Committee (2021-2022)
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Police Youth Ambassador </span><br><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/NPCC/06%20Police%20Youth%20Ambassador.jpg" alt="06 Police Youth Ambassador.jpg" width="441" height="330"></td>
+    <td class="tg-vo25"><img src="/images/NPCC5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/NPCC4.jpeg" style="width:100%">
+CCA Achievements
+----------------
