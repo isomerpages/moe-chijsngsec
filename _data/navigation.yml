@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Flagship Programmes
     collection: flagship-programmes
+  - title: Academic
+    collection: academic
   - title: LEARNING @ ST NICKS
     url: /key-programmes/Talent-Development/Talent-Development/
     sublinks:
@@ -15,5 +17,3 @@ links:
     collection: student-development
   - title: Contact Us
     url: /contact-us/
-  - title: Menu Title
-    collection: co-curricular-activities-ccas
