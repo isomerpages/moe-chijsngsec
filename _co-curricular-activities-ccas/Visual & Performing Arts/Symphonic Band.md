@@ -277,7 +277,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Jubilate XIII 2022</span><br><br>The band serenaded the audience with music from How to Train Your Dragon.</th>
-    <th class="tg-s2rg">hi</th>
+    <th class="tg-s2rg"><img src="/images/Picture2.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -295,3 +295,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Picture2.jpg" style="width:80%">
