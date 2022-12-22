@@ -53,3 +53,27 @@ CCA Information
 
 Teachers-in-Charge:
 -------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cees">Ms Michelle Chan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cees">Ms Quek Soo Hiang</td>
+  </tr>
+  <tr>
+    <td class="tg-cees">Ms Regina Tan</td>
+  </tr>
+</tbody>
+</table>
