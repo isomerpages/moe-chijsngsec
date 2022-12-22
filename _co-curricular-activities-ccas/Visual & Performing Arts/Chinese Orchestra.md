@@ -242,5 +242,5 @@ CCA Highlights
 </table>
 
 
-
-<img src="/images/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%">
+CCA Achievements
+----------------
