@@ -81,3 +81,106 @@ Teachers-in-Charge:
 
 Student Executive Committee (2022 - 2023)     
 ----------------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">Name</th>
+    <th class="tg-s2rg">Class</th>
+    <th class="tg-s2rg">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Rui En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yeo Jing Yuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President &amp;</span><br><span style="color:#222;background-color:transparent">Section Leader: Cello</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lu Kai Xuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary &amp;</span><br><span style="color:#222;background-color:transparent">Student Conductor</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Yuxi Raicy</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeou Te' Aung</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Loy Yu Tong</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer &amp;</span><br><span style="color:#222;background-color:transparent">Section Leader: Viola</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Woo Xin Hui, Claire<br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Secretary</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Xin Yi Jaelyn</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Welfare Officer</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Minyu</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Quarter Mistress</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bethley Choa</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Librarian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goh Wei En</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Concert Mistress &amp;</span> <br><span style="color:#222;background-color:transparent">Violin 1 Section Leader</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yang Xinyue</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Section Leader: Violin 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Grace Kee Yin En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Section Leader: Double Brass</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Cheah Zhuo Ning</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Level Coordinator: Sec 4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rachael Ng Sze Han</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Level Coordinator: Sec 3</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Tan Li En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Level Coordinator: Sec 2</span></td>
+  </tr>
+</tbody>
+</table>
