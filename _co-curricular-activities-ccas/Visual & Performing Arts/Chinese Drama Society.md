@@ -194,6 +194,32 @@ Student Executive Committee (2021 - 2022)
 CCA Highlights
 --------------
 
-
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">2022 流金溢彩表演<br>2022 Jubilate<br><br><span style="font-weight:400">Performance Titles:</span>    <span style="font-weight:400">彩</span><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CDS/02%20Jubilate.jpg" alt="02 Jubilate.jpg" width="479" height="356"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span style="color:#222;background-color:transparent">这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CDS/03%20Qihang.jpg" alt="03 Qihang.jpg" width="388" height="267"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">2021 青年节戏剧艺术汇演</span><br><span style="font-weight:bold">2021 SYF Drama Arts Presentation</span><br>Performance Title:<br>带我到巅峰 / Take Me to the Top<br><br><br>荣获特优奖 (Certificate of Distinction)<br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CDS/04%20SYF%20Drama%20Arts%20Presentation.jpg" alt="04 SYF Drama Arts Presentation.jpg" width="464" height="288"></td>
+  </tr>
+</tbody>
+</table>
