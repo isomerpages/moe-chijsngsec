@@ -167,7 +167,7 @@ Student Executive Committee (2021-2022)
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Outdoor Cooking</span><br><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td class="tg-mezc"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/NPCC/04%20Outdoor%20Cooking.jpg" alt="04 Outdoor Cooking.jpg" width="320" height="386"></td>
+    <td class="tg-mezc"><img src="/images/NPCC3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Parades</span><br><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony. </td>
@@ -181,4 +181,4 @@ Student Executive Committee (2021-2022)
 </table>
 
 
-<img src="/images/NPCC2.jpeg" style="width:100%">
+<img src="/images/NPCC3.jpeg" style="width:100%">
