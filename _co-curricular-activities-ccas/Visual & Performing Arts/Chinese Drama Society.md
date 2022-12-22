@@ -209,7 +209,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">2022 流金溢彩表演<br>2022 Jubilate<br><br><span style="font-weight:400">Performance Titles:</span>    <span style="font-weight:400">彩</span><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CDS/02%20Jubilate.jpg" alt="02 Jubilate.jpg" width="479" height="356"></th>
+    <th class="tg-s2rg"><img src="/images/Jubilate2.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -223,3 +223,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Jubilate2.jpeg" style="width:100%">
