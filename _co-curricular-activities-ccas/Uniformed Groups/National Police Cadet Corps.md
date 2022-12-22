@@ -4,3 +4,7 @@ permalink: /co-curricular-activities-ccas/Uniformed-Groups/National-Police-Cadet
 description: ""
 third_nav_title: Uniformed Groups
 ---
+![](/images/CCA.png)
+
+National Police Cadet Corps
+===========================
