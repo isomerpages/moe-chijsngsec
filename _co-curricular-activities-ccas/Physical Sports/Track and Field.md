@@ -294,7 +294,7 @@ CCA Achievement
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
-    <th class="tg-v41i"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/02%20NSG%202022%20Pic%201.jpg" alt="02 NSG 2022 Pic 1.jpg" width="619" height="462"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/03%20NSG%202022%20Pic%202.jpg" alt="03 NSG 2022 Pic 2.jpg" width="602" height="381"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/04%20NSG%202022%20Pic%203.jpg" alt="04 NSG 2022 Pic 3.jpg" width="594" height="395"></th>
+    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/03%20NSG%202022%20Pic%202.jpg" alt="03 NSG 2022 Pic 2.jpg" width="602" height="381"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/04%20NSG%202022%20Pic%203.jpg" alt="04 NSG 2022 Pic 3.jpg" width="594" height="395"></th>
   </tr>
 </thead>
 <tbody>
@@ -304,3 +304,6 @@ CCA Achievement
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/NSG1.jpeg" style="width:100%">
