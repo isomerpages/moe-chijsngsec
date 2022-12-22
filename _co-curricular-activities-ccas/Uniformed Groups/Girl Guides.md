@@ -202,3 +202,36 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+.tg .tg-mezc{color:#F00;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:bold">Annual Girl Guides Camp and Campfire</span><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking and Kim’s games.<br><br><br><br><br><br></th>
+    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture2.jpg" alt="Picture2.jpg" width="382" height="285"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">World Thinking Day and North Division Day</span><br><br>The annual North Division Day is a day where Brownies and Girl Guides from all units in the North Division meet to learn from and share with each other their guiding practices through activities and competitions. In 2022, it was held virtually.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture3.jpg" alt="Picture3.jpg" width="380" height="284"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture4.jpg" alt="Picture4.jpg" width="382" height="198"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">5-Point Programme, Proficiency &amp; Interest Badges</span><br><br>The 5-Point Programme provides Girl Guides with opportunities to develop in the following areas:<br><br>• Personal &amp; Social Development<br>• Home<br>• Outdoor<br>• Community<br>• International<br><br>Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides, for example:<br><br>• Craft badge<br>• Entertainer badge<br>• Friends to the Visually Impaired badge<br>• Gardens by the Bay Ambassador badge<br>• Pathfinder badge</td>
+    <td class="tg-mezc"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture5.jpg" alt="Picture5.jpg" width="303" height="440"></td>
+  </tr>
+</tbody>
+</table>
