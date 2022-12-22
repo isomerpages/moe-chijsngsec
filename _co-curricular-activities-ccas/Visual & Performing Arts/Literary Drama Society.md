@@ -150,7 +150,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama 2021</span><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/LDS/02%20SYF%20Arts%20Presentation%202021.jpg" alt="02 SYF Arts Presentation 2021.jpg" width="538" height="272"></th>
+    <th class="tg-s2rg"><img src="/images/Arts%20Presentation%202.jpeg" style="width:80%"></th>
   </tr>
 </thead>
 <tbody>
@@ -164,3 +164,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Arts%20Presentation%202.jpeg" style="width:80%">
