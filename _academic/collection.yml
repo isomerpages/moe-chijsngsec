@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Aesthetics.md
       - Chinese.md
       - English.md
       - Humanities.md
