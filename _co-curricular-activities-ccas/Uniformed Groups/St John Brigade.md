@@ -179,7 +179,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">District Presentation Ceremony</span><br><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture4.jpg" alt="Picture4.jpg" width="458" height="304"></td>
+    <td class="tg-vo25"><img src="/images/SJB3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">First Aid and Home Nursing Competitions</span><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.<br></td>
@@ -198,4 +198,4 @@ CCA Highlights
 
 
 
-<img src="/images/SJB2.jpeg" style="width:100%">
+<img src="/images/SJB3.jpeg" style="width:100%">
