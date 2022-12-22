@@ -222,7 +222,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate Online Concert</span></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CO/02%20Jubilate.jpg" alt="02 Jubilate.jpg" width="487" height="365"></th>
+    <th class="tg-s2rg"><img src="/images/Jubilate.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -243,4 +243,4 @@ CCA Highlights
 
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/Jubilate.jpeg" style="width:100%">
