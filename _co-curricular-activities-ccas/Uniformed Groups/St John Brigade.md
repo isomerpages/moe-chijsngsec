@@ -187,7 +187,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Day Celebrations @ SNGS</span><br><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture6.jpg" alt="Picture6.jpg" width="465" height="305"></td>
+    <td class="tg-vo25"><img src="/images/SJB5.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Public Duty</span><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
@@ -198,4 +198,4 @@ CCA Highlights
 
 
 
-<img src="/images/SJB4.jpeg" style="width:100%">
+<img src="/images/SJB5.jpeg" style="width:100%">
