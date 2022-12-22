@@ -231,10 +231,11 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">5-Point Programme, Proficiency &amp; Interest Badges</span><br><br>The 5-Point Programme provides Girl Guides with opportunities to develop in the following areas:<br><br>• Personal &amp; Social Development<br>• Home<br>• Outdoor<br>• Community<br>• International<br><br>Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides, for example:<br><br>• Craft badge<br>• Entertainer badge<br>• Friends to the Visually Impaired badge<br>• Gardens by the Bay Ambassador badge<br>• Pathfinder badge</td>
-    <td class="tg-mezc"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture5.jpg" alt="Picture5.jpg" width="303" height="440"></td>
+    <td class="tg-mezc"><img src="/images/GG4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/GG3.jpeg" style="width:100%">
+CCA Achievements
+----------------
