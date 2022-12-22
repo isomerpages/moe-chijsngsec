@@ -8,3 +8,6 @@ third_nav_title: Uniformed Groups
 
 National Police Cadet Corps
 ===========================
+
+
+<img src="/images/NPCC.jpeg" style="width:80%">
