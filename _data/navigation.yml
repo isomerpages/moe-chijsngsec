@@ -4,15 +4,8 @@ links:
     collection: flagship-programmes
   - title: Academic
     collection: academic
-  - title: LEARNING @ ST NICKS
-    url: /key-programmes/Talent-Development/Talent-Development/
-    sublinks:
-      - title: Key Programmes
-        url: /key-programmes/Talent-Development/Talent-Development/
-      - title: Academic
-        url: /learning-at-st-nicks/Academic/Academic/
-      - title: Joint Integrated Programme
-        url: /learning-at-st-nicks/Joint-Integrated-Programme/
+  - title: Joint Integrated Programme
+    collection: joint-integrated-programme
   - title: Student Development
     collection: student-development
   - title: Contact Us
