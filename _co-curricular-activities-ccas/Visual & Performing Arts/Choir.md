@@ -10,3 +10,19 @@ Choir
 =====
 
 ![](/images/Choir.png)
+
+
+CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging from 13 to 16 years old. The choristers take immense pride in representing their school in performances and competitions, singing an extensive choral repertoire ranging from traditional Asian folk songs, English madrigals to Eastern European songs. Our members are motivated and bonded by their passion for music and singing. To share their joy of singing, SN Choir has performed in many concerts, competitions and community events over the years.
+
+  
+
+We strive to do our best in all our performances. We are blessed to have a dedicated choir conductor and teachers who are constantly supporting and guiding us, ensuring that we have interesting and varied choral experiences. It was through the many obstacles we faced that we were able to grow tremendously in our choral journey.
+
+  
+
+"We are SN Choir, and we create the dream!"
+
+  
+
+CCA Information
+---------------
