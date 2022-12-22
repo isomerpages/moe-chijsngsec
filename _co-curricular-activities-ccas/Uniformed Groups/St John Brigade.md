@@ -149,3 +149,44 @@ Student Executive Committee (2022-2023)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">June and November Camp<br><br><span style="font-weight:normal">Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.</span><br><br><span style="font-weight:normal">Our camps also include engaging activities such as Amazing Races that allow our cadets to bond with their squad mates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</span></th>
+    <th class="tg-v41i"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture2.jpg" alt="Picture2.jpg" width="451" height="338"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Presentation of Colours Award </span><br><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours. </td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture3.jpg" alt="Picture3.jpg" width="456" height="341"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">District Presentation Ceremony</span><br><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.<br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture4.jpg" alt="Picture4.jpg" width="458" height="304"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">First Aid and Home Nursing Competitions</span><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.<br></td>
+    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture5.jpg" alt="Picture5.jpg" width="460" height="305"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">National Day Celebrations @ SNGS</span><br><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
+    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture6.jpg" alt="Picture6.jpg" width="465" height="305"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Public Duty</span><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture7.jpg" alt="Picture7.jpg" width="465" height="308"></td>
+  </tr>
+</tbody>
+</table>
