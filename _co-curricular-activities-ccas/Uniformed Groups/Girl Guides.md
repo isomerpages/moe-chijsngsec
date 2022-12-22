@@ -221,7 +221,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Annual Girl Guides Camp and Campfire</span><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking and Kim’s games.<br><br><br><br><br><br></th>
-    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Girl%20Guides/Picture2.jpg" alt="Picture2.jpg" width="382" height="285"></th>
+    <th class="tg-vo25"><img src="/images/GG1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -235,3 +235,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/GG1.jpeg" style="width:100%">
