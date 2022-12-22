@@ -17,3 +17,7 @@ Starting out as a chamber with fewer than 10 members who had no prior experience
   
 
 Under the baton of Mr Edward Tan, we strive to spread the passion of music to all.
+
+
+CCA Information
+---------------
