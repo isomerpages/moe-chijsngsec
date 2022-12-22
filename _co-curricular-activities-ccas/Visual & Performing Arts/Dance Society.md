@@ -167,7 +167,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-v41i"><span style="font-weight:700">2022 Jubilate XIII (International Dance)</span><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Dance/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" alt="Photo 2 2022 Jubilate XIII International Dance.jpg" width="457" height="231"></td>
+    <td class="tg-vo25"><img src="/images/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (Chinese Dance) <br></td>
@@ -185,4 +185,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:80%">
+<img src="/images/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" style="width:100%">
