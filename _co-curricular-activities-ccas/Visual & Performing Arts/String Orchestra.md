@@ -91,7 +91,7 @@ Student Executive Committee (2022 - 2023)     
 .tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
 .tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
 .tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -133,7 +133,7 @@ Student Executive Committee (2022 - 2023)     
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer &amp;</span><br><span style="color:#222;background-color:transparent">Section Leader: Viola</span></td>
   </tr>
   <tr>
-    <td class="tg-vo25">Woo Xin Hui, Claire<br></td>
+    <td class="tg-brl1">Woo Xin Hui, Claire</td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Secretary</span></td>
   </tr>
