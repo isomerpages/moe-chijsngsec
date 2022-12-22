@@ -179,10 +179,11 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-v41i">Chinese Dance Performance at Huayi Festival 2020<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Dance/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.jpg.png" alt="Photo 5 2020 Chinese Dance Performance at Huayi Festival.jpg.png" width="454" height="345"></td>
+    <td class="tg-vo25"><img src="/images/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%">
+CCA Achievement
+---------------
