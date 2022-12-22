@@ -287,7 +287,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture4.jpg" alt="Picture4.jpg" width="488" height="175"></td>
+    <td class="tg-vo25"><img src="/images/Picture4.jpg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
@@ -297,4 +297,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Picture3.jpg" style="width:100%">
+<img src="/images/Picture4.jpg" style="width:100%">
