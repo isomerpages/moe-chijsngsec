@@ -21,3 +21,31 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 
 CCA Information
 ---------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-r52z">Training / Meeting Venue</th>
+    <th class="tg-cees">MEP Room 1, MEP Practice Room<br>Selected Classrooms</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r52z">Training Day / Time</td>
+    <td class="tg-cees">Wed:     3:45 pm - 6:30 pm <br>Fri:         4:00 pm - 6:30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-r52z">Instructors</td>
+    <td class="tg-cees">Mr Edward Tan<br>Mr Koh Kai Jie <br>Dr Yeo Jan Wea <br>Ms Ophelia Toh<br>Dr Wang Xu</td>
+  </tr>
+</tbody>
+</table>
