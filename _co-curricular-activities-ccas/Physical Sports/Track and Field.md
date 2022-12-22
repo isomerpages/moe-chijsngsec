@@ -242,3 +242,34 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 860px">
+<colgroup>
+<col style="width: 225px">
+<col style="width: 635px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/02%20NSG%202022%20Pic%201.jpg" alt="02 NSG 2022 Pic 1.jpg" width="619" height="462"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/03%20NSG%202022%20Pic%202.jpg" alt="03 NSG 2022 Pic 2.jpg" width="602" height="381"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/04%20NSG%202022%20Pic%203.jpg" alt="04 NSG 2022 Pic 3.jpg" width="594" height="395"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br>National School Games<br>Cross Country Championships 2022<br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/05%20NSG%202022%20Cross%20Country.jpg" alt="05 NSG 2022 Cross Country.jpg" width="596" height="446"></td>
+  </tr>
+</tbody>
+</table>
