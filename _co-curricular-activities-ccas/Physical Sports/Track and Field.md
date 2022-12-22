@@ -243,6 +243,32 @@ Student Executive Committee (2021-2022)
 CCA Highlights
 --------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
+    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><img src="/images/NSG2.jpeg" style="width:100%"><img src="/images/NSG3.jpeg" style="width:100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i">National School Games<br>Cross Country Championships 2022<br></td>
+    <td class="tg-brl1"><img src="/images/NSG4.jpeg" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 
 CCA Achievement
@@ -279,31 +305,3 @@ CCA Achievement
 </tbody>
 </table>
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
-    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><img src="/images/NSG2.jpeg" style="width:100%"><img src="/images/NSG3.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">National School Games<br>Cross Country Championships 2022<br></td>
-    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Track/05%20NSG%202022%20Cross%20Country.jpg" alt="05 NSG 2022 Cross Country.jpg" width="596" height="446"></td>
-  </tr>
-</tbody>
-</table>
-
-
-<img src="/images/NSG3.jpeg" style="width:100%">
