@@ -314,7 +314,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">Singapore Youth Festival 2021<br>Arts Presentation for Instrumental Ensembles<br><br><br><span style="font-weight:normal">In the Singapore Youth Festival Arts Presentation 2021, we presented Little Suite for Strings, op.1 by Carl Nielsen and Hoe Down by Aaron Copland. SO is proud to be awarded the Certificate of Distinction.</span></th>
-    <th class="tg-v41i"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/02%20SYF%202021%20Arts%20Presentation.jpg" alt="02 SYF 2021 Arts Presentation.jpg" width="404" height="302"></th>
+    <th class="tg-v41i"><img src="/images/Arts%20Presentation1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
