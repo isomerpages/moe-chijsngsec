@@ -161,7 +161,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate XIII (Chinese Dance)</span></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Dance/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" alt="Photo 1 2022 Jubilate XIII Chinese Dance.jpg" width="460" height="226"></th>
+    <th class="tg-s2rg"><img src="/images/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -185,4 +185,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:80%">
