@@ -165,3 +165,43 @@ CCA Highlights
 </tbody>
 </table>
 
+
+CCA Achievements
+----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-s2rg">Level </th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Certificate of Distinction</span><br><span style="color:#222;background-color:transparent">(2021, 2019, 2017, 2015)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> National Schools Literature Festival Choral Speaking Competition</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Lower Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3rd place (2021)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National Schools Literature Festival Choral Poetry Competition</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">2nd place (2018)</span><br><span style="color:#222;background-color:transparent">3rd place (2019, 2017)</span></td>
+  </tr>
+</tbody>
+</table>
