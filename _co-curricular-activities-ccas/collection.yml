@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Physical Sports/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Police Cadet Corps.md
