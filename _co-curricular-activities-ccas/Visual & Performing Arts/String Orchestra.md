@@ -301,6 +301,36 @@ CCA Highlights
 --------------
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">Singapore Youth Festival 2021<br>Arts Presentation for Instrumental Ensembles<br><br><br><span style="font-weight:normal">In the Singapore Youth Festival Arts Presentation 2021, we presented Little Suite for Strings, op.1 by Carl Nielsen and Hoe Down by Aaron Copland. SO is proud to be awarded the Certificate of Distinction.</span></th>
+    <th class="tg-v41i"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/02%20SYF%202021%20Arts%20Presentation.jpg" alt="02 SYF 2021 Arts Presentation.jpg" width="404" height="302"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">SNSO Year End Concert – </span><span style="font-weight:bold;font-style:italic">Senzationale</span><br><br>In our annual student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with pieces such as the Harry Potter Medley, Les Miserables and Norman Leyden’s Serenade for Strings.  <br></td>
+    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/03%20SNSO%20Year%20End%20Concert.jpg" alt="03 SNSO Year End Concert.jpg" width="402" height="256"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Performance at National Gallery - </span><span style="font-weight:bold;font-style:italic">Resonates With</span><br><br>As part of a series of weekend performances at the National Gallery, 11 SO girls treated the public with an afternoon of popular tunes such as Swan Lake and Pirates of the Caribbean. <span style="color:#000;background-color:#FFF"> </span><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/04%20Performance%20at%20National%20Gallery.jpg" alt="04 Performance at National Gallery.jpg" width="401" height="283"></td>
+  </tr>
+</tbody>
+</table>
+
+
 
 
 CCA Achievement
