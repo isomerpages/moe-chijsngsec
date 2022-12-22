@@ -30,3 +30,31 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 
 CCA Information
 ---------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-r52z">Training / Meeting Venue  </th>
+    <th class="tg-frbo">Music Room (Wed) <br>Various Classrooms (Fri)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r52z">Training Day / Time<br></td>
+    <td class="tg-frbo">Wed:        3.45 pm - 6.30 pm <br>Fri:            4.00 pm - 6.30 pm</td>
+  </tr>
+  <tr>
+    <td class="tg-r52z">Instructors / Coach<br></td>
+    <td class="tg-frbo">Mr Liu Bin (Conductor) <br>Ms Huo Ruo Wei <br>Mr Yeo Siew Wee <br>Mr Tony Ang Ting Leong <br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang <br>Mr Jonathan Ngeow</td>
+  </tr>
+</tbody>
+</table>
