@@ -183,7 +183,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">First Aid and Home Nursing Competitions</span><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture5.jpg" alt="Picture5.jpg" width="460" height="305"></td>
+    <td class="tg-vo25"><img src="/images/SJB4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Day Celebrations @ SNGS</span><br><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
@@ -198,4 +198,4 @@ CCA Highlights
 
 
 
-<img src="/images/SJB3.jpeg" style="width:100%">
+<img src="/images/SJB4.jpeg" style="width:100%">
