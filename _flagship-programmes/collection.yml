@@ -1,5 +1,5 @@
 collections:
-  key-programmes:
+  flagship-programmes:
     output: true
     order:
       - Talent Development/Talent Development.md
