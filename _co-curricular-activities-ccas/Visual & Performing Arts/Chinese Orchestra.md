@@ -232,7 +232,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CO/04%202019%20SYF%20Arts%20Presentation%20Full.jpg" alt="04 2019 SYF Arts Presentation Full.jpg" width="487" height="365"></td>
+    <td class="tg-vo25"><img src="/images/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
@@ -243,4 +243,4 @@ CCA Highlights
 
 
 
-<img src="/images/2021%20SYF%20Arts%20Presentation%20Mixed.png" style="width:100%">
+<img src="/images/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%">
