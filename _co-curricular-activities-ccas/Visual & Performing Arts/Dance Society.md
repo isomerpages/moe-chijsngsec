@@ -175,7 +175,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (International Dance)<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Dance/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.jpg.png" alt="Photo 4 2021 SYF Arts Presentation International Dance.jpg.png" width="455" height="226"></td>
+    <td class="tg-vo25"><img src="/images/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">Chinese Dance Performance at Huayi Festival 2020<br></td>
@@ -185,4 +185,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png" style="width:100%">
+<img src="/images/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%">
