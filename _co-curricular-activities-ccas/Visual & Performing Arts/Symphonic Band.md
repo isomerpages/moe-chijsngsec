@@ -261,3 +261,37 @@ Student Executive Committee (2021 - 2022)
 
 CCA Highlights
 --------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:bold">Jubilate XIII 2022</span><br><br>The band serenaded the audience with music from How to Train Your Dragon.</th>
+    <th class="tg-s2rg">hi</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">School National Day Observance Ceremony</span><br><br>Working together with SN’s uniform groups, band members worked hard to create a memorable National Day performance.</td>
+    <td class="tg-vo25">hi</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
+    <td class="tg-vo25">hi</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
+    <td class="tg-vo25">hi</td>
+  </tr>
+</tbody>
+</table>
