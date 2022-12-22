@@ -130,3 +130,7 @@ Student Executive Committee (2022 - 2023)
   </tr>
 </tbody>
 </table>
+
+
+CCA Highlights
+--------------
