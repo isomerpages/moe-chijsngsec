@@ -6,4 +6,4 @@ third_nav_title: Uniformed Groups
 ---
 ![](/images/CCA.png)
 
-<img src="/images/UG_Header.jpg" style="width:80%">
+<img src="/images/UG_Header.jpg" style="width:50%">
