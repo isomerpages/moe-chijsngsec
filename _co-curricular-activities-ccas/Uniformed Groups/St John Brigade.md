@@ -169,7 +169,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">June and November Camp<br><br><span style="font-weight:normal">Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.</span><br><br><span style="font-weight:normal">Our camps also include engaging activities such as Amazing Races that allow our cadets to bond with their squad mates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</span></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture2.jpg" alt="Picture2.jpg" width="451" height="338"></th>
+    <th class="tg-s2rg"><img src="/images/SJB1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -195,3 +195,7 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+
+<img src="/images/SJB1.jpeg" style="width:100%">
