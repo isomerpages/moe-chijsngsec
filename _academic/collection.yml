@@ -2,5 +2,6 @@ collections:
   academic:
     output: true
     order:
+      - Mathematics.md
       - Physical Education.md
       - Science.md
