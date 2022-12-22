@@ -163,7 +163,7 @@ Student Executive Committee (2021-2022)
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Crime Scene Investigation Competition</span><br><br><br>Our cadets participated in the first E-CSI Competition this year.<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/NPCC/03%20CSI%20Comp.jpg" alt="03 CSI Comp.jpg" width="463" height="212"></td>
+    <td class="tg-vo25"><img src="/images/NPCC2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Outdoor Cooking</span><br><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
@@ -181,4 +181,4 @@ Student Executive Committee (2021-2022)
 </table>
 
 
-<img src="/images/NPCC1.jpeg" style="width:100%">
+<img src="/images/NPCC2.jpeg" style="width:100%">
