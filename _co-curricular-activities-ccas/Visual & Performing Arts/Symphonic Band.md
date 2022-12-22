@@ -257,3 +257,7 @@ Student Executive Committee (2021 - 2022)
   </tr>
 </tbody>
 </table>
+
+
+CCA Highlights
+--------------
