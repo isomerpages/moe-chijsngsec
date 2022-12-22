@@ -277,24 +277,27 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Jubilate XIII 2022</span><br><br>The band serenaded the audience with music from How to Train Your Dragon.</th>
-    <th class="tg-s2rg"><img src="/images/Picture2.jpg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture2.jpg" alt="Picture2.jpg" width="487" height="228"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">School National Day Observance Ceremony</span><br><br>Working together with SN’s uniform groups, band members worked hard to create a memorable National Day performance.</td>
-    <td class="tg-vo25">hi</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture3.jpg" alt="Picture3.jpg" width="490" height="366"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
-    <td class="tg-vo25">hi</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture4.jpg" alt="Picture4.jpg" width="488" height="175"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
-    <td class="tg-vo25">hi</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Symphonic%20Band/Picture5.jpg" alt="Picture5.jpg" width="487" height="276"></td>
   </tr>
 </tbody>
 </table>
 
 
 <img src="/images/Picture2.jpg" style="width:80%">
+
+
+
