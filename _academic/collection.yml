@@ -1,4 +1,5 @@
 collections:
   academic:
     output: true
-    order: []
+    order:
+      - Science.md
