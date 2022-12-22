@@ -171,7 +171,7 @@ Student Executive Committee (2021-2022)
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Parades</span><br><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony. </td>
-    <td class="tg-mezc"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/NPCC/05%20Parades.jpg" alt="05 Parades.jpg" width="447" height="335"></td>
+    <td class="tg-mezc"><img src="/images/NPCC4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Police Youth Ambassador </span><br><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
@@ -181,4 +181,4 @@ Student Executive Committee (2021-2022)
 </table>
 
 
-<img src="/images/NPCC3.jpeg" style="width:100%">
+<img src="/images/NPCC4.jpeg" style="width:100%">
