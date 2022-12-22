@@ -7,3 +7,4 @@ third_nav_title: Visual & Performing Arts
 ![](/images/CCA.png)
 
 
+<img src="/images/PA_Header.jpg" style="width:50%">
