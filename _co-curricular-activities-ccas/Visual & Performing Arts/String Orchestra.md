@@ -77,3 +77,7 @@ Teachers-in-Charge:
   </tr>
 </tbody>
 </table>
+
+
+Student Executive Committee (2022 - 2023)     
+----------------------------------------------
