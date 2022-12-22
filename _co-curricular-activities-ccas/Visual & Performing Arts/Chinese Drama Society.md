@@ -8,3 +8,6 @@ third_nav_title: Visual & Performing Arts
 
 Chinese Drama Society
 =====================
+
+
+<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:80%">
