@@ -9,7 +9,7 @@ third_nav_title: Visual & Performing Arts
 Chinese Orchestra
 =================
 
-<img src="/images/01%20Group%20Photo.jpg" style="width:100%">
+<img src="/images/01%20Group%20Photo.jpg" style="width:80%">
 
 
 Inaugurated in 1992, St. Nicholas Chinese Orchestra (SNCO) started off with a few individuals interested in certain instruments. Initially, there were only dizi and pipa classes.
