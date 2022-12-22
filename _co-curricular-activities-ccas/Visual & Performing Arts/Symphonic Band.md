@@ -17,3 +17,8 @@ We are a 90-member strong band under the baton of Ms Sia Swee Suan, our band con
   
 
 In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and a Certificate of Accomplishment. The band has a track record of excellence; we were awarded a Certificate of Distinction in the 2019 SYF Arts Presentation, and a Certificate of Distinction in the 2017 SYF Arts Presentation.
+
+
+
+CCA Information
+---------------
