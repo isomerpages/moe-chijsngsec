@@ -175,7 +175,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Presentation of Colours Award </span><br><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours. </td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/SJB/Picture3.jpg" alt="Picture3.jpg" width="456" height="341"></td>
+    <td class="tg-vo25"><img src="/images/SJB2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">District Presentation Ceremony</span><br><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.<br></td>
@@ -198,4 +198,4 @@ CCA Highlights
 
 
 
-<img src="/images/SJB1.jpeg" style="width:100%">
+<img src="/images/SJB2.jpeg" style="width:100%">
