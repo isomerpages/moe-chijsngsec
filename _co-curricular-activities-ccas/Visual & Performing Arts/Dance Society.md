@@ -75,3 +75,70 @@ Teachers-in-charge
   </tr>
 </tbody>
 </table>
+
+
+Student Executive Committee (2022 - 2023)
+-----------------------------------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jewel Lim Yu-En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Chairperson </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Xuan Lin</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Vice-Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Magdalene Ong Xi En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Level-Coordinator (Chinese Dance)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wah Ro Shin Eriel</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Level-Coordinator (International Dance)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Erynn Toh (Du Yining)</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level-Coordinator (Chinese Dance)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xuan Na</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level-Coordinator (International Dance)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Elizabeth Lee Zild Juan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level-Coordinator (Chinese Dance)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Olesya Tiffany Koe Mei Ni</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1C</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level-Coordinator (International Dance)</span></td>
+  </tr>
+</tbody>
+</table>
