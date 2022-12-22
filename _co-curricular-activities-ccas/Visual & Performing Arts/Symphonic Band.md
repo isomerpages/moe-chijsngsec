@@ -7,6 +7,8 @@ third_nav_title: Visual & Performing Arts
 Symphonic Band
 ==============
 
+<img src="/images/Picture1.jpg" style="width:80%">
+
 
 The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band.
 
