@@ -219,3 +219,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Artistic%20Gym1.jpeg" style="width:100%">
