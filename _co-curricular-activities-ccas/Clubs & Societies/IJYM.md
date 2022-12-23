@@ -8,3 +8,6 @@ third_nav_title: Clubs & Societies
 
 IJYM
 ====
+
+
+<img src="/images/IJYM.jpeg" style="width:80%">
