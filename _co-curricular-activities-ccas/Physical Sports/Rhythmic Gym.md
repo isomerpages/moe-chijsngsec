@@ -148,7 +148,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">National Inter-school Competition 2022<br><br><span style="font-weight:normal">FIG gymnast</span></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/02%20NISC%202022%20FIG%20gymnast.png" alt="02 NISC 2022 FIG gymnast.png" width="534" height="456"></th>
+    <th class="tg-s2rg"><img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -168,4 +168,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:80%">
+<img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:100%">
