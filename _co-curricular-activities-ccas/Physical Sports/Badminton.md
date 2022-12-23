@@ -189,7 +189,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture2.jpg" alt="Picture2.jpg" width="506" height="316"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture3.jpg" alt="Picture3.jpg" width="366" height="550"></th>
+    <th class="tg-s2rg"><img src="/images/Badminton1.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture3.jpg" alt="Picture3.jpg" width="366" height="550"></th>
   </tr>
 </thead>
 <tbody>
@@ -199,3 +199,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Badminton1.jpeg" style="width:100%">
