@@ -195,10 +195,10 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture4.jpg" alt="Picture4.jpg" width="506" height="336"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture5.jpg" alt="Picture5.jpg" width="500" height="332"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture6.jpg" alt="Picture6.jpg" width="500" height="332"></td>
+    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture5.jpg" alt="Picture5.jpg" width="500" height="332"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture6.jpg" alt="Picture6.jpg" width="500" height="332"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Badminton2.jpeg" style="width:100%">
+<img src="/images/Badminton3.jpeg" style="width:100%">
