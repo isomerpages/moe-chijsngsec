@@ -193,7 +193,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Training:</span><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/04%20Wei%20Qi%20training.jpg" alt="04 Wei Qi training.jpg" width="417" height="234"></td>
+    <td class="tg-vo25"><img src="/images/Mind%20Games3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Jurong Green CC Scrabble Competition:</span><br><br><span style="color:#222;background-color:transparent">This is one of our core game competitions.</span><br><br></td>
@@ -207,4 +207,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Mind%20Games2.jpeg" style="width:100%">
+<img src="/images/Mind%20Games3.jpeg" style="width:100%">
