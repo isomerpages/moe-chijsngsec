@@ -162,7 +162,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Workshop</span><br><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.   <br></th>
-    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Publications/02%20Workshop.jpg" alt="02 Workshop.jpg" width="354" height="265"></th>
+    <th class="tg-vo25"><img src="/images/Publications1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -176,3 +176,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Publications1.jpeg" style="width:100%">
