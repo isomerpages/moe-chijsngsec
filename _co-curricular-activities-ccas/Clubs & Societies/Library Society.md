@@ -254,11 +254,11 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Read for Books VIA, Escape Room Activity &amp; other snippets</span><br><br>In August we organised several sessions of ‘Read for Books Charity Drive’ school wide in collaboration with NLB - for every 10 people who read a book for 15 minutes, one book would be donated to either WonderRead, or the Migrant Worker Library (MWL).<br><br>We were glad to be able to give back to society by raising awareness of reading and sharing the gift of reading with the less privileged! We also produced a virtual escape room for our 姐妹们 to participate in during the Mother Tongue Fortnight, as well as a Kahoot quiz for ELLF and shared IG posts on EL book reviews in April. <br><br>Apart from book reviews, Library Society also carried out English presentations which delved into the lives of refugees who had been impacted by wars and climate change. Other than honing our soft skills, this activity allowed us greater awareness of global issues such as climate change and the devastating impact of wars.<br><br>This year, our librarians had the chance to visit the Zall Bookstore in October to handpick more books and also enjoy a scrumptious tea session there!<br><br>We are certainly looking forward to doing book reviews on our latest selections!<br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-s2rg">Read for Books Charity Drive<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%205.jpg" alt="Picture 5.jpg" width="403" height="320">Virtual Escape Room Crew<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%206.jpg" alt="Picture 6.jpg" width="400" height="285">Zall Bookshop LJ<img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%207.jpg" alt="Picture 7.jpg" width="406" height="304"></td>
+    <td class="tg-s2rg">Read for Books Charity Drive<br><img src="/images/Library%20Society4.jpeg" style="width:100%">Virtual Escape Room Crew<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%206.jpg" alt="Picture 6.jpg" width="400" height="285">Zall Bookshop LJ<img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%207.jpg" alt="Picture 7.jpg" width="406" height="304"></td>
   </tr>
 </tbody>
 </table>
 
 
 
-<img src="/images/Library%20Society3.jpeg" style="width:100%">
+<img src="/images/Library%20Society4.jpeg" style="width:100%">
