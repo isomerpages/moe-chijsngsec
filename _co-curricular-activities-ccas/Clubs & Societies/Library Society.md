@@ -67,3 +67,152 @@ CCA Information
   </tr>
 </tbody>
 </table>
+
+
+Teachers-in-charge
+------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:normal">Mdm Niu Sheng Kai</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mrs Annie Panthradil</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Miss Choo Teck Chan </span></td>
+  </tr>
+</tbody>
+</table>
+
+Student Executive Committee (2022 - 2023)
+-----------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">Name</th>
+    <th class="tg-s2rg">Class</th>
+    <th class="tg-s2rg">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jia Ying</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Si Yin Isabel</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Vice-Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seng Jia Shyuan</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Wan Ying Emily</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Secondary Coordinator</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Hannah Cheok</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Coordinator</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Boh Shu Ting, Shannon</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Executive Committee Member</span></td>
+  </tr>
+</tbody>
+</table>
+
+Student Executive Committee (2021 - 2022)
+-----------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">Name</th>
+    <th class="tg-s2rg">Class</th>
+    <th class="tg-s2rg">Position</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jesselyn Chenice</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jia Ying</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Phua Yu Li, Adrienne</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Sec Executive Committee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Si Yin Isabel</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Wan Ying Emily</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Vice Chairperson</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Glennice Khor Wen Xi</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Secondary Committee Member</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Hannah Cheok</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Executive Member</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seng Jia Shyuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Committee Member</span></td>
+  </tr>
+</tbody>
+</table>
