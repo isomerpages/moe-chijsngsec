@@ -195,10 +195,11 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
-    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><img src="/images/Badminton4.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture6.jpg" alt="Picture6.jpg" width="500" height="332"></td>
+    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><img src="/images/Badminton4.jpeg" style="width:100%"><img src="/images/Badminton5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Badminton4.jpeg" style="width:100%">
+CCA Achievements
+----------------
