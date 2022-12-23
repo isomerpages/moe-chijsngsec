@@ -215,10 +215,10 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%201.jpg" alt="04 NSG Artistic Gym Champs Pic 1.jpg" width="624" height="467"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%202.jpg" alt="04 NSG Artistic Gym Champs Pic 2.jpg" width="620" height="465"></td>
+    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%202.jpg" alt="04 NSG Artistic Gym Champs Pic 2.jpg" width="620" height="465"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Artistic%20Gym2.jpeg" style="width:100%">
+<img src="/images/Artistic%20Gym3.jpeg" style="width:100%">
