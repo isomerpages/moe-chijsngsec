@@ -204,3 +204,41 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
+<colgroup>
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-v41i">Public Announcement (PA) Duty for school events<br><br><span style="font-weight:normal">All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life. </span><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture2.jpg" alt="Picture2.jpg" width="310" height="415"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Photography and Videography</span><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.<br><br><br><br><br></td>
+    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture3.jpg" alt="Picture3.jpg" width="431" height="287"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Coding</span><br><br><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years. <br><br><br><br><br><br><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture4.jpg" alt="Picture4.jpg" width="432" height="322"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Learning Journeys</span><br><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society. <br><br><br><br><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture5.jpg" alt="Picture5.jpg" width="433" height="323"></td>
+  </tr>
+</tbody>
+</table>
