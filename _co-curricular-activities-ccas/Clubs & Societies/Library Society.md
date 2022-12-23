@@ -246,7 +246,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Historical Scene Investigation (HSI) Challenge 2022</span><br><br><span style="color:#222;background-color:transparent">Four lower secondary librarians took part in this annual competition organised by the National Library Board - our team won a Gold Award.</span><br><br><span style="color:#222;background-color:transparent">2022’s theme commemorated the 80th anniversary of the Fall of Singapore, in which students investigated the historical significance of the Second World War in Singapore between 1942 to 1945.</span><br><br><span style="color:#222;background-color:transparent">Megan Hannah Cheok (2T), Seng Jia Shyuan (2D), Janice Phang Wan Yi (1D) and Lim Yu Xuan (1F) produced a video and did a creative write-up on education in Singapore schools during the Japanese Occupation.</span></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%203.jpg" alt="Picture 3.jpg" width="495" height="365"><br></td>
+    <td class="tg-vo25"><img src="/images/Library%20Society2.jpeg" style="width:100%"><br></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Green Reads Haiku Competition 2022</span><br><br><span style="color:#222;background-color:transparent">Bowen Secondary School organized the Green Reads Haiku Competition which our librarians readily took part in - they sourced for articles related to environmental issues in our world and wrote poems advocating action to stop environmental damage.</span><br><br><span style="color:#222;background-color:transparent">We are pleased that several of our librarians’ works earned distinctions in the competition!Ng Wing Yan Emily (3J) and Liang Wern Hwee (3D) came in first in the competition, Andrea Teo Yujie (3J) and Dawn Chong Wei (3C) came in third and Cate Marissa Verghese (2L) and Goh Wern Shyan (2L) were given a special mention award.</span></td>
@@ -261,4 +261,4 @@ CCA Highlights
 
 
 
-<img src="/images/Library%20Society1.jpeg" style="width:100%">
+<img src="/images/Library%20Society2.jpeg" style="width:100%">
