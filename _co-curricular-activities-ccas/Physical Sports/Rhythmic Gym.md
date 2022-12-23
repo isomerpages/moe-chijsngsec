@@ -166,3 +166,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:80%">
