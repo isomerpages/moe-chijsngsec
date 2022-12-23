@@ -154,7 +154,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 4 group event</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/03%20NISC%202022%20Level%204%20group%20event.jpg" alt="03 NISC 2022 Level 4 group event.jpg" width="536" height="328"></td>
+    <td class="tg-vo25"><img src="/images/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 5 gymnasts</td>
@@ -168,4 +168,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:100%">
+<img src="/images/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%">
