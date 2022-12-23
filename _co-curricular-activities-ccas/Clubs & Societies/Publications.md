@@ -168,7 +168,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Photo Essay</span><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.  </td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Publications/03%20Photo%20Essay.jpg" alt="03 Photo Essay.jpg" width="355" height="265"></td>
+    <td class="tg-vo25"><img src="/images/Publications2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Journalistic Writing:</span><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.<br></td>
@@ -178,4 +178,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Publications1.jpeg" style="width:100%">
+<img src="/images/Publications2.jpeg" style="width:100%">
