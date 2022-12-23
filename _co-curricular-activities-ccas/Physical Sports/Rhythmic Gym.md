@@ -162,10 +162,11 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Sports Camp 2020</span><br><br>The Rgym girls playing modified volleyball during Sports Camp. </td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/05%20Sports%20Camp.jpg" alt="05 Sports Camp.jpg" width="553"></td>
+    <td class="tg-vo25"><img src="/images/Sports%20Camp.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%">
+CCA Achievements
+----------------
