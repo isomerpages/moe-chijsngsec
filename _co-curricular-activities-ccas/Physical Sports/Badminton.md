@@ -8,3 +8,6 @@ third_nav_title: Physical Sports
 
 Badminton
 =========
+
+
+<img src="/images/Badminton.jpeg" style="width:80%">
