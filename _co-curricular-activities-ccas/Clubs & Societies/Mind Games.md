@@ -168,3 +168,40 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><br><br><br><span style="font-weight:normal">Playing Board games like Scrabble, Monopoly and card games</span><br><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/02%20Playing%20Board%20Games.jpg" alt="02 Playing Board Games.jpg" width="416" height="311"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Collaboration with Green Club:</span><br><br><span style="color:#222;background-color:transparent">A workshop conducted by an environmental group called Untamed who introduced the card game they created to raise awareness of saving the environment.  </span><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/03%20Collaboration%20with%20Green%20Club.jpg" alt="03 Collaboration with Green Club.jpg" width="416" height="310"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Training:</span><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/04%20Wei%20Qi%20training.jpg" alt="04 Wei Qi training.jpg" width="417" height="234"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Jurong Green CC Scrabble Competition:</span><br><br><span style="color:#222;background-color:transparent">This is one of our core game competitions.</span><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/05%20Jurong%20Green%20CC%20Scrabble%20Comp.jpg" alt="05 Jurong Green CC Scrabble Comp.jpg" width="419" height="312"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Competition 2022:</span><br><br><span style="color:#222;background-color:transparent">Our very first group competitors for Wei Qi. </span></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/06%20Wei%20Qi%20Comp%202022.jpg" alt="06 Wei Qi Comp 2022.jpg" width="420" height="313"></td>
+  </tr>
+</tbody>
+</table>
