@@ -263,3 +263,71 @@ CCA Highlights
 CCA Achievements
 ----------------
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> CDAC Award 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Library Society SNGS</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Outstanding partnership award and the 5-year partnership award </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Historical Scene Investigation (HSI) Challenge 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C division</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Gold </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Green Reads Haiku Competition 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> B &amp; C divisions</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st, 3rd and Special Mention </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2021 Historical Scene Investigation Challenge</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
+    <td class="tg-vo25">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">SURE Prove It! Contest 2021</span> <br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Consolation (within top 10 teams) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NE Quiz (Intra-School)</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions </span></td>
+    <td class="tg-vo25">B Division: 2nd Prize<br>C Division: 5th Prize </td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2020 Tales of S ebook Competition </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions</span><br></td>
+    <td class="tg-vo25">5 stories shortlisted <br>4 Winners – Low Yi Xuan, Jesselyn Chenice, Mandy Boh, Lim Jia Ying.</td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="color:#222;background-color:transparent">2020 Tales of S ebook – Competition</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Illustrations submited</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2020 Historical Scene Investigation</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Silver Award</span></td>
+  </tr>
+</tbody>
+</table>
