@@ -172,10 +172,37 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Journalistic Writing:</span><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Publications/04%20Journalistic%20writing.jpg" alt="04 Journalistic writing.jpg" width="363" height="201"></td>
+    <td class="tg-vo25"><img src="/images/Publications3.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Publications2.jpeg" style="width:100%">
+CCA Achievement
+---------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Media Challenge 2021 / 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary Level</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st Runner-Up</span></td>
+  </tr>
+</tbody>
+</table>
