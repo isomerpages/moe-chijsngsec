@@ -159,7 +159,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">‘B’ Division 2022<br><br><span style="font-weight:normal">After 2 years of not being able to compete, our ‘B’ Division Netball team was finally able to do so this year! We were extremely blessed and fortunate to have the opportunity to compete against various schools, allowing us to improve both physically and mentally. The competitions were a platform for us to gain experience and bond with our teammates alike, making the experience immensely fulfilling and unique.</span><br><br><br><span style="font-weight:normal">SNNB is a close-knit CCA where we are all able to express ourselves confidently and forge strong bonds with our teammates. Training may be tough, but our never-ending support and encouragement for each other push us to do our best, to grow individually and as a team.</span><br><br><span style="font-weight:normal">Leading SNNB has been an enriching experience for us and we are grateful for our teachers, coach and teammates for guiding us throughout this fruitful journey. SNNB will always have a special place in our hearts!</span><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/Netball1.png" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Netball/Netball%20Photo%202%20B%20Div%202022.png" alt="Netball Photo 2 B Div 2022.png" width="452" height="337"></th>
+    <th class="tg-s2rg"><img src="/images/Netball1.png" style="width:100%"><img src="/images/Netball2.png" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -171,4 +171,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Netball1.png" style="width:100%">
+<img src="/images/Netball2.png" style="width:100%">
