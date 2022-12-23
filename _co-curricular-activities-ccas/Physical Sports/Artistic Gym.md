@@ -191,3 +191,31 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
+    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/02%20Gymnasts%20in%20action.jpg" alt="02 Gymnasts in action.jpg" width="644" height="474"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Trampoline Competition</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/03%20NSG%20Trampoline%20Comp.jpg" alt="03 NSG Trampoline Comp.jpg" width="443" height="589"></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%201.jpg" alt="04 NSG Artistic Gym Champs Pic 1.jpg" width="624" height="467"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%202.jpg" alt="04 NSG Artistic Gym Champs Pic 2.jpg" width="620" height="465"></td>
+  </tr>
+</tbody>
+</table>
