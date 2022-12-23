@@ -220,7 +220,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">North Zone Inter-School B Division Table Tennis Championships 2022</span><br><br>C Division team champion</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Table%20Tennis/Picture3.jpg" alt="Picture3.jpg" width="455" height="341"></td>
+    <td class="tg-vo25"><img src="/images/TT2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-w14e"><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>B Division player in action<br><br><br><br></td>
@@ -234,4 +234,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/TT1.jpeg" style="width:100%">
+<img src="/images/TT2.jpeg" style="width:100%">
