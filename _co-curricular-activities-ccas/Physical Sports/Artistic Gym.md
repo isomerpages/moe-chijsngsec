@@ -204,8 +204,8 @@ CCA Highlights
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
-    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/02%20Gymnasts%20in%20action.jpg" alt="02 Gymnasts in action.jpg" width="644" height="474"></th>
+    <th class="tg-v41i"><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
+    <th class="tg-vo25"><img src="/images/Artistic%20Gym1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
