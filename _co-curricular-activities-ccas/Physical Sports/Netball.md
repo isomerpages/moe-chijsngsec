@@ -165,10 +165,11 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">‘C’ Division 2022</span><br><br><br>SNNB ‘C’ Division is family, We reply, support and encourage one another unconditionally, performing to the best of our ability during training. As a lively bunch, training has brought much laughter and values. It also provides an environment where we can learn without fear of making mistakes and receive constructive feedback from our peers, teachers and coach.<br><br>When it was announced that the National School Games (NSG) would resume after two years, many of us were excited but there was still anxiety amongst us. We had to train hard, three times a week, three hours every training session during the holidays. Although it was mentally, physically and emotionally draining, all of us managed to push through, train diligently, encourage and support one another through it all.<br><br>We are immensely grateful for this experience which allowed us to forge closer and lasting bonds and create unforgettable memories. Through this opportunity, we truly have understood the saying "Process is more important than outcome" because the NSG experience allowed us to live up to our school vision "Girls of Grace, Women of Strength, Leaders with Heart". We are appreciative of this fruitful experience and we look forward to our future endeavours as a team and family.</td>
-    <td class="tg-vo25"><img src="/images/Netball3.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Netball/Picture5.jpg" alt="Picture5.jpg" width="475" height="361"></td>
+    <td class="tg-vo25"><img src="/images/Netball3.jpeg" style="width:100%"><img src="/images/Netball4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Netball3.jpeg" style="width:100%">
+CCA Achievements
+----------------
