@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Physical Sports/Physical Sports.md
       - Physical Sports/Artistic Gym.md
       - Physical Sports/Badminton.md
       - Physical Sports/Hockey.md
