@@ -132,3 +132,37 @@ Student Executive Committee (2022 - 2023)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">National Inter-school Competition 2022<br><br><span style="font-weight:normal">FIG gymnast</span></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/02%20NISC%202022%20FIG%20gymnast.png" alt="02 NISC 2022 FIG gymnast.png" width="534" height="456"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 4 group event</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/03%20NISC%202022%20Level%204%20group%20event.jpg" alt="03 NISC 2022 Level 4 group event.jpg" width="536" height="328"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 5 gymnasts</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/04%20NISC%202022%20Level%205%20gymnasts.jpg" alt="04 NISC 2022 Level 5 gymnasts.jpg" width="543" height="361"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Sports Camp 2020</span><br><br>The Rgym girls playing modified volleyball during Sports Camp. </td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/05%20Sports%20Camp.jpg" alt="05 Sports Camp.jpg" width="553"></td>
+  </tr>
+</tbody>
+</table>
