@@ -9,4 +9,4 @@ third_nav_title: Physical Sports
 Rhythmic Gym
 ============
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/01%20CCA%20Photo.jpg" style="width:80%">
