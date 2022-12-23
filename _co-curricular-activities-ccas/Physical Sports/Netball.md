@@ -8,3 +8,5 @@ third_nav_title: Physical Sports
 
 Netball
 =======
+
+<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:80%">
