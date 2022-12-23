@@ -201,10 +201,43 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Competition 2022:</span><br><br><span style="color:#222;background-color:transparent">Our very first group competitors for Wei Qi. </span></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/06%20Wei%20Qi%20Comp%202022.jpg" alt="06 Wei Qi Comp 2022.jpg" width="420" height="313"></td>
+    <td class="tg-vo25"><img src="/images/Mind%20Games5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Mind%20Games4.jpeg" style="width:100%">
+Achievements
+------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Jurong Green CC WEC Scrabble Mini Tournament 2022</span><br></td>
+    <td class="tg-brl1"><span style="color:#222;background-color:transparent">Individual</span></td>
+    <td class="tg-brl1"><span style="color:#222;background-color:transparent">Best Newcomer / 6th placing</span><br><span style="color:#222;background-color:transparent">(Jenna Quek)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">29th Qiuping Cup National Weiqi Competition 2022</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4th placing (group category)</span></td>
+  </tr>
+</tbody>
+</table>
