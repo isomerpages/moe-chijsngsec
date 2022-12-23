@@ -215,10 +215,52 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/04%20NSG%20Artistic%20Gym%20Champs%20Pic%202.jpg" alt="04 NSG Artistic Gym Champs Pic 2.jpg" width="620" height="465"></td>
+    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><img src="/images/Artistic%20Gym4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Artistic%20Gym3.jpeg" style="width:100%">
+CCA Achievement
+---------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> National School Games</span><br><span style="color:#222;background-color:transparent">Trampoline Championship 2022</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">'B' Division </span><br><span style="color:#222;background-color:transparent">'C' Division</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st</span><br><span style="color:#222;background-color:transparent">1st</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> National School Games</span><br><span style="color:#222;background-color:transparent">Artistic Gymnastics Championship 2021 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">'B' Division </span><br><span style="color:#222;background-color:transparent">'C' Division</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> All Around: 3rd Tan Shang Yu Olivia</span><br><span style="color:#222;background-color:transparent">1st</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> National School Games</span><br><span style="color:#222;background-color:transparent">Trampoline Championship 2021</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">'B' Division  </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 1st </span></td>
+  </tr>
+  <tr>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> National School Games</span><br><span style="color:#222;background-color:transparent">Artistic Gymnastics Championship 2021</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">'B' Division </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 2nd</span></td>
+  </tr>
+</tbody>
+</table>
