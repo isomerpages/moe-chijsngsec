@@ -189,7 +189,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Collaboration with Green Club:</span><br><br><span style="color:#222;background-color:transparent">A workshop conducted by an environmental group called Untamed who introduced the card game they created to raise awareness of saving the environment.  </span><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/03%20Collaboration%20with%20Green%20Club.jpg" alt="03 Collaboration with Green Club.jpg" width="416" height="310"></td>
+    <td class="tg-vo25"><img src="/images/Mind%20Games2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Training:</span><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
@@ -207,4 +207,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Mind%20Games1.jpeg" style="width:100%">
+<img src="/images/Mind%20Games2.jpeg" style="width:100%">
