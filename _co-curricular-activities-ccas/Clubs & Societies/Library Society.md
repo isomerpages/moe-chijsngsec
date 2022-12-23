@@ -220,3 +220,41 @@ Student Executive Committee (2021 - 2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 802px">
+<colgroup>
+<col style="width: 401px">
+<col style="width: 401px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-v41i">CDAC (华助会补习计划) Award<br><span style="font-weight:normal">Our school was awarded the outstanding partnership award and the 5-year partnership award when CDAC held their 30th anniversary awards ceremony in 2022.</span><br><br><span style="font-weight:normal">Since 2016, our librarians have been involved in reading newspapers to the elderly at the CDAC centre in Ang Mo Kio. Through this we were able to understand the meaning of “kindness begets kindness” and we will continue working hard to benefit the seniors at CDAC through our sessions!</span><br><br><br></th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%202.jpg" alt="Picture 2.jpg" width="477" height="358"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Historical Scene Investigation (HSI) Challenge 2022</span><br><br><span style="color:#222;background-color:transparent">Four lower secondary librarians took part in this annual competition organised by the National Library Board - our team won a Gold Award.</span><br><br><span style="color:#222;background-color:transparent">2022’s theme commemorated the 80th anniversary of the Fall of Singapore, in which students investigated the historical significance of the Second World War in Singapore between 1942 to 1945.</span><br><br><span style="color:#222;background-color:transparent">Megan Hannah Cheok (2T), Seng Jia Shyuan (2D), Janice Phang Wan Yi (1D) and Lim Yu Xuan (1F) produced a video and did a creative write-up on education in Singapore schools during the Japanese Occupation.</span></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%203.jpg" alt="Picture 3.jpg" width="495" height="365"><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Green Reads Haiku Competition 2022</span><br><br><span style="color:#222;background-color:transparent">Bowen Secondary School organized the Green Reads Haiku Competition which our librarians readily took part in - they sourced for articles related to environmental issues in our world and wrote poems advocating action to stop environmental damage.</span><br><br><span style="color:#222;background-color:transparent">We are pleased that several of our librarians’ works earned distinctions in the competition!Ng Wing Yan Emily (3J) and Liang Wern Hwee (3D) came in first in the competition, Andrea Teo Yujie (3J) and Dawn Chong Wei (3C) came in third and Cate Marissa Verghese (2L) and Goh Wern Shyan (2L) were given a special mention award.</span></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%204.jpg" alt="Picture 4.jpg" width="485" height="378"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Read for Books VIA, Escape Room Activity &amp; other snippets</span><br><br>In August we organised several sessions of ‘Read for Books Charity Drive’ school wide in collaboration with NLB - for every 10 people who read a book for 15 minutes, one book would be donated to either WonderRead, or the Migrant Worker Library (MWL).<br><br>We were glad to be able to give back to society by raising awareness of reading and sharing the gift of reading with the less privileged! We also produced a virtual escape room for our 姐妹们 to participate in during the Mother Tongue Fortnight, as well as a Kahoot quiz for ELLF and shared IG posts on EL book reviews in April. <br><br>Apart from book reviews, Library Society also carried out English presentations which delved into the lives of refugees who had been impacted by wars and climate change. Other than honing our soft skills, this activity allowed us greater awareness of global issues such as climate change and the devastating impact of wars.<br><br>This year, our librarians had the chance to visit the Zall Bookstore in October to handpick more books and also enjoy a scrumptious tea session there!<br><br>We are certainly looking forward to doing book reviews on our latest selections!<br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-s2rg">Read for Books Charity Drive<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%205.jpg" alt="Picture 5.jpg" width="403" height="320">Virtual Escape Room Crew<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%206.jpg" alt="Picture 6.jpg" width="400" height="285">Zall Bookshop LJ<img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%207.jpg" alt="Picture 7.jpg" width="406" height="304"></td>
+  </tr>
+</tbody>
+</table>
