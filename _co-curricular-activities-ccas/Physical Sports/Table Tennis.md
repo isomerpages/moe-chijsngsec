@@ -198,3 +198,37 @@ Student Executive Committee (2021-2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-w14e{color:rgba(0, 0, 0, 0.847);text-align:left;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:bold">North Zone Inter-School B Division Table Tennis Championships 2022</span><br><br>B Division team champion</th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Table%20Tennis/Picture2.jpg" alt="Picture2.jpg" width="454" height="339"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">North Zone Inter-School B Division Table Tennis Championships 2022</span><br><br>C Division team champion</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Table%20Tennis/Picture3.jpg" alt="Picture3.jpg" width="455" height="341"></td>
+  </tr>
+  <tr>
+    <td class="tg-w14e"><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>B Division player in action<br><br><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Table%20Tennis/Picture4.jpg" alt="Picture4.jpg" width="455" height="340"></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1"><br><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>C Division player in action </td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Table%20Tennis/Picture5.jpg" alt="Picture5.jpg" width="455" height="290"></td>
+  </tr>
+</tbody>
+</table>
