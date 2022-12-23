@@ -211,7 +211,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Trampoline Competition</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/AGym/03%20NSG%20Trampoline%20Comp.jpg" alt="03 NSG Trampoline Comp.jpg" width="443" height="589"></td>
+    <td class="tg-vo25"><img src="/images/Artistic%20Gym2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
@@ -221,4 +221,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/Artistic%20Gym1.jpeg" style="width:100%">
+<img src="/images/Artistic%20Gym2.jpeg" style="width:100%">
