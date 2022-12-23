@@ -200,7 +200,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">2022 B Division National School Games Competition<br><img src="/images/Hockey1.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-brl1"><img src="/images/Hockey2.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture4.jpg" alt="Picture4.jpg" width="407" height="304"></th>
+    <th class="tg-brl1"><img src="/images/Hockey2.jpeg" style="width:100%"><img src="/images/Hockey3.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -214,4 +214,4 @@ CCA Highlights
 
 
 
-<img src="/images/Hockey2.jpeg" style="width:100%">
+<img src="/images/Hockey3.jpeg" style="width:100%">
