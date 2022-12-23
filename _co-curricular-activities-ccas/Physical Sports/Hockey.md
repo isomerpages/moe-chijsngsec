@@ -185,3 +185,28 @@ Student Executive Committee (2021 - 2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i">2022 B Division National School Games Competition<br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture3.jpg" alt="Picture3.jpg" width="408" height="305"><br><br><br><br><br><br><br><br><br><br><br><br></th>
+    <th class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture2.jpg" alt="Picture2.jpg" width="406" height="303"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture4.jpg" alt="Picture4.jpg" width="407" height="304"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i"><br>2022 C Division National School Games Competition<br><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture6.jpg" alt="Picture6.jpg" width="413" height="309"><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture5.jpg" alt="Picture5.jpg" width="411" height="307"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Hockey/Picture7.jpg" alt="Picture7.jpg" width="406" height="303"></td>
+  </tr>
+</tbody>
+</table>
