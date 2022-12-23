@@ -76,3 +76,60 @@ Teachers-in-charge
 
 Student Executive Committee (2022 - 2023)
 -----------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jyzel Tok</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee-Goh En, Emma Joy</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Lim</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tey Hui Wen Ashley</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Emma Yap Sze Tyng</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jillen Ng Jie En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Joy Ng (Wu Lewen)</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
+  </tr>
+</tbody>
+</table>
