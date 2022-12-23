@@ -158,7 +158,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 5 gymnasts</td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/RGym/04%20NISC%202022%20Level%205%20gymnasts.jpg" alt="04 NISC 2022 Level 5 gymnasts.jpg" width="543" height="361"></td>
+    <td class="tg-vo25"><img src="/images/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Sports Camp 2020</span><br><br>The Rgym girls playing modified volleyball during Sports Camp. </td>
@@ -168,4 +168,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%">
+<img src="/images/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%">
