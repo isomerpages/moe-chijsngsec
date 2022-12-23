@@ -46,3 +46,148 @@ CCA Information
   </tr>
 </tbody>
 </table>
+
+
+Teachers-in-charge
+------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cees">Ms Amy Yee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-cees">Ms Mohana d/o S Sinniah</td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Mrs Theresa Chan</td>
+  </tr>
+</tbody>
+</table>
+
+Student Executive Committee (2022-2023)
+---------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bb6y" colspan="3"><span style="color:#222;background-color:transparent">Artistic Gymnastics 2022 - 2023 Committee</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Wan Ning, Edith</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Grace</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Alexis Chan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2 Grace</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Vice-Captain</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Hannah Lim Shi En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 1 Wisdom</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Lower Secondary Coordinator</span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i" colspan="3">Trampoline 2022 - 2023 Committee</td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Lee Jing Xuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3 Charity</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Ying Le Gwyneth</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2 Unity</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Ying Qi Vera</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Unity</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Coordinator</span></td>
+  </tr>
+</tbody>
+</table>
+
+Student Executive Committee (2021-2022)
+---------------------------------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-r52z" colspan="3">Artistic Gymnastics 2021-2022 Committee </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-frbo">Emily Low Kit Yee</td>
+    <td class="tg-frbo">Sec 4 Justice</td>
+    <td class="tg-frbo">Captain</td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Megan Lee Jing Xuan</td>
+    <td class="tg-frbo">Sec 3 Charity</td>
+    <td class="tg-frbo">Vice-Captain</td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Alexis Chan</td>
+    <td class="tg-frbo">Sec 2 Grace</td>
+    <td class="tg-frbo">Lower Secondary Coordinator</td>
+  </tr>
+  <tr>
+    <td class="tg-r52z" colspan="3">Trampoline 2021-2022 Committee</td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Cladise Tan Shijia</td>
+    <td class="tg-frbo">Sec 4 Grace</td>
+    <td class="tg-frbo">Captain </td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Lim Zi Qi Kate</td>
+    <td class="tg-frbo">Sec 3 Faith</td>
+    <td class="tg-frbo">Vice-Captain</td>
+  </tr>
+  <tr>
+    <td class="tg-frbo">Ang Ying Le Gwyneth</td>
+    <td class="tg-frbo">Sec 2 Unity</td>
+    <td class="tg-frbo">Lower Secondary Coordinator</td>
+  </tr>
+</tbody>
+</table>
+
+
+CCA Highlights
+--------------
