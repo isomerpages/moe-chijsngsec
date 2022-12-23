@@ -240,7 +240,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">CDAC (华助会补习计划) Award<br><span style="font-weight:normal">Our school was awarded the outstanding partnership award and the 5-year partnership award when CDAC held their 30th anniversary awards ceremony in 2022.</span><br><br><span style="font-weight:normal">Since 2016, our librarians have been involved in reading newspapers to the elderly at the CDAC centre in Ang Mo Kio. Through this we were able to understand the meaning of “kindness begets kindness” and we will continue working hard to benefit the seniors at CDAC through our sessions!</span><br><br><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Library/Picture%202.jpg" alt="Picture 2.jpg" width="477" height="358"></th>
+    <th class="tg-s2rg"><img src="/images/Library%20Society1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -258,3 +258,7 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+
+<img src="/images/Library%20Society1.jpeg" style="width:100%">
