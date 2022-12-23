@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Clubs & Societies/Mind Games.md
       - Clubs & Societies/Publications.md
       - Clubs & Societies/.keep
       - Physical Sports/Physical Sports.md
