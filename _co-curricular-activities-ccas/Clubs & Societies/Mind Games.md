@@ -183,7 +183,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-brl1"><br><br><br><span style="font-weight:normal">Playing Board games like Scrabble, Monopoly and card games</span><br><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Mind%20Games/02%20Playing%20Board%20Games.jpg" alt="02 Playing Board Games.jpg" width="416" height="311"></th>
+    <th class="tg-s2rg"><img src="/images/Mind%20Games1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -205,3 +205,6 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/Mind%20Games1.jpeg" style="width:100%">
