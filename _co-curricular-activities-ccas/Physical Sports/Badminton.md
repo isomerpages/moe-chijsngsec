@@ -170,3 +170,31 @@ Student Executive Committee (2021 - 2022)
   </tr>
 </tbody>
 </table>
+
+
+CCA Highlights
+--------------
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
+    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture2.jpg" alt="Picture2.jpg" width="506" height="316"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture3.jpg" alt="Picture3.jpg" width="366" height="550"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture4.jpg" alt="Picture4.jpg" width="506" height="336"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture5.jpg" alt="Picture5.jpg" width="500" height="332"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Badminton/Picture6.jpg" alt="Picture6.jpg" width="500" height="332"></td>
+  </tr>
+</tbody>
+</table>
