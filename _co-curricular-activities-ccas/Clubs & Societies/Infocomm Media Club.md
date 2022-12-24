@@ -234,7 +234,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Coding</span><br><br><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years. <br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture4.jpg" alt="Picture4.jpg" width="432" height="322"></td>
+    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Learning Journeys</span><br><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society. <br><br><br><br><br><br></td>
@@ -245,7 +245,7 @@ CCA Highlights
 
 
 
-<img src="/images/Infocomm%20Media%20Club2.jpeg" style="width:100%">
+<img src="/images/Infocomm%20Media%20Club3.jpeg" style="width:100%">
 
 
 CCA Achievement
