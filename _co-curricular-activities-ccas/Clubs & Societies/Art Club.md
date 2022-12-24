@@ -194,7 +194,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION <br><br><span style="font-weight:normal">Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition.</span><br><br><span style="font-weight:normal">Their artwork was exhibited at the National Gallery Singapore.</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-mezc"><img src="/images/Art1.jpeg" style="width:100%"></span><img src="/images/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
+    <th class="tg-mezc"><img src="/images/Art1.jpeg" style="width:100%"><img src="/images/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
     <th class="tg-vo25"><img src="/images/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br><img src="/images/Art5.jpeg" style="width:100%"><img src="/images/Art6.jpeg" style="width:100%"></th>
   </tr>
 </thead>
