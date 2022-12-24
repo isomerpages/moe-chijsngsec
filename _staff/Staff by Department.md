@@ -253,3 +253,81 @@ description: ""
 
 
 #### Humanities
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ex7b{background-color:#DDD;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7b">Staff Name </th>
+    <th class="tg-ex7b">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-096r">Mr Tan Yeow Leng Melvyn (HOD / Humanities)</td>
+    <td class="tg-096r">tan_yeow_leng_melvyn@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Chan Taiping Joseph (HOD / IP) </td>
+    <td class="tg-096r">chan_taiping_joseph@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Law Huizhen Sharon (SH / History)</td>
+    <td class="tg-096r">law_huizhen_sharon@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Wong Yan Keet Amanda (SH / CCE) </td>
+    <td class="tg-096r">wong_yan_keet_amanda@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Fatmah Ismail Talib (co-AYH)</td>
+    <td class="tg-096r">fatmah_ismail_talib@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Uma Ramakrishnan (co-AYH)<br></td>
+    <td class="tg-096r">uma_ramakrishnan@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Chen Yiqi </td>
+    <td class="tg-096r">chen_yiqi@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Cher Lian Mui Claire </td>
+    <td class="tg-096r">cher_lian_mui_claire@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Josephine Sherwood Quek Lee Nar </td>
+    <td class="tg-096r">quek_lee_nar_josephine@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Juliet Huang </td>
+    <td class="tg-096r">huang_chenmei_juliet@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Lily Tan  </td>
+    <td class="tg-096r">lim_lily_b@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Naseem Fathima<br></td>
+    <td class="tg-096r">naseem_fathima@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Siti Wajihah Zaran </td>
+    <td class="tg-096r">siti_wajihah_zaran@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Tung Jowie</td>
+    <td class="tg-096r">tung_jowie@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+#### Mathematics
