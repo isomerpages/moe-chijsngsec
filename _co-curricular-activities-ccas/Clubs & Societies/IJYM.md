@@ -214,7 +214,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-frbo"><span style="font-weight:bold;color:#494949">Outreach at Lions Befrienders Active Ageing Center (Tampines)</span><br><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><br><br><img src="/images/IJYM1.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture2.jpg" alt="Picture2.jpg" width="451" height="336"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture3.jpg" alt="Picture3.jpg" width="442" height="330"></th>
+    <th class="tg-vo25"><img src="/images/IJYM2.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture3.jpg" alt="Picture3.jpg" width="442" height="330"></th>
   </tr>
 </thead>
 <tbody>
@@ -234,4 +234,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/IJYM1.jpeg" style="width:100%">
+<img src="/images/IJYM2.jpeg" style="width:100%">
