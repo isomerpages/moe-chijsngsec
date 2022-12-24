@@ -20,4 +20,4 @@ Application form for Leave of Absence: [Leave of Absence Application Form.pdf](/
 
 Claim form for Group Personal Accident (GPA): [Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim form.pdf](/files/Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim%20form.pdf)
 
-Waiting list form:
+Waiting list form: [Waiting List.pdf](/files/Waiting%20List.pdf)
