@@ -157,10 +157,10 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Learning Journey with Insectta</span><br><br>Students had a learning journey with Insectta to learn more about food waste in Singapore and how they use the black soldiers fly to reduce the food waste generated. <br><br></td>
-    <td class="tg-s2rg"><img src="/images/GreenClub4.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/06%20LJ%20with%20Insectta%20Pic%202.jpg" alt="06 LJ with Insectta Pic 2.jpg" width="506" height="379"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/07%20LJ%20with%20Insectta%20Pic%203.jpg" alt="07 LJ with Insectta Pic 3.jpg" width="511" height="383"></td>
+    <td class="tg-s2rg"><img src="/images/GreenClub4.jpeg" style="width:100%"><img src="/images/GreenClub5.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/07%20LJ%20with%20Insectta%20Pic%203.jpg" alt="07 LJ with Insectta Pic 3.jpg" width="511" height="383"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/GreenClub4.jpeg" style="width:100%">
+<img src="/images/GreenClub5.jpeg" style="width:100%">
