@@ -224,7 +224,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/IJYM7.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/IJYM8.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/IJYM9.jpeg" style="width:100%"><img src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture10.jpg" alt="Picture10.jpg" width="451"></td>
+    <td class="tg-vo25"><img src="/images/IJYM8.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/IJYM9.jpeg" style="width:100%"><br><img src="/images/IJYM10.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><br><span style="font-weight:bold">“BEEkind Programme”</span><br><br><br>This year, IJYM embarked on the journey of being the driver for VIA activities in our school. To this end, we created opportunities and platforms for our peers in school to be involved in various VIA activities that would benefit people in our school community besides helping others in society.<br><br>We created the Peer-tutoring programme and helped coordinate and partner students who needed help in subjects such as Mathematics to students proficient in the subject and who were willing to help them clarify their questions.<br>We also helped to create storybook resources for the after-school care at IJHCC and looked into plans to help support and show appreciation for the cleaners in our school.<br><br>Look out for more exciting plans in 2023!<br></td>
@@ -233,5 +233,5 @@ CCA Highlights
 </tbody>
 </table>
 
-
-<img src="/images/IJYM9.jpeg" style="width:100%">
+CCA Achievements
+----------------
