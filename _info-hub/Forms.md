@@ -18,4 +18,6 @@ Master Contract for Group Personal Accident (GPA) Insurance for Students Fact Sh
 
 Application form for Leave of Absence: [Leave of Absence Application Form.pdf](/files/Leave%20of%20Absence%20Application%20Form.pdf)
 
-Claim form for Group Personal Accident (GPA):
+Claim form for Group Personal Accident (GPA): [Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim form.pdf](/files/Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim%20form.pdf)
+
+Waiting list form:
