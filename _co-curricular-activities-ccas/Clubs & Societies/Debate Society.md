@@ -225,7 +225,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-frbo"><span style="font-weight:bold">Youth Debate Open</span><br><br>In 2022, our lower secondary debaters took part in this eye-opening maiden experience that exposed them to the rigours of debating, as they honed their confidence in public speaking. <br></td>
-    <td class="tg-frbo"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture3.jpg" alt="Picture3.jpg" width="459" height="176"></td>
+    <td class="tg-frbo"><img src="/images/Debate2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-frbo"><span style="font-weight:bold">Debate Association Debating Championships</span><br><br>In 2021, our debaters took part in the Debate Association Debating Championships competition. They emerged as Semi Finalists and clinched the Overall 11th Best Speaker Award, out of more than one hundred competitors.<br><br><br></td>
@@ -240,4 +240,4 @@ CCA Highlights
 
 
 
-<img src="/images/Debate1.jpeg" style="width:100%">
+<img src="/images/Debate2.jpeg" style="width:100%">
