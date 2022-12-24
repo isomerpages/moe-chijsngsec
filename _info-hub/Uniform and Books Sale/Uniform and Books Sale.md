@@ -67,7 +67,10 @@ Sale dates in <b>Jan - May 2023</b>
 
 
 Sale Time: 9 am to 2.30 pm (Mon - Fri)  
-Venue: Booths set-up at School Canteen Area 
+Venue: Booths set-up at School Canteen Area
 
-  
 
+Sizing Chart for:
+
+[4\. School Uniform Pinafore and Blouse Size Chart.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/AY2021%20Booklist/4.%20School%20Uniform%20Pinafore%20and%20Blouse%20Size%20Chart.pdf)   
+[5\. PE Attire Size Chart.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/AY2021%20Booklist/5.%20PE%20Attire%20Size%20Chart.pdf)
