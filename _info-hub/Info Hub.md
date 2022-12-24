@@ -8,7 +8,7 @@ description: ""
 
 ### School Service Providers 
 
-*   [Bus Services](https://chijstnicholasgirls.moe.edu.sg/secondary/secondary-info-hub/bus-services)
+*   [Bus Services](/info-hub/Bus-Services/)
 *   [Uniform and Books](https://chijstnicholasgirls.moe.edu.sg/secondary/secondary-info-hub/uniform-and-books)
 
 ### School Fees
