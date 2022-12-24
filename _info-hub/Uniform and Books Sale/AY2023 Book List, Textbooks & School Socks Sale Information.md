@@ -12,7 +12,7 @@ AY2023 Book List / Textbooks & School Socks Sale Information
 
 
 Sec 1/Year 1  
- [S1 O-level Booklist.pdf](/files/Sec%201%20O-Level%20booklist.pdf)   |    [S1 Year 1 IP Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Year%201%20IP%20booklist.pdf)  
+ [S1 O-level Booklist.pdf](/files/Sec%201%20O-Level%20booklist.pdf)   |    [S1 Year 1 IP Booklist.pdf](/files/Year%201%20IP%20booklist.pdf)
   
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Sec%202%20O-Level%20booklist.pdf)    |    [Year 2 IP Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Year%202%20IP%20booklist.pdf)  
