@@ -208,9 +208,63 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">校园长卷诉感恩</span><br><br>    为了庆祝新加坡特选学校（SAP school）成立四十周年，我们华文文化学会的学生以圣尼各拉女校的标志性建筑为蓝图，绘制了一幅长卷，献给学校，以画笔书写对母校的感恩之情，希望用一颗颗年轻的心对传统化的精髓加以诠释和传承！<br><br>    2023年将迎来我校建校90周年大庆，会员们正在紧锣密鼓地为母校准备一份表达感恩之情的手工作品。<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CCS/06%20Gratitude%20Scroll.jpg" alt="06 Gratitude Scroll.jpg" width="388" height="290"></td>
+    <td class="tg-vo25"><img src="/images/CCS6.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
-<img src="/images/CCS5.jpeg" style="width:100%">
+CCA Achievements
+----------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
+    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1">The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br>第四届“中华瀚墨情”国际书法比赛</td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">The 29th National Youth Exhibition of Chinese Calligraphy<br>第二十九届全国青少年书法展 </td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore </span></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展</td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Silver Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 33rd National School Chinese Calligraphy Competition</span><br><span style="color:#222;background-color:transparent">第三十三届全国中学书法比赛 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Third Prize</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Fo Guang Shan National Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">威德智海全国硬笔书法比赛</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Harmony Award</span><br><span style="color:#222;background-color:transparent">Merit Award </span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 5th Sing Chu National Student Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">第五届“星衢墨艺”全国中小学书法比赛</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Achievement Award</span></td>
+  </tr>
+</tbody>
+</table>
