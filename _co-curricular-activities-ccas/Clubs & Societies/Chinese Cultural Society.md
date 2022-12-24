@@ -200,7 +200,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Learning Journey to China Town</span><br>牛车水学习之旅<br><br>    一年一度的华人新年期间，本会将组织会员们组织前往牛车水，感受那里浓厚的新年气氛。高年级的学长将为学妹们设计新鲜有趣的闯关题目，活动中会员们有机会走上街头与素不相识的路人交流，与售卖传统食品的摊贩互动，当然也少不了品尝美食，以及拍照留影。同时这一天也是学姐们与中一小妹妹们建立友情的良机。<br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CCS/03%20LJ%20To%20Chinatown.jpg" alt="03 LJ To Chinatown.jpg" width="509" height="380"></td>
+    <td class="tg-vo25"><img src="/images/CCS3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Cultural Programme</span><br>文化课程<br><br><br><br>    每年的文化课程都有新颖的活动内容。我们曾在课上学习篆刻、剪纸，也曾在课上学习中国画、卷纸等。总之，我们希望能以不同的方式，诠释对华文文化的理解，致力于将其传承下去。<br><br>    为了增加华族节庆气氛，文化学会的成员还精心设计并手绘了漂亮的灯笼，将校园装点一新。<br><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CCS/04%20Cultural%20Programme%20Pic%201.jpg" alt="04 Cultural Programme Pic 1.jpg" width="287" height="205"></td>
@@ -213,4 +213,4 @@ CCA Highlights
 </tbody>
 </table>
 
-<img src="/images/CCS2.jpeg" style="width:100%">
+<img src="/images/CCS3.jpeg" style="width:100%">
