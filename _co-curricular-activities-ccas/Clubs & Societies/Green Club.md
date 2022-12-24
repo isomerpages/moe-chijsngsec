@@ -136,3 +136,28 @@ Student Executive Committee (2022-2023)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-brl1"><span style="font-weight:bold">Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</span><br><br><span style="color:#494949">We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.</span><br><br><span style="color:#494949">This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.</span><br><br><span style="color:#494949">During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.</span><br><br><span style="color:#494949">In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.</span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/03%20Education%20Drive%20Pic%202.jpg" alt="03 Education Drive Pic 2.jpg" width="297" height="396"></th>
+    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/02%20Education%20Drive%20Pic%201.jpg" alt="02 Education Drive Pic 1.jpg" width="520" height="387"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/04%20Education%20Drive%20Pic%203.jpg" alt="04 Education Drive Pic 3.jpg" width="531" height="394"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Learning Journey with Insectta</span><br><br>Students had a learning journey with Insectta to learn more about food waste in Singapore and how they use the black soldiers fly to reduce the food waste generated. <br><br></td>
+    <td class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/05%20LJ%20with%20Insectta%20Pic%201.jpg" alt="05 LJ with Insectta Pic 1.jpg" width="505" height="377"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/06%20LJ%20with%20Insectta%20Pic%202.jpg" alt="06 LJ with Insectta Pic 2.jpg" width="506" height="379"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/07%20LJ%20with%20Insectta%20Pic%203.jpg" alt="07 LJ with Insectta Pic 3.jpg" width="511" height="383"></td>
+  </tr>
+</tbody>
+</table>
