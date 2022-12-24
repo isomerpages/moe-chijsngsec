@@ -14,5 +14,4 @@ Request form for updating of student's official Address: [Change of Address Form
 
 Application form for Interbank GIRO: [GIRO_Application_Form_Oct_21.pdf](/files/giro_application_form_oct%202021.pdf)
 
-Master Contract for Group Personal Accident (GPA) Insurance for Students Fact Sheet: 
-
+Master Contract for Group Personal Accident (GPA) Insurance for Students Fact Sheet: [GPA Product Fact Sheet 2022.pdf](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
