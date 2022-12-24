@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - School Key Personnel.md
       - Staff by Department.md
