@@ -2,5 +2,7 @@ collections:
   info-hub:
     output: true
     order:
+      - Uniform and Books Sale/AY2023 Book List, Textbooks & School Socks Sale
+        Information.md
       - Uniform and Books Sale/.keep
       - SN Home Based Learning Infosite.md
