@@ -205,3 +205,35 @@ Student Executive Committee (2021 - 2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
+.tg .tg-e1iy{color:#494949;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-frbo"><span style="font-weight:bold">Orator's Trophy</span><br><br>In 2022, our debaters took part in The Orator’s Trophy, a National Oratorical Competition, organised by ACJC. They did us proud by qualifying to the Semi-Finals in the competition where a member emerged as one of the top 6 semi-finalists in the Senior League.<br></th>
+    <th class="tg-frbo"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture2.jpg" alt="Picture2.jpg" width="451" height="335"><br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-frbo"><span style="font-weight:bold">Youth Debate Open</span><br><br>In 2022, our lower secondary debaters took part in this eye-opening maiden experience that exposed them to the rigours of debating, as they honed their confidence in public speaking. <br></td>
+    <td class="tg-frbo"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture3.jpg" alt="Picture3.jpg" width="459" height="176"></td>
+  </tr>
+  <tr>
+    <td class="tg-frbo"><span style="font-weight:bold">Debate Association Debating Championships</span><br><br>In 2021, our debaters took part in the Debate Association Debating Championships competition. They emerged as Semi Finalists and clinched the Overall 11th Best Speaker Award, out of more than one hundred competitors.<br><br><br></td>
+    <td class="tg-e1iy"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture5[1].jpg" alt="Picture5.jpg" width="458" height="257"></td>
+  </tr>
+  <tr>
+    <td class="tg-frbo"><span style="font-weight:bold">WR-NUS Pre-UADC Debating Championship</span><br><br><br>In 2020, our Secondary 3 debaters took part in this competition aimed at raising awareness of gender equality. The competition discussed concerns pertaining to women’s issues relating to “Marriage and Family Life”, “Workplace and Employment”, “Violence Against Women”, “Women in Ageing” and “Financial Literacy”.<br><br><br><br><br><br><br></td>
+    <td class="tg-e1iy"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture5.jpg" alt="Picture5.jpg" width="446" height="333"></td>
+  </tr>
+</tbody>
+</table>
