@@ -17,15 +17,8 @@ Sec 1/Year 1
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](/files/Sec%202%20O-Level%20booklist.pdf)    |    [Year 2 IP Booklist.pdf](/files/Year%202%20IP%20booklist.pdf)
   
-Sec 3/Year 3
-
-[S3 O-Level Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Sec%203%20O-Level%20booklist.pdf)    |    [Year 3 IP Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Year%203%20IP%20booklist.pdf)
-
-  
-
-Sec 4/Year 4
-
-[S4 O-Level Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Sec%204%20O-Level%20booklist.pdf)    |    [Year 4 IP Booklist.pdf](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/School%20Info%20Hub/2023%20Booklist%20(Sec)/Year%204%20IP%20booklist.pdf)
+Sec 3/Year 3  
+[S3 O-Level Booklist.pdf](/files/Sec%203%20O-Level%20booklist.pdf)    |    
 
   
 
