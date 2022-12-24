@@ -15,10 +15,11 @@ Primary 6 students intending to seek admission to CHIJ St. Nicholas Girls’ Sch
 *   Secondary 1 Posting Exercise 
 	 
 	 The annual Secondary 1 Posting Exercise is conducted by the Ministry of Education (MOE) to post Primary 6 students from mainstream primary schools who have sat for the Primary School Leaving Examination (PSLE) and are eligible for secondary school. The exercise takes into consideration the students’ PSLE results, choices of schools and availability of vacancies.  
-For further information on the Secondary 1 Posting Exercise, please refer to the following website for details:  
-
-Overview of Secondary 1 Posting Exercise   
-[https://www.moe.gov.sg/secondary/s1-posting](https://www.moe.gov.sg/secondary/s1-posting)  
+	
+	For further information on the Secondary 1 Posting Exercise, please refer to the following website for details:  
+	
+	Overview of Secondary 1 Posting Exercise   
+	[https://www.moe.gov.sg/secondary/s1-posting](https://www.moe.gov.sg/secondary/s1-posting)
   
 *   Direct School Admission-Secondary (DSA-Sec) Exercise. 
 
@@ -29,3 +30,49 @@ Overview of Secondary 1 Posting Exercise 
 	
 	Overview of MOE DSA-Sec Exercise  
 	[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
+	
+<u><b>SNGS DSA-Sec Exercise</b></u>   
+  
+The DSA-Secondary Exercise 2021 has now closed.   
+
+<u><b>Admission to Year 3 of the Joint Integrated Programme at CHIJ SNGS</b></u> 
+
+CHIJ St. Nicholas Girls’ School welcomes outstanding Secondary 2 students to apply for admission to Year 3 of the Joint Integrated Programme at CHIJ SNGS. Successful applicants will spend 2 years in CHIJ SNGS and the final 2 years in Eunoia Junior College leading to the GCE ‘A’ Level Examinations. 
+
+  
+
+Selection Criteria:
+
+Secondary 2 students who are keen to apply for Year 3 of the Joint Integrated Programme at CHIJ SNGS must have:
+
+*   PSLE T-Score of 250 and above (excluding bonus points);(Students who do not meet this criterion but performed exceptionally well in Secondary 1 and Secondary 2 might be considered)
+*   Excellent Secondary 1 and Secondary 2 academic results;
+*   Active participation in co-curricular activities and community involvement;  and
+*   Obtained very good conduct grades in Secondary 1 and Secondary 2.
+
+  
+Shortlisted candidates will be invited to attend an interview at CHIJ SNGS.   
+  
+<u><b>Admission for Returning Singaporeans</b></u> 
+
+Returning Singaporean children are Singapore Citizens or Singapore Permanent Residents who currently reside overseas and are not studying in a mainstream primary school in Singapore. 
+
+  
+
+For further information on the available options to seek admission to a mainstream secondary school in Singapore, including CHIJ SNGS, please refer to the following website for details: 
+
+  
+Admissions for Returning Singaporeans   
+[https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)  
+  
+<u><b>Admission for International Students</b></u> 
+
+International Students who are keen to seek admission to a mainstream school in Singapore, including CHIJ SNGS, are required to take part in the Admissions Exercise for International Students (AEIS). 
+
+  
+
+For further information, please refer to the AEIS website: 
+
+  
+Admissions for International Students   
+[https://www.moe.gov.sg/international-students](https://www.moe.gov.sg/international-students)
