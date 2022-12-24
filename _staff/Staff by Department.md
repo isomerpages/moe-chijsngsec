@@ -413,3 +413,49 @@ description: ""
 </table>
 
 #### Physical Education
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ex7b{background-color:#DDD;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7b">Staff Name </th>
+    <th class="tg-ex7b">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-096r">Miss Susan Lim (HOD / PE &amp; CCA)</td>
+    <td class="tg-096r">lim_susan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Yang Peishan (SH / Physical Education)</td>
+    <td class="tg-096r">yang_peishan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Daryl Chew Ren Jie</td>
+    <td class="tg-096r">chew_ren_jie_daryl@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Goh Meow Peng Sherry</td>
+    <td class="tg-096r">goh_meow_peng_sherry@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Lee Le Xin, Francoise</td>
+    <td class="tg-096r">lee_le_xin_francoise@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Sim Ung Mei Catherine </td>
+    <td class="tg-096r">sim_ung_mei_catherine@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+#### Science
