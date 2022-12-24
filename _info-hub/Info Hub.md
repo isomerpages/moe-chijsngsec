@@ -105,3 +105,10 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+*   Singapore Citizen Students may apply to use their Edusave Accounts for payment  of 2nd tier Miscellaneous Fees.
+
+*   Note: Students who have insufficient funds in their Edusave accounts may have  their requests for withdrawal rejected. They will then be required to pay with cash or  personal cheque. To check the balance in your child’s Edusave Account, please  call the following telephone number: 6260 0777.
+
+*   For Application of Inter-bank Giro Scheme and Edusave Payment of 2nd tier  Miscellaneous Fees, please approach the General Office.
