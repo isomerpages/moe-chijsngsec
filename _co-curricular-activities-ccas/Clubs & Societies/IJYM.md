@@ -223,7 +223,7 @@ CCA Highlights
     <td class="tg-vo25"><img src="/images/IJYM5.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/IJYM6.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture11.jpg" alt="Picture11.jpg" width="421" height="316"><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/IJYM7.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
     <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture8.jpg" alt="Picture8.jpg" width="451"><span style="color:#222;background-color:transparent"> </span><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture9.jpg" alt="Picture9.jpg" width="446" height="333"><img src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture10.jpg" alt="Picture10.jpg" width="451"></td>
   </tr>
   <tr>
@@ -234,4 +234,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/IJYM6.jpeg" style="width:100%">
+<img src="/images/IJYM7.jpeg" style="width:100%">
