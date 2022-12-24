@@ -17,3 +17,5 @@ Application form for Interbank GIRO: [GIRO_Application_Form_Oct_21.pdf](/files/g
 Master Contract for Group Personal Accident (GPA) Insurance for Students Fact Sheet: [GPA Product Fact Sheet 2022.pdf](/files/Product%20Fact%20Sheet%20Year%202022%20Sep%202022.pdf)
 
 Application form for Leave of Absence: [Leave of Absence Application Form.pdf](/files/Leave%20of%20Absence%20Application%20Form.pdf)
+
+Claim form for Group Personal Accident (GPA):
