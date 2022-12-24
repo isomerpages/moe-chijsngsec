@@ -2,6 +2,7 @@ collections:
   co-curricular-activities-ccas:
     output: true
     order:
+      - Co Curricular Activities (CCAs).md
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Cultural Society.md
