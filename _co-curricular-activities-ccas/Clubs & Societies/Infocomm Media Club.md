@@ -238,14 +238,12 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Learning Journeys</span><br><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society. <br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture5.jpg" alt="Picture5.jpg" width="433" height="323"></td>
+    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-
-<img src="/images/Infocomm%20Media%20Club3.jpeg" style="width:100%">
 
 
 CCA Achievement
