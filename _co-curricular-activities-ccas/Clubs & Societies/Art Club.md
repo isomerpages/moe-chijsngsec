@@ -201,11 +201,11 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Doodle Board</span><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
-    <td class="tg-brl1"><img src="/images/Art7.jpeg" style="width:100%"><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture10.jpg" alt="Picture10.jpg" width="332" height="200"></td>
+    <td class="tg-brl1"><img src="/images/Art7.jpeg" style="width:100%"><br><img src="/images/Art8.jpeg" style="width:100%"></td>
     <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture9.jpg" alt="Picture9.jpg" width="350" height="243"><span style="color:#222;background-color:transparent"></span><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture11.jpg" alt="Picture11.jpg" width="271" height="361"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/Art7.jpeg" style="width:100%">
+<img src="/images/Art8.jpeg" style="width:100%">
