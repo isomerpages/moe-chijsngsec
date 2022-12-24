@@ -224,7 +224,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-v41i">Public Announcement (PA) Duty for school events<br><br><span style="font-weight:normal">All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life. </span><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture2.jpg" alt="Picture2.jpg" width="310" height="415"></th>
+    <th class="tg-s2rg"><img src="/images/Infocomm%20Media%20Club1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -242,6 +242,10 @@ CCA Highlights
   </tr>
 </tbody>
 </table>
+
+
+
+<img src="/images/Infocomm%20Media%20Club1.jpeg" style="width:100%">
 
 
 CCA Achievement
