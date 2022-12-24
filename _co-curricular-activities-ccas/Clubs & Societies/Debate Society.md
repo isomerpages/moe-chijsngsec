@@ -9,3 +9,5 @@ third_nav_title: Clubs & Societies
 
 Debate Society
 ==============
+
+<img src="/images/Debate%20Society.jpeg" style="width:80%">
