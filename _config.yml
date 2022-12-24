@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#2c3aac"
-  secondary-color: "#4372d6"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
