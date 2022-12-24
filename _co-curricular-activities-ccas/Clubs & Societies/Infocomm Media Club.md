@@ -230,7 +230,7 @@ CCA Highlights
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Photography and Videography</span><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.<br><br><br><br><br></td>
-    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Infocomm/Picture3.jpg" alt="Picture3.jpg" width="431" height="287"></td>
+    <td class="tg-brl1"><img src="/images/Infocomm%20Media%20Club2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Coding</span><br><br><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years. <br><br><br><br><br><br><br><br></td>
@@ -245,7 +245,7 @@ CCA Highlights
 
 
 
-<img src="/images/Infocomm%20Media%20Club1.jpeg" style="width:100%">
+<img src="/images/Infocomm%20Media%20Club2.jpeg" style="width:100%">
 
 
 CCA Achievement
