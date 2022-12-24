@@ -74,3 +74,14 @@ Sizing Chart for:
 
 [4. School Uniform Pinafore and Blouse Size Chart.pdf](/files/School%20Uniform%20Pinafore%20and%20Blouse%20Size%20Chart.pdf)  
 [5. PE Attire Size Chart.pdf](/files/PE%20Attire%20Size%20Chart.pdf)
+
+
+Cardigans and Hoodies Sale
+--------------------------
+
+  
+
+<b>Make your pre-orders online at [www.ourlittleredbridge.com](http://www.ourlittleredbridge.com/) by 9th January 2022. The stocks will be ready and sent to the school by end of March 2022.   
+Kindly check the announcements on the homepage of the [www.ourlittleredbridge.com](http://www.ourlittleredbridge.com/) on how and when to pick up your orders.</b> 
+
+<b>Size Chart for St Nicholas Outerwear</b>
