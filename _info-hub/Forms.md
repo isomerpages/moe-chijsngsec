@@ -12,4 +12,4 @@ MOE FAS Application Form: [MOE FAS Application Form Sep 22.pdf](/files/GGAS_Appl
 
 Request form for updating of student's official Address: [Change of Address Form.pdf](/files/Change%20of%20Address%20Form.pdf)
 
-Application form for Interbank GIRO:
+Application form for Interbank GIRO: [GIRO_Application_Form_Oct_21.pdf](/files/giro_application_form_oct%202021.pdf)
