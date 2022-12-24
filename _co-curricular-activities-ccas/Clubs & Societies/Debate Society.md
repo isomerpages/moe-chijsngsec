@@ -229,7 +229,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-frbo"><span style="font-weight:bold">Debate Association Debating Championships</span><br><br>In 2021, our debaters took part in the Debate Association Debating Championships competition. They emerged as Semi Finalists and clinched the Overall 11th Best Speaker Award, out of more than one hundred competitors.<br><br><br></td>
-    <td class="tg-e1iy"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture5[1].jpg" alt="Picture5.jpg" width="458" height="257"></td>
+    <td class="tg-e1iy"><img src="/images/Debate3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-frbo"><span style="font-weight:bold">WR-NUS Pre-UADC Debating Championship</span><br><br><br>In 2020, our Secondary 3 debaters took part in this competition aimed at raising awareness of gender equality. The competition discussed concerns pertaining to women’s issues relating to “Marriage and Family Life”, “Workplace and Employment”, “Violence Against Women”, “Women in Ageing” and “Financial Literacy”.<br><br><br><br><br><br><br></td>
@@ -240,4 +240,4 @@ CCA Highlights
 
 
 
-<img src="/images/Debate2.jpeg" style="width:100%">
+<img src="/images/Debate3.jpeg" style="width:100%">
