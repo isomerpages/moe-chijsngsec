@@ -1,4 +1,5 @@
 collections:
   info-hub:
     output: true
-    order: []
+    order:
+      - SN Home Based Learning Infosite.md
