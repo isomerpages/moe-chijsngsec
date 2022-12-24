@@ -18,7 +18,7 @@ Sec 2/Year 2
 [S2 O-Level Booklist.pdf](/files/Sec%202%20O-Level%20booklist.pdf)    |    [Year 2 IP Booklist.pdf](/files/Year%202%20IP%20booklist.pdf)
   
 Sec 3/Year 3  
-[S3 O-Level Booklist.pdf](/files/Sec%203%20O-Level%20booklist.pdf)    |    
+[S3 O-Level Booklist.pdf](/files/Sec%203%20O-Level%20booklist.pdf)    |    [Year 3 IP Booklist.pdf](/files/Year%203%20IP%20booklist.pdf)
 
   
 
