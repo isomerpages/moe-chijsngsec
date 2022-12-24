@@ -204,7 +204,7 @@ CCA Highlights
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Cultural Programme</span><br>文化课程<br><br><br><br>    每年的文化课程都有新颖的活动内容。我们曾在课上学习篆刻、剪纸，也曾在课上学习中国画、卷纸等。总之，我们希望能以不同的方式，诠释对华文文化的理解，致力于将其传承下去。<br><br>    为了增加华族节庆气氛，文化学会的成员还精心设计并手绘了漂亮的灯笼，将校园装点一新。<br><br><br><img src="/images/CCS4.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CCS/05%20Cultural%20Programme%20Pic%202.jpg" alt="05 Cultural Programme Pic 2.jpg" width="388" height="493"></td>
+    <td class="tg-vo25"><img src="/images/CCS5.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">校园长卷诉感恩</span><br><br>    为了庆祝新加坡特选学校（SAP school）成立四十周年，我们华文文化学会的学生以圣尼各拉女校的标志性建筑为蓝图，绘制了一幅长卷，献给学校，以画笔书写对母校的感恩之情，希望用一颗颗年轻的心对传统化的精髓加以诠释和传承！<br><br>    2023年将迎来我校建校90周年大庆，会员们正在紧锣密鼓地为母校准备一份表达感恩之情的手工作品。<br></td>
@@ -213,4 +213,4 @@ CCA Highlights
 </tbody>
 </table>
 
-<img src="/images/CCS4.jpeg" style="width:100%">
+<img src="/images/CCS5.jpeg" style="width:100%">
