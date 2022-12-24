@@ -3,4 +3,4 @@ title: Staff by Department
 permalink: /staff/Staff-by-Department/
 description: ""
 ---
-### Aesthetics
+![](/images/staff_sub_banner.jpg)
