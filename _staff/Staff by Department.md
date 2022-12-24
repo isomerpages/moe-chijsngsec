@@ -170,3 +170,86 @@ description: ""
 
 
 #### English
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ex7b{background-color:#DDD;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7b">Staff Name</th>
+    <th class="tg-ex7b">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-096r">Mrs Tham May Fen Candy (HOD / English)</td>
+    <td class="tg-096r">lee_may_fen_candy@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Siti Nur'aini Bte Abdul Rashid (SH / English Literature) </td>
+    <td class="tg-096r">siti_nuraini_abdul_rashid@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Victor Joseph Francis (SH / English Language) </td>
+    <td class="tg-096r">victor_joseph_francis@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Chan Mei Qi Michelle (co-AYH)</td>
+    <td class="tg-096r">chan_mei_qi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Chan Lay Choo Theresa </td>
+    <td class="tg-096r">kiong_lay_choo_theresa@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Jacqueline Lim Xin Yi<br></td>
+    <td class="tg-096r">jacqueline_lim_xin_yi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Juliana Bte Grahan </td>
+    <td class="tg-096r">juliana_grahan@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Koh Wen Jin Marcus</td>
+    <td class="tg-096r">koh_wen_jin_marcus@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Malarvizhi Haugen</td>
+    <td class="tg-096r">malarvizhi_haugen@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Mohammed Khalid Kudabar<br></td>
+    <td class="tg-096r">mohammed_khalid_kudabar@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Nurulhuda Bte Mohammed Arslan </td>
+    <td class="tg-096r">nurulhuda_mohammed_arslan@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Phua Meow Noi </td>
+    <td class="tg-096r">phua_meow_noi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Sng Maria</td>
+    <td class="tg-096r">maria_goretti_tang@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Tan Chork Meng </td>
+    <td class="tg-096r">tan_chork_meng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Tay Li Na</td>
+    <td class="tg-096r">tay_li_na@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
+
+#### Humanities
