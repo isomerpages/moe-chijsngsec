@@ -219,7 +219,7 @@ CCA Highlights
 <thead>
   <tr>
     <th class="tg-frbo"><span style="font-weight:bold">Orator's Trophy</span><br><br>In 2022, our debaters took part in The Orator’s Trophy, a National Oratorical Competition, organised by ACJC. They did us proud by qualifying to the Semi-Finals in the competition where a member emerged as one of the top 6 semi-finalists in the Senior League.<br></th>
-    <th class="tg-frbo"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Debate/Picture2.jpg" alt="Picture2.jpg" width="451" height="335"><br><br></th>
+    <th class="tg-frbo"><img src="/images/Debate1.jpeg" style="width:100%"><br><br></th>
   </tr>
 </thead>
 <tbody>
@@ -240,4 +240,4 @@ CCA Highlights
 
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/Debate1.jpeg" style="width:100%">
