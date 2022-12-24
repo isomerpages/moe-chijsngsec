@@ -51,7 +51,6 @@ Ms Fanny
 
 Tel: 64569943 Tel: 64599860
 
-  
 
 <b>Operating Hours :</b>
 
