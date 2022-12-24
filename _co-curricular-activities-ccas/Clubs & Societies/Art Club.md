@@ -173,3 +173,36 @@ Student Executive Committee(2021 - 2022)
 
 CCA Highlights
 --------------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mezc{color:#F00;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 813px">
+<colgroup>
+<col style="width: 301px">
+<col style="width: 256px">
+<col style="width: 256px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-v41i">SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION <br><br><span style="font-weight:normal">Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition.</span><br><br><span style="font-weight:normal">Their artwork was exhibited at the National Gallery Singapore.</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
+    <th class="tg-mezc"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture2.jpg" alt="Picture2.jpg" width="263" height="289"><span style="font-weight:700;color:#F00"></span><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture4.jpg" alt="Picture4.jpg" width="336" height="250"><span style="font-weight:700;color:#F00"></span><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture6.jpg" alt="Picture6.jpg" width="335" height="188"><span style="font-weight:700;color:#F00"></span></th>
+    <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture3.jpg" alt="Picture3.jpg" width="335" height="251"><span style="color:#222;background-color:transparent"></span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture5.jpg" alt="Picture5.jpg" width="342" height="256"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture7.jpg" alt="Picture7.jpg" width="338" height="190"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-brl1"><span style="font-weight:bold">Doodle Board</span><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
+    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture8.jpg" alt="Picture8.jpg" width="335" height="241"><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture10.jpg" alt="Picture10.jpg" width="332" height="200"></td>
+    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture9.jpg" alt="Picture9.jpg" width="350" height="243"><span style="color:#222;background-color:transparent"></span><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Art%20Club/Picture11.jpg" alt="Picture11.jpg" width="271" height="361"></td>
+  </tr>
+</tbody>
+</table>
