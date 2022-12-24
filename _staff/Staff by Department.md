@@ -459,3 +459,103 @@ description: ""
 </table>
 
 #### Science
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ex7b{background-color:#DDD;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ex7b">Staff Name </th>
+    <th class="tg-ex7b">Email Address </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-096r">Mrs Hoo Boon Leng (HOD / Science)</td>
+    <td class="tg-096r">ng_boon_leng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Tay Kian Hwee (HOD / ICT)</td>
+    <td class="tg-096r">tay_kian_hwee@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Sandra Ong (School Staff Developer)</td>
+    <td class="tg-096r">ong_pei_sze@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Lim Hwee Chin (SH / Physics)<br></td>
+    <td class="tg-096r">lim_hwee_chin@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Chee Yit Ling Melanie (Assistant Year Head (Sec 3)) </td>
+    <td class="tg-096r">chee_yit_ling_melanie@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Lee Ruo-Ning (Senior Teacher)</td>
+    <td class="tg-096r">lee_ruo-ning@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mrs Tan Siew Kim (Senior Teacher)</td>
+    <td class="tg-096r">toh_siew_kim@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Tan Ann Nie (co-AYH)</td>
+    <td class="tg-096r">tan_ann_nie@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Cai Jinhong </td>
+    <td class="tg-096r">cai_jinhong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Chan Kin Chuah  </td>
+    <td class="tg-096r">chan_kin_chuah@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Chang Hao Hsi David </td>
+    <td class="tg-096r">chang_hao_hsi_david@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Cheong Yunling Cheryl </td>
+    <td class="tg-096r">cheong_yunling_cheryl@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Clarissa Lua</td>
+    <td class="tg-096r">lua_yi_wen_clarissa@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Joshua Lee Shan Wei</td>
+    <td class="tg-096r">joshua_shanwei_lee@schools.gov.sg </td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Khor Eng Hao Daniel</td>
+    <td class="tg-096r">khor_eng_hao_daniel@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Koh Zhi-Ti Jason   </td>
+    <td class="tg-096r">koh_zhi-ti_jason@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Lee Yueh Hwa Andy</td>
+    <td class="tg-096r">lee_yueh_hwa@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Ms Panthradil Annie-chacko </td>
+    <td class="tg-096r">panthradil_annie-chacko@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Mr Wan Yew Boon </td>
+    <td class="tg-096r">wan_yew_boon@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-096r">Miss Yee Kah Yin Amy </td>
+    <td class="tg-096r">yee_kah_yin_amy@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
