@@ -219,7 +219,7 @@ CCA Highlights
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">kidsRead Programme @ Ang Mo Kio Pri School</span><br><br>This year, we participated in National Library Board’s kidsRead Programme and partnered Ang Mo Kio Pri School to help identified Pri 1 students to read and instil in them a love for books and reading.<br><br>This was done by conducting story-telling sessions and engaging the students in activities such reading/spelling games to get to know them better and engage them in conversations to help improve their language skills.<br><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture7.jpg" alt="Picture7.jpg" width="421" height="316"><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">kidsRead Programme @ Ang Mo Kio Pri School</span><br><br>This year, we participated in National Library Board’s kidsRead Programme and partnered Ang Mo Kio Pri School to help identified Pri 1 students to read and instil in them a love for books and reading.<br><br>This was done by conducting story-telling sessions and engaging the students in activities such reading/spelling games to get to know them better and engage them in conversations to help improve their language skills.<br><br><br><img src="/images/IJYM4.jpeg" style="width:100%"><br><br><br><br></td>
     <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture5.jpg" alt="Picture5.jpg" width="441" height="329"><span style="color:#222;background-color:transparent"># </span><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/IJYM/Picture6.jpg" alt="Picture6.jpg" width="438" height="327"></td>
   </tr>
   <tr>
@@ -234,4 +234,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/IJYM3.jpeg" style="width:100%">
+<img src="/images/IJYM4.jpeg" style="width:100%">
