@@ -2,4 +2,5 @@ collections:
   info-hub:
     output: true
     order:
+      - Uniform and Books Sale/.keep
       - SN Home Based Learning Infosite.md
