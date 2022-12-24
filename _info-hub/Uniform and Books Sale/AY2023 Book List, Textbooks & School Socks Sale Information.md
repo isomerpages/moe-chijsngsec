@@ -53,7 +53,7 @@ Tel: 64569943 Tel: 64599860
 
   
 
-**Operating Hours :**
+<b>Operating Hours :</b>
 
 Mon - Fri (within school term),
 
