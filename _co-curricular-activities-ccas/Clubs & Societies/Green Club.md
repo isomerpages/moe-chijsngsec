@@ -150,7 +150,7 @@ CCA Highlights
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</span><br><br><span style="color:#494949">We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.</span><br><br><span style="color:#494949">This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.</span><br><br><span style="color:#494949">During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.</span><br><br><span style="color:#494949">In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.</span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/03%20Education%20Drive%20Pic%202.jpg" alt="03 Education Drive Pic 2.jpg" width="297" height="396"></th>
+    <th class="tg-brl1"><span style="font-weight:bold">Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</span><br><br><span style="color:#494949">We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.</span><br><br><span style="color:#494949">This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.</span><br><br><span style="color:#494949">During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.</span><br><br><span style="color:#494949">In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.</span><br><br><img src="/images/GreenClub1.jpeg" style="width:100%"></th>
     <th class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/02%20Education%20Drive%20Pic%201.jpg" alt="02 Education Drive Pic 1.jpg" width="520" height="387"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Green%20Club/04%20Education%20Drive%20Pic%203.jpg" alt="04 Education Drive Pic 3.jpg" width="531" height="394"></th>
   </tr>
 </thead>
@@ -163,4 +163,4 @@ CCA Highlights
 </table>
 
 
-<img src="/images/xxx.png" style="width:80%">
+<img src="/images/GreenClub1.jpeg" style="width:100%">
