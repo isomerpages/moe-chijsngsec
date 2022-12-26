@@ -84,7 +84,7 @@ Note: MySkillsFuture link for Secondary students broken.
     
      *   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](/files/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
      *   [ECG Buzz @ St Nicks (2019 Sem 2 Edition) - Source: MOE ECG BUZZ](/files/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
-     *   [ECG Buzz @ St Nicks (2020 Sem 1 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%201).pdf)
+     *   [ECG Buzz @ St Nicks (2020 Sem 1 Edition) - Source: MOE ECG BUZZ](/files/ECG%20Buzz%20Infographic%20(2020%20Sem%201).pdf)
      *   [ECG Buzz @ St Nicks (2020 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%202).pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
      *   [ECG Newsletter by MOE ECG Counsellors (2020 Term 1)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Newsletter%20by%20MOE%20ECG%20Counsellors%20(2020%20Term%201).pdf)
      *   [ECG Newsletter by MOE ECG Counsellors (2020 Term 2)](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Termly%20Newsletter%20Q2%20Y2020.pdf)
