@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Staff.md
-      - School Leaders and Admin Managers.md
       - School Key Personnel.md
       - Staff by Department.md
