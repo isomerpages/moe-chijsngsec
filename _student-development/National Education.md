@@ -39,3 +39,9 @@ As part of our effort to expose our students to various socio-cultural backgroun
 
 
 <figure><img src="/images/NE4.jpeg" style="width:90%"><figcaption> Our girls, finding out more about Buddhism from the Venerable from Kong Meng San Monastery.</figcaption></figure>
+
+
+<figure><img src="/images/NE5.jpeg" style="width:50%"><figcaption> There were much laughter and chatter as our girls interacted with their new friends of the Muslim faith.</figcaption></figure>
+
+
+<figure><img src="/images/NE6.png" style="width:75%"><figcaption> Having tea at the communal canteen of the Sikh Temple.</figcaption></figure>
