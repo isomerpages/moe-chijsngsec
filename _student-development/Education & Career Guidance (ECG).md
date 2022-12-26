@@ -82,7 +82,7 @@ Note: MySkillsFuture link for Secondary students broken.
 
    *    [Brief Info on DSA-JC& Poly EAE (updated as of May 2019)](/files/Brief%20Info%20on%20DSA-JC%20&%20Poly%20EAE%20(updated%20as%20of%202019).pdf)
     
-     *   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
+     *   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](/files/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
      *   [ECG Buzz @ St Nicks (2019 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
      *   [ECG Buzz @ St Nicks (2020 Sem 1 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%201).pdf)
      *   [ECG Buzz @ St Nicks (2020 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%202).pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
