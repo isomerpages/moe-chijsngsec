@@ -74,3 +74,9 @@ ECG is about equipping students with the necessary knowledge, skills and values 
 Link for Secondary students: [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)
 
 Note: MySkillsFuture link for Secondary students broken.
+
+
+*
+    * In-house ECG Counsellor (Ms Corinne Tan)
+		*   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
+		[www.tinyurl.com/sngsecgappt](http://www.tinyurl.com/sngsecgappt) or scan the QR Code on the right.
