@@ -9,7 +9,7 @@ description: ""
 Announcement
 ============
 
-### **First Day of School**
+### First Day of School
 
 Dear students, please view this [attached pdf](/files/2023%20First%20Day%20of%20School%20Info%20.pdf) on important information for first day of school. 
 
