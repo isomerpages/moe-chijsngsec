@@ -3,8 +3,6 @@ title: Science
 permalink: /academic/Science/
 description: ""
 ---
-
-
 ![](/images/Learning-@-St-Nicks_v2.jpg)
 
 
@@ -47,4 +45,4 @@ Students are exposed to a wide range of experiential opportunities where they ca
   
 
 *   Science Talent Development Programme  
-    Click [here](/key-programmes/Talent-Development/Science-Talent-Development-Programme/) to find out more!
+    Click [here](/flagship-programmes/Talent-Development/Science-Talent-Development-Programme/) to find out more!
