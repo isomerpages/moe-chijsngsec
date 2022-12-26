@@ -3,8 +3,6 @@ title: Humanities
 permalink: /academic/Humanities/
 description: ""
 ---
-
-
 ![](/images/Learning-@-St-Nicks_v2.jpg)
 
 
@@ -47,4 +45,4 @@ Geographical, Historical and Social Studies Investigations through fieldwork for
 Students are exposed to the idea that concepts and real world situations do not exist in a single subject silo but are multidisciplinary. As such, humanities projects at the lower secondary level are integrated with other subjects to highlight the importance of broadening students’ perspectives and understanding of local and regional issues. For example, the Secondary 1 MacRitchie Interdisciplinary project seeks to provide an authentic learning experience, engaging students in experiential learning of Mathematics, Science and Geography. It provides opportunities for the students to carry out scientific investigation of water quality. The students will learn to be a concerned and responsible citizen as they unpack the problem of water scarcity and examine the effectiveness of measures in ensuring sustainability of water in Singapore. Similarly, the Secondary 2 Interdisciplinary project on Food provides similar real world learning of History, Geography and Food and Consumer Education. Students are introduced to the history and geography of food, whereupon they are tasked to create a local dish incorporating their knowledge of food science as well as the history and geography of these dishes.    
   
 <b>Humanities Talent Development Programme (HTDP)</b>  
-The [HTDP](/key-programmes/Talent-Development/Humanities-Talent-Development-Programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. Students on board the programme are given opportunities to broaden their exposure of the Humanities, and undertake a Humanities Research Study under the close guidance of mentors.
+The [HTDP](/flagship-programmes/Talent-Development/Humanities-Talent-Development-Programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. Students on board the programme are given opportunities to broaden their exposure of the Humanities, and undertake a Humanities Research Study under the close guidance of mentors.
