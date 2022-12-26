@@ -33,3 +33,37 @@ ECG is about equipping students with the necessary knowledge, skills and values 
 </table>
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-km2t{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-km2t">3 KEY QUESTIONS FOR STUDENTS</td>
+  </tr>
+</thead>
+</table>
+
+![](/images/ECG%202020%20Pic%201.png)
+
+1.  Who am I?  
+    
+2.  Where am I going?  
+    
+3.  How do I get there?
+
+
+<b>RESOURCES AVAILABLE</b>
+
+*   <b>FOR STUDENTS</b>
+
+    *   <b>MySkillsFuture Portal – Profiling and Careers Information</b> 
+
+        *   A one-stop ECG portal that empowers our students to embark on a journey of self-discovery and make informed education and career choices. 
+        *   Students may use the information and tools to explore various education and career pathways, and take charge of their future. 
+         *    Parents may navigate the portal with their child, using their child's account, and take the opportunity to begin an ECG conversation.
