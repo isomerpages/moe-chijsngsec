@@ -308,7 +308,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture4%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture4 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="413" height="310"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
     <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture5%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture5 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="423" height="317"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture6%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture6 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="432" height="324"></td>
   </tr>
   <tr>
@@ -331,4 +331,4 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 </table>
 
 
-<img src="/images/2022%20Student%20Council%20Elections.jpeg" style="width:100%">
+<img src="/images/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%">
