@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: CHIJ St. Nicholas Girls' School (Secondary)
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
