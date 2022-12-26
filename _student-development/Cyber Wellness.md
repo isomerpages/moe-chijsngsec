@@ -144,15 +144,15 @@ We have also included some resources that may be helpful for understanding your 
 
 <b>Acknowledgements:</b>   
 
-*   <i>Media Literacy Council: [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
+*   <i>Media Literacy Council:</i> [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
     
-*   National Crime Prevention Council: [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
+*   <i>National Crime Prevention Council:</i> [https://www.scamalert.sg/resources/videos](https://www.scamalert.sg/resources/videos)
     
-*   National Library Board: [https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)
+*   <i>National Library Board:</i> [https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/)
     
-*   Cyber Security Agency: [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)
+*   <i>Cyber Security Agency:</i> [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)
     
-*   Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)</i>
+*   <i>Ministry of Education:</i> [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)</i>
 
 Note: Ministry of Education link broken.
 
