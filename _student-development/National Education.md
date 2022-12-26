@@ -45,3 +45,6 @@ As part of our effort to expose our students to various socio-cultural backgroun
 
 
 <figure><img src="/images/NE6.png" style="width:75%"><figcaption> Having tea at the communal canteen of the Sikh Temple.</figcaption></figure>
+
+
+In engaging the “<b>Hands</b>”, students are actively involved in reaching out to the communities in need. Partnerships with our Primary counterparts and external organisations are made possible through SNGS Gives Back initiative, various Values-in-Action projects as well as through involvement in camps. Through active participation in these programmes, our students gain important 21 CC skills such as civic literacy, cross-cultural and collaboration skills. These experiences also allow them to identify their personal strengths and interests, which will in turn, provide them with the opportunities to lead, contribute to and create Singapore’s future. They have also enabled our students to learn to see beyond themselves, their family and friends, and look towards service to society and nation. This will help our students to foster connections between them and the community, instilling in them a sense of compassion for others.
