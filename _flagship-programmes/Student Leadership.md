@@ -394,19 +394,19 @@ Candidates should have:
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 2</span></td>
-    <td class="tg-y7qa" colspan="3"><span style="font-weight:bold">Singapore Kindness Movement (SKM)</span><br>Planning and execution of project that lasts about 4 months (off-peak periods)<br>Themes range from Cyber Wellness, Embracing diversity, Appreciating our neighbours, Mental Wellness, etc<br>Mentored by Leadership teachers, pitching to Sch Leaders</td>
+    <td class="tg-y7qa" colspan="3"><span style="font-weight:bold">Singapore Kindness Movement (SKM)</span><br>• Planning and execution of project that lasts about 4 months (off-peak periods)<br>• Themes range from Cyber Wellness, Embracing diversity, Appreciating our neighbours, Mental Wellness, etc<br>• Mentored by Leadership teachers, pitching to Sch Leaders</td>
     <td class="tg-y7qa"><span style="font-weight:bold">External conferences</span> <span style="color:#222;background-color:#EAEAEA">such as Open Little Eyes Conference (SCGS)</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for P5 Cohort Camp</span><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Sec 3</span></td>
     <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">S1 - S3 </span><span style="font-weight:bold">Buddy System</span><span style="color:#222;background-color:#EAEAEA"> (be a mentor) </span><br><br><br><br><br><br><br></td>
-    <td class="tg-y7qa" colspan="2"><span style="font-weight:bold">Organisational Leadership (Pinnacle Programme) for Sec 3 &amp; 4</span><br><br><br>Networking with top leaders in SNGS<br>Talks by external leaders (eg: Industry visit, Sharing by top athletes, inspirational speakers, Alumni 姐姐们)<br>Strategic planning within area of leadership (Eg: Council, CCA, etc)</td>
+    <td class="tg-y7qa" colspan="2"><span style="font-weight:bold">Organisational Leadership (Pinnacle Programme) for Sec 3 &amp; 4</span><br><br><br>• Networking with top leaders in SNGS<br>• Talks by external leaders (eg: Industry visit, Sharing by top athletes, inspirational speakers, Alumni 姐姐们)<br>• Strategic planning within area of leadership (Eg: Council, CCA, etc)</td>
     <td class="tg-y7qa"><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for Sec 1 Orientation Camp</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for Sec 2 AA Camp</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for P5 Cohort Camp</span><br><br></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Sec 4</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa" colspan="2">Networking with other top leaders <br>Mosque visit and breaking fast together (with Madrasah students)</td>
+    <td class="tg-y7qa" colspan="2">• Networking with other top leaders <br>• Mosque visit and breaking fast together (with Madrasah students)</td>
     <td class="tg-y7qa"><span style="font-weight:bold">Organisers</span> <span style="color:#222;background-color:#EAEAEA">for Sec 1 Orientation Camp </span></td>
   </tr>
 </tbody>
