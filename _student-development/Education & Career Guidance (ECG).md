@@ -72,7 +72,7 @@ Link for Secondary students: [www.myskillsfuture.sg/secondary](http://www.myski
 
 Note: MySkillsFuture link for Secondary students broken.
 
-<img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right">
+* <img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right">
     
    * In-house ECG Counsellor (Ms Corinne Tan)
        *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
@@ -80,7 +80,7 @@ Note: MySkillsFuture link for Secondary students broken.
 		
 
 
-     *   [Brief Info on DSA-JC& Poly EAE (updated as of May 2019)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/Brief%20Info%20on%20DSA-JC%20&%20Poly%20EAE%20(updated%20as%20of%202019).pdf)  
+   *   [Brief Info on DSA-JC& Poly EAE (updated as of May 2019)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/Brief%20Info%20on%20DSA-JC%20&%20Poly%20EAE%20(updated%20as%20of%202019).pdf)  
     
      *   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
      *   [ECG Buzz @ St Nicks (2019 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
