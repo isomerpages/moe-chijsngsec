@@ -31,18 +31,18 @@ Venue: Booth set-up at Family Lounge (for School Uniform) and Booth set-up at Sc
 
 ### 2023 Booklist
 
-Sec 1/Year 1  
-[Sec 1 (O-level)](/files/Sec%201%20O-Level%20booklist.pdf)   |    [Year 1 (IP)](/files/Year%201%20IP%20booklist.pdf)
+ 
+[Sec 1 (O-level)](/files/Sec%201%20O-Level%20booklist.pdf) , [Year 1 (IP)](/files/Year%201%20IP%20booklist.pdf)
   
-Sec 2/Year 2  
-[S2 O-Level Booklist.pdf](/files/Sec%202%20O-Level%20booklist.pdf)    |    [Year 2 IP Booklist.pdf](/files/Year%202%20IP%20booklist.pdf)
+
+[Sec 2 (O-level)](/files/Sec%202%20O-Level%20booklist.pdf), [Year 2 (IP)](/files/Year%202%20IP%20booklist.pdf)
   
-Sec 3/Year 3  
-[S3 O-Level Booklist.pdf](/files/Sec%203%20O-Level%20booklist.pdf)    |    [Year 3 IP Booklist.pdf](/files/Year%203%20IP%20booklist.pdf)
+
+[Sec 3 (O-level)](/files/Sec%203%20O-Level%20booklist.pdf), [Year 3 (IP)](/files/Year%203%20IP%20booklist.pdf)
 
   
-Sec 4/Year 4  
-[S4 O-Level Booklist.pdf](/files/Sec%204%20O-Level%20booklist.pdf)    |    [Year 4 IP Booklist.pdf](/files/Year%204%20IP%20booklist.pdf)
+
+[Sec 4 (O-level)](/files/Sec%204%20O-Level%20booklist.pdf),[Year 4 (IP)](/files/Year%204%20IP%20booklist.pdf)
 
 ### Feedback? Email us!
 
