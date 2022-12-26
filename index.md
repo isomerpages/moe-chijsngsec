@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: News & Announcements
           description: ""
-          url: https://google.com
+          url: /News-and-Announcements/
 ---
