@@ -414,3 +414,6 @@ Candidates should have:
 
 
 <figure><img src="/images/DSA%20Student%20Leaders%20Planning%20SNGS%20Primary%20P4%20NE%20Camp.jpeg" style="width:100%"><figcaption> DSA Student Leaders Planning SNGS Primary P4 NE Camp</figcaption></figure>
+
+
+<figure><img src="/images/DSA%20Student%20Leaders%20Pitching%20Ideas%20for%20Singapore%20Kindness%20Movement.jpeg" style="width:100%"><figcaption> DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</figcaption></figure>
