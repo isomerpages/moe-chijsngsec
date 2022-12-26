@@ -411,3 +411,6 @@ Candidates should have:
   </tr>
 </tbody>
 </table>
+
+
+<figure><img src="/images/DSA%20Student%20Leaders%20Planning%20SNGS%20Primary%20P4%20NE%20Camp.jpeg" style="width:100%"><figcaption> DSA Student Leaders Planning SNGS Primary P4 NE Camp</figcaption></figure>
