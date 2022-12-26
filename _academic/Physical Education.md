@@ -3,8 +3,6 @@ title: Physical Education
 permalink: /academic/Physical-Education/
 description: ""
 ---
-
-
 ![](/images/Learning-@-St-Nicks_v2.jpg)
 
 <b>Our Philosophy</b>   
@@ -38,7 +36,7 @@ Secondary 4 – Advance Skills Development 
 <b>Academic Curriculum</b>  
 Sec 3/4 – Exercise and Sports Science (O Level Programme)  
   
-<b>DSA Sports & Games</b> \- [Sports Excellence Programme](/key-programmes/Talent-Development/Sports-Excellence-Programme/)
+<b>DSA Sports & Games</b> \- [Sports Excellence Programme](/flagship-programmes/Talent-Development/Sports-Excellence-Programme/)
 
 <b>Enrichment Curriculum</b>  
 \- Games Carnival   
