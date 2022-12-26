@@ -80,3 +80,7 @@ Note: MySkillsFuture link for Secondary students broken.
     * In-house ECG Counsellor (Ms Corinne Tan)
 		*   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
 		[www.tinyurl.com/sngsecgappt](http://www.tinyurl.com/sngsecgappt) or scan the QR Code on the right.
+		
+		
+<img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right">
+
