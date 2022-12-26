@@ -19,7 +19,7 @@ Dear 2023 Sec 1 students,
 
 Congratulations on your posting to CHIJ St Nicholas Girls' School.
 
-Please refer to [this pdf](http://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u522/Pop-ups/2023%20Sec%201%20Posting%20Result.pdf "Info for 2023 Sec 1 ") for details regarding the Sec 1 Orientation Day.
+Please refer to [this pdf](/files/2023%20Sec%201%20Posting%20Result.pdf) for details regarding the Sec 1 Orientation Day.
 
 ### Sale of School Uniform & PE Attire
 
