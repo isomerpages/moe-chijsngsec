@@ -316,7 +316,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
     <td class="tg-ii8k"><img src="/images/SL4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture9%20Student%20Council%20S2%20Leadership%20Camp.jpg" alt="Picture9 Student Council S2 Leadership Camp.jpg" width="431" height="199"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/SL5.jpeg" style="width:100%"></td>
     <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture8%20Student%20Council%20S2%20Leadership%20Camp.jpg" alt="Picture8 Student Council S2 Leadership Camp.jpg" width="352" height="468"></td>
   </tr>
   <tr>
@@ -331,4 +331,4 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 </table>
 
 
-<img src="/images/SL4.jpeg" style="width:100%">
+<img src="/images/SL5.jpeg" style="width:100%">
