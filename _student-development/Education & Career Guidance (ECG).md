@@ -67,39 +67,30 @@ ECG is about equipping students with the necessary knowledge, skills and values 
         *   A one-stop ECG portal that empowers our students to embark on a journey of self-discovery and make informed education and career choices. 
         *   Students may use the information and tools to explore various education and career pathways, and take charge of their future. 
          *    Parents may navigate the portal with their child, using their child's account, and take the opportunity to begin an ECG conversation.
-
-
-
-![](/images/2020%20ECG%20Picture%202.jpg)
+ ![](/images/2020%20ECG%20Picture%202.jpg)
 Link for Secondary students: [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)
 
 Note: MySkillsFuture link for Secondary students broken.
 
-
-*
-    * In-house ECG Counsellor (Ms Corinne Tan)
-		*   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
+<img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right">
+    
+   * In-house ECG Counsellor (Ms Corinne Tan)
+       *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
 		[www.tinyurl.com/sngsecgappt](http://www.tinyurl.com/sngsecgappt) or scan the QR Code on the right.
 		
-		
-<img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align = "right">
 
 
-  
-
-
-*   [Brief Info on DSA-JC& Poly EAE (updated as of May 2019)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/Brief%20Info%20on%20DSA-JC%20&%20Poly%20EAE%20(updated%20as%20of%202019).pdf)  
+     *   [Brief Info on DSA-JC& Poly EAE (updated as of May 2019)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/Brief%20Info%20on%20DSA-JC%20&%20Poly%20EAE%20(updated%20as%20of%202019).pdf)  
     
-*   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
-*   [ECG Buzz @ St Nicks (2019 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
-*   [ECG Buzz @ St Nicks (2020 Sem 1 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%201).pdf)
-*   [ECG Buzz @ St Nicks (2020 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%202).pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
-*   [ECG Newsletter by MOE ECG Counsellors (2020 Term 1)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Newsletter%20by%20MOE%20ECG%20Counsellors%20(2020%20Term%201).pdf)
-*   [ECG Newsletter by MOE ECG Counsellors (2020 Term 2)](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Termly%20Newsletter%20Q2%20Y2020.pdf)
-*   [ECG Newsletter by MOE ECG Counsellors (2020 Term 3)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Termly%20Newsletter%20Q3%20Y2020.pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Newsletter%20by%20MOE%20ECG%20Counsellors%20(2020%20Term%201).pdf)
-
-
-
+     *   [ECG Buzz @ St Nicks (2019 Sem 1 Edition)  - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%201%20Edition).pdf)
+     *   [ECG Buzz @ St Nicks (2019 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
+     *   [ECG Buzz @ St Nicks (2020 Sem 1 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%201).pdf)
+     *   [ECG Buzz @ St Nicks (2020 Sem 2 Edition) - Source: MOE ECG BUZZ](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20Infographic%20(2020%20Sem%202).pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Buzz%20@%20St%20Nicks%20(2019%20Sem%202%20Edition).pdf)
+     *   [ECG Newsletter by MOE ECG Counsellors (2020 Term 1)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Newsletter%20by%20MOE%20ECG%20Counsellors%20(2020%20Term%201).pdf)
+     *   [ECG Newsletter by MOE ECG Counsellors (2020 Term 2)](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Termly%20Newsletter%20Q2%20Y2020.pdf)
+     *   [ECG Newsletter by MOE ECG Counsellors (2020 Term 3)](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Termly%20Newsletter%20Q3%20Y2020.pdf) [](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/ECG%202020/ECG%20Newsletter%20by%20MOE%20ECG%20Counsellors%20(2020%20Term%201).pdf)
+		
+		
 *   <b>FOR PARENTS</b>
 
     *   <i>Journeying with Our Children, Achieving their Aspirations</i>
