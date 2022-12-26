@@ -3,8 +3,6 @@ title: Joint Integrated Programme
 permalink: /joint-integrated-programme/Joint-Integrated-Programme/
 description: ""
 ---
-
-
 ![](/images/Learning-@-St-Nicks_v2.jpg)
 
 <b>Introduction</b>
