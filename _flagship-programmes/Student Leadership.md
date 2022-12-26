@@ -286,3 +286,46 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">2022 Student Council Presidential Elections</span></th>
+    <th class="tg-pll1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture3%202022%20Student%20Council%20Elections.jpg" alt="Picture3 2022 Student Council Elections.jpg" width="432" height="181"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture4%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture4 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="413" height="310"></td>
+    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture5%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture5 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="423" height="317"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture6%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture6 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="432" height="324"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
+    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture7%20Student%20Council%20Fortnightly%20Touchpoints.jpg" alt="Picture7 Student Council Fortnightly Touchpoints.jpg" width="429" height="320"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture9%20Student%20Council%20S2%20Leadership%20Camp.jpg" alt="Picture9 Student Council S2 Leadership Camp.jpg" width="431" height="199"></td>
+    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture8%20Student%20Council%20S2%20Leadership%20Camp.jpg" alt="Picture8 Student Council S2 Leadership Camp.jpg" width="352" height="468"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 Pinnacle </span></td>
+    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture10%202022%20Pinnacle.jpg" alt="Picture10 2022 Pinnacle.jpg" width="411" height="308"><span style="color:#222;background-color:#EAEAEA"># </span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> 16th Student Council Leading Teacher’s Day Celebrations</span></td>
+    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture11%2016th%20Student%20Council%20Leading%20Teachers%20Day%20Celebrations.jpg" alt="Picture11 16th Student Council Leading Teachers Day Celebrations.jpg" width="407" height="541"></td>
+  </tr>
+</tbody>
+</table>
