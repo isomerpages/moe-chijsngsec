@@ -11,7 +11,7 @@ Announcement
 
 ### **First Day of School**
 
-Dear students, please view this [attached pdf](http://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u570/News%20&%20Announcements/2023%20First%20Day%20of%20School%20Info%20.pdf "Impt info for 1st day of school") on important information for first day of school. 
+Dear students, please view this [attached pdf](/files/2023%20First%20Day%20of%20School%20Info%20.pdf) on important information for first day of school. 
 
 ### 2023 Sec 1 Orientation Day (27 Dec 22)
 
