@@ -309,7 +309,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 <tbody>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
-    <td class="tg-ii8k"><img src="/images/SL1.jpeg" style="width:100%"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture6%20Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpg" alt="Picture6 Serving the Community at the Kebun Baru Community Club Digital Family Day.jpg" width="432" height="324"></td>
+    <td class="tg-ii8k"><img src="/images/SL1.jpeg" style="width:100%"><img src="/images/SL2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
@@ -331,4 +331,4 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 </table>
 
 
-<img src="/images/SL1.jpeg" style="width:100%">
+<img src="/images/SL2.jpeg" style="width:100%">
