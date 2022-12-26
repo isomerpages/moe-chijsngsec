@@ -373,7 +373,6 @@ Candidates should have:
 .tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -388,9 +387,9 @@ Candidates should have:
 <tbody>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 1</span></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">S1 - S3</span> Buddy System <span style="color:#222;background-color:#EAEAEA">(be mentored)</span><br><br><br></td>
-    <td class="tg-rj1p">Environment<span style="color:#222;background-color:#EAEAEA">  - Share and brief about objectives for our Cohort S1 VIA Activity (AMK Town Council)</span><br></td>
-    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">OnePeople SG’s</span> Culture Scope<br><br><br><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">S1 - S3</span> <span style="font-weight:bold">Buddy System </span><span style="color:#222;background-color:#EAEAEA">(be mentored)</span><br><br><br></td>
+    <td class="tg-y7qa"><span style="font-weight:bold">Environment</span><span style="color:#222;background-color:#EAEAEA">  - Share and brief about objectives for our Cohort S1 VIA Activity (AMK Town Council)</span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">OnePeople SG’s</span> <span style="font-weight:bold">Culture Scope</span><br><br><br><br></td>
     <td class="tg-y7qa"><span style="font-weight:bold">Game Facilitators</span><br><span style="color:#222;background-color:#EAEAEA">for P4 National Education Camp</span><br><br><br></td>
   </tr>
   <tr>
