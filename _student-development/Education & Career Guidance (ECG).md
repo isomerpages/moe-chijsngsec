@@ -71,3 +71,6 @@ ECG is about equipping students with the necessary knowledge, skills and values 
 
 
 ![](/images/2020%20ECG%20Picture%202.jpg)
+Link for Secondary students: [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)
+
+Note: MySkillsFuture link for Secondary students broken.
