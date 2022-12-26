@@ -32,7 +32,7 @@ Venue: Booth set-up at Family Lounge (for School Uniform) and Booth set-up at Sc
 ### 2023 Booklist
 
 Sec 1/Year 1  
-[Sec 1 (O-level)](/files/Sec%201%20O-Level%20booklist.pdf)   |    [S1 Year 1 IP Booklist.pdf](/files/Year%201%20IP%20booklist.pdf)
+[Sec 1 (O-level)](/files/Sec%201%20O-Level%20booklist.pdf)   |    [Year 1 (IP)](/files/Year%201%20IP%20booklist.pdf)
   
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](/files/Sec%202%20O-Level%20booklist.pdf)    |    [Year 2 IP Booklist.pdf](/files/Year%202%20IP%20booklist.pdf)
