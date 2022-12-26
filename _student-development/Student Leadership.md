@@ -286,3 +286,134 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-j0e3{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">2022 Student Council Presidential Elections</span></th>
+    <th class="tg-pll1"><img src="/images/2022%20Student%20Council%20Elections.jpeg" style="width:100%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/SL1.jpeg" style="width:100%"><img src="/images/SL2.jpeg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
+    <td class="tg-ii8k"><img src="/images/SL4.jpeg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/SL5.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/SL6.jpeg" style="width:100%"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 Pinnacle </span></td>
+    <td class="tg-ii8k"><img src="/images/SL7.jpeg" style="width:100%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+  </tr>
+  <tr>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> 16th Student Council Leading Teacher’s Day Celebrations</span></td>
+    <td class="tg-ii8k"><img src="/images/SL8.jpeg" style="width:100%"></td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Through our DSA (Leadership) programme, we aim to develop leaders who:</b>  
+  
+
+*   are passionate and committed to the service of others and the community
+*   possess and demonstrate the qualities of ‘leaders with heart’
+
+<b>Criteria</b>  
+
+Candidates should have:
+
+*   attained leadership positions in primary school (e.g. Head/Vice-Head Prefect, CCA heads etc.) or;
+*   led in community/service projects (e.g. Value-in-Action projects with school/community wide impact) or;
+*   been recognised by the school/community/external organisation(s) for their contribution (e.g. EAGLES (Leadership) award, ECHA, Brownies Chief Commissioner’s Award etc.)
+*   have demonstrated overall readiness to benefit from our JIP or ‘O’ level programme (Candidates are encouraged to indicate their preference for JIP or ‘O’ levels)
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-aw21">Leadership Development at SNGS for DSA (Leadership) Students</td>
+  </tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Level</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Mentoring</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Theme-based Exposure</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Cross-cultural Exposure</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Leadership Camps</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 1</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">S1 - S3</span> <span style="font-weight:bold">Buddy System </span><span style="color:#222;background-color:#EAEAEA">(be mentored)</span><br><br><br></td>
+    <td class="tg-y7qa"><span style="font-weight:bold">Environment</span><span style="color:#222;background-color:#EAEAEA">  - Share and brief about objectives for our Cohort S1 VIA Activity (AMK Town Council)</span><br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">OnePeople SG’s</span> <span style="font-weight:bold">Culture Scope</span><br><br><br><br></td>
+    <td class="tg-y7qa"><span style="font-weight:bold">Game Facilitators</span><br><span style="color:#222;background-color:#EAEAEA">for P4 National Education Camp</span><br><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 2</span></td>
+    <td class="tg-y7qa" colspan="3"><span style="font-weight:bold">Singapore Kindness Movement (SKM)</span><br>• Planning and execution of project that lasts about 4 months (off-peak periods)<br>• Themes range from Cyber Wellness, Embracing diversity, Appreciating our neighbours, Mental Wellness, etc<br>• Mentored by Leadership teachers, pitching to Sch Leaders</td>
+    <td class="tg-y7qa"><span style="font-weight:bold">External conferences</span> <span style="color:#222;background-color:#EAEAEA">such as Open Little Eyes Conference (SCGS)</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for P5 Cohort Camp</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Sec 3</span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">S1 - S3 </span><span style="font-weight:bold">Buddy System</span><span style="color:#222;background-color:#EAEAEA"> (be a mentor) </span><br><br><br><br><br><br><br></td>
+    <td class="tg-y7qa" colspan="2"><span style="font-weight:bold">Organisational Leadership (Pinnacle Programme) for Sec 3 &amp; 4</span><br><br><br>• Networking with top leaders in SNGS<br>• Talks by external leaders (eg: Industry visit, Sharing by top athletes, inspirational speakers, Alumni 姐姐们)<br>• Strategic planning within area of leadership (Eg: Council, CCA, etc)</td>
+    <td class="tg-y7qa"><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for Sec 1 Orientation Camp</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for Sec 2 AA Camp</span><br><br><span style="font-weight:bold">Game Facilitators</span><span style="color:#222;background-color:#EAEAEA"> for P5 Cohort Camp</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Sec 4</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-y7qa" colspan="2">• Networking with other top leaders <br>• Mosque visit and breaking fast together (with Madrasah students)</td>
+    <td class="tg-y7qa"><span style="font-weight:bold">Organisers</span> <span style="color:#222;background-color:#EAEAEA">for Sec 1 Orientation Camp </span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<figure><img src="/images/DSA%20Student%20Leaders%20Planning%20SNGS%20Primary%20P4%20NE%20Camp.jpeg" style="width:100%"><figcaption> DSA Student Leaders Planning SNGS Primary P4 NE Camp</figcaption></figure>
+
+
+<figure><img src="/images/DSA%20Student%20Leaders%20Pitching%20Ideas%20for%20Singapore%20Kindness%20Movement.jpeg" style="width:100%"><figcaption> DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</figcaption></figure>
