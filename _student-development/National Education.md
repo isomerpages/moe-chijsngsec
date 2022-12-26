@@ -33,3 +33,9 @@ In engaging the “<b>Heart</b>”, students connect emotionally with the Singap
 ![](/images/NE.png)
 
 As part of our effort to expose our students to various socio-cultural backgrounds, learning journeys to different places of worship were organised for both Character and Citizenship Education (CCE) and National Education (NE) leaders. The girls learnt about the multiple facets of different religions, as they interacted with the religious leaders from the Sri Mariamman temple; Kong Meng San Monastery; An-Nahdhah Mosque and the Gurdwara Sahib Silat Road Sikh Temple.
+
+
+<figure><img src="/images/NE3.jpeg" style="width:90%"><figcaption> Our students, after a guided visit to the Sri Mariamman Temple by our teacher, Ms Punitha Ramanathan.</figcaption></figure>
+
+
+<figure><img src="/images/NE4.jpeg" style="width:90%"><figcaption> Our girls, finding out more about Buddhism from the Venerable from Kong Meng San Monastery.</figcaption></figure>
