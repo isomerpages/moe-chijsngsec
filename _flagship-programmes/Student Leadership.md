@@ -303,7 +303,7 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 <thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">2022 Student Council Presidential Elections</span></th>
-    <th class="tg-pll1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture3%202022%20Student%20Council%20Elections.jpg" alt="Picture3 2022 Student Council Elections.jpg" width="432" height="181"></th>
+    <th class="tg-pll1"><img src="/images/2022%20Student%20Council%20Elections.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
@@ -329,3 +329,6 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
   </tr>
 </tbody>
 </table>
+
+
+<img src="/images/2022%20Student%20Council%20Elections.jpeg" style="width:100%">
