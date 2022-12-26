@@ -321,14 +321,27 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 Pinnacle </span></td>
-    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture10%202022%20Pinnacle.jpg" alt="Picture10 2022 Pinnacle.jpg" width="411" height="308"><span style="color:#222;background-color:#EAEAEA"># </span></td>
+    <td class="tg-ii8k"><img src="/images/SL7.jpeg" style="width:100%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> 16th Student Council Leading Teacher’s Day Celebrations</span></td>
-    <td class="tg-ii8k"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Student%20Development/Student%20Leadership/Picture11%2016th%20Student%20Council%20Leading%20Teachers%20Day%20Celebrations.jpg" alt="Picture11 16th Student Council Leading Teachers Day Celebrations.jpg" width="407" height="541"></td>
+    <td class="tg-ii8k"><img src="/images/SL8.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 
-<img src="/images/SL6.jpeg" style="width:100%">
+<b>Through our DSA (Leadership) programme, we aim to develop leaders who:</b>  
+  
+
+*   are passionate and committed to the service of others and the community
+*   possess and demonstrate the qualities of ‘leaders with heart’
+
+<b>Criteria</b>  
+
+Candidates should have:
+
+*   attained leadership positions in primary school (e.g. Head/Vice-Head Prefect, CCA heads etc.) or;
+*   led in community/service projects (e.g. Value-in-Action projects with school/community wide impact) or;
+*   been recognised by the school/community/external organisation(s) for their contribution (e.g. EAGLES (Leadership) award, ECHA, Brownies Chief Commissioner’s Award etc.)
+*   have demonstrated overall readiness to benefit from our JIP or ‘O’ level programme (Candidates are encouraged to indicate their preference for JIP or ‘O’ levels)
