@@ -5,6 +5,9 @@ description: ""
 ---
 ![](/images/Student-Development_v2.jpg)
 
+Values Education
+================
+
 1.Character and Values Education underpin the school curriculum, consistent with the school vision of ‘Girls with Grace, Women with Strength and Leaders with Heart’. Our school values are being explicitly taught in the formal and informal curriculum, guiding and providing the purpose for our students’ right behaviours. Platforms are purposefully put in place to develop 21CC skills such as Civic-Literacy, Global Awareness & Cross-Cultural Skills; Critical and inventive thinking; Communication, Collaboration and Information skills among our girls.   
       
     
