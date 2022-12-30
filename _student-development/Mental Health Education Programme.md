@@ -70,7 +70,10 @@ We have also included some resources that may be helpful for understanding your 
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">G5 </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Destigmatise mental illness</span><br><br><br><br></td>
     <td class="tg-y7qa">Sub-topics: Stigma/ Mental Illnesses<br>Stereotypes and stigma of mental illnesses </td>
-    <td class="tg-y7qa">https://go.gov.sg/z96mra</td>
+    <td class="tg-y7qa">https://go.gov.sg/z96mra<br><span style="color:#222;background-color:#EAEAEA"> </span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k" colspan="4"><br><img src="/images/Mental%20Health%20Programme.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
