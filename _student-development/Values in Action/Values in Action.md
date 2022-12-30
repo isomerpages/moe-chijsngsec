@@ -6,6 +6,9 @@ third_nav_title: Values in Action
 ---
 ![](/images/Student-Development_v2.jpg)
 
+Values in Action
+================
+
 <u><b>CHIJ SNGS Values-in-Action(VIA) Framework:</b></u>
 
 <u><b>Service beyond Self and School</b></u>
