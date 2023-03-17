@@ -11,4 +11,5 @@ sections:
         - title: News & Announcements
           description: ""
           url: /News-and-Announcements/
+      background: /images/Secondary_Banner.gif
 ---
