@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Main
+        - title: SNGS Main
           description: ""
-          url: ""
-        - title: Primary
+          url: https://chijstnicholasgirls.moe.edu.sg/
+        - title: SNGS Primary
           description: ""
           url: ""
       background: /images/Secondary_Banner.gif
