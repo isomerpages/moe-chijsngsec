@@ -13,7 +13,7 @@ sections:
           url: https://chijstnicholasgirls.moe.edu.sg/
         - title: SNGS Primary
           description: ""
-          url: ""
+          url: https://chijstnicholasgirls.moe.edu.sg/primary
       background: /images/Secondary_Banner.gif
   - resources:
       button: View All
