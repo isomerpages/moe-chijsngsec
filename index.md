@@ -8,9 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: News & Announcements
+        - title: Main
           description: ""
-          url: /News-and-Announcements/
+          url: ""
+        - title: Primary
+          description: ""
+          url: ""
       background: /images/Secondary_Banner.gif
   - resources:
       button: View All
