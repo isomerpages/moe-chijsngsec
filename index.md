@@ -12,4 +12,6 @@ sections:
           description: ""
           url: /News-and-Announcements/
       background: /images/Secondary_Banner.gif
+  - resources:
+      button: View All
 ---
