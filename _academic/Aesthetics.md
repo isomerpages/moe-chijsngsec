@@ -13,19 +13,19 @@ The appreciation of Aesthetics helps us connect with one another through multimo
 Self-expression, creativity and innovation are core guiding principles in our curriculum. Through formal curriculum and school-wide programmes, you will have a myriad of opportunities to express your creativity multi-modally. You will also enjoy a plethora of showcase and performance opportunities, and even a chance to participate in local and international competitions. For students who are interested to deepen your learning, you can also choose to offer Art and Music as ‘O’ level subjects at Upper Secondary.
 
 
-#### Our Enrichment
+#### **Our Enrichment**
 
-**Aesthetics Week**
+##### **Aesthetics Week**
 
 Aesthetics Week takes place in March each year, It offers you opportunities to participate in a range of exciting activities spanning across the disciplines of Art, Design and Technology, Food and Consumer Education and Music, thus developing a deeper understanding and appreciation of the Aesthetics.
 
 Click [here](https://youtu.be/IMlNhQpmucA) to watch our past Aesthetics Week. (link to past video of Aesthetics Week)
 
-**Passion Pursuit Modules**
+##### **Passion Pursuit Modules**
 
 Passion Pursuit modules provide students the  opportunities to pursue your areas of interest through hands-on courses such as *Fun with Baking*, *The Creative Ceramics* and *Basic Technical Skills in our Homes*. 
 
-**Music Elective Programme**
+##### **Music Elective Programme**
 
 The  Music Elective Programme (MEP) is a 4-year programme which is designed to engage students in the musical activities of Listening, Performing and Composing, while providing opportunities for them to follow their own musical aspirations. It provides opportunities for musically-inclined students to pursue a deeper and more comprehensive study in the subject. 
 
