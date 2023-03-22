@@ -15,6 +15,4 @@ sections:
           description: ""
           url: https://chijstnicholasgirls.moe.edu.sg/primary
       background: /images/Secondary_Banner.gif
-  - resources:
-      button: View All
 ---
