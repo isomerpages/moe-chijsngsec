@@ -1,5 +1,5 @@
 collections:
-  joint-integrated-programme:
+  jip:
     output: true
     order:
       - Joint Integrated Programme.md
