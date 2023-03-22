@@ -3,46 +3,32 @@ title: Aesthetics
 permalink: /academic/Aesthetics/
 description: ""
 ---
+The appreciation of Aesthetics helps us connect with one another through multimodal forms, thus providing a platform for self-expression. Through Aesthetics education, you will enjoy plenty of immersive experiences in the multiplicity of aesthetic practices, including the various disciplines of Art, Music, Design and Technology, and Food and Consumer Education. With such opportunities for creative and innovative endeavours, we hope to deepen students’ appreciation and ignite your passion for all forms of Aesthetics, thus making Aesthetics education the bedrock of lifelong enjoyment and appreciation of the arts.
 
 
-![](/images/Learning-@-St-Nicks_v2.jpg)
+Our Curriculum
+
+Self-expression, creativity and innovation are core guiding principles in our curriculum. Through formal curriculum and school-wide programmes, you will have a myriad of opportunities to express your creativity multi-modally. You will also enjoy a plethora of showcase and performance opportunities, and even a chance to participate in local and international competitions. For students who are interested to deepen your learning, you can also choose to offer Art and Music as ‘O’ level subjects at Upper Secondary.
 
 
-<b>Our Philosophy</b>  
+Our Enrichment
 
-Aesthetics for All.  
-  
-We strive to provide opportunities, deepen appreciation and ignite the passion for Aesthetics.  
-  
-<b>Our Approach</b>  
-  
-The school’s Aesthetics programme is guided by the 3-E approach – Exposure, Experience and Excellence  
-  
-<b>Exposure</b> – All students are exposed to the Aesthetics via formal curriculum and informal curriculum such as school-wide Aesthetics Week and Arts programme. Students will also be given the platform to further express their aesthetics creativity through various forms of performances.  
-  
-<b>Experience</b> – Students with a deeper interest in the Aesthetics are provided with opportunities to further enhance their experiences in the arts, participating in Visual and Performing Arts CCAs and community arts events. In pursuing their interests, students are also given the opportunities to choose Passion Pursuit modules.  
-  
-<b>Excellence</b> – The school provides opportunities for our students to maximise their potential in the respective Aesthetics areas after talent identification is done, such as participation in various in-house, local and international competitions and showcase opportunities. Students are also provided with the opportunities to offer Art and Music as ‘O’ level subjects. The school’s strength in the arts is evident as it is one of the 11 schools in Singapore to offer the Music Elective Programme.  
-  
-<b>Our Signature Programmes</b>  
- 
+Aesthetics Week
 
-*   Aesthetics Week  
-    *   Aesthetics Week takes place in March each year. It aims to encourage a love for the Arts and to foster a deeper understanding of the Aesthetics subjects that are offered in school. Students participate in exciting activities relating to Music, Art, Design & Technology and Food and Consumer Education over the course of the week.
+Aesthetics Week takes place in March each year, It offers you opportunities to participate in a range of exciting activities spanning across the disciplines of Art, Design and Technology, Food and Consumer Education and Music, thus developing a deeper understanding and appreciation of the Aesthetics.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IMlNhQpmucA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Click here to watch our past Aesthetics Week. (link to past video of Aesthetics Week)
 
+Passion Pursuit Modules
 
-*   Music Elective Programme
+Passion Pursuit modules provide students the  opportunities to pursue your areas of interest through hands-on courses such as Fun with Baking, The Creative Ceramics and Basic Technical Skills in our Homes. 
 
-    *   The Music Elective Programme (MEP) provides opportunities for students with a passion for music to pursue a deeper and more comprehensive study in the subject. The MEP is a four-year programme at the secondary level. Students will enjoy rich classroom experiences that nurture a deeper appreciation of music, as well as exciting opportunities at master classes and workshops to enrich their understanding and knowledge with composers, performers and professionals from the music industry
-    *   Selected MEP students are chosen to represent the school regularly at national level MEP events conducted by MOE such as the National MEP Outreach programme and biennal MEP Concert.
+Music Elective Programme
 
-  
+The  Music Elective Programme (MEP) is a 4-year programme which is designed to engage students in the musical activities of Listening, Performing and Composing, while providing opportunities for them to follow their own musical aspirations. It provides opportunities for musically-inclined students to pursue a deeper and more comprehensive study in the subject. 
 
-*   Passion Pursuit Modules
+The MEP curriculum aims to develop students' conceptual and analytical thinking and creativity. Learning experiences include music analysis, aural perception, composition and performance. You will enjoy opportunities to attend workshops by composers, performers and professionals in the industry, and may even have the opportunity to represent the school at national events. 
 
-    *   <i>Basic Technical Skills in our Homes</i> is a Passion Pursuit module which provides students with basic technical skills that are required in our homes. Together with the knowledge of the use of saws, files, hammers, screwdrivers and portable hand drills as well as the different types of wood, plastics, metals and adhesives, students will be able to produce everyday items.
-     *   <i>The Creative Ceramics</i> module is conducted as a Passion Pursuit module which introduces students to ceramic making. Students are taught several methods including the pinching and hollowing method, and slabbing method, as well as how to glaze their work.
-    *   <i>The Art Bridging Course</i> is a Passion Pursuit module which exposes students to the study of visual arts (SOVA) artists and artworks. Students will learn about art terminology and develop a better understanding of SOVA artists and artworks. This module is intended for Secondary 2 IP students who are keen to offer Art at the upper secondary level.
-    *   <i>Fun with Baking</i> is a Passion Pursuit module in which students will learn how to bake various pastries and cakes. The module builds on lessons learnt during FCE lessons and enables students to experiment with baking a variety of snacks and desserts.
+Our school is one of the 10 secondary schools hosting the Music Elective Programme in Singapore. 
+More details can be found here.
+
