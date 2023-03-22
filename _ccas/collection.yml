@@ -1,5 +1,5 @@
 collections:
-  co-curricular-activities-ccas:
+  ccas:
     output: true
     order:
       - Co Curricular Activities (CCAs).md
