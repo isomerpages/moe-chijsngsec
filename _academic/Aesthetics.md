@@ -3,10 +3,12 @@ title: Aesthetics
 permalink: /academic/Aesthetics/
 description: ""
 ---
+![Academic](/images/Banner%20Photos/02%20subpage%20academic.jpg)
+
 The appreciation of Aesthetics helps us connect with one another through multimodal forms, thus providing a platform for self-expression. Through Aesthetics education, you will enjoy plenty of immersive experiences in the multiplicity of aesthetic practices, including the various disciplines of Art, Music, Design and Technology, and Food and Consumer Education. With such opportunities for creative and innovative endeavours, we hope to deepen students’ appreciation and ignite your passion for all forms of Aesthetics, thus making Aesthetics education the bedrock of lifelong enjoyment and appreciation of the arts.
 
 
-Our Curriculum
+#### Our Curriculum
 
 Self-expression, creativity and innovation are core guiding principles in our curriculum. Through formal curriculum and school-wide programmes, you will have a myriad of opportunities to express your creativity multi-modally. You will also enjoy a plethora of showcase and performance opportunities, and even a chance to participate in local and international competitions. For students who are interested to deepen your learning, you can also choose to offer Art and Music as ‘O’ level subjects at Upper Secondary.
 
@@ -31,4 +33,3 @@ The MEP curriculum aims to develop students' conceptual and analytical thinking 
 
 Our school is one of the 10 secondary schools hosting the Music Elective Programme in Singapore. 
 More details can be found here.
-
