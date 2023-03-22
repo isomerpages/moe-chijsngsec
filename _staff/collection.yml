@@ -1,7 +1,0 @@
-collections:
-  staff:
-    output: true
-    order:
-      - Staff.md
-      - School Key Personnel.md
-      - Staff by Department.md
