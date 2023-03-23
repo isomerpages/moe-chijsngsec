@@ -4,14 +4,12 @@ permalink: /co-curricular-activities-ccas/Uniformed-Groups/St-John-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 
-St John Brigade
-===============
+#### **St John Brigade**
 
-
-<img src="/images/SJB.jpeg" style="width:80%">
+<img src="/images/SJB.jpeg" style="width:100%">
 
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.   
@@ -31,7 +29,7 @@ To carry out all orders received from time to time from seniors 
 To carry out my duties with zeal and efficiency to the best of my ability   
 To be courteous and honest in all my words and actions</i>  
 
-CCA Information :
+#### **CCA Information :**
 -----------------
 
 <style type="text/css">
@@ -65,7 +63,7 @@ CCA Information :
 </table>
 
 
-Teachers-in-Charge :
+#### **Teachers-in-Charge :**
 --------------------
 
 <style type="text/css">
@@ -96,7 +94,7 @@ Teachers-in-Charge :
 </table>
 
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -147,7 +145,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -197,9 +195,8 @@ CCA Highlights
 </table>
 
 
-CCA Achievements
+#### **CCA Achievements**
 ----------------
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
