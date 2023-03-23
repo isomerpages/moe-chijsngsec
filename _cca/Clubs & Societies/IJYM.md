@@ -7,17 +7,12 @@ third_nav_title: Clubs & Societies
 ![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **IJYM**
-====
-
-
 <img src="/images/IJYM.jpeg" style="width:100%">
 
-
-    IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
+IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
   
-
 #### **CCA Information**
----------------
+------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
