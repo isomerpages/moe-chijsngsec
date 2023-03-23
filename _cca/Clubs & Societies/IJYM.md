@@ -4,19 +4,19 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/IJYM/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
-IJYM
+#### **IJYM**
 ====
 
 
-<img src="/images/IJYM.jpeg" style="width:80%">
+<img src="/images/IJYM.jpeg" style="width:100%">
 
 
     IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
   
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -49,7 +49,7 @@ CCA Information
 </tbody>
 </table>
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -74,7 +74,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 <style type="text/css">
@@ -135,7 +135,7 @@ Student Executive Committee (2022 - 2023)
 </table>
 
 
-Student Executive Committee (2021 - 2022)
+#### **Student Executive Committee (2021 - 2022)**
 -----------------------------------------
 
 <style type="text/css">
@@ -195,8 +195,7 @@ Student Executive Committee (2021 - 2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -233,7 +232,7 @@ CCA Highlights
 </tbody>
 </table>
 
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
