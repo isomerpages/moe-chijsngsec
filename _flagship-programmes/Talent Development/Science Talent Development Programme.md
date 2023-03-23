@@ -4,7 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Science-Talent-Development-Pr
 description: ""
 third_nav_title: Talent Development
 ---
-![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 The Science Talent Development Programme (STDP) aims to provide opportunities for Upper Secondary students who have the passion and desire in Science to:  
 
