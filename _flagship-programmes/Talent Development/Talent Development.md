@@ -4,7 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Talent-Development/
 description: ""
 third_nav_title: Talent Development
 ---
-![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 Here at St Nicks, we seek to nurture ‘Girls of Grace, Women of Strength, Leaders with Heart’. To achieve this vision, we provide you with opportunities to *explore* your interests, talents and strengths, and *empower* you to develop your potential in these areas.   
   
