@@ -4,12 +4,12 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Art-Club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Art Club**
 
 
-<img src="/images/Art%20Club.jpeg" style="width:60%">
+<img src="/images/Art%20Club.jpeg" style="width:100%">
 
 Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.
 
@@ -20,7 +20,7 @@ We have participated in many events, such as the Singapore Youth Festival (SYF) 
 The Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
     
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -51,10 +51,8 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,7 +76,7 @@ Teachers-in-charge
 </table>
 
 
-Student Executive Committee(2022 - 2023)
+#### **Student Executive Committee(2022 - 2023)**
 ----------------------------------------
 
 <style type="text/css">
@@ -123,7 +121,7 @@ Student Executive Committee(2022 - 2023)
 </tbody>
 </table>
 
-Student Executive Committee(2021 - 2022)
+#### **Student Executive Committee(2021 - 2022)**
 ----------------------------------------
 
 <style type="text/css">
@@ -169,7 +167,7 @@ Student Executive Committee(2021 - 2022)
 </table>
 
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -206,7 +204,7 @@ CCA Highlights
 </table>
 
 
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
