@@ -4,7 +4,7 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Chinese-Cultural-S
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 Chinese Cultural Society
 ------------------------
