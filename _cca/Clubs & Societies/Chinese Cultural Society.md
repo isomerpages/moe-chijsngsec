@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 Chinese Cultural Society
 ------------------------
 
-<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:80%">
+<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:100%">
 
 
     华文文化学会以推广校园华文文化为使命，希望该会的创立能让同学们更加热爱华文文化。  
