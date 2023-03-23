@@ -4,7 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Bicultural-Studies-Programme/
 description: ""
 third_nav_title: Talent Development
 ---
-![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 #### **双文化课程 Bicultural Studies Programme**
 
