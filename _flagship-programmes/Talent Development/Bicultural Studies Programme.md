@@ -53,8 +53,7 @@ third_nav_title: Talent Development
     *   H2 China Studies in Chinese is compulsory for MOE BSP scholars; non-scholars in the BSP are encouraged to offer this subject.
     *   Related enrichment modules for all BSP students.
 
-
-<b>深广学习</b>  
+##### **深广学习** 
 
 *   专家学者讲座
 *   中国浸濡计划
@@ -62,7 +61,7 @@ third_nav_title: Talent Development
 *   教育部主办的全国双文化课程研讨会与双文化营
 *   学术研究入门：针对当代中国发展选择个人感兴趣的课题进行文献分析，社会调查或新中比较研究
 
-<b>Enrichment</b>   
+##### **Enrichment** 
 
 *   Talks by academics and industry experts
 *   Immersion programmes in China
@@ -70,8 +69,7 @@ third_nav_title: Talent Development
 *   Enrichment programmes organised by MOE, i.e. annual Bicultural Studies Symposium, BSP Camp
 *   Research on contemporary China in an area of interest, or a comparative study between China and Singapore in an area of interest
 
-
-<b>奖学金</b>    
+##### **奖学金**
 
 *   教育部在中三和高一颁发奖学金予修读双文化课程的优秀新加坡公民。
 *   奖学金得主每年可获得$1,000奖金，并免缴学费和中国浸濡与西方浸濡的在地费用。
@@ -79,7 +77,7 @@ third_nav_title: Talent Development
 *   优秀的双文化奖学金得主与毕业生可以申请新加坡政府颁发的公共服务委员会中国奖学金，在完成高中课程后赴中国顶尖大学修读本科学位，再赴西方顶尖大学修读研究生学位。
 *   双文化毕业生也可以申请各政府部门，法定机构，政联公司和私人企业颁发的奖学金，前往中国顶尖大学升学。
 
-<b>Scholarships</b>  
+##### **Scholarships**
 
 *   MOE offers the BSP Scholarship to highly able Singapore Citizens in the BSP. Entry points are at Years 3 and 5.
 *   BSP scholars are given an annual scholarship allowance of $1,000. School fees are also covered. Scholars also receive funding for immersion in China and the West.
