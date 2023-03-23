@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /academic/Aesthetics/
 description: ""
 ---
-![Academic](/images/Banner%20Photos/02%20subpage%20academic.jpg)
+![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
 The appreciation of Aesthetics helps us connect with one another through multimodal forms, thus providing a platform for self-expression. Through Aesthetics education, you will enjoy plenty of immersive experiences in the multiplicity of aesthetic practices, including the various disciplines of Art, Music, Design and Technology, and Food and Consumer Education. With such opportunities for creative and innovative endeavours, we hope to deepen students’ appreciation and ignite your passion for all forms of Aesthetics, thus making Aesthetics education the bedrock of lifelong enjoyment and appreciation of the arts.
 
@@ -32,4 +32,4 @@ The  Music Elective Programme (MEP) is a 4-year programme which is designed to e
 The MEP curriculum aims to develop students' conceptual and analytical thinking and creativity. Learning experiences include music analysis, aural perception, composition and performance. You will enjoy opportunities to attend workshops by composers, performers and professionals in the industry, and may even have the opportunity to represent the school at national events. 
 
 Our school is one of the 10 secondary schools hosting the Music Elective Programme in Singapore. 
-More details can be found here.
+More details can be found [here](/flagship-programmes/talent-development/music-elective-programme/).
