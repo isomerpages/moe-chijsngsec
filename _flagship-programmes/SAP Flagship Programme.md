@@ -14,29 +14,5 @@ As a SAP school, CHIJ St Nicholas Girls’ School is committed to nurturing bili
 | -------- | -------- | -------- | 
 | Translation<br>Intermediate Translation<br>Interpretation<br>Chinese literature<br>Songwriting workshop and competition<br>Basic DJ Training<br>Creative Arts Programme<br>Author-in-residence<br>Publications | Ancient Chinese history<br>Modern and Contemporary China<br>Learning Journeys | Confucian Studies<br>Introduction to Chinese Philosophy |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s2rg">Programmes integrating Language and Literature, History and Philosophy</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vo25">MTL Fortnight Cultural Camp<br>Cultural workshops (Guqin and Weiqi)<br>Drama Appreciation<br>Xinyao Appreciation<br>Research Mentorship Programme<br>Immersion programmes</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-
-
+**Programmes integrating Language and Literature, History and Philosophy**<br>
+MTL Fortnight Cultural Camp<br>Cultural workshops (Guqin and Weiqi)<br>Drama Appreciation<br>Xinyao Appreciation<br>Research Mentorship Programme<br>Immersion programmes
