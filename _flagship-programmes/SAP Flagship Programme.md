@@ -13,5 +13,5 @@ As a SAP school, CHIJ St Nicholas Girls’ School is committed to nurturing bili
 | -------- | -------- | -------- | 
 | Translation<br>Intermediate Translation<br>Interpretation<br>Chinese literature<br>Songwriting workshop and competition<br>Basic DJ Training<br>Creative Arts Programme<br>Author-in-residence<br>Publications | Ancient Chinese history<br>Modern and Contemporary China<br>Learning Journeys | Confucian Studies<br>Introduction to Chinese Philosophy |
 
-**Programmes integrating Language and Literature, History and Philosophy**<br>
+##### **Programmes integrating Language and Literature, History and Philosophy**<br>
 MTL Fortnight Cultural Camp<br>Cultural workshops (Guqin and Weiqi)<br>Drama Appreciation<br>Xinyao Appreciation<br>Research Mentorship Programme<br>Immersion programmes
