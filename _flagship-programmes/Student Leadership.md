@@ -43,103 +43,36 @@ Our school believes in empowering students and developing important 21 CC skills
 | -------- | -------- | -------- | -------- |
 | Mass Student Leadership Workshops<br><br>Class Management Committee - role training<br><br>Design Thinking | Student Council<br><br>Class Management Committee<br><br>CCA Leaders<br><br>Sports Leaders<br><br>SyNerGiSe Committee | <u>Level Camps</u><br>* Sec 1 Orientation Camp<br>* Sec 2 Alumni Camp<br>* Sec 3 OBS Camp<br><br>Values-in-Action projects (student-initiated)<br><br>Leadership appointments projects (Org school events) | <u>Interschool Leadership Camps</u><br>* Student Leaders Convention (HCI)<br>* Youth.Lead (RVHS)<br>* JIP Student Leadership networking (CHS, SCGS)<br><br><u>Signature Programmes</u><br>* Camp facilitators<br>* Cultural Scope / Break fast (cross cultural skills)<br>* Heart-to-heart talks with industry leaders (Alumni)<br>* Community Outreach (grassroots collaboration) |
 
+**Leadership Opportunities at CHIJ St Nicholas Girls' School (Sec)**
 
+| Positional Leadership | School Project Appointments |
+| -------- | -------- |
+| Student Councillor<br>CCA Committee<br>Class Management Committee<br>House Committee<br>Sports Leaders<br>SyNerGiSe Committee | JIP Student Leaders' Exchange<br>Sports Carnival<br>Open House<br>Department programmes, e.g. English Language and Literature Festival, Mother Tongue Fortnight<br>National Education Programmes |
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-6hjr">Leadership Opportunities at CHIJ St Nicholas Girls' School (Sec)</td>
-  </tr>
-</thead>
-</table>
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6bqh{color:#595959;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Positional Leadership</span></th>
-    <th class="tg-s2rg">School Project Appointments</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Student Councillor</span><br><span style="color:#222;background-color:transparent">CCA Committee</span><br><span style="color:#222;background-color:transparent">Class Management Committee</span><br><span style="color:#222;background-color:transparent">House Committee</span><br><span style="color:#222;background-color:transparent">Sports Leaders</span><br><span style="color:#222;background-color:transparent">SyNerGiSe Committee</span></td>
-    <td class="tg-brl1">JIP Student Leaders' Exchange<br>Sports Carnival<br>Open House<br>Department programmes, e.g. English Language and Literature Festival, Mother Tongue Fortnight<br>National Education Programmes</td>
-  </tr>
-  <tr>
-    <td class="tg-v41i" colspan="2">Non-positional Leadership</td>
-  </tr>
-  <tr>
-    <td class="tg-6bqh" colspan="2"><span style="color:#222;background-color:transparent">Being a good influence and a contributing and involved member of the school community.   </span></td>
-  </tr>
-</tbody>
-</table>
-
+| Non-positional Leadership |
+| -------- |
+| Being a good influence and a contributing and involved member of the school community. |
 
 Here are some examples of leadership opportunities available in our school:
 
-<img src="/images/SL1.jpg" style="width:90%">
-
+![Our Student Leaders at Harmony Centre and An-Nahdhah Mosque](/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpg)
 Our Student Leaders at Harmony Centre and An-Nahdhah Mosque, understanding the importance of cross-cultural skills.
 
-
-<img src="/images/SL3.jpg" style="width:80%">
-
-
+![Our Student Leaders with Ms Nichol Ng co-founder of Food Bank](/images/02%20Flagship%20Programmes/Student%20Leadership/SL3.jpg)
 Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food Bank - to learn about the importance of resilience through her sharing about her journey as an ex-St Nicks’ student and how she overcome challenges in her personal and professional life.
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-6hjr{border-color:#ffffff;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-6hjr">SNGS Student Council</td>
-  </tr>
-</thead>
-</table>
+**SNGS Student Council**
 
+Established in 2008, the Student Council strives to serve the student body and forge stronger bonds among students so as to bring the school to greater heights. The Student Council also aspires to promote the school values and be exemplary role models to their peers in the school.
 
-    Established in 2008, the Student Council strives to serve the student body and forge stronger bonds among students so as to bring the school to greater heights. The Student Council also aspires to promote the school values and be exemplary role models to their peers in the school.
+Key events organised by the Student Council include the Secondary One Orientation, and Teachers’ Day Celebration. In addition, the Student Council also supports school events such as Chinese New Year Celebrations, Moonlight Party, Open House, Primary Five Camp, SYF Showcase, Jubilate, IP Leadership Symposiums, Meet-the-Parent sessions and Parent-Teacher Conferences.
 
-    Key events organised by the Student Council include the Secondary One Orientation, and Teachers’ Day Celebration. In addition, the Student Council also supports school events such as Chinese New Year Celebrations, Moonlight Party, Open House, Primary Five Camp, SYF Showcase, Jubilate, IP Leadership Symposiums, Meet-the-Parent sessions and Parent-Teacher Conferences.
+As a bridge to link the student body and the school, the Student Council constantly acts on feedback from the student population and together with the Council teachers, discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday and DJ Booth which aim to improve the general welfare of the students. In 2014, the Councillors were also involved in the conceptualisation of the Students’ Lounge 乐悠轩, a facility which is enjoyed by students from both secondary and primary sections.
 
-    As a bridge to link the student body and the school, the Student Council constantly acts on feedback from the student population and together with the Council teachers, discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday and DJ Booth which aim to improve the general welfare of the students. In 2014, the Councillors were also involved in the conceptualisation of the Students’ Lounge 乐悠轩, a facility which is enjoyed by students from both secondary and primary sections.
+The Student Council comprises of Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their school mates while striving for the betterment of the student body.
 
-    The Student Council comprises of Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their school mates while striving for the betterment of the student body.
-		
-
-
-<img src="/images/SL5.jpg" style="width:80%">
+![Student Council Org Chart](/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpg)
 
 
 <style type="text/css">
@@ -185,15 +118,11 @@ Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food
 </tbody>
 </table>
 
+<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/16th%20Student%20Council%20Investiture.jpeg" style="width:100%"><figcaption> <b>The 16th Student Council (2022 - 2023)</b></figcaption></figure>
 
+The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exco Exchange with our Joint Integrated Programme (JIP) partner schools.
 
-<figure><img src="/images/16th%20Student%20Council%20Investiture.jpeg" style="width:100%"><figcaption> <b>The 16th Student Council (2022 - 2023)</b></figcaption></figure>
-
-
-    The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exco Exchange with our Joint Integrated Programme (JIP) partner schools.
-		
-		
-<figure><img src="/images/SL6.jpg" style="width:85%"><figcaption> <b>Student Leadership Board Exco Exchange</b></figcaption></figure>
+<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpg" style="width:100%"><figcaption> <b>Student Leadership Board Exco Exchange</b></figcaption></figure>
 
 
 
