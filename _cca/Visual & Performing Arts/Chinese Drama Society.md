@@ -4,18 +4,15 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Chinese-Dra
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Chinese Drama Society
-=====================
+#### **Chinese Drama Society**
 
-
-<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:80%">
-
+<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:100%">
 
 Chinese Drama Society (CDS) is an open and welcoming family. Each and every member is unique with their own skills and talents. Through enjoyable CCA sessions, we are able to bond and learn with others, allowing us to discover the new talents we never knew existed. Moreover, we are able to gain experience in stage make-up, props-making and acting, some skills that are not taught in our daily curriculum.
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -48,7 +45,7 @@ CCA Information
 </tbody>
 </table>
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -75,8 +72,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 <style type="text/css">
@@ -131,7 +127,7 @@ Student Executive Committee (2022 - 2023)
 </tbody>
 </table>
 
-Student Executive Committee (2021 - 2022)
+#### **Student Executive Committee (2021 - 2022)**
 -----------------------------------------
 
 
@@ -190,8 +186,7 @@ Student Executive Committee (2021 - 2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -224,8 +219,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievement
+#### **CCA Achievement**
 ---------------
 
 <style type="text/css">
