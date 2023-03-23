@@ -8,7 +8,7 @@ third_nav_title: Clubs & Societies
 
 #### **Publications**
 
-<img src="/images/Publications.jpeg" style="width:70%">
+<img src="/images/Publications.jpeg" style="width:100%">
 
 SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
   
