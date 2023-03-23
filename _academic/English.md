@@ -3,9 +3,7 @@ title: English
 permalink: /academic/English/
 description: ""
 ---
-
-
-![](/images/Learning-@-St-Nicks_v2.jpg)
+![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
 
 <b>Our Philosophy</b>   
