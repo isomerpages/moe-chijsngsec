@@ -4,22 +4,17 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/String-Orch
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-String Orchestra
-================
+#### **String Orchestra**
 
-<img src="/images/SO1.jpeg" style="width:80%">
-
+<img src="/images/SO1.jpeg" style="width:100%">
 
 Starting out as a chamber with fewer than 10 members who had no prior experience in their instruments, SNSO currently has more than 60 members, consisting mainly of experienced instrumentalists. We stage many performances throughout the academic year both in and out of school.
 
-  
-
 Under the baton of Mr Edward Tan, we strive to spread the passion of music to all.
 
-
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -50,8 +45,7 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-Charge:
+#### **Teachers-in-Charge:**
 -------------------
 
 <style type="text/css">
@@ -78,8 +72,7 @@ Teachers-in-Charge:
 </tbody>
 </table>
 
-
-Student Executive Committee (2022 - 2023)     
+#### **Student Executive Committee (2022 - 2023)**
 ----------------------------------------------
 
 <style type="text/css">
@@ -185,8 +178,7 @@ Student Executive Committee (2022 - 2023)     
 </tbody>
 </table>
 
-
-Student Executive Committee (2021 - 2022)
+#### **Student Executive Committee (2021 - 2022)**
 -----------------------------------------
 
 <style type="text/css">
@@ -296,8 +288,7 @@ Student Executive Committee (2021 - 2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -333,12 +324,7 @@ CCA Highlights
 <img src="/images/Arts%20Presentation1.jpeg" style="width:100%">
 
 
-
-
-
-
-
-CCA Achievement
+#### **CCA Achievement**
 ---------------
 
 
