@@ -3,7 +3,7 @@ title: Co Curricular Activities (CCAs)
 permalink: /co-curricular-activities-ccas/Co-Curricular-Activities-CCAs/
 description: ""
 ---
-![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
