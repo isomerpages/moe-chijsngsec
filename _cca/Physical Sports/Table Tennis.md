@@ -4,23 +4,18 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Table-Tennis/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
+#### **Table Tennis**
 
-Table Tennis
-============
-
-<img src="/images/TableTennis.jpeg" style="width:80%">
+<img src="/images/TableTennis.jpeg" style="width:100%">
 
 The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
 
-  
-
 In SNTT, there are various opportunities and platforms to develop character and leadership. Through table tennis competitions, exchanges and trainings, the team develops self-discipline, resilience and confidence. Other platforms like the annual sports camp and organizing VIA activities also serve well to develop leadership skills.
 
-CCA Information
+#### **CCA Information**
 ---------------
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -49,8 +44,7 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -80,8 +74,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -137,8 +130,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -196,7 +188,7 @@ Student Executive Committee (2021-2022)
 </table>
 
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -233,8 +225,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
