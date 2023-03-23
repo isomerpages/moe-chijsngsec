@@ -4,8 +4,7 @@ permalink: /flagship-programmes/talent-development/music-elective-programme/
 description: ""
 third_nav_title: Talent Development
 ---
-
-![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 The Music Elective Programme (MEP) is a four-year programme which provides opportunities for musically-inclined students to pursue a deeper study and practice in music. Through the programme, students will have the opportunity to learn more about a range of music across genres and cultures, including Asian, Classical, Jazz and Popular Music.  
   
