@@ -8,9 +8,8 @@ third_nav_title: Clubs & Societies
 
 
 #### **Debate Society**
-==============
 
-<img src="/images/Debate%20Society.jpeg" style="width:80%">
+<img src="/images/Debate%20Society.jpeg" style="width:100%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
