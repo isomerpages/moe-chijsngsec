@@ -3,8 +3,7 @@ title: Cultural Intelligence
 permalink: /flagship-programmes/Cultural-Intelligence/
 description: ""
 ---
-
-![](/images/Learning-@-St-Nicks_v2.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 With globalization and technology, the world has become a smaller place. Living and working alongside people of varied nationalities, races and cultures have become part and parcel of our daily lives. At the same time, each culture brings with it its own unique customs and lenses. While this has enriched the quality of interactions and promoted a greater diversity of ideas, it has also inevitable led to tensions and conflicts when cultures collide.   
   
