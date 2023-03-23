@@ -4,10 +4,9 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Publications/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
-Publications
-============
+#### **Publications**
 
 <img src="/images/Publications.jpeg" style="width:70%">
 
@@ -15,7 +14,7 @@ SN Publications is where our love for writing seeks to meet readers’ senses. T
   
 Our writers are also involved in journalism by gathering stories through interviews and producing news videos. As a team of dedicated writers, Publications will continue to write to touch the hearts of our readers.  
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -46,7 +45,7 @@ CCA Information
 </tbody>
 </table>
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -71,7 +70,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -106,7 +105,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -142,7 +141,7 @@ Student Executive Committee (2021-2022)
 </tbody>
 </table>
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -177,8 +176,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievement
+#### **CCA Achievement**
 ---------------
 
 <style type="text/css">
