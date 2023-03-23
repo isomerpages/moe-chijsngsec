@@ -4,14 +4,13 @@ permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Dance-Socie
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Dance Society
-=============
+#### **Dance Society**
 
 CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for dancing in students by providing them with opportunities to showcase their talents through external competitions as well as in house performance culminating to the bi-annual Singapore Youth Festival Arts Presentation.
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -43,10 +42,8 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -77,7 +74,7 @@ Teachers-in-charge
 </table>
 
 
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 
@@ -143,7 +140,7 @@ Student Executive Committee (2022 - 2023)
 </tbody>
 </table>
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -185,7 +182,7 @@ CCA Highlights
 </table>
 
 
-CCA Achievement
+#### **CCA Achievement**
 ---------------
 
 
