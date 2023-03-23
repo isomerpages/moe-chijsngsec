@@ -4,45 +4,28 @@ permalink: /academic/Humanities/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
+### **Humanities**
 
+In today’s increasingly interconnected and unpredictable world, Humanities education plays an undeniably instrumental role in empowering our students with the necessary knowledge and skills to navigate the modern terrain. Through a multidisciplinary approach across the subjects of Geography, History and Social Studies, you will develop a keenly inquisitive disposition alongside a sense of empathy and critical appreciation for the environment and people around you.
 
-<b>Our Philosophy</b>  
- 
- Humanities education plays a vital role in helping our students acquire the necessary knowledge, skills and confidence to navigate in an increasingly connected and unpredictable world.  
-  
-Through the subjects of Geography, History and Social Studies, we seek to nurture in our students:   
-  
+#### **Our Curriculum**  
 
-*   A critical and questioning mind 
-*   A sense of empathy and appreciation for the environment and people around us 
-*   Passion and a personal voice 
+The Humanities curriculum is centered on interdisciplinary thinking which enables you to draw connections and apply integrated skills within and beyond the classroom. Through exploration and critical consideration of alternative perspectives about complex and authentic issues, you will be able to deepen your sense of appreciation and empathy for people and the environment, while developing a confident personal voice. As you reflect on your own beliefs, values and thinking, you will construct your own understanding of the world, thus playing an active role in imagining and shaping the future.
 
   
+#### **Our Enrichment**  
   
-<b>Our Approach</b>  
- 
- <b>Think. Feel. Imagine</b>  
-The Humanities curriculum is centered on disciplinary thinking which draws connections within and between disciplines. The robust curriculum inspires students to think critically about current issues and fosters a questioning mind.  
+**Secondary 1 Urban Development Study Tour**  
+In this learning journey, you will learn about challenges faced by Singapore in tackling urban issues of land and water shortage, as well as strategies that are vital to Singapore's survival and sustainable development.
+
+**Secondary 2 Battlefield Study Tour**  
+This experience will immerse you in learning about Singapore’s history in the war through visiting key WWII sites in Singapore. Through the study of artefacts, exploration of historical sites and war stories, you will develop sensitivity while engaging in dialogues about the war.
   
-Through multiple and fluid perspectives behind complex and authentic issues, students construct their own understanding of the world. This deepens their sense of empathy and appreciation for people and the environment, as they reflect on their own beliefs, values and thinking.  
-  
-With opportunities provided to explore alternative perspectives and solve problems, students seek to develop well-informed opinions and a personal voice to pursue their passion, and play an active role in imagining and shaping the future.  
-  
-<b>LET THE HUMANITIES HELP YOU TAKE FLIGHT</b>  
-  
-<b>Our Signature Programmes</b>  
-  
-<b>Secondary 1 Urban Development Study Tour</b>  
-This learning journey for all Secondary 1 students seeks to highlight the challenges faced by Singapore in its development, tackling urban issues of land and water shortage. Students learn about the strategies that are vital to Singapore's survival and sustainable development.  
-  
-<b>Secondary 2 Battlefield Study Tour</b>  
-The Battlefield Study Tour allows students to learn more about WWII in Singapore through the study of artefacts, exploration of historical sites and by listening to stories from the war. After visiting key WWII sites in Singapore, students end their learning journey with a wreath laying ceremony at Kranji War Cemetery.  
-  
-<b>Geographical, Historical and Social Studies Investigation</b>  
-Geographical, Historical and Social Studies Investigations through fieldwork form part of the humanities curriculum from Secondary 1 to 4. Students become active and engaged learners through the implementation of the various humanities inquiry processes. Various skills are deployed: critical thinking, creative thinking, analytical thinking, reflective thinking are amongst some that are required of them. Students will be expected to investigate a whole gamut of issues ranging from the school, local and national level.    
-  
-<b>Interdisciplinary Projects</b>  
-Students are exposed to the idea that concepts and real world situations do not exist in a single subject silo but are multidisciplinary. As such, humanities projects at the lower secondary level are integrated with other subjects to highlight the importance of broadening students’ perspectives and understanding of local and regional issues. For example, the Secondary 1 MacRitchie Interdisciplinary project seeks to provide an authentic learning experience, engaging students in experiential learning of Mathematics, Science and Geography. It provides opportunities for the students to carry out scientific investigation of water quality. The students will learn to be a concerned and responsible citizen as they unpack the problem of water scarcity and examine the effectiveness of measures in ensuring sustainability of water in Singapore. Similarly, the Secondary 2 Interdisciplinary project on Food provides similar real world learning of History, Geography and Food and Consumer Education. Students are introduced to the history and geography of food, whereupon they are tasked to create a local dish incorporating their knowledge of food science as well as the history and geography of these dishes.    
-  
-<b>Humanities Talent Development Programme (HTDP)</b>  
-The [HTDP](/flagship-programmes/Talent-Development/Humanities-Talent-Development-Programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. Students on board the programme are given opportunities to broaden their exposure of the Humanities, and undertake a Humanities Research Study under the close guidance of mentors.
+**Geographical, Historical and Social Studies Investigation**  
+In this fieldwork enrichment programme, you will have the opportunity to investigate wide-ranging issues spanning the school, local and national levels. Through active engagement in various inquiry processes, you will develop and deploy various skills to become critical, creative, analytical and reflective thinkers.
+
+**Interdisciplinary Projects**  
+To broaden students’ perspectives and understanding local and regional issues, Humanities projects at the lower secondary level are integrated with other subjects, including Mathematics, Science and Food and Consumer Education, to highlight the multidisciplinary concepts. 
+
+**Humanities Talent Development Programme (HTDP)**  
+The HTDP seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. You will get to broaden your exposure of the Humanities and undertake a Humanities Research Study under the close guidance of mentors.
