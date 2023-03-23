@@ -32,4 +32,4 @@ The  Music Elective Programme (MEP) is a 4-year programme which is designed to e
 The MEP curriculum aims to develop students' conceptual and analytical thinking and creativity. Learning experiences include music analysis, aural perception, composition and performance. You will enjoy opportunities to attend workshops by composers, performers and professionals in the industry, and may even have the opportunity to represent the school at national events. 
 
 Our school is one of the 10 secondary schools hosting the Music Elective Programme in Singapore. 
-More details can be found [here](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/secondary/flagship-programmes/flagship-programmes/talent-development/music-elective-programme).
+More details can be found here.
