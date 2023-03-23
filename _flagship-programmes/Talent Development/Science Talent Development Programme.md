@@ -4,9 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Science-Talent-Development-Pr
 description: ""
 third_nav_title: Talent Development
 ---
-
-![](/images/Learning-@-St-Nicks_v2.jpg)
-
+![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 The <b>S</b>cience <b>T</b>alent <b>D</b>evelopment <b>P</b>rogramme (STDP) aims to provide opportunities for Upper Secondary students who have the passion and desire in Science to:  
 
