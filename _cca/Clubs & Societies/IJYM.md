@@ -4,7 +4,7 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/IJYM/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **IJYM**
 <img src="/images/IJYM.jpeg" style="width:100%">
