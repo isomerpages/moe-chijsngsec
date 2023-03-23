@@ -4,7 +4,7 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Clubs-and-Societie
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
 
 <img src="/images/CS_Header.jpg" style="width:50%">
