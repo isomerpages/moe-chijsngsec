@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Chinese Cultural Society
+#### **Chinese Cultural Society**
 ------------------------
 
 <img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:100%">
@@ -23,7 +23,7 @@ Chinese Cultural Society
   
   
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -54,7 +54,7 @@ CCA Information
 </tbody>
 </table>
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -79,7 +79,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -125,7 +125,7 @@ Student Executive Committee (2022-2023)
 </table>
 
 
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -171,7 +171,7 @@ Student Executive Committee (2021-2022)
 </table>
 
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 
@@ -212,7 +212,7 @@ CCA Highlights
 </tbody>
 </table>
 
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
