@@ -124,10 +124,6 @@ The Student Council seizes valuable networking opportunities to work with studen
 
 <figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpg" style="width:100%"><figcaption> <b>Student Leadership Board Exco Exchange</b></figcaption></figure>
 
-
-
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -160,29 +156,29 @@ The Student Council seizes valuable networking opportunities to work with studen
 <thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">2022 Student Council Presidential Elections</span></th>
-    <th class="tg-pll1"><img src="/images/2022%20Student%20Council%20Elections.jpeg" style="width:100%"></th>
+    <th class="tg-pll1"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/2022%20Student%20Council%20Elections.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
-    <td class="tg-ii8k"><img src="/images/SL1.jpeg" style="width:100%"><img src="/images/SL2.jpeg" style="width:100%"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpeg" style="width:100%"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
-    <td class="tg-ii8k"><img src="/images/SL4.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/SL5.jpeg" style="width:100%"></td>
-    <td class="tg-ii8k"><img src="/images/SL6.jpeg" style="width:100%"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 Pinnacle </span></td>
-    <td class="tg-ii8k"><img src="/images/SL7.jpeg" style="width:100%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL7.jpeg" style="width:100%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> 16th Student Council Leading Teacher’s Day Celebrations</span></td>
-    <td class="tg-ii8k"><img src="/images/SL8.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL8.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -270,7 +266,7 @@ Candidates should have:
 </table>
 
 
-<figure><img src="/images/DSA%20Student%20Leaders%20Planning%20SNGS%20Primary%20P4%20NE%20Camp.jpeg" style="width:100%"><figcaption> DSA Student Leaders Planning SNGS Primary P4 NE Camp</figcaption></figure>
+<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/DSA%20Student%20Leaders%20Planning%20SNGS%20Primary%20P4%20NE%20Camp.jpeg" style="width:100%"><figcaption> DSA Student Leaders Planning SNGS Primary P4 NE Camp</figcaption></figure>
 
 
-<figure><img src="/images/DSA%20Student%20Leaders%20Pitching%20Ideas%20for%20Singapore%20Kindness%20Movement.jpeg" style="width:100%"><figcaption> DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</figcaption></figure>
+<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/DSA%20Student%20Leaders%20Pitching%20Ideas%20for%20Singapore%20Kindness%20Movement.jpeg" style="width:100%"><figcaption> DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</figcaption></figure>
