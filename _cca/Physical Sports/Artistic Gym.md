@@ -4,7 +4,6 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Artistic-Gym/
 description: ""
 third_nav_title: Physical Sports
 ---
-
 ![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Artistic Gym**
