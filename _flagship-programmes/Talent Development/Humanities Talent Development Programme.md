@@ -4,7 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Humanities-Talent-Development
 description: ""
 third_nav_title: Talent Development
 ---
-![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 The Humanities Talent Development Programme (HTDP) seeks to identify and develop students who have the passion and desire to pursue Humanities subjects in greater depth and exposure.   
   
