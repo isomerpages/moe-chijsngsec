@@ -7,7 +7,6 @@ third_nav_title: Clubs & Societies
 ![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Infocomm Media Club**
-===================
 
 <img src="/images/Infocomm%20Media%20Club.jpeg" style="width:100%">
 
