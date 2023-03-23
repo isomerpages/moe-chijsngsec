@@ -12,18 +12,10 @@ Students selected for the programme will be equipped with skills for music analy
   
 The programme prepares students for the GCE ‘O’ Level Higher Music Examination, which can be considered in place of a Humanities subject for Junior College admission.   
 
-### **Programme Highlights**
---------------------
+#### **Programme Highlights**
 
-*   Masterclasses
-
-	Students will have the opportunity to learn from world-class practitioners who will share their experience in training and give students an insight into the music industry both locally and globally.
-
-  
-
-*   School-Based MEP Performances and Projects
-    
-	Students will have the opportunities to plan and put together performances for their friends and family. Students can also showcase their music knowledge and skills at school platforms. Listen to Two Songs for our IJ Teachers, 2021 composed by our MEP students that were gifted to our teachers this year. Click [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Learning%20at%20St%20Nicks/Key%20Programmes/Music%20Elective%20Programme/Two%20Songs%20for%20our%20IJ%20Teachers.pdf) to listen to the songs.
+*   **Masterclasses**<br>Students will have the opportunity to learn from world-class practitioners who will share their experience in training and give students an insight into the music industry both locally and globally.
+*   **School-Based MEP Performances and Projects**<br>Students will have the opportunities to plan and put together performances for their friends and family. Students can also showcase their music knowledge and skills at school platforms. Listen to Two Songs for our IJ Teachers, 2021 composed by our MEP students that were gifted to our teachers this year. Click [here](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/Learning%20at%20St%20Nicks/Key%20Programmes/Music%20Elective%20Programme/Two%20Songs%20for%20our%20IJ%20Teachers.pdf) to listen to the songs.
 
 
 
