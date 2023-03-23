@@ -4,6 +4,7 @@ permalink: /flagship-programmes/Talent-Development/Sports-Excellence-Programme/
 description: ""
 third_nav_title: Talent Development
 ---
+![](/images/Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 The Sports Excellence Programme (<b>SEP</b>) aims to provide our sports athletes with a holistic and ability-driven education.
 
