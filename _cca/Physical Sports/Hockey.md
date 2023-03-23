@@ -4,17 +4,15 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Hockey/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Hockey
-======
+#### **Hockey**
 
+<img src="/images/Hockey.jpeg" style="width:100%">
 
-<img src="/images/Hockey.jpeg" style="width:80%">
+The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fearless group of students who will go all out in pursuit of excellence while always acting in a morally upright manner. The team goes through a rigorous training program to work on their skillsets as well as their fitness. A close-knit group where friendships are formed and fun is always on the agenda.  
 
-   The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fearless group of students who will go all out in pursuit of excellence while always acting in a morally upright manner. The team goes through a rigorous training program to work on their skillsets as well as their fitness. A close-knit group where friendships are formed and fun is always on the agenda.  
-
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -47,7 +45,7 @@ CCA Information
 </table>
 
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -79,7 +77,7 @@ Teachers-in-charge
 </table>
 
 
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 <style type="text/css">
@@ -125,8 +123,7 @@ Student Executive Committee (2022 - 2023)
 </tbody>
 </table>
 
-
-Student Executive Committee (2021 - 2022)
+#### **Student Executive Committee (2021 - 2022)**
 -----------------------------------------
 
 <style type="text/css">
@@ -182,8 +179,7 @@ Student Executive Committee (2021 - 2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -211,10 +207,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-
-
-Achievement
+#### **Achievement**
 -----------
 
 <style type="text/css">
