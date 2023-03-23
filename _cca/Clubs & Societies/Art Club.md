@@ -9,7 +9,7 @@ third_nav_title: Clubs & Societies
 #### **Art Club**
 
 
-<img src="/images/Art%20Club.jpeg" style="width:100%">
+<img src="/images/Art%20Club.jpeg" style="width:80%">
 
 Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.
 
