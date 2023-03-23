@@ -19,7 +19,7 @@ Through the SEP, we aim to
 *   Provide strong Student Welfare Support
 *   Give recognition of achievements
 
-**Special Programme: Exercise and Sports Science as an ‘O’ Level Subject**
+##### **Special Programme: Exercise and Sports Science as an ‘O’ Level Subject**
 
 * An opportunity and relevant platform for our athletes to go beyond the doing into higher order cognition in sports education
 * To provide a differentiated academic study programme for sports girls
