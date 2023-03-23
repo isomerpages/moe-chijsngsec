@@ -25,3 +25,36 @@ The O-Level Literature in Chinese course allows you to to better appreciate Chin
 In lower secondary, you will attend a 1-hour ACC lesson each week where you learn about the culture of Chinese Singaporeans, an introduction to China’s history, literature and contemporary developments, as well as translation.<br><br>In upper secondary, you can opt for optional modules on Traditional Chinese Medicine, intermediate translation, and an introduction to interpretation.<br><br>我校所有中一与中二学生每周上一小时中华文史课程，内容包括新加坡华族历史与文化，中国历史与文学简介，当代中国简介和翻译入门。<br><br>此外，高年级学生可以在课余选修中医中药、中级翻译、口译入门等课程。
 
 ##### **Mother Tongue Fortnight and Other Enrichment Activities 母语双周与深广活动**
+The annual Mother Tongue Fortnight and other enrichment activities allow you to deepen your learning of Chinese language, literature, culture and research. Some activities include:
+
+*   Learning Journeys on local culture and history
+*   Chinese drama outing
+*   Museum guide training
+*   SAP Schools Research Mentorship Programme
+*   Chinese & bilingual debates
+*   Song writing workshops
+*   SNGS Chinese Knowledge Challenge
+*   Author-in-Residence Programme
+*   Creative writing
+*   Basic DJ course
+*   Introduction to Zither
+*   Introduction to _Weiqi_
+*   China immersion programme
+
+  
+
+为促进学生在华文与文学、文化历史、学术思辨等方面的学习，华文部每年举办母语双周和一系列深广活动，包括：
+
+*   本地文史学习之旅
+*   戏剧欣赏、剧场体验
+*   博物馆导览员培训
+*   特选中学学术幼苗计划
+*   辩论
+*   词曲创作工作坊
+*   圣尼各拉“华文无极限”常识问答比赛
+*   驻校作家计划
+*   文学创作
+*   基础DJ课程
+*   古琴初探
+*   围棋入门
+*   中国浸濡
