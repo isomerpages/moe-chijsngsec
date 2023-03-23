@@ -4,16 +4,15 @@ permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Mind-Games/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-![](/images/CCA.png)
+![](/images/Banner%20Photos/05%20subpage%20cca.jpg)
 
-Mind Games
-==========
+#### **Mind Games**
 
 <img src="/images/Mind%20Games.jpeg" style="width:80%">
 
 Members of MGC develop their critical thinking and strategic skills in playing board games like Scrabble and Wei Qi. Each session is spent not only on play but also on building relationships and forging strong bonds in the club.  
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -46,7 +45,7 @@ CCA Information
 </table>
 
 
-Teacher-in-Charge
+#### **Teacher-in-Charge**
 -----------------
 
 <style type="text/css">
@@ -71,7 +70,7 @@ Teacher-in-Charge
 </tbody>
 </table>
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -111,7 +110,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -166,7 +165,7 @@ Student Executive Committee (2021-2022)
 </tbody>
 </table>
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -206,8 +205,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-Achievements
+#### **Achievements**
 ------------
 
 <style type="text/css">
