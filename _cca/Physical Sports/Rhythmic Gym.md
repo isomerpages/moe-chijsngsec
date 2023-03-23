@@ -4,23 +4,18 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Rhythmic-Gym/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Rhythmic Gym
-============
+#### **Rhythmic Gym**
 
-<img src="/images/01%20CCA%20Photo.jpg" style="width:80%">
+<img src="/images/01%20CCA%20Photo.jpg" style="width:100%">
 
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus. 
 
-  
-
 The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has various learning opportunities that help to develop not only strength and dexterity but also poise and self-confidence. Through trainings, competitions, camps and other activities, they learn to take up leadership roles, forge deeper friendships and sisterly love for one another.
 
-  
-
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -51,11 +46,8 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -84,8 +76,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 <style type="text/css">
@@ -130,7 +121,7 @@ Student Executive Committee (2022 - 2023)
 </tbody>
 </table>
 
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -167,8 +158,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
