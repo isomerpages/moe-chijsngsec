@@ -4,25 +4,19 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Track-and-Field/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Track and Field
-===============
+#### **Track and Field**
 
-
-<img src="/images/Track%20and%20Field.jpeg" style="width:80%">
+<img src="/images/Track%20and%20Field.jpeg" style="width:100%">
 
 Track and Field is a sport which consists of four main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
 
-  
-
 Every year, we endure countless hours of gruelling training which has moulded us to the athletes we are today. Balancing training and school work had never been easy but with our teammates by our side, we know that no hurdle is too hard to overcome. Every run, jump, or throw has always been a valuable opportunity and a new learning experience for every one of us.
-
-  
 
 Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNTF has taught us many invaluable life lessons: perseverance, determination, discipline and sportsmanship. Moving forward, SNTF promises to strive for excellence, push our limits and do our best! 圣中田径一级棒!  
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -54,8 +48,7 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -99,7 +92,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -174,8 +167,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -239,8 +231,7 @@ Student Executive Committee (2021-2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -268,10 +259,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-
-
-CCA Achievement
+#### **CCA Achievement**
 ---------------
 
 <style type="text/css">
