@@ -6,21 +6,19 @@ third_nav_title: Clubs & Societies
 ---
 ![](/images/CCA.png)
 
-Art Club
-========
-
-<img src="/images/Art%20Club.jpeg" style="width:80%">
+#### **Art Club**
 
 
-    Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.  
-  
-    The Art Club oversees the maintaining of the school’s ‘Doodle Wall’. It is regularly updated to showcase upcoming events in the school and invites members to freely display their creativity.  
-  
-    We have participated in many events, such as the Singapore Youth Festival (SYF) with an artwork exhibited at the National Gallery Singapore, the Young Illustrator Awards clinching Second prize and the 天天向上 (TTXS) Exhibition Project showcased at the Singapore Chinese Cultural Centre. Not forgetting our duty of service, we also actively give back to our community and participate in community projects with Kebun Bahru Community Club and Kebun Bahru View RC. Through these projects, we have developed our technical competency to complete them efficiently and learning to collaborate with one other.  
-  
-    The Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
+<img src="/images/Art%20Club.jpeg" style="width:60%">
 
+Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.
+
+The Art Club oversees the maintaining of the school’s ‘Doodle Wall’. It is regularly updated to showcase upcoming events in the school and invites members to freely display their creativity.  
   
+We have participated in many events, such as the Singapore Youth Festival (SYF) with an artwork exhibited at the National Gallery Singapore, the Young Illustrator Awards clinching Second prize and the 天天向上 (TTXS) Exhibition Project showcased at the Singapore Chinese Cultural Centre. Not forgetting our duty of service, we also actively give back to our community and participate in community projects with Kebun Bahru Community Club and Kebun Bahru View RC. Through these projects, we have developed our technical competency to complete them efficiently and learning to collaborate with one other.  
+  
+The Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
+    
 
 CCA Information
 ---------------
