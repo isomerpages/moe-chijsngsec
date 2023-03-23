@@ -4,12 +4,11 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Netball/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Netball
-=======
+#### **Netball**
 
-<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:80%">
+<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:100%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
@@ -27,7 +26,7 @@ To develop good sportsmanship and leadership skills
 To develop players’ fitness, skills and character through training and games  
 To nurture players of character so as to become Girls of Grace, Women of Strength, Leaders with Heart  
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -58,8 +57,7 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -90,7 +88,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 
@@ -136,8 +134,7 @@ Student Executive Committee (2022 - 2023)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -170,8 +167,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
