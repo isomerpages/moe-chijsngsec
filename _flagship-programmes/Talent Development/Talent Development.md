@@ -24,7 +24,3 @@ We provide a wide range of opportunities designed to enable you to *discover, p
 Our Talent Development Framework draws on Treffinger’s Levels of Service model. It offers varied opportunities for students to *discover, develop, apply and celebrate* their strengths, talents, and sustained interests, as well as to affirm their lifelong importance.  
   
 The approach involves services at 4 levels, ranging from services to build foundations for talent development and provide exposure (Level 1) to services that recognise and respond to the needs of students who have demonstrated high levels of aptitude in specific domains (Level 4).
-
-<figure><img src="/images/XX.png" style="width:100%"><figcaption> Examples of Talent Development opportunities</figcaption></figure>
-
-Note: Talent Development opportunities image not found.
