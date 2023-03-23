@@ -32,7 +32,7 @@ All St Nicholas students go through the SNLP which provides structured developme
 Our school believes in empowering students and developing important 21 CC skills through an array of platforms, as outlined in the table below. Students are invited to participate actively in the life of the school and to play their part as members of the St Nicholas family.
 		
 		
-**Leadership Development at CHIJ St Nicholas Girls' School (Sec)**
+##### **Leadership Development at CHIJ St Nicholas Girls' School (Sec)**
 
 **Future Readiness (21 CC Skills)**
 | | | |
@@ -43,7 +43,7 @@ Our school believes in empowering students and developing important 21 CC skills
 | -------- | -------- | -------- | -------- |
 | Mass Student Leadership Workshops<br><br>Class Management Committee - role training<br><br>Design Thinking | Student Council<br><br>Class Management Committee<br><br>CCA Leaders<br><br>Sports Leaders<br><br>SyNerGiSe Committee | <u>Level Camps</u><br>* Sec 1 Orientation Camp<br>* Sec 2 Alumni Camp<br>* Sec 3 OBS Camp<br><br>Values-in-Action projects (student-initiated)<br><br>Leadership appointments projects (Org school events) | <u>Interschool Leadership Camps</u><br>* Student Leaders Convention (HCI)<br>* Youth.Lead (RVHS)<br>* JIP Student Leadership networking (CHS, SCGS)<br><br><u>Signature Programmes</u><br>* Camp facilitators<br>* Cultural Scope / Break fast (cross cultural skills)<br>* Heart-to-heart talks with industry leaders (Alumni)<br>* Community Outreach (grassroots collaboration) |
 
-**Leadership Opportunities at CHIJ St Nicholas Girls' School (Sec)**
+##### **Leadership Opportunities at CHIJ St Nicholas Girls' School (Sec)**
 
 | Positional Leadership | School Project Appointments |
 | -------- | -------- |
@@ -62,7 +62,7 @@ Our Student Leaders at Harmony Centre and An-Nahdhah Mosque, understanding the i
 Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food Bank - to learn about the importance of resilience through her sharing about her journey as an ex-St Nicks’ student and how she overcome challenges in her personal and professional life.
 
 
-**SNGS Student Council**
+##### **SNGS Student Council**
 
 Established in 2008, the Student Council strives to serve the student body and forge stronger bonds among students so as to bring the school to greater heights. The Student Council also aspires to promote the school values and be exemplary role models to their peers in the school.
 
