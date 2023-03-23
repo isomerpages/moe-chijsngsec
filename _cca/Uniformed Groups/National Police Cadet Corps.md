@@ -4,17 +4,15 @@ permalink: /co-curricular-activities-ccas/Uniformed-Groups/National-Police-Cadet
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-National Police Cadet Corps
-===========================
+#### **National Police Cadet Corps**
 
-
-<img src="/images/NPCC.jpeg" style="width:80%">
+<img src="/images/NPCC.jpeg" style="width:100%">
 
 Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -47,7 +45,7 @@ CCA Information
 </table>
 
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -79,7 +77,7 @@ Teachers-in-charge
 </table>
 
 
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -134,7 +132,8 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-Student Executive Committee (2021-2022)
+
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -180,8 +179,7 @@ Student Executive Committee (2021-2022)
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
