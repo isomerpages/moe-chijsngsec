@@ -4,17 +4,14 @@ permalink: /co-curricular-activities-ccas/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Girl Guides
-===========
+#### **Girl Guides**
 
-
-<img src="/images/Girl%20Guides.jpeg" style="width:80%">
+<img src="/images/Girl%20Guides.jpeg" style="width:100%">
 
 Girl Guides @ SN aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through the 5-Point Programme and various proficiency/interest badges, guides are able to develop their leadership, decision-making and team-building skills.
 
-  
 <b>Guide Motto:</b>  
 Be Prepared  
   
@@ -24,7 +21,7 @@ To do my duty to God,
 To serve my country and help other people, and  
 To keep the Guide Law
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -55,10 +52,8 @@ CCA Information
 </tbody>
 </table>
 
-
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -87,8 +82,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-
-Student Executive Committee (2022-2023)
+#### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
 <style type="text/css">
@@ -143,8 +137,7 @@ Student Executive Committee (2022-2023)
 </tbody>
 </table>
 
-
-Student Executive Committee (2021-2022)
+#### **Student Executive Committee (2021-2022)**
 ---------------------------------------
 
 <style type="text/css">
@@ -199,8 +192,7 @@ Student Executive Committee (2021-2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -236,8 +228,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
