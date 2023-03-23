@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /flagship-programmes/Student-Leadership/
 description: ""
 ---
-![](/images/Learning-@-St-Nicks_v2.jpg)
+![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
 
 Student Leadership
