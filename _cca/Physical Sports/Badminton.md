@@ -4,33 +4,23 @@ permalink: /co-curricular-activities-ccas/Physical-Sports/Badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/CCA.png)
+![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-Badminton
-=========
+#### **Badminton**
 
-
-<img src="/images/Badminton.jpeg" style="width:80%">
+<img src="/images/Badminton.jpeg" style="width:100%">
 
 Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.  
 
-  
-
 Here at St. Nicks, we have supportive team members that encourages everyone and cheers each other on. Especially when the going gets tough as we strive onwards together.   
-
-  
 
 Our teachers and coaches are caring and approachable and often provides us feedback and to help us improve.    
 
-  
-
 Training encompasses fitness training, skills techniques and the occasional game to bond with one another. All one needs is an open mind and an ever ready-to-learn spirit to have a blast in Badminton 🏸   
-
-  
 
 SNBT All the way!
 
-CCA Information
+#### **CCA Information**
 ---------------
 
 <style type="text/css">
@@ -63,7 +53,7 @@ CCA Information
 </tbody>
 </table>
 
-Teachers-in-charge
+#### **Teachers-in-charge**
 ------------------
 
 <style type="text/css">
@@ -94,7 +84,7 @@ Teachers-in-charge
 </tbody>
 </table>
 
-Student Executive Committee (2022 - 2023)
+#### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
 
 <style type="text/css">
@@ -135,7 +125,7 @@ Student Executive Committee (2022 - 2023)
 </table>
 
 
-Student Executive Committee (2021 - 2022)
+#### **Student Executive Committee (2021 - 2022)**
 -----------------------------------------
 
 <style type="text/css">
@@ -171,8 +161,7 @@ Student Executive Committee (2021 - 2022)
 </tbody>
 </table>
 
-
-CCA Highlights
+#### **CCA Highlights**
 --------------
 
 <style type="text/css">
@@ -200,8 +189,7 @@ CCA Highlights
 </tbody>
 </table>
 
-
-CCA Achievements
+#### **CCA Achievements**
 ----------------
 
 <style type="text/css">
