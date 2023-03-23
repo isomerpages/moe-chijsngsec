@@ -1,5 +1,5 @@
 collections:
-  info-hub:
+  infohub:
     output: true
     order:
       - Info Hub.md
