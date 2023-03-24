@@ -48,24 +48,18 @@ Secondary 2 students who are keen to apply for Year 3 of the Joint Integrated Pr
 Shortlisted candidates will be invited to attend an interview at CHIJ SNGS.   
   
 #### **<u>Admission for Returning Singaporeans</u>**  
-Returning Singaporean children are Singapore Citizens or Singapore Permanent Residents who currently reside overseas and are not studying in a mainstream primary school in Singapore. 
 
-  
+Returning Singaporean children are Singapore Citizens or Singapore Permanent Residents who currently reside overseas and are not studying in a mainstream primary school in Singapore. 
 
 For further information on the available options to seek admission to a mainstream secondary school in Singapore, including CHIJ SNGS, please refer to the following website for details: 
 
-  
 Admissions for Returning Singaporeans   
 [https://www.moe.gov.sg/returning-singaporeans](https://www.moe.gov.sg/returning-singaporeans)  
   
-<u><b>Admission for International Students</b></u> 
-
+#### **<u>Admission for International Students</u>**  
 International Students who are keen to seek admission to a mainstream school in Singapore, including CHIJ SNGS, are required to take part in the Admissions Exercise for International Students (AEIS). 
 
-  
-
 For further information, please refer to the AEIS website: 
-
-  
+ 
 Admissions for International Students   
 [https://www.moe.gov.sg/international-students](https://www.moe.gov.sg/international-students)
