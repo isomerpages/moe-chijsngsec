@@ -82,11 +82,15 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Chen Jiehui</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Kho Qi En Shermaine </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Kho Qi En Shermaine </span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Kevin Andrew Thesman </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+	<tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Audrey Chia</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
   </tr>
 </tbody>
