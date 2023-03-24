@@ -3,8 +3,7 @@ title: Info Hub
 permalink: /info-hub/Info-Hub/
 description: ""
 ---
-![](/images/Learning-@-St-Nicks_v2.jpg)
-
+![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
 ### School Service Providers 
 
