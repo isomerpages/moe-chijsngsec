@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-<u><b>Admission to Secondary 1</b></u> 
+#### **<u>Admission to Secondary 1</u>** 
 
 Primary 6 students intending to seek admission to CHIJ St. Nicholas Girls’ School may do so via the following channels: 
 
@@ -20,7 +20,6 @@ Primary 6 students intending to seek admission to CHIJ St. Nicholas Girls’ Sch
   
 *   Direct School Admission-Secondary (DSA-Sec) Exercise. 
 
-
 	Direct School Admission for secondary schools allows students to apply to some secondary schools before taking their PSLE. Students apply based on their talent in sports, CCAs and specific academic areas. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.  
 	
 	For further information on the DSA-Sec Exercise, please refer to the following website for details:   
@@ -28,15 +27,13 @@ Primary 6 students intending to seek admission to CHIJ St. Nicholas Girls’ Sch
 	Overview of MOE DSA-Sec Exercise  
 	[https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
 	
-<u><b>SNGS DSA-Sec Exercise</b></u>   
+#### **<u>SNGS DSA-Sec Exercise</u>**   
   
 The DSA-Secondary Exercise 2021 has now closed.   
 
 <u><b>Admission to Year 3 of the Joint Integrated Programme at CHIJ SNGS</b></u> 
 
 CHIJ St. Nicholas Girls’ School welcomes outstanding Secondary 2 students to apply for admission to Year 3 of the Joint Integrated Programme at CHIJ SNGS. Successful applicants will spend 2 years in CHIJ SNGS and the final 2 years in Eunoia Junior College leading to the GCE ‘A’ Level Examinations. 
-
-  
 
 Selection Criteria:
 
@@ -50,8 +47,7 @@ Secondary 2 students who are keen to apply for Year 3 of the Joint Integrated Pr
   
 Shortlisted candidates will be invited to attend an interview at CHIJ SNGS.   
   
-<u><b>Admission for Returning Singaporeans</b></u> 
-
+#### **<u>Admission for Returning Singaporeans</u>**  
 Returning Singaporean children are Singapore Citizens or Singapore Permanent Residents who currently reside overseas and are not studying in a mainstream primary school in Singapore. 
 
   
