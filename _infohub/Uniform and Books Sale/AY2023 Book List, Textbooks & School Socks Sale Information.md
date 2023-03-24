@@ -4,12 +4,10 @@ permalink: /info-hub/Uniform-and-Books-Sale/AY2023-BookList-Textbooks-and-School
 description: ""
 third_nav_title: Uniform and Books Sale
 ---
-![](/images/Learning-@-St-Nicks_v2.jpg)
+![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
 
-AY2023 Book List / Textbooks & School Socks Sale Information
-============================================================
-
+#### **AY2023 Book List / Textbooks & School Socks Sale Information**
 
 Sec 1/Year 1  
 [S1 O-level Booklist.pdf](/files/Sec%201%20O-Level%20booklist.pdf)   |    [S1 Year 1 IP Booklist.pdf](/files/Year%201%20IP%20booklist.pdf)
@@ -27,13 +25,11 @@ Sec 4/Year 4
 
 ---
 
-### Pacific Book Stores Pte Ltd
+#### **Pacific Book Stores Pte Ltd**
 
 14 Arumugam Road #08-01
 
 Lion Building C, Singapore 409959
-
-  
 
 Tel: 64640111
 
@@ -43,9 +39,7 @@ Website: [http://www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
 (Online Order Facility, Payment by Credit Card)
 
-  
-
-### School bookshop (canteen)
+#### **School bookshop (canteen)**
 
 Ms Fanny
 
