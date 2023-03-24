@@ -3,12 +3,9 @@ title: Admissions
 permalink: /info-hub/Admissions/
 description: ""
 ---
-![](/images/Admissions_v2.jpg)
-
+![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
 <u><b>Admission to Secondary 1</b></u> 
-
-  
 
 Primary 6 students intending to seek admission to CHIJ St. Nicholas Girls’ School may do so via the following channels: 
 
