@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-### School Service Providers 
+#### **School Service Providers** 
 
 *   [Bus Services](/info-hub/Bus-Services/)
 *   [Uniform and Books](https://chijstnicholasgirls.moe.edu.sg/secondary/secondary-info-hub/uniform-and-books)
 
-### School Fees
+#### **School Fees** 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
