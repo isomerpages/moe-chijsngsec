@@ -4,7 +4,7 @@ permalink: /student-development/Values-in-Action/Values-in-Action/
 description: ""
 third_nav_title: Values in Action
 ---
-![](/images/Student-Development_v2.jpg)
+![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
 Values in Action
 ================
