@@ -3,7 +3,6 @@ title: Physical Education
 permalink: /academic/physical-education/
 description: ""
 ---
-
 ![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
 ### **Physical Education**
