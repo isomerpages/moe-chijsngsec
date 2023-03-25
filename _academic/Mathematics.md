@@ -5,48 +5,49 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
-<b>Our Philosophy</b>  
+Mathematics is becoming increasingly pervasive in everyday life and is the foundation to almost all the sciences and engineering. It is a language to model and solve real world problems and appreciate order and symmetries in nature. A good foundation in Mathematics is essential for any future studies or work, and the learning of Mathematics is a training of the student’s mind in thinking and reasoning while seeking for the truth.
 
-In the 21st Century, Mathematics is becoming increasingly pervasive in everyday life and is the foundation to almost all the sciences and engineering. It is a language by which we model and solve real world problems and appreciate order and symmetries in nature. We believe that a good foundation in Mathematics is essential for any future studies or work, and the learning of Mathematics is a training of the student’s mind in thinking and reasoning while seeking for the truth. We strive to build confidence and passion in learning Mathematics in our students. We aim for our students to be able to apply Mathematics in their daily lives, and cultivate an appreciation of the breadth, depth, beauty and powers of mathematics.  
+**  
   
-<b>Our Approach</b>  
-  
-Logical thinking and analytical ability are critical 21st Century competencies. Students apply these skills to a wide range of real life context problems to cultivate an appreciation of how Mathematics underpins many aspects of their daily activities. Students will have the opportunity to develop problem-solving and interdisciplinary skills through project work. Students with a strong passion in Mathematics can participate in Passion Pursuit modules and competitions. These are platforms for students to be exposed to different aspects of Mathematics, as well as opportunities for them to delve deeper and challenge themselves further.  
-  
-<b>Our Signature Programmes</b>  
-  
+Our Curriculum  
+**  
 
-*     
-    Secondary 1 Mathematics Enrichment
+Logical thinking and analytical ability are critical 21st Century competencies. As you apply these skills to a wide range of real-life context problems to cultivate an appreciation of how Mathematics underpins many aspects of your daily activities and develop problem-solving and interdisciplinary skills through project work, you will cultivate an appreciation of the breadth, depth, beauty and powers of mathematics. Students with a strong passion in Mathematics can participate in Passion Pursuit modules and competitions to delve deeper and challenge themselves further. 
 
   
-The programme aims to develop creativity, cognitive flexibility and problem solving skills. Students will also acquire the necessary Mathematical knowledge and skills for Mathematical Olympiads.  
+**  
+Our Enrichment**  
   
+**Secondary 1 Mathematics Enrichment**  
 
-*     
-    Secondary 1 MacRitchie Project (Interdisciplinary Project Work)
-
-  
-This integrated project aims to infuse concepts from Mathematics, Science and Geography, and promote students’ learning via field investigation, scientific inquiry, Mathematical modeling and Polya’s problem-solving process.  
-  
-Level: Sec 1   
-  Time Period: Term 1 to Term 3   
-  Offered by: Science, Mathematics and Humanities Departments  
-  
-  
-
-*   Innovation Program (IvP)
+This programme aims to develop creativity, cognitive flexibility and problem-solving skills. Students will also acquire the necessary Mathematical knowledge and skills for Mathematical Olympiads.
 
   
-The Innovation Programme (IvP) provides a unique opportunity for pupils to develop their problem-solving and thinking skills. At the end of the programme, pupils will be able to think critically about existing problems, generate ideas to improve the situation, develop prototypes to test and improve their ideas, be exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.  
-  
-Level: Sec 2 to 3  
-  Time Period: Term 1 to Term 3  
-  Offered by: Science and Mathematics Department   
-  
+**Secondary 1 MacRitchie Project (Interdisciplinary Project Work)**  
 
-*   Singapore Mathematics Society Project Festival  
-    
+This integrated project infuses concepts from Mathematics, Science and Geography to promote your learning via field investigation, scientific inquiry, Mathematical modeling and Polya’s problem-solving process.
 
   
-The Singapore Mathematics Society Project Festival encourages secondary school students in Singapore to carry out and present innovative and creative work in Mathematics, foregrounding the importance of project-based learning in the secondary school curriculum. The festival features selected Mathematical projects completed by secondary school students in the year preceding submission.
+**Innovation Program (IvP)  
+**  
+
+The Innovation Programme (IvP) provides a unique opportunity for you to develop your problem-solving and thinking skills. At the end of the programme, you will be able to think critically about existing problems, generate ideas to improve the situation, develop prototypes to test and improve your ideas, be exposed to knowledge and experiences beyond the classroom through interaction with innovation mentors from tertiary institutions and other organisations.
+
+  
+**Singapore Mathematics Society Project Festival**  
+
+The Singapore Mathematics Society Project Festival encourages secondary school students in Singapore to carry out and present innovative and creative work in Mathematics, foregrounding the importance of project-based learning in the secondary school curriculum.
+
+  
+**Mathematics Olympiad Training Programme**  
+
+The Mathematics Olympiad Training Programme develops your creativity, cognitive flexibility and problem-solving skills acquire the necessary Mathematical knowledge and skills for the Mathematical Olympiads.
+
+  
+**Mathematics for Projects (Part I) (Passion Pursuit Module)**  
+
+This is an interactive module where you work independently as well as in teams, to participate in various hands-on mini tasks, class discussions and group presentations. You would be challenged to learn Math topics that are beyond the syllabus, such as Binary numbers, Permutation and Combination, and Graph Theory, which are useful tools to carry out Mathematics projects.
+
+  
+
+Mathematics for Projects (Part 1) is a prerequisite for Mathematics for Projects (Part 2), where students work on interesting projects. Students may be selected to represent the school for competitions or sharing within/beyond school.
