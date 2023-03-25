@@ -15,17 +15,16 @@ The Humanities curriculum is centered on interdisciplinary thinking which enable
   
 #### **Our Enrichment**  
   
-##### **Secondary 1 Urban Development Study Tour**  
-In this learning journey, you will learn about challenges faced by Singapore in tackling urban issues of land and water shortage, as well as strategies that are vital to Singapore's survival and sustainable development.
+**Secondary 1 Urban Development Study Tour**<br>In this learning journey, you will learn about challenges faced by Singapore in tackling urban issues of land and water shortage, as well as strategies that are vital to Singapore's survival and sustainable development.
 
-##### **Secondary 2 Battlefield Study Tour**  
+**Secondary 2 Battlefield Study Tour**<br>
 This experience will immerse you in learning about Singapore’s history in the war through visiting key WWII sites in Singapore. Through the study of artefacts, exploration of historical sites and war stories, you will develop sensitivity while engaging in dialogues about the war.
   
-##### **Geographical, Historical and Social Studies Investigation**  
+**Geographical, Historical and Social Studies Investigation**<br>
 In this fieldwork enrichment programme, you will have the opportunity to investigate wide-ranging issues spanning the school, local and national levels. Through active engagement in various inquiry processes, you will develop and deploy various skills to become critical, creative, analytical and reflective thinkers.
 
-##### **Interdisciplinary Projects**  
+**Interdisciplinary Projects**<br>
 To broaden students’ perspectives and understanding local and regional issues, Humanities projects at the lower secondary level are integrated with other subjects, including Mathematics, Science and Food and Consumer Education, to highlight the multidisciplinary concepts. 
 
-##### **Humanities Talent Development Programme (HTDP)**  
+**Humanities Talent Development Programme (HTDP)**<br>
 The [HTDP](/flagship-programmes/talent-development/humanities-talent-development-programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. You will get to broaden your exposure of the Humanities and undertake a Humanities Research Study under the close guidance of mentors.
