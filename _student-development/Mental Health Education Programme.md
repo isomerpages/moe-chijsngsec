@@ -3,7 +3,7 @@ title: Mental Health Education Programme
 permalink: /student-development/Mental-Health-Education-Programme/
 description: ""
 ---
-![](/images/Student-Development_v2.jpg)
+![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
 Mental Health Education Programme
 =================================
