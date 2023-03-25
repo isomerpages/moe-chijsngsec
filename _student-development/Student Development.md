@@ -8,10 +8,7 @@ description: ""
 ### **Student Development**
 
 #### **SNGS CCE Framework**
-
-
 <p><a href="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u522/Secondary/CCE%20Programs/CCE%20Curriculum%20Framework.png"><img style="width:75%" src="/images/CCE%20Curriculum%20Framework.png"></a></p>
-
 
 ##### **Background**
 
