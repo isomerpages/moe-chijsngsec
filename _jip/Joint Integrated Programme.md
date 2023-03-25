@@ -5,6 +5,8 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/03%20subpage%20JIP.jpg)
 
+### **Joint Integrated Programme**
+
 #### **Introduction**
   
 The Joint Integrated Programme (JIP) by CHIJ St Nicholas Girls’ School (SNGS) is jointly offered in collaboration with Catholic High School (CHS), Singapore Chinese Girls’ School (SCGS) and Eunoia Junior College (EJC).   
