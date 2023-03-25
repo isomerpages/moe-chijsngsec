@@ -22,7 +22,8 @@ PE is a meaningful and engaging experience for you to develop your motor and gam
 **Sec 3/4 – Exercise and Sports Science (O Level Programme)**  
   
 **DSA Sports & Games** - [Sports Excellence Programme](https://chijstnicholasgirls.moe.edu.sg/secondary/flagship-programmes/flagship-programmes/talent-development/sports-excellence-programme)  
-  
+
+
 **Our Enrichment**  
 *   Games Carnival
 *   Sports Fiesta
