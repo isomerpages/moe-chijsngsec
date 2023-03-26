@@ -39,7 +39,7 @@ b.    Character and Citizenship Education (CCE)
 **Secondary 1**
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
+| Respectful<br>Relationships<br>& Safety    | 1<br>(60 mins)     | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails    | Term 3<br>Week 2     |
 
 
 **Secondary 2**
@@ -63,7 +63,7 @@ b.    Character and Citizenship Education (CCE)
 
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the *eTeens* programme is that students are empowered to make wise, informed and sensible decisions.
 
-<b>At CHIJ St Nicholas Girls’ School, the _eTeens_ programme will be implemented as follows in 2023:</b>
+<b>At CHIJ St Nicholas Girls’ School, the *eTeens* programme will be implemented as follows in 2023:</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
