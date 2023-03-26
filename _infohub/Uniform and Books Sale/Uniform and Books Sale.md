@@ -171,6 +171,4 @@ Note: Cardigans and Hoodies Sale pre-orders links broken.
 </table>
 
 
-For booklist and related information, please [click here](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/secondary/secondary-info-hub/uniform-and-books-sale/ay2023-book-list-textbooks-n-school-socks-sale-information).
-
-Note: Booklist and related information link broken.
+For booklist and related information, please [click here.](/info-hub/uniform-and-books-sale/ay2023-booklist-textbooks-and-school-socks-sale-information/)
