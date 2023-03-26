@@ -5,11 +5,9 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
-Cyber Wellness
-==============
+### **Cyber Wellness**
 
-
-<b>St Nicks' Cyber Wellness Programme</b>  
+##### **St Nicks' Cyber Wellness Programme**
   
 The school's Cyber Wellness programme is designed to develop our students into responsible digital learner, based on these principles:  
   
@@ -19,11 +17,9 @@ The school's Cyber Wellness programme is designed to develop our students into r
 
 <figure><img src="/images/Cyberwellness%20Image.jpg" style="width:80%"><figcaption> © MOE Educational Technology Division (ETD) Baseline ICT Standards</figcaption></figure>
 
-
 In St Nicks’, the Cyber Wellness curriculum takes reference from the five themes stipulated by MOE’s Educational Technology Division (ETD). The table below states the range of topics covered from Sec 1 to 4. We have also aligned our curriculum to the ‘Connect’ prong of the Baseline ICT Standards for New Media Literacies. The table below outlines the Learning Outcomes as well as the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FTGP, CCE lessons, assembly programmes etc.   
   
-
-<u>Learning Outcomes (Sec School)</u>
+##### **Learning Outcomes (Sec School)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -142,10 +138,10 @@ We have also included some resources that may be helpful for understanding your 
 </tbody>
 </table>
 
-\*denotes resources which cover broad topics
+*denotes resources which cover broad topics
 
 
-<b>Acknowledgements:</b>   
+**Acknowledgements**
 
 *   <i>Media Literacy Council: [https://www.betterinternet.sg/](https://www.betterinternet.sg/)</i>
     
@@ -155,10 +151,7 @@ We have also included some resources that may be helpful for understanding your 
     
 *   <i>Cyber Security Agency: [https://www.csa.gov.sg/gosafeonline](https://www.csa.gov.sg/gosafeonline)</i>
     
-*   <i>Ministry of Education: [https://www.moe.gov.sg/programmes/cyber-wellness](https://www.moe.gov.sg/programmes/cyber-wellness)</i>
-
-Note: Ministry of Education link broken.
-
+*   <i>Ministry of Education: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)</i>
 
 <img src="/images/Cyberwellness%20Image%202.jpg" style="width:75%">
 
