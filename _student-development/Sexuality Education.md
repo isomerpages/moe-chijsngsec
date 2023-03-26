@@ -42,12 +42,24 @@ b.    Character and Citizenship Education (CCE)
 | Text     | Text     | Text     | Text     |
 
 
+**Secondary 2**
+| Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
 
+**Secondary 3**
+| Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
 
+**Secondary 3**
+| Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
 
-<b>eTeens Programme</b>
+<b>*eTeens* Programme</b>
 
-8.       <i>eTeens</i> is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8.       *eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. *eTeens* is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 9.       Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_programme is that students are empowered to make wise, informed and sensible decisions.
 
