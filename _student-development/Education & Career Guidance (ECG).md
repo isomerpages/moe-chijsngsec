@@ -5,12 +5,11 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
-Education & Career Guidance (ECG)
-=================================
+### **Education & Career Guidance (ECG)**
 
 ECG is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives.     
   
- Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
+Through ECG, social emotional competencies and qualities of proactivity, adaptability and resilience are developed to prepare students for the 21st Century.
  
  
  <style type="text/css">
@@ -20,7 +19,7 @@ ECG is about equipping students with the necessary knowledge, skills and values 
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-aw21{border-color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -55,9 +54,7 @@ ECG is about equipping students with the necessary knowledge, skills and values 
 ![](/images/ECG%202020%20Pic%201.png)
 
 1.  Who am I?  
-    
 2.  Where am I going?  
-    
 3.  How do I get there?
 
 
@@ -100,5 +97,3 @@ Note: MySkillsFuture link for Secondary students broken.
 
         *   Link for parents: [https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/) 
         *   This guide for parents contains tips and advice on ECG and considerations at key education stages to guide our children.
-
-Note: Link for parents broken.
