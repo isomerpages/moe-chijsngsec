@@ -85,7 +85,7 @@ b.    Character and Citizenship Education (CCE)
 
 11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Info_on_SEd_for_schs_website_Sec_2022_23%20Nov_AnnexA.pdf). The completed form is to be submitted by 21/04/2023.
 
-12.      Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Info_on_SEd_for_schs_website_Sec_2022_23%20Nov_AnnexB.pdf).  The completed form is to be submitted by 20/05/2022.
+12.      Parents who wish to opt their children out of the ***eTeens* programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Info_on_SEd_for_schs_website_Sec_2022_23%20Nov_AnnexB.pdf).  The completed form is to be submitted by 21/04/2023.
 
 13.      Parents can contact the school at chijsng_sec@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
 
