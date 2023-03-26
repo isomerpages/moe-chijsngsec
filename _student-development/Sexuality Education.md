@@ -53,16 +53,16 @@ b.    Character and Citizenship Education (CCE)
 **Secondary 3**
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     |
+| Respectful<br>Relationships<br>& Safety     | 1A<br>(60 mins)     | ·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.     | Term 3<br>Week 3     |
+|      | 1B<br>(60 mins)     | ·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>·       Know that a decision to end a relationship will have consequences on oneself and others.<br>·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support. | Term 3<br>Week 8     |
+|      | 2<br>(60 mins)     | ·       Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.     | Term 4<br>Week 1     |
 
 **Secondary 4**
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     |
-| Text     | Text     | Text     | Text     |
+| Respectful<br>Relationships<br>& Safety     | Text     | Text     | Term 3<br>Week 1     |
+|      | Text     | Text     | Term 3<br>Week 2     |
+|      | Text     | Text     | Term 3<br>Week 3     |
 
 <b>*eTeens* Programme</b>
 
