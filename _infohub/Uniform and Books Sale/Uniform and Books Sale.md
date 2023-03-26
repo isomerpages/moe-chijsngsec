@@ -171,4 +171,4 @@ Note: Cardigans and Hoodies Sale pre-orders links broken.
 </table>
 
 
-For booklist and related information, please [click here.](/info-hub/uniform-and-books-sale/ay2023-booklist-textbooks-and-school-socks-sale-information/)
+For booklist and related information, please [click here](/info-hub/uniform-and-books-sale/ay2023-booklist-textbooks-and-school-socks-sale-information/).
