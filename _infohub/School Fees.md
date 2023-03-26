@@ -3,13 +3,7 @@ title: School Fees
 permalink: /info-hub/school-fees/
 description: ""
 ---
-
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
-
-#### **School Service Providers** 
-
-*   [Bus Services](/info-hub/Bus-Services/)
-*   [Uniform and Books](https://chijstnicholasgirls.moe.edu.sg/secondary/secondary-info-hub/uniform-and-books)
 
 #### **School Fees** 
 
