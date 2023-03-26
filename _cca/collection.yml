@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Cultural Society.md
       - Clubs & Societies/Debate Society.md
