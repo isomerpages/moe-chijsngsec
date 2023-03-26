@@ -5,9 +5,7 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
-Counselling
-===========
-
+### Counselling
 
 CHIJ St. Nicholas Girls' School (Secondary) Counsellor  
   
