@@ -7,7 +7,6 @@ third_nav_title: Values in Action
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
 ### **Values in Action**
-
 ##### **CHIJ SNGS Values-in-Action (VIA) Framework<br>Service beyond Self and School**
 
 
