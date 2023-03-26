@@ -95,5 +95,5 @@ Note: MySkillsFuture link for Secondary students broken.
 
     *   <i>Journeying with Our Children, Achieving their Aspirations</i>
 
-        *   Link for parents: [https://www.moe.gov.sg/microsites/ecg-parent-guide/](https://www.moe.gov.sg/microsites/ecg-parent-guide/) 
+        *   [Link for parents](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx)
         *   This guide for parents contains tips and advice on ECG and considerations at key education stages to guide our children.
