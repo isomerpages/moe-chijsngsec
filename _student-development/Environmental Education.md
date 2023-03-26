@@ -5,11 +5,10 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
-Environmental Education
-=======================
+### **Environmental Education**
 
 
-Environmental Education Framework
+##### **Environmental Education Framework**
 
 <p><a href="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u522/Secondary/CCE%20Programs/EE/Environment%20Education%20Framework.png"><img style="width:80%" src="/images/Environment%20Education%20Framework.png"></a></p>
 
@@ -33,7 +32,7 @@ Through these programmes, it is hoped that our students will exude the qualities
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -65,8 +64,8 @@ Through these programmes, it is hoped that our students will exude the qualities
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
