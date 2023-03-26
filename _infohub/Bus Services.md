@@ -7,8 +7,6 @@ description: ""
 
 #### **J-Link Service** 
 
-Contact Person : Mdm Anna Lye 
-
-Tel : +65 9455 0531 
-
+Contact Person : Mdm Anna Lye<br>
+Tel : +65 9455 0531<br>
 Fax: +65 6241 2725
