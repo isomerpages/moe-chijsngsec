@@ -5,8 +5,8 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
-Mental Health Education Programme
-=================================
+### **Mental Health Education Programme**
+
 
 The school's Mental Health Education (MHE) Programme is designed to achieve the following goals for our students:
 
