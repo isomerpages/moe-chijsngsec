@@ -46,7 +46,7 @@ b.    Character and Citizenship Education (CCE)
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-hovb">At CHIJ St Nicholas Girls’ School (Sec), the following Sexuality Education lessons will be taught in <span style="text-decoration:underline">2022</span>:</th>
+    <th class="tg-hovb">At CHIJ St Nicholas Girls’ School (Sec), the following Sexuality Education lessons will be taught in <span style="text-decoration:underline">2023</span>:</th>
   </tr>
 </thead>
 <tbody>
