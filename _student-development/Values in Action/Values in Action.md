@@ -9,7 +9,6 @@ third_nav_title: Values in Action
 ### **Values in Action**
 ##### **CHIJ SNGS Values-in-Action (VIA) Framework<br>Service beyond Self and School**
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -26,8 +25,7 @@ third_nav_title: Values in Action
 </thead>
 </table>
 
-
-<img src="/images/VIA%201.png" style="width:80%">
+<img src="/images/VIA%201.png" style="width:70%">
 
 <b>Lower Secondary Values-in-Action (VIA) Programme</b>   
 Lower-Secondary students extend their services to meet community needs, specifically those of the elderly and the environment. In these two years, students will step out of the comfort zone of school to extend their services to the community through activities such as visits to Homes and Seniors Day-Care Centres, as well as helping to clean our neighbourhood and community. These activities are organised by the school in partnership with our community partners such as Christalite Methodist Home, Hospice Care Association and North-West CDC.   
@@ -52,8 +50,8 @@ The Secondary Four students get involved in community activities such as fund-ra
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-71s7{color:#222;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-ohq8{color:#005B9A;text-align:center;vertical-align:top}
+.tg .tg-71s7{color:#222;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ohq8{color:#005B9A;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
