@@ -2,7 +2,7 @@ collections:
   infohub:
     output: true
     order:
-      - Info Hub.md
+      - School Fees.md
       - Admissions.md
       - Bus Services.md
       - Forms.md
