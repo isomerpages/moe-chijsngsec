@@ -27,29 +27,19 @@ Sec 4/Year 4
 
 #### **Pacific Book Stores Pte Ltd**
 
-14 Arumugam Road #08-01
-
-Lion Building C, Singapore 409959
-
-Tel: 64640111
-
-Fax: 64640110
-
-Website: [http://www.pacificbookstores.com](http://www.pacificbookstores.com/)
-
+14 Arumugam Road #08-01<br>
+Lion Building C, Singapore 409959<br>
+Tel: 64640111<br>
+Fax: 64640110<br>
+Website: [http://www.pacificbookstores.com](http://www.pacificbookstores.com/)<br>
 (Online Order Facility, Payment by Credit Card)
 
 #### **School bookshop (canteen)**
 
-Ms Fanny
-
+Ms Fanny<br>
 Tel: 64569943 Tel: 64599860
 
 
-<b>Operating Hours :</b>
-
-Mon - Fri (within school term),
-
-7.30am - 3.00pm
-
-Payment by cash and cheque only
+<b>Operating Hours :</b><br>
+Mon - Fri (within school term),<br>
+7.30am - 3.00pm<br>Payment by cash and cheque only
