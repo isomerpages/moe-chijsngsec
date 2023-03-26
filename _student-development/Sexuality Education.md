@@ -60,9 +60,10 @@ b.    Character and Citizenship Education (CCE)
 **Secondary 4**
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
-| Respectful<br>Relationships<br>& Safety     | Text     | Text     | Term 3<br>Week 1     |
-|      | Text     | Text     | Term 3<br>Week 2     |
-|      | Text     | Text     | Term 3<br>Week 3     |
+| Respectful<br>Relationships<br>& Safety     | 1<br>(60 mins)     | Text     | Term 3<br>Week 1     |
+|      | 2<br>(60 mins)     | Text     | Term 3<br>Week 2     |
+|      | 3<br>(60 mins)     | Text     | Term 3<br>Week 3     |
+|      | 4<br>(60 mins)     | Text     | Term 3<br>Week 6     |
 
 <b>*eTeens* Programme</b>
 
