@@ -67,7 +67,8 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
         *   A one-stop ECG portal that empowers our students to embark on a journey of self-discovery and make informed education and career choices. 
         *   Students may use the information and tools to explore various education and career pathways, and take charge of their future. 
          *    Parents may navigate the portal with their child, using their child's account, and take the opportunity to begin an ECG conversation.
- ![](/images/2020%20ECG%20Picture%202.jpg)
+
+![](/images/05%20Student%20Development/ECG%20page%20photo.jpg)
 Link for Secondary students: [www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)
 
 Note: MySkillsFuture link for Secondary students broken.
