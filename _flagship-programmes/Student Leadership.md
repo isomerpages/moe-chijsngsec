@@ -7,7 +7,8 @@ description: ""
 
 
 #### **Student Leadership**
-**Girls of Grace • Women of Strength • Leaders with Heart**
+
+<div style="text-align:center"><a><b>Girls of Grace • Women of Strength • Leaders with Heart</a></div><br>
 
 <figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture1%202022%20Student%20Council%20Executive%20Committee.jpg" style="width:100%"><figcaption> <b>16th Student Council Executive Committee</b></figcaption></figure>
 
