@@ -37,6 +37,7 @@ b.    Character and Citizenship Education (CCE)
 **At CHIJ St Nicholas Girls’ School (Sec), the following Sexuality Education lessons will be taught in 2023**
 
 **Secondary 1**
+
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
 | Respectful<br>Relationships<br>& Safety | 1<br>(60 mins) | ·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3<br>Week 1 |
@@ -44,6 +45,7 @@ b.    Character and Citizenship Education (CCE)
 |     | 3<br>(60 mins) | ·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 3<br>Week 6 |
 
 **Secondary 2**
+
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
 | Respectful<br>Relationships<br>& Safety    | 1<br>(60 mins)     | ·      Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·      Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·      Understand what sexual orientation entails    | Term 3<br>Week 2     |
@@ -51,6 +53,7 @@ b.    Character and Citizenship Education (CCE)
 |      | 2B<br>(60 mins)     | ·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online     | Term 3<br>Week 5     |
 
 **Secondary 3**
+
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
 | Respectful<br>Relationships<br>& Safety     | 1A<br>(60 mins)     | ·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.     | Term 3<br>Week 3     |
@@ -58,6 +61,7 @@ b.    Character and Citizenship Education (CCE)
 |      | 2<br>(60 mins)     | ·       Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.     | Term 4<br>Week 1     |
 
 **Secondary 4**
+
 | Unit | Lesson / <br>Duration | Lesson Objectives | Time<br>Period |
 | -------- | -------- | -------- | -------- |
 | Respectful<br>Relationships<br>& Safety     | 1<br>(60 mins)     | ·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.     | Term 3<br>Week 1     |
