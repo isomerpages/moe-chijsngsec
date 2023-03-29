@@ -42,6 +42,7 @@ Our school believes in empowering students and developing important 21 CC skills
 | Civic-Literacy, Global Awareness & Cross-Cultural Skills | Critical & Inventive Thinking | Communication, Collaboration & Information |
 | --- | --- | --- |
 
+
 | Our Workshops | Leadership Appointments | Working with others & Student Voice and Choice | External Opportunities (selected students only) |
 | -------- | -------- | -------- | -------- |
 | Mass Student Leadership Workshops<br><br>Class Management Committee - role training<br><br>Design Thinking | Student Council<br><br>Class Management Committee<br><br>CCA Leaders<br><br>Sports Leaders<br><br>SyNerGiSe Committee | <u>Level Camps</u><br>* Sec 1 Orientation Camp<br>* Sec 2 Alumni Camp<br>* Sec 3 OBS Camp<br><br>Values-in-Action projects (student-initiated)<br><br>Leadership appointments projects (Org school events) | <u>Interschool Leadership Camps</u><br>* Student Leaders Convention (HCI)<br>* Youth.Lead (RVHS)<br>* JIP Student Leadership networking (CHS, SCGS)<br><br><u>Signature Programmes</u><br>* Camp facilitators<br>* Cultural Scope / Break fast (cross cultural skills)<br>* Heart-to-heart talks with industry leaders (Alumni)<br>* Community Outreach (grassroots collaboration) |
