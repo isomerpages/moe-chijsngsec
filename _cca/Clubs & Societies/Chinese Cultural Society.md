@@ -7,7 +7,7 @@ third_nav_title: Clubs & Societies
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Chinese Cultural Society**
-------------------------
+
 
 <img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:100%">
 
