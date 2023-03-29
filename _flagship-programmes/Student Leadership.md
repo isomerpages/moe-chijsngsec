@@ -8,15 +8,16 @@ description: ""
 
 #### **Student Leadership**
 
-<div style="text-align:center"><a><b>Girls of Grace • Women of Strength • Leaders with Heart</a></div>
+<div style="text-align:center"><b>Girls of Grace • Women of Strength • Leaders with Heart</b></div>
 
+![](/images/02%20Flagship%20Programmes/Student%20Leadership/Picture1%202022%20Student%20Council%20Executive%20Committee.jpg)
 
-<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture1%202022%20Student%20Council%20Executive%20Committee.jpg" style="width:100%"><figcaption><b>16th Student Council Executive Committee</figcaption></figure>
+<div style="text-align:center"><b>16th Student Council Executive Committee</b></div>
 
 
 ##### **OUR APPROACH**
 
-Guided by our school values of <b>Truth</b>, <b>Justice</b>, <b>Freedom</b> and <b>Love</b>, it is our belief that every St Nicholas student will maximise her potential and be nurtured to become a leader who has integrity, is resilient and compassionate. In line with the IJ mission, students will be confident to lead and committed to <b>serving the needs of the disadvantaged and underprivileged.</b> Our students will exhibit these attributes by upholding the school motto, <b>Simple in Virtue, Steadfast in Duty</b>.   
+Guided by our school values of <b>Truth, <b>Justice, <b>Freedom and <b>Love, it is our belief that every St Nicholas student will maximise her potential and be nurtured to become a leader who has integrity, is resilient and compassionate. In line with the IJ mission, students will be confident to lead and committed to <b>serving the needs of the disadvantaged and underprivileged.</b> Our students will exhibit these attributes by upholding the school motto, <b>Simple in Virtue, Steadfast in Duty.   
 
 As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2) to be ready and able to serve and impact the community and others.
 
