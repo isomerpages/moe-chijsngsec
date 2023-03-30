@@ -10,6 +10,6 @@ The Research and Mentorship Programme in CHIJ St. Nicholas Girls’ School empha
   
 The Research and Mentorship Programme is structured as follows:
 
-Note: Image not found. 
+![](/images/02%20Flagship%20Programmes/SAP%20Flagship%20Programme/2023%20Research%20Progression%20St%20Nicks.png)
 
 For Advanced Research, our students have the opportunity to pursue their passions at a higher level through individual or group research projects. The types of research projects include school-based projects mentored by teachers and external research projects mentored by experts in their specialised fields. Examples of projects pursued by our Secondary 3 and 4 students include: decision-making of General Yamashita and General Percival during the invasion of Singapore, portrayal of gender roles in Disney films, the ability of driverless cars to recognise road signs, and the ethics of genetically modified food.
