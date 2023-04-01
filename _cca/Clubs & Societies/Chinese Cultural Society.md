@@ -2,14 +2,14 @@
 title: Chinese Cultural Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Chinese-Cultural-Society/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Chinese Cultural Society**
 
 
-<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:100%">
+<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:75%">
 
 华文文化学会以推广校园华文文化为使命，希望该会的创立能让同学们更加热爱华文文化。  
   
@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
   
 华文文化学会作为我校华文部的得力助手，也参与协办了许多校内华族传统节庆活动，经过口才课训练的优秀会员也有幸担任中小学农历新年庆典的司仪。另外，我们的会员也活跃于校内母语双周、端午节、中秋节等大型活动现场，为学校营造了浓厚的华族文化氛围。  
   
- 在老师们的悉心指导与会员们的共同努力下,华文文化学会一年年在平凡中寻求突破，与时俱进，为我校培育出更多富有文化素养和传统底蕴的“文化人”!  
+&nbsp;在老师们的悉心指导与会员们的共同努力下,华文文化学会一年年在平凡中寻求突破，与时俱进，为我校培育出更多富有文化素养和传统底蕴的“文化人”!  
   
   
 
