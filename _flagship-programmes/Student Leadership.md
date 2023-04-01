@@ -126,7 +126,8 @@ The Student Council comprises of Councillors from Secondary 2 to 4, led by a Pre
 
 The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exco Exchange with our Joint Integrated Programme (JIP) partner schools.
 
-<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpg" style="width:100%"><figcaption> <b>Student Leadership Board Exco Exchange</b></figcaption></figure>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpg" style="width:75%">
+<div style="text-align:center"><b>Student Leadership Board Exco Exchange</b></div><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
