@@ -38,11 +38,7 @@ Our school believes in empowering students and developing important 21 CC skills
 		
 ##### **Leadership Development at CHIJ St Nicholas Girls' School (Sec)**
 
-**Future Readiness (21 CC Skills)**
-
-| Civic-Literacy, Global Awareness &amp; Cross-Cultural Skills | Critical &amp; Inventive Thinking | Communication, Collaboration &amp; Information |
-| -------- | -------- | -------- |
-
+**Future Readiness (21 CC Skills) - Civic-Literacy, Global Awareness &amp; Cross-Cultural Skills; Critical &amp; Inventive Thinking;  Communication, Collaboration &amp; Information** 
 
 | Our Workshops | Leadership Appointments | Working with others &amp; Student Voice and Choice | External Opportunities (selected students only) |
 | -------- | -------- | -------- | -------- |
