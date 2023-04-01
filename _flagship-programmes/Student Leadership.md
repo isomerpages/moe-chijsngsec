@@ -171,19 +171,19 @@ The Student Council seizes valuable networking opportunities to work with studen
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
-    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL4.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL4.jpeg" style="width:75%"></td>
   </tr>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpeg" style="width:100%"></td>
-    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpeg" style="width:100%"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> Student Council S2 Leadership Camp</span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpeg" style="width:75%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL6.jpeg" style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">2022 Pinnacle </span></td>
-    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL7.jpeg" style="width:100%"><span style="color:#222;background-color:#EAEAEA"></span></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL7.jpeg" style="width:75%"><span style="color:#222;background-color:#EAEAEA"></span></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA"> 16th Student Council Leading Teacher’s Day Celebrations</span></td>
-    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL8.jpeg" style="width:100%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL8.jpeg" style="width:75%"></td>
   </tr>
 </tbody>
 </table>
