@@ -9,24 +9,24 @@ description: ""
 #### **Student Leadership**
 
 <div style="text-align:center"><b>Girls of Grace • Women of Strength • Leaders with Heart</b></div>
-
-![](/images/02%20Flagship%20Programmes/Student%20Leadership/Picture1%202022%20Student%20Council%20Executive%20Committee.jpg)
-
+<br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture1%202022%20Student%20Council%20Executive%20Committee.jpg" style="width: 75%" align="center">
+<br>
 <div style="text-align:center"><b>16th Student Council Executive Committee</b></div>
 
 
 ##### **OUR APPROACH**
 
-Guided by our school values of <b>Truth</b>, <b>Justice</b>, <b>Freedom</b> and <b>Love</b>, it is our belief that every St Nicholas student will maximise her potential and be nurtured to become a leader who has integrity, is resilient and compassionate. In line with the IJ mission, students will be confident to lead and committed to <b>serving the needs of the disadvantaged and underprivileged.</b> Our students will exhibit these attributes by upholding the school motto, <b>Simple in Virtue, Steadfast in Duty.</b>   
+Guided by our school values of&nbsp;<b>Truth</b>,&nbsp;<b>Justice</b>,&nbsp;<b>Freedom</b>&nbsp;and&nbsp;<b>Love</b>, it is our belief that every St Nicholas student will maximise her potential and be nurtured to become a leader who has integrity, is resilient and compassionate. In line with the IJ mission, students will be confident to lead and committed to&nbsp;<b>serving the needs of the disadvantaged and underprivileged.</b>&nbsp;Our students will exhibit these attributes by upholding the school motto,&nbsp;<b>Simple in Virtue, Steadfast in Duty.</b>&nbsp;  
 
-As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2) to be ready and able to serve and impact the community and others.
+As a Catholic-Mission school, SNGS aims to&nbsp;nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2)&nbsp;to be ready and able to serve and impact the community and others.
 
 
 <figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Student%20Leadership%20Framework.jpeg" style="width:100%"><figcaption> <b>SNGS Student Leadership Framework</b></figcaption></figure>
 
 ##### **OUR PROGRAMME**
 
-The <b>St Nicholas Leadership Programme (SNLP)</b> is based on two principal provisions, the provision of ‘<b>Trainings</b>’ and ‘<b>Opportunities</b>’. The trainings consist of leadership workshops which focus on equipping and honing leadership skills and inculcating the school’s values required for students to exercise their leadership competencies and skills with excellence. Hands-on training are also integral parts of leadership training, whereby student leaders are given the support and skills needed to become effective leaders. Through these trainings, students will develop their individual leadership aptitude, formulate personal goals to attain, as well as to be a good team player.
+The&nbsp;<b>St Nicholas Leadership Programme (SNLP)</b>&nbsp;is based on two principal provisions, the provision of ‘<b>Trainings</b>’ and ‘<b>Opportunities</b>’. The trainings consist of leadership workshops which focus on equipping and honing leadership skills and inculcating the school’s values required for students to exercise their leadership competencies and skills with excellence. Hands-on training are also integral parts of leadership training, whereby student leaders are given the support and skills needed to become effective leaders. Through these trainings, students will develop their individual leadership aptitude, formulate personal goals to attain, as well as to be a good team player.
 
 **(1) Trainings**<br>
 All St Nicholas students go through the SNLP which provides structured developmental leadership training. This includes leadership milestone trainings, which identifies specific leadership skills to be taught at each level. Key skills such as coordination, facilitation and communication skills are explicitly taught to our students through workshops and training sessions. The five Practices of ‘The Leadership Challenge © ’are also mapped out as focus areas for the respective cohort. This ensures that there is segmented and progressive leadership development programme for our students throughout their four year journey in our school.
@@ -39,11 +39,11 @@ Our school believes in empowering students and developing important 21 CC skills
 
 **Future Readiness (21 CC Skills)**
 
-| Civic-Literacy, Global Awareness & Cross-Cultural Skills | Critical & Inventive Thinking | Communication, Collaboration & Information |
+| Civic-Literacy, Global Awareness &amp; Cross-Cultural Skills | Critical &amp; Inventive Thinking | Communication, Collaboration &amp; Information |
 | -------- | -------- | -------- |
 
 
-| Our Workshops | Leadership Appointments | Working with others & Student Voice and Choice | External Opportunities (selected students only) |
+| Our Workshops | Leadership Appointments | Working with others &amp; Student Voice and Choice | External Opportunities (selected students only) |
 | -------- | -------- | -------- | -------- |
 | Mass Student Leadership Workshops<br><br>Class Management Committee - role training<br><br>Design Thinking | Student Council<br><br>Class Management Committee<br><br>CCA Leaders<br><br>Sports Leaders<br><br>SyNerGiSe Committee | <u>Level Camps</u><br>* Sec 1 Orientation Camp<br>* Sec 2 Alumni Camp<br>* Sec 3 OBS Camp<br><br>Values-in-Action projects (student-initiated)<br><br>Leadership appointments projects (Org school events) | <u>Interschool Leadership Camps</u><br>* Student Leaders Convention (HCI)<br>* Youth.Lead (RVHS)<br>* JIP Student Leadership networking (CHS, SCGS)<br><br><u>Signature Programmes</u><br>* Camp facilitators<br>* Cultural Scope / Break fast (cross cultural skills)<br>* Heart-to-heart talks with industry leaders (Alumni)<br>* Community Outreach (grassroots collaboration) |
 
@@ -72,7 +72,7 @@ Established in 2008, the Student Council strives to serve the student body and f
 
 Key events organised by the Student Council include the Secondary One Orientation, and Teachers’ Day Celebration. In addition, the Student Council also supports school events such as Chinese New Year Celebrations, Moonlight Party, Open House, Primary Five Camp, SYF Showcase, Jubilate, IP Leadership Symposiums, Meet-the-Parent sessions and Parent-Teacher Conferences.
 
-As a bridge to link the student body and the school, the Student Council constantly acts on feedback from the student population and together with the Council teachers, discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday and DJ Booth which aim to improve the general welfare of the students. In 2014, the Councillors were also involved in the conceptualisation of the Students’ Lounge 乐悠轩, a facility which is enjoyed by students from both secondary and primary sections.
+As a bridge to link the student body and the school, the Student Council constantly acts on feedback from the student population and together with the Council teachers, discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday and DJ Booth which aim to improve the general welfare of the students. In 2014, the Councillors were also involved in the conceptualisation of the Students’ Lounge&nbsp;乐悠轩, a facility which is enjoyed by students from both secondary and primary sections.
 
 The Student Council comprises of Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their school mates while striving for the betterment of the student body.
 
