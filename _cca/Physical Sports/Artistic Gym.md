@@ -8,7 +8,7 @@ third_nav_title: Physical Sports
 
 #### **Artistic Gym**
 
-<img src="/images/Artistic%20Gym.jpeg" style="width:100%">
+<img src="/images/Artistic%20Gym.jpeg" style="width:75%">
 
 Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
   
