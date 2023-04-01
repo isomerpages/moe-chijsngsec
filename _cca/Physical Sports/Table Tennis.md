@@ -8,7 +8,7 @@ third_nav_title: Physical Sports
 
 #### **Table Tennis**
 
-<img src="/images/TableTennis.jpeg" style="width:100%">
+<img src="/images/TableTennis.jpeg" style="width:75%">
 
 The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
 
