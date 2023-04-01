@@ -2,13 +2,13 @@
 title: Publications
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Publications/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Publications**
 
-<img src="/images/Publications.jpeg" style="width:100%">
+<img src="/images/Publications.jpeg" style="width:75%">
 
 SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
   
