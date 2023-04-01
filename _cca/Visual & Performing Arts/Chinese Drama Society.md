@@ -2,13 +2,13 @@
 title: Chinese Drama Society
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Chinese-Drama-Society/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Chinese Drama Society**
 
-<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:100%">
+<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:75%">
 
 Chinese Drama Society (CDS) is an open and welcoming family. Each and every member is unique with their own skills and talents. Through enjoyable CCA sessions, we are able to bond and learn with others, allowing us to discover the new talents we never knew existed. Moreover, we are able to gain experience in stage make-up, props-making and acting, some skills that are not taught in our daily curriculum.
 
