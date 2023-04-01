@@ -75,7 +75,7 @@ As a bridge to link the student body and the school, the Student Council constan
 
 The Student Council comprises of Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their school mates while striving for the betterment of the student body.
 
-![Student Council Org Chart](/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpg)
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL5.jpg" style="width:75%"><br>
 
 
 <style type="text/css">
