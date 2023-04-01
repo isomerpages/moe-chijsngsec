@@ -8,7 +8,7 @@ third_nav_title: Physical Sports
 
 #### **Hockey**
 
-<img src="/images/Hockey.jpeg" style="width:100%">
+<img src="/images/Hockey.jpeg" style="width:75%">
 
 The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fearless group of students who will go all out in pursuit of excellence while always acting in a morally upright manner. The team goes through a rigorous training program to work on their skillsets as well as their fitness. A close-knit group where friendships are formed and fun is always on the agenda.  
 
