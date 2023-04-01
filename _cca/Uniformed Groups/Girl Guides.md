@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 #### **Girl Guides**
 
-<img src="/images/Girl%20Guides.jpeg" style="width:100%">
+<img src="/images/Girl%20Guides.jpeg" style="width:75%">
 
 Girl Guides @ SN aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through the 5-Point Programme and various proficiency/interest badges, guides are able to develop their leadership, decision-making and team-building skills.
 
