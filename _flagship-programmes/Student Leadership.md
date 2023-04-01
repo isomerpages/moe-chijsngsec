@@ -58,10 +58,10 @@ Our school believes in empowering students and developing important 21 CC skills
 
 Here are some examples of leadership opportunities available in our school:
 
-![Our Student Leaders at Harmony Centre and An-Nahdhah Mosque](/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpg)
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpg" style="width:75%"><br>
 Our Student Leaders at Harmony Centre and An-Nahdhah Mosque, understanding the importance of cross-cultural skills.
 
-![Our Student Leaders with Ms Nichol Ng co-founder of Food Bank](/images/02%20Flagship%20Programmes/Student%20Leadership/SL3.jpg)
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL3.jpg" style="width:75%"><br>
 Our Student Leaders with Ms Nichol Ng (from left, first row), co-founder of Food Bank - to learn about the importance of resilience through her sharing about her journey as an ex-St Nicks’ student and how she overcome challenges in her personal and professional life.
 
 
