@@ -2,13 +2,14 @@
 title: Library Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Library-Society/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Library Society**
 
-<img src="/images/Library%20Society.jpeg" style="width:100%">
+<img src="/images/Library%20Society.jpeg" style="width:75
+						%">
 
 Library Society aspires to spread the joy of reading with our fellow 姐妹们 and also encourages them to read more widely. We work closely with the National Library Board (NLB) and participate in competitions such as HSI Challenge and VIA activities, such as Read for Books Charity Drive. Additionally, this year we have also taken part in competitions run by other organisations such as the Greenreads Haiku Competition. Every Wednesday and Friday, we gather in the library to take part in various language-related activities.
 
