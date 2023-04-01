@@ -8,16 +8,16 @@ third_nav_title: Physical Sports
 
 #### **Netball**
 
-<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:100%">
+<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:75%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
   
 <b>Our Core Values</b>    
-Believe & Battle  
-Effort & Endurance  
+Believe &amp; Battle  
+Effort &amp; Endurance  
 All for One, One for All  
-Sacrifice & Succeed  
+Sacrifice &amp; Succeed  
 Trust to Think, Think to Trust  
   
 <b>Our Objectives</b>  
