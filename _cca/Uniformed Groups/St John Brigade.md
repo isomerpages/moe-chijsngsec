@@ -9,24 +9,24 @@ third_nav_title: Uniformed Groups
 
 #### **St John Brigade**
 
-<img src="/images/SJB.jpeg" style="width:100%">
+<img src="/images/SJB.jpeg" style="width:75%">
 
 
-St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.   
+St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
 Students will learn basic first aid knowledge, which includes Home Nursing and Basic/Advanced CPR techniques. They will also engage in vigorous foot-drill and physical training sessions to build up their stamina. Students then apply the skills learnt in Zonal and National Competitions, which are held every year.  
   
-Our motto is _Pro Utilitate Hominum_ (For The Service of Mankind) and this is instilled in the cadets as they engage in Public Duty services, where they apply their practical skills into real-world context. Our cadets have provided first aid and relief efforts at numerous school events as well as various national platforms.   
+Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and this is instilled in the cadets as they engage in Public Duty services, where they apply their practical skills into real-world context. Our cadets have provided first aid and relief efforts at numerous school events as well as various national platforms.&nbsp;  
   
 <b>The St John Pledge</b>:  
   
-<i>To be loyal to Singapore and the President of the Republic   
-To upkeep the honour and dignity of the Brigade and my Country   
-To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind   
-To be loyal to the Chief Commissioner and all my Officers   
-To read the Brigade Regulations and to comply with them in all respects   
-To carry out all orders received from time to time from seniors   
-To carry out my duties with zeal and efficiency to the best of my ability   
+<i>To be loyal to Singapore and the President of the Republic&nbsp;  
+To upkeep the honour and dignity of the Brigade and my Country&nbsp;  
+To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind&nbsp;  
+To be loyal to the Chief Commissioner and all my Officers&nbsp;  
+To read the Brigade Regulations and to comply with them in all respects&nbsp;  
+To carry out all orders received from time to time from seniors&nbsp;  
+To carry out my duties with zeal and efficiency to the best of my ability&nbsp;  
 To be courteous and honest in all my words and actions</i>  
 
 #### **CCA Information :**
