@@ -2,14 +2,14 @@
 title: Debate Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Debate-Society/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 
 #### **Debate Society**
 
-<img src="/images/Debate%20Society.jpeg" style="width:100%">
+<img src="/images/Debate%20Society.jpeg" style="width:75%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
