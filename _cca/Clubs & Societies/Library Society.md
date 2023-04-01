@@ -8,8 +8,7 @@ third_nav_title: Clubs &amp; Societies
 
 #### **Library Society**
 
-<img src="/images/Library%20Society.jpeg" style="width:75
-						%">
+<img src="/images/Library%20Society.jpeg" style="width:75%">
 
 Library Society aspires to spread the joy of reading with our fellow 姐妹们 and also encourages them to read more widely. We work closely with the National Library Board (NLB) and participate in competitions such as HSI Challenge and VIA activities, such as Read for Books Charity Drive. Additionally, this year we have also taken part in competitions run by other organisations such as the Greenreads Haiku Competition. Every Wednesday and Friday, we gather in the library to take part in various language-related activities.
 
