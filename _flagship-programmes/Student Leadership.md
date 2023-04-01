@@ -161,13 +161,13 @@ The Student Council seizes valuable networking opportunities to work with studen
 <thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">2022 Student Council Presidential Elections</span></th>
-    <th class="tg-pll1"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/2022%20Student%20Council%20Elections.jpeg" style="width:100%"></th>
+    <th class="tg-pll1"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/2022%20Student%20Council%20Elections.jpeg" style="width:75%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:100%"></td>
-    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpeg" style="width:100%"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL2.jpeg" style="width:100%"></td>
+    <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Serving the Community at the Kebun Baru Community Club Digital Family Day </span><br><br><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Serving%20the%20Community%20at%20the%20Kebun%20Baru%20Community%20Club%20Digital%20Family%20Day.jpeg" style="width:75%"></td>
+    <td class="tg-ii8k"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL1.jpeg" style="width:75%"><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/SL2.jpeg" style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-j0e3"><span style="color:#222;background-color:#EAEAEA">Student Council Fortnightly Touchpoints</span><br></td>
