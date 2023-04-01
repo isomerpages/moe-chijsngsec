@@ -2,13 +2,13 @@
 title: String Orchestra
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/String-Orchestra/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: Visual &amp; Performing Arts
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **String Orchestra**
 
-<img src="/images/SO1.jpeg" style="width:100%">
+<img src="/images/SO1.jpeg" style="width:75%">
 
 Starting out as a chamber with fewer than 10 members who had no prior experience in their instruments, SNSO currently has more than 60 members, consisting mainly of experienced instrumentalists. We stage many performances throughout the academic year both in and out of school.
 
