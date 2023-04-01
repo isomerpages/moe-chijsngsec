@@ -22,11 +22,12 @@ Guided by our school values of <b>Truth</b>, <b>Justice</b>, <b>Freedom</b> and 
 As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2) to be ready and able to serve and impact the community and others.
 
 <img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Student%20Leadership%20Framework.jpeg" style="width:75%"><br>
-<b>SNGS Student Leadership Framework</b>
+<div style="text-align:center"><b>SNGS Student Leadership Framework</b></div>
+
 
 ##### **OUR PROGRAMME**
 
-The&nbsp;<b>St Nicholas Leadership Programme (SNLP)</b>&nbsp;is based on two principal provisions, the provision of ‘<b>Trainings</b>’ and ‘<b>Opportunities</b>’. The trainings consist of leadership workshops which focus on equipping and honing leadership skills and inculcating the school’s values required for students to exercise their leadership competencies and skills with excellence. Hands-on training are also integral parts of leadership training, whereby student leaders are given the support and skills needed to become effective leaders. Through these trainings, students will develop their individual leadership aptitude, formulate personal goals to attain, as well as to be a good team player.
+The <b>St Nicholas Leadership Programme (SNLP)</b> is based on two principal provisions, the provision of ‘<b>Trainings</b>’ and ‘<b>Opportunities</b>’. The trainings consist of leadership workshops which focus on equipping and honing leadership skills and inculcating the school’s values required for students to exercise their leadership competencies and skills with excellence. Hands-on training are also integral parts of leadership training, whereby student leaders are given the support and skills needed to become effective leaders. Through these trainings, students will develop their individual leadership aptitude, formulate personal goals to attain, as well as to be a good team player.
 
 **(1) Trainings**<br>
 All St Nicholas students go through the SNLP which provides structured developmental leadership training. This includes leadership milestone trainings, which identifies specific leadership skills to be taught at each level. Key skills such as coordination, facilitation and communication skills are explicitly taught to our students through workshops and training sessions. The five Practices of ‘The Leadership Challenge © ’are also mapped out as focus areas for the respective cohort. This ensures that there is segmented and progressive leadership development programme for our students throughout their four year journey in our school.
@@ -38,10 +39,8 @@ Our school believes in empowering students and developing important 21 CC skills
 ##### **Leadership Development at CHIJ St Nicholas Girls' School (Sec)**
 
 **Future Readiness (21 CC Skills)**
-
 | Civic-Literacy, Global Awareness &amp; Cross-Cultural Skills | Critical &amp; Inventive Thinking | Communication, Collaboration &amp; Information |
 | -------- | -------- | -------- |
-
 
 | Our Workshops | Leadership Appointments | Working with others &amp; Student Voice and Choice | External Opportunities (selected students only) |
 | -------- | -------- | -------- | -------- |
