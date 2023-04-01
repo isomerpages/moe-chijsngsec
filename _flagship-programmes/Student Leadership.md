@@ -21,8 +21,8 @@ Guided by our school values of <b>Truth</b>, <b>Justice</b>, <b>Freedom</b> and 
 
 As a Catholic-Mission school, SNGS aims to nurture our girls (1) to be “Leaders with Heart” who embody the IJ Ethos and to develop our girls to be Principled Leaders of Tomorrow and (2) to be ready and able to serve and impact the community and others.
 
-
-<figure><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Student%20Leadership%20Framework.jpeg" style="width:100%"><figcaption> <b>SNGS Student Leadership Framework</b></figcaption></figure>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Student%20Leadership%20Framework.jpeg" style="width:75%"><br>
+<b>SNGS Student Leadership Framework</b>
 
 ##### **OUR PROGRAMME**
 
