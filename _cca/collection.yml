@@ -1,0 +1,34 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs & Societies/Art Club.md
+      - Clubs & Societies/Chinese Cultural Society.md
+      - Clubs & Societies/Debate Society.md
+      - Clubs & Societies/Green Club.md
+      - Clubs & Societies/IJYM.md
+      - Clubs & Societies/Infocomm Media Club.md
+      - Clubs & Societies/Library Society.md
+      - Clubs & Societies/Mind Games.md
+      - Clubs & Societies/Publications.md
+      - Clubs & Societies/.keep
+      - Physical Sports/Artistic Gym.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Hockey.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Rhythmic Gym.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Track and Field.md
+      - Physical Sports/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/St John Brigade.md
+      - Uniformed Groups/.keep
+      - Visual & Performing Arts/Chinese Drama Society.md
+      - Visual & Performing Arts/Chinese Orchestra.md
+      - Visual & Performing Arts/Choir.md
+      - Visual & Performing Arts/Dance Society.md
+      - Visual & Performing Arts/Literary Drama Society.md
+      - Visual & Performing Arts/String Orchestra.md
+      - Visual & Performing Arts/Symphonic Band.md
+      - Visual & Performing Arts/.keep

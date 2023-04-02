@@ -1,0 +1,13 @@
+collections:
+  infohub:
+    output: true
+    order:
+      - Admissions.md
+      - Bus Services.md
+      - Uniform and Books Sale/.keep
+      - Uniform and Books Sale/Uniform and Books Sale.md
+      - Uniform and Books Sale/AY2023 Book List, Textbooks & School Socks Sale
+        Information.md
+      - School Fees.md
+      - Forms.md
+      - School Calendar.md
