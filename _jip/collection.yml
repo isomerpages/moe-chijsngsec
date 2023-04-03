@@ -2,7 +2,6 @@ collections:
   jip:
     output: true
     order:
-      - Joint Integrated Programme.md
       - Principals' Message.md
       - Our Unified Approach.md
       - The JIP Graduate.md
@@ -12,3 +11,4 @@ collections:
       - Life Skills, Character and CItizenship Education Programme.md
       - Co Curriculum Programme.md
       - Our JIP Journey.md
+      - Joint Integrated Programme.md
