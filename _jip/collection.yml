@@ -2,6 +2,7 @@ collections:
   jip:
     output: true
     order:
+      - Passion Pursuit.md
       - Life Skills, Character and CItizenship Education Programme.md
       - Co Curriculum Programme.md
       - Our JIP Journey.md
