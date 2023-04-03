@@ -2,7 +2,7 @@ collections:
   jip:
     output: true
     order:
-      - Principals' Message.md
+      - Overview.md
       - Our Unified Approach.md
       - The JIP Graduate.md
       - The JIP Curriculum.md
