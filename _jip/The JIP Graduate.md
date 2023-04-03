@@ -14,6 +14,3 @@ As Principled Leaders of Tomorrow, graduates of the JIP are persons of integrity
 | <div style="text-align:center"><b>The Six Core Attributes of Principled Leaders</b></div> | <div style="text-align:center"><b>How the Six Core Attributes Are Manifested</b></div> | 
 | -------- | -------- |
 | <div style="text-align:center">Personal Mastery<br>-<br>Ethical Leadership<br>-<br>Intellectual Curiosity<br>-<br>Passionate Living<br>-<br>Global Outlook<br>-<br>Innovative Thinking</div> | <div style="text-align:center">Confident in Self<br>-<br>Inspired to Serve<br>-<br>Joy for Learning<br>-<br>Zest for Life<br>-<br>Balanced in Perspectives<br>-<br>Enterprising in Spirit</div> |
-
-
-
