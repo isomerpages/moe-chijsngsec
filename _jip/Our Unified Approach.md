@@ -9,3 +9,4 @@ description: ""
 
 The JIP approach for developing and nurturing Principled Leaders of Tomorrow consists of the three key pillars of **(1) Cognitive development, (2) Character development and (3) Leadership development.** The outer portion of the diagram shows the desired outcomes, in terms of  knowledge, skills and attitudes, embodied by our graduates.
 
+![](/images/04%20JIP/JIP1.png)
