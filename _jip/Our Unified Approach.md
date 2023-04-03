@@ -5,6 +5,7 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/03%20subpage%20JIP.jpg)
 
-#### **Our Unified Approach**
+##### **Our Unified Approach**
 
-The JIP approach for developing our students to be Principled Leaders of Tomorrow includes the three main pillars of **(1) Cognitive development, (2) Character development and (3) Leadership development.** The outer portion of the diagram shows our desired outcomes, in terms of the knowledge, skills and attitudes that are embodied by our graduates.
+The JIP approach for developing and nurturing Principled Leaders of Tomorrow consists of the three key pillars of **(1) Cognitive development, (2) Character development and (3) Leadership development.** The outer portion of the diagram shows the desired outcomes, in terms of  knowledge, skills and attitudes, embodied by our graduates.
+
