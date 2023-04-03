@@ -50,3 +50,15 @@ From Years 1 to 4, the knowledge that our JIP students acquire in WRP will provi
 ![](/images/04%20JIP/JIP3.png)
 
 The WRP utilises a variety of learning platforms to engage students. In addition to lectures and tutorials in each school schools also engage or participate in programmes organized by external agencies (e.g. participation in Model United Nations Conferences). The three partner secondary schools also collaboratively organise annual **WRP Symposiums** where students are brought together to benefit from the synergistic sharing of ideas and perspectives. At these WRP Symposiums, our students interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
+
+#### **Passion Pursuit**
+
+*Guided by the firm belief that the joy of learning is integral to supporting future learning and igniting a zest for life, our Passion Pursuit (PP) programme offers customised opportunities for JIP students to pursue their learning at an extended or deeper level in both the academic and non-academic domains during their six-year journey with the JIP.*
+
+Passion Pursuit provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of Diverge, Converge and Emerge. Students get to explore a broad spectrum of interest areas under the Diverge phase, understand what passion really means through the Converge phase and eventually actualise it as part of purposeful living in the Emerge phase. Our flagship programme will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.
+
+Passion Pursuit is implemented through Platforms for Exploration and Platforms for Pursuit, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
+
+![](/images/04%20JIP/JIP4.png)
+
+Our JIP schools work closely with our strong network of alumni, collaborating organisations and community partners to provide research and mentorship opportunities for our students.&nbsp; Our broad base of partners include Agency for Science, Technology and Research, Changi General Hospital, National Heritage Board, Science Centre Singapore, Defence Science and Technology Agency, the Dolphin Discovery Centre in Australia and more.
