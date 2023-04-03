@@ -1,65 +1,86 @@
 ---
 title: Joint Integrated Programme
-permalink: /joint-integrated-programme/Joint-Integrated-Programme/
+permalink: /jip/joint-integrated-programme/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/03%20subpage%20JIP.jpg)
 
-### **Joint Integrated Programme**
+#### **Overview**
 
-#### **Introduction**
-  
-The Joint Integrated Programme (JIP) by CHIJ St Nicholas Girls’ School (SNGS) is jointly offered in collaboration with Catholic High School (CHS), Singapore Chinese Girls’ School (SCGS) and Eunoia Junior College (EJC).   
-  
-Our JIP is a community anchored by a strong culture of care, and integrated and extends from the best elements of our schools. Our students experience a broad-based and enriched curriculum with opportunities to engage in a wide spectrum of authentic and future‐oriented learning experiences that will equip them with competencies to navigate in a complex world. JIP students from CHIJ SNGS, CHS and SCGS will spend their first four years in their respective secondary schools before progressing to EJC.  
-  
-Please refer to the [JIP Prospectus](https://issuu.com/sngscorpcomms/docs/jip_prospectus) for more information.  
-  
-Please click [here](https://eunoiajc.moe.edu.sg/) to find out more about Eunoia Junior College  
+Over generations, Catholic High School, CHIJ St Nicholas Girls’ School and Singapore Chinese Girls’ School have developed many leaders across extensive fields whose significant contributions have transformed our society. We continue this legacy of excellence together with Eunoia Junior College, through the Joint Integrated Programme (JIP).&nbsp;
 
-#### **Our Unified Approach**
+The JIP is not merely a programme but a community anchored by a strong culture of care for every student.&nbsp; With more than 250 years of experience in education between the four schools, as well as extensive alumni networks spanning diverse fields, the JIP is well-poised to provide an enriching and relevant curriculum that stretches students’ potential with customised learning opportunities and equip them with the knowledge, skills and dispositions to be future-ready, as Principled Leaders of Tomorrow.
 
-The JIP approach for developing our students to be Principled Leaders of Tomorrow includes the three main pillars of <b>(1) Cognitive development, (2) Character development and (3) Leadership development.</b> The outer portion of the diagram shows our desired outcomes, in terms of the knowledge, skills and attitudes that are embodied by our graduates.
+#### **The JIP Approach and the JIP Graduate**
 
-<img src="/images/JIP1.png" style="width:100%">
+<u>The JIP Approach</u>
 
-#### **Weaving Together the JIP Curriculum**
-JIP students can expect to immerse themselves in an enriched and authentic six‐year learning experience that effectively equips them to explore and further develop their personal strengths, passions and talents.   
-  
-The JIP curriculum offers students a common core of learning experiences. The student’s learning experience is enhanced by our JIP flagship programmes, World Readiness Programme (WRP) and Passion Pursuit (PP). Our flagship programmes seek to excite and engage students in the breadth of global perspectives as well as cultivate their interest and talents.
+The JIP approach for developing and nurturing Principled Leaders of Tomorrow consists of the three key pillars of&nbsp;**(1) Cognitive development, (2) Character development and (3) Leadership development.**&nbsp;The outer portion of the diagram shows the desired outcomes, in terms of  knowledge, skills and attitudes, embodied by our graduates.
+
+This approach is helmed by our team of dedicated and highly qualified professionals who ensure that students learn in a vibrant environment with state-of-the-art facilities. Unique to the JIP, our flagship World Readiness Programme and Passion Pursuit challenges students to examine world issues, consider multiple perspectives, seek opportunities beyond problems and embrace possibilities beyond risks. By providing a variety of learning experiences, including exciting collaborations with the larger community, students are empowered to find and hone diverse talents alongside like-minded peers. Voices are nurtured, self-confidence raised and curiosity piqued such that students are empowered to discover their passion for life and inspired them to make learning a lifelong endeavour.
+
+![](/images/04%20JIP/jip1%20v2.png)
+
+<u>The JIP Graduate</u>
+
+As Principled Leaders of Tomorrow, graduates of the JIP are persons of integrity with a passion for life. They are discerning individuals who challenge themselves to think critically and make sound moral and ethical judgements. Additionally, they demonstrate high levels of distinction in their acquisition and mastery of 21st &nbsp;Century Competencies and dedicate their talents to impact lives in positive and ethical ways.
 
 
-<img src="/images/JIP2.png" style="width:100%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">The Six Core Attributes of Principled Leaders</th>
+    <th class="tg-7btt">How the Six Core Attributes Are Manifested</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Personal Mastery<br>-<br>Ethical Leadership<br>-<br>Intellectual Curiosity<br>-<br>Passionate Living<br>-<br>Global Outlook<br>-<br>Innovative Thinking</td>
+    <td class="tg-c3ow">Confident in Self<br>-<br>Inspired to Serve<br>-<br>Joy for Learning<br>-<br>Zest for Life<br>-<br>Balanced in Perspectives<br>-<br>Enterprising in Spirit<br></td>
+  </tr>
+</tbody>
+</table>
 
-#### **Our Core Curriculum**
-Our <b>Core Academic Programme</b> ensures that students in the JIP are poised to further their intellectual pursuits and actualise their potential in different areas of interests and specialisations by providing a strong grounding in knowledge and skills across the different subject disciplines. Our core curriculum, developed collaboratively by the three partner schools, ensure a strong grounding in the content, skills, and rigour required to excel in the core subject disciplines offered within the same disciplinary clusters at Eunoia Junior College.  
-  
-A deep understanding of subject matter is emphasised as it supports further intellectual pursuits by enabling students to transform factual information into new and applied knowledge. All Year 1 and 2 students offer a general curriculum that enables them to explore various disciplinary fields and make an informed choice regarding the subject options to be offered at Years 3 and 4, and subsequently at Year 5 and Year 6 including the MOE Special Programmes offered by EJC.  
-  
-#### **World Readiness Programme**  
 
-Beyond the Core Academic Programme, our unique <b>World Readiness Programme (WRP)</b> aims to develop our students’ ability to impact lives in positive, ethical ways and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage.   
-  
-From Year 1 to 4, modules offered under <b>Philosophy, Current Affairs and Emerging Asia</b>, some in the Chinese language, ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well‐versed in eastern and western perspectives on knowledge, reason, and values. In turn, the <b>Current Affairs</b> modules are designed to promote an understanding of global issues and megatrends.   
-  
-The WRP utilises a variety of learning platforms to engage students and also for them to practise and sharpen their skills. In addition to lessons in school, JIP students have the opportunity to participate in programmes organised by external agencies (e.g Model United Nations Conferences), our annual WRP Symposium, and also to interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
 
-<img src="/images/JIP3.png" style="width:100%">
+#### **The JIP Curriculum**
+
+In the JIP, students immerse themselves in an enriching, extensive and authentic six-year learning experience that effectively equips them to explore and further develop their personal strengths, passions and talents.
+
+JIP students from Catholic High School (CHS), CHIJ St Nicholas Girls’ School (SNGS) and Singapore Chinese Girls’ School (SCGS) will spend their first four years in their respective secondary schools before progressing to EJC and can look forward to the following Ministry of Education (MOE) special programmes that are tailor-made to cater to their learning passions and aspirations.&nbsp; From Year 3, JIP students can offer the Bicultural Studies Programme, which is also offered in EJC.
+
+#### **World Readiness Programme**
+
+*Beyond the Core Academic Programme, our unique World Readiness Programme (WRP) aims to develop our students’ ability to impact lives in positive, ethical and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage.*
+
+<u>Curriculum</u>
+
+From Years 1 to 4, modules offered under Philosophy of Knowledge and Emerging Asia ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well-versed in eastern and western perspectives on knowledge, reason and values. In turn, the Current Affairs modules are designed to promote an understanding of global issues and megatrends.
+
+From Years 1 to 4, the knowledge that our JIP students acquire in WRP will provide them with the foundational knowledge and skills that will put them in good stead for specific subjects and special programmes offered at EJC.
+
+![](/images/04%20JIP/JIP3.png)
+
+The WRP utilises a variety of learning platforms to engage students. In addition to lectures and tutorials in each school schools also engage or participate in programmes organized by external agencies (e.g. participation in Model United Nations Conferences). The three partner secondary schools also collaboratively organise annual **WRP Symposiums** where students are brought together to benefit from the synergistic sharing of ideas and perspectives. At these WRP Symposiums, our students interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
 
 #### **Passion Pursuit**
-Guided by the firm belief that joy for learning is integral to supporting future learning and igniting a zest for life, our Passion Pursuit (PP) programme offers customised opportunities for JIP students to pursue their learning at an extended or deeper level in both the academic and non-academic domains during their six-year journey with the JIP.   
-  
-<b>Passion Pursuit (PP)</b>   provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of <i>Diverge, Converge and Emerge</i>. Students get to explore a broad spectrum of interest areas under the <i>Diverge</i> phase, understand what passion really means through the <i>Converge</i> phase and eventually actualise it as part of purposeful living in the <i>Emerge</i> phase. Our PP will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.   
-  
-PP is implemented through <i>Platforms for Exploration</i> and <i>Platforms for Pursuit</i>, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
 
-<img src="/images/JIP4.png" style="width:100%">
+*Guided by the firm belief that the joy of learning is integral to supporting future learning and igniting a zest for life, our Passion Pursuit (PP) programme offers customised opportunities for JIP students to pursue their learning at an extended or deeper level in both the academic and non-academic domains during their six-year journey with the JIP.*
 
-#### **Talent Development Programmes**
-Our JIP schools offer a spread of talent development programmes in the areas of academic, aesthetics and sports to help our Year 1 to JC2 students transform their gifts into talents. Under these Talent Develop Programmes, our JIP students are nurtured to take on challenging assignments that stretch them beyond their current competencies and allow them to achieve their fullest potential. Our JIP schools offer a variety of programmes across different disciplines to stretch and develop the talents of our students.   
-  
-In addition, the JIP schools also offer <b>MOE Special Programmes</b> such as the Bicultural Studies Programme (BSP), the Music Elective Programme (MEP) and the Humanities Scholarship Programme. Our BSP students will develop high cultural intelligence through an extensive Chinese curriculum and immersion experiences in China and a Western Country, along with opportunities to interact and share their experiences with students from other BSP schools. Through the MEP offered in SNGS, CHS and EJC, students with an aptitude for music can pursue a deeper and more comprehensive study in music.   
-  
-#### **Life Skills, Character and Citizenship Education Programme**
+Passion Pursuit provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of Diverge, Converge and Emerge. Students get to explore a broad spectrum of interest areas under the Diverge phase, understand what passion really means through the Converge phase and eventually actualise it as part of purposeful living in the Emerge phase. Our flagship programme will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.
 
-Our JIP <b>Life Skills, Character and Citizenship Education Programme</b> aims to bring students on a meaningful journey to inspire active citizenship as well as inculcate and nurture sound values and life skills. Students will embark on a journey of self-discovery with guidance from teachers, and learn to communicate and collaborate effectively with their peers. They will be provided with a variety of opportunities to care for others and to contribute meaningfully to the community. Through these quality learning experiences, we hope to nurture our JIP students to be individuals who are strongly grounded in values and are committed to their community and nation. Our Student Leadership Programme seeks to develop JIP students who have the courage, disposition and essential qualities to lead by example and inspire others to effective positive change. Guided by their strong moral compass, they will navigate the challenges of the future with ease and confidence aided by the leadership competencies instilled in them through our programme. It is our firm belief that our students will grow up to lead and shape the future of our nation as responsible citizens of the 21st century.
+Passion Pursuit is implemented through Platforms for Exploration and Platforms for Pursuit, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
+
+![](/images/04%20JIP/JIP4.png)
+
+Our JIP schools work closely with our strong network of alumni, collaborating organisations and community partners to provide research and mentorship opportunities for our students.&nbsp; Our broad base of partners include Agency for Science, Technology and Research, Changi General Hospital, National Heritage Board, Science Centre Singapore, Defence Science and Technology Agency, the Dolphin Discovery Centre in Australia and more.
