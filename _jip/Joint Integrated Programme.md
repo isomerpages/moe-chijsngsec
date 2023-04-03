@@ -26,10 +26,32 @@ This approach is helmed by our team of dedicated and highly qualified profession
 As Principled Leaders of Tomorrow, graduates of the JIP are persons of integrity with a passion for life. They are discerning individuals who challenge themselves to think critically and make sound moral and ethical judgements. Additionally, they demonstrate high levels of distinction in their acquisition and mastery of 21st &nbsp;Century Competencies and dedicate their talents to impact lives in positive and ethical ways.
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">The Six Core Attributes of Principled Leaders</th>
+    <th class="tg-7btt">How the Six Core Attributes Are Manifested</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Personal Mastery<br>-<br>Ethical Leadership<br>-<br>Intellectual Curiosity<br>-<br>Passionate Living<br>-<br>Global Outlook<br>-<br>Innovative Thinking</td>
+    <td class="tg-c3ow">Confident in Self<br>-<br>Inspired to Serve<br>-<br>Joy for Learning<br>-<br>Zest for Life<br>-<br>Balanced in Perspectives<br>-<br>Enterprising in Spirit<br></td>
+  </tr>
+</tbody>
+</table>
 
-| <div style="text-align:center"><b>The Six Core Attributes of Principled Leaders</b></div> | <div style="text-align:center"><b>How the Six Core Attributes Are Manifested</b></div> | 
-| -------- | -------- |
-| <div style="text-align:center">Personal Mastery<br>-<br>Ethical Leadership<br>-<br>Intellectual Curiosity<br>-<br>Passionate Living<br>-<br>Global Outlook<br>-<br>Innovative Thinking</div> | <div style="text-align:center">Confident in Self<br>-<br>Inspired to Serve<br>-<br>Joy for Learning<br>-<br>Zest for Life<br>-<br>Balanced in Perspectives<br>-<br>Enterprising in Spirit</div> |
+
 
 #### **The JIP Curriculum**
 
