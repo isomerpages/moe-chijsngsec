@@ -19,7 +19,7 @@ The JIP approach for developing and nurturing Principled Leaders of Tomorrow con
 
 This approach is helmed by our team of dedicated and highly qualified professionals who ensure that students learn in a vibrant environment with state-of-the-art facilities. Unique to the JIP, our flagship World Readiness Programme and Passion Pursuit challenges students to examine world issues, consider multiple perspectives, seek opportunities beyond problems and embrace possibilities beyond risks. By providing a variety of learning experiences, including exciting collaborations with the larger community, students are empowered to find and hone diverse talents alongside like-minded peers. Voices are nurtured, self-confidence raised and curiosity piqued such that students are empowered to discover their passion for life and inspired them to make learning a lifelong endeavour.
 
-![](/images/04%20JIP/the%20jip%20approach.jpg)
+![](/images/04%20JIP/jip1%20v2.png)
 
 <u>The JIP Graduate</u>
 
