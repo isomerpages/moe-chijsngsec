@@ -2,6 +2,7 @@ collections:
   jip:
     output: true
     order:
+      - Co Curriculum Programme.md
       - Our JIP Journey.md
       - Principals' Message.md
       - Joint Integrated Programme.md
