@@ -2,5 +2,6 @@ collections:
   jip:
     output: true
     order:
+      - Our JIP Journey.md
       - Principals' Message.md
       - Joint Integrated Programme.md
