@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
-      - Our Unified Approach.md
+      - The JIP Approach and the JIP Graduate.md
       - The JIP Graduate.md
       - The JIP Curriculum.md
       - World Readiness Programme.md
