@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Visual and Performing Arts/.keep
+      - VPA/.keep
       - VPA/Chinese Drama Society.md
       - VPA/Chinese Orchestra.md
       - VPA/Choir.md
@@ -10,7 +10,6 @@ collections:
       - VPA/Literary Drama Society.md
       - VPA/String Orchestra.md
       - VPA/Symphonic Band.md
-      - VPA/.keep
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Cultural Society.md
@@ -33,3 +32,4 @@ collections:
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/St John Brigade.md
+      - Visual and Performing Arts/.keep
