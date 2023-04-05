@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual & Performing Arts 2/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Cultural Society.md
       - Clubs & Societies/Debate Society.md
