@@ -14,5 +14,5 @@ sections:
         - title: SNGS Primary
           description: ""
           url: https://master.d6ffahuouz5lv.amplifyapp.com
-      background: /images/Secondary_Banner.gif
+      background: /images/01 Banner Photos/sec banner v1.gif
 ---
