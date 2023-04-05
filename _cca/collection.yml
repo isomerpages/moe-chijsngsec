@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - VPA/String Orchestra.md
       - VPA/Symphonic Band.md
       - VPA/.keep
       - Clubs & Societies/.keep
