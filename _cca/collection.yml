@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - VPA/Chinese Drama Society.md
       - VPA/Chinese Orchestra.md
       - VPA/Choir.md
