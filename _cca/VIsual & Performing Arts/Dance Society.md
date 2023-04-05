@@ -2,7 +2,7 @@
 title: Dance Society
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Dance-Society/
 description: ""
-third_nav_title: Visual & Performing Arts
+third_nav_title: VIsual &amp; Performing Arts
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 

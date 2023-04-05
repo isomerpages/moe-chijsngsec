@@ -2,7 +2,7 @@
 title: Chinese Orchestra
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Chinese-Orchestra/
 description: ""
-third_nav_title: Visual &amp; Performing Arts
+third_nav_title: VIsual &amp; Performing Arts
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
