@@ -2,7 +2,7 @@
 title: Literary Drama Society
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Literary-Drama-Society/
 description: ""
-third_nav_title: VIsual &amp; Performing Arts
+third_nav_title: Visual and Performing Arts
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
