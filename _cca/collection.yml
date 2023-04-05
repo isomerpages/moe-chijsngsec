@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - VPA/Dance Society.md
       - VPA/Literary Drama Society.md
       - VPA/String Orchestra.md
       - VPA/Symphonic Band.md
