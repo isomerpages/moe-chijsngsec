@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - VPA/Chinese Orchestra.md
       - VPA/Choir.md
       - VPA/Dance Society.md
       - VPA/Literary Drama Society.md
