@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - VPA/.keep
       - Clubs & Societies/.keep
       - Clubs & Societies/Art Club.md
       - Clubs & Societies/Chinese Cultural Society.md
