@@ -3,7 +3,6 @@ title: Science
 permalink: /academic/Science/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
 ### **Science**
 
@@ -32,4 +31,4 @@ An annual event for all Secondary 3 students, this conference includes talks, ha
 **Passion Pursuit Modules**  
 Our Passion Pursuit modules include: A Day at the Museum, Science behind Crime Scene Investigations, Pharmaceutical Science and Aromachemistry, astronomy and food gastronomy. These broad-based enrichment programmes provide the opportunities for you to pursue your passion, interest and enrich your learning.
 
-**Science Talent Development Programme**<br>Click [here](/flagship-programmes/talent-development/science-talent-development-programme/) to find out more!
+**Science Talent Development Programme**<br>Click&nbsp;[here](/flagship-programmes/talent-development/science-talent-development-programme/)&nbsp;to find out more!
