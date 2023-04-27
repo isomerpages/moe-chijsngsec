@@ -146,7 +146,11 @@ In SNTT, there are various opportunities and platforms to develop character and 
 </style>
 <table class="tg">
 <thead>
-  <tr>
+    <tr>
+    <td class="tg-w14e"><span style="font-weight:bold">North Zone Inter-School Table Tennis Championships 2023</span><br><br>B Division Team Champion<br><br>C Division Team 1st Runner-up<br><br></td>
+    <td class="tg-vo25"><img src="/images/TT3.jpeg" style="width:100%"></td>
+  </tr>
+	<tr>
     <th class="tg-brl1"><span style="font-weight:bold">North Zone Inter-School B Division Table Tennis Championships 2022</span><br><br>B Division team champion</th>
     <th class="tg-s2rg"><img src="/images/TT1.jpeg" style="width:100%"></th>
   </tr>
@@ -155,10 +159,6 @@ In SNTT, there are various opportunities and platforms to develop character and 
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">North Zone Inter-School B Division Table Tennis Championships 2022</span><br><br>C Division team champion</td>
     <td class="tg-vo25"><img src="/images/TT2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-w14e"><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>B Division player in action<br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/TT3.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
