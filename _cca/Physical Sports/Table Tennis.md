@@ -168,7 +168,6 @@ In SNTT, there are various opportunities and platforms to develop character and 
 </table>
 
 #### **CCA Achievements**
-----------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -176,27 +175,37 @@ In SNTT, there are various opportunities and platforms to develop character and 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-u71t{font-size:medium;text-align:left;vertical-align:top}
+.tg .tg-1jsq{border-color:inherit;font-size:medium;text-align:center;vertical-align:middle}
+.tg .tg-qjz7{font-size:medium;text-align:center;vertical-align:top}
+.tg .tg-waw9{border-color:inherit;font-size:medium;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-oesp{border-color:inherit;font-size:medium;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gom2{border-color:inherit;font-size:medium;text-align:center;vertical-align:top}
+.tg .tg-rx7n{font-size:medium;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
+    <th class="tg-waw9">Competition</th>
+    <th class="tg-oesp">Level</th>
+    <th class="tg-u71t"><span style="font-weight:bold">Achievement</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> North Zone Inter-School Table Tennis Championships 2022</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span><br><span style="color:#222;background-color:transparent">B Division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Champion</span><br><span style="color:#222;background-color:transparent">Team Champion</span></td>
+    <td class="tg-1jsq">National Inter-School<br>Table Tennis Championships 2023</td>
+    <td class="tg-gom2">C Division<br><br>B Division</td>
+    <td class="tg-u71t">Top 8<br><br>Top 8</td>
   </tr>
   <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">North Zone Inter-School Table Tennis Championships 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span><br><span style="color:#222;background-color:transparent">B Division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">NIL</span><br><span style="color:#222;background-color:transparent">Runner-up</span></td>
+    <td class="tg-rx7n">North Zone Inter-School<br>Table Tennis Championships 2023</td>
+    <td class="tg-qjz7">C Division<br><br>B Division</td>
+    <td class="tg-u71t">1st Runner-up<br><br>Team Champion</td>
+  </tr>
+  <tr>
+    <td class="tg-rx7n">North Zone Inter-School<br>Table Tennis Championships 2022</td>
+    <td class="tg-qjz7">C Division<br><br>B Division</td>
+    <td class="tg-u71t">Team Champion<br><br>Team Champion</td>
   </tr>
 </tbody>
 </table>
