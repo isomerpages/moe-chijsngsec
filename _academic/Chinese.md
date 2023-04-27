@@ -3,7 +3,7 @@ title: Chinese
 permalink: /academic/Chinese/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
+
 ### **Chinese**
 Bilingual education is a cornerstone of Singapore’s education system. As a Special Assistance Plan (SAP) school whose mission is to cultivate bicultural youth who are effectively bilingual in English and Mother Tongue, we strive to nurture students who build a firm foundation in the Chinese language, as well as appreciate the richness of Chinese language and culture and its enduring value in our multicultural society and open economy.<br><br>双语教育是我国教育的基石，而圣尼各拉女校作为特选学校的使命是为国家培育双语双文化人才。我校华文部致力于通过与时俱进的教学培养热爱华文与文化、热爱生活、知书达礼的时代女性。我们坚信每一名学生都可以努力打好华文基础，领略华文语言与文化之美，从而培养双语双文化的优势，开拓世界观，在二十一世纪为我国社会文化与经济的持续发展做出贡献。  
 
@@ -14,7 +14,7 @@ We strive to nurture students to be effective and confident communicators of you
 As a SAP school, we provide an immersive bilingual environment to deepen your interests and competencies through an enriching and comprehensive suite of programmes and enrichment activities.<br><br>作为特选学校，圣尼各拉为学生提供使用华文华语的校园环境，并通过下列课程与增益活动提高学生的学习兴趣和语文能力。
 
 ##### **Bicultural Studies Programme (BSP) 双文化课程**
-The BSP aims to nurture a bicultural orientation amongst a core group of students. The programme will help you develop an interest in and capacity to engage China and the West. BSP students will take up a more intensive Chinese curriculum to learn about contemporary China’s economy, society, politics and international relations, as well as experience significant immersion in China and a learning trip in a Western country.<br><br>The BSP is a 4-year programme offered from IP Years 3 to 6, jointly offered by our Integrated Programme partner school Eunoia Junior College. Outstanding students can apply for the MOE BSP Scholarship in Year 3 or Year 5.<br><br>More details can be found [here](/flagship-programmes/talent-development/bicultural-studies-programme/).
+The BSP aims to nurture a bicultural orientation amongst a core group of students. The programme will help you develop an interest in and capacity to engage China and the West. BSP students will take up a more intensive Chinese curriculum to learn about contemporary China’s economy, society, politics and international relations, as well as experience significant immersion in China and a learning trip in a Western country.<br><br>The BSP is a 4-year programme offered from IP Years 3 to 6, jointly offered by our Integrated Programme partner school Eunoia Junior College. Outstanding students can apply for the MOE BSP Scholarship in Year 3 or Year 5.<br><br>More details can be found&nbsp;[here](/flagship-programmes/talent-development/bicultural-studies-programme/).
 
 我校双文化课程致力于为我国培养学贯中西、了解当代中国与西方社会的青少年。课程主要内容包括改革开放以来的中国经济、社会、政治与外交，教学形式包括课堂教学，讲座，中国浸濡和西方浸濡等。<br><br>双文化课程为期四年，在中三至高二年级进行，供综合课程学生选修，由我校和诺雅初级学院联合主办。优秀的双文化课程学生可以在中三或高一申请教育部双文化奖学金。<br><br>更多详情请见[双文化课程网页](/flagship-programmes/talent-development/bicultural-studies-programme/)。
 
@@ -31,14 +31,14 @@ The annual Mother Tongue Fortnight and other enrichment activities allow you to 
 *   Chinese drama outing
 *   Museum guide training
 *   SAP Schools Research Mentorship Programme
-*   Chinese & bilingual debates
+*   Chinese &amp; bilingual debates
 *   Song writing workshops
 *   SNGS Chinese Knowledge Challenge
 *   Author-in-Residence Programme
 *   Creative writing
 *   Basic DJ course
 *   Introduction to Zither
-*   Introduction to _Weiqi_
+*   Introduction to&nbsp;_Weiqi_
 *   China immersion programme
 
 为促进学生在华文与文学、文化历史、学术思辨等方面的学习，华文部每年举办母语双周和一系列深广活动，包括：
