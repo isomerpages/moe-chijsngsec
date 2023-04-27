@@ -45,8 +45,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | Lim Heng Xuan, Chavelle | Sec 2J | Sec 2 Level Coordinator |
 
 
-#### **CCA Highlights**
---------------
+##### **CCA Highlights**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,7 +77,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 </tbody>
 </table>
 
-#### **CCA Achievements**
+##### **CCA Achievements**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
