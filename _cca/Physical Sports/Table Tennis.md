@@ -6,7 +6,7 @@ third_nav_title: Physical Sports
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
-#### **Table Tennis**
+##### **Table Tennis**
 
 <img src="/images/TableTennis.jpeg" style="width:75%">
 
@@ -14,7 +14,7 @@ The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results
 
 In SNTT, there are various opportunities and platforms to develop character and leadership. Through table tennis competitions, exchanges and trainings, the team develops self-discipline, resilience and confidence. Other platforms like the annual sports camp and organizing VIA activities also serve well to develop leadership skills.
 
-#### **CCA Information**
+##### **CCA Information**
 
 
 | **Training / Meeting Venue** | Primary ISH |
@@ -23,7 +23,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | **Coaches / Instructors** | Mr Tang Hua |
 
 
-#### **Teachers-in-charge**
+##### **Teachers-in-charge**
 
 
 | Mr Wan Yew Boon (Overall-in-charge) |
@@ -32,7 +32,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | Ms Chua Shi Yan |
 
 
-#### **Student Executive Committee (2022-2023)**
+##### **Student Executive Committee (2022-2023)**
 
 
 | Name | Class | Position |
