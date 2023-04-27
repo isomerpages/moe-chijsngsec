@@ -3,7 +3,7 @@ title: Aesthetics
 permalink: /academic/Aesthetics/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
+
 ### **Aesthetics**
 
 The appreciation of Aesthetics helps us connect with one another through multimodal forms, thus providing a platform for self-expression. Through Aesthetics education, you will enjoy plenty of immersive experiences in the multiplicity of aesthetic practices, including the various disciplines of Art, Music, Design and Technology, and Food and Consumer Education. With such opportunities for creative and innovative endeavours, we hope to deepen students’ appreciation and ignite your passion for all forms of Aesthetics, thus making Aesthetics education the bedrock of lifelong enjoyment and appreciation of the arts.

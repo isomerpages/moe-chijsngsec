@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /academic/Mathematics/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
 
 ### **Mathematics**
 
@@ -11,7 +10,7 @@ Mathematics is becoming increasingly pervasive in everyday life and is the found
 
 #### **Our Curriculum**  
 
-Logical thinking and analytical ability are critical 21st Century competencies. As you apply these skills to a wide range of real-life context problems to cultivate an appreciation of how Mathematics underpins many aspects of your daily activities and develop problem-solving and interdisciplinary skills through project work, you will cultivate an appreciation of the breadth, depth, beauty and powers of mathematics. Students with a strong passion in Mathematics can participate in Passion Pursuit modules and competitions to delve deeper and challenge themselves further. 
+Logical thinking and analytical ability are critical 21st Century competencies. As you apply these skills to a wide range of real-life context problems to cultivate an appreciation of how Mathematics underpins many aspects of your daily activities and develop problem-solving and interdisciplinary skills through project work, you will cultivate an appreciation of the breadth, depth, beauty and powers of mathematics. Students with a strong passion in Mathematics can participate in Passion Pursuit modules and competitions to delve deeper and challenge themselves further.&nbsp;
 
 #### **Our Enrichment**  
   

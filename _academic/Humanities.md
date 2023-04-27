@@ -3,7 +3,7 @@ title: Humanities
 permalink: /academic/Humanities/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
+
 ### **Humanities**
 
 In today’s increasingly interconnected and unpredictable world, Humanities education plays an undeniably instrumental role in empowering our students with the necessary knowledge and skills to navigate the modern terrain. Through a multidisciplinary approach across the subjects of Geography, History and Social Studies, you will develop a keenly inquisitive disposition alongside a sense of empathy and critical appreciation for the environment and people around you.
@@ -24,7 +24,7 @@ This experience will immerse you in learning about Singapore’s history in the 
 In this fieldwork enrichment programme, you will have the opportunity to investigate wide-ranging issues spanning the school, local and national levels. Through active engagement in various inquiry processes, you will develop and deploy various skills to become critical, creative, analytical and reflective thinkers.
 
 **Interdisciplinary Projects**<br>
-To broaden students’ perspectives and understanding local and regional issues, Humanities projects at the lower secondary level are integrated with other subjects, including Mathematics, Science and Food and Consumer Education, to highlight the multidisciplinary concepts. 
+To broaden students’ perspectives and understanding local and regional issues, Humanities projects at the lower secondary level are integrated with other subjects, including Mathematics, Science and Food and Consumer Education, to highlight the multidisciplinary concepts.&nbsp;
 
 **Humanities Talent Development Programme (HTDP)**<br>
-The [HTDP](/flagship-programmes/talent-development/humanities-talent-development-programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. You will get to broaden your exposure of the Humanities and undertake a Humanities Research Study under the close guidance of mentors.
+The&nbsp;[HTDP](/flagship-programmes/talent-development/humanities-talent-development-programme/) seeks to develop students who have the passion and desire to pursue the Humanities in greater depth and exposure. You will get to broaden your exposure of the Humanities and undertake a Humanities Research Study under the close guidance of mentors.
