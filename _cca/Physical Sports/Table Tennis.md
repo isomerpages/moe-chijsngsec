@@ -160,10 +160,6 @@ In SNTT, there are various opportunities and platforms to develop character and 
     <td class="tg-w14e"><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>B Division player in action<br><br><br><br></td>
     <td class="tg-vo25"><img src="/images/TT3.jpeg" style="width:100%"></td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><br><span style="font-weight:bold">North Zone Inter-School C Division Table Tennis Championships 2022</span><br><br>C Division player in action </td>
-    <td class="tg-vo25"><img src="/images/TT4.jpeg" style="width:100%"></td>
-  </tr>
 </tbody>
 </table>
 
