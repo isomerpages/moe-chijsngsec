@@ -3,7 +3,7 @@ title: English
 permalink: /academic/English/
 description: ""
 ---
-![](/images/01%20Banner%20Photos/02%20subpage%20academic.jpg)
+
 ### **English**
 Words have power. We strive to develop you to become effective, eloquent and empathetic communicators so that you can harness the power of words in various contexts, to positively influence the people around you. We also seek to inspire appreciation, understanding and passion for language, through the study of English Language and Literature.
 
