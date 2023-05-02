@@ -132,60 +132,6 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 </tbody>
 </table>
 
-#### **Student Executive Committee (2021-2022)**
----------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z" colspan="3">Artistic Gymnastics 2021-2022 Committee </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-frbo">Emily Low Kit Yee</td>
-    <td class="tg-frbo">Sec 4 Justice</td>
-    <td class="tg-frbo">Captain</td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Megan Lee Jing Xuan</td>
-    <td class="tg-frbo">Sec 3 Charity</td>
-    <td class="tg-frbo">Vice-Captain</td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Alexis Chan</td>
-    <td class="tg-frbo">Sec 2 Grace</td>
-    <td class="tg-frbo">Lower Secondary Coordinator</td>
-  </tr>
-  <tr>
-    <td class="tg-r52z" colspan="3">Trampoline 2021-2022 Committee</td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Cladise Tan Shijia</td>
-    <td class="tg-frbo">Sec 4 Grace</td>
-    <td class="tg-frbo">Captain </td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Lim Zi Qi Kate</td>
-    <td class="tg-frbo">Sec 3 Faith</td>
-    <td class="tg-frbo">Vice-Captain</td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Ang Ying Le Gwyneth</td>
-    <td class="tg-frbo">Sec 2 Unity</td>
-    <td class="tg-frbo">Lower Secondary Coordinator</td>
-  </tr>
-</tbody>
-</table>
 
 
 #### **CCA Highlights**
