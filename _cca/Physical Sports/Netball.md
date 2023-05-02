@@ -210,3 +210,14 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| NSG National<br>Netball Championships 2023     | 'B' Division     | Top 16     |
+| Nationals 2022     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
+| North Zone 2022     | 'B' Division<br>'C' Division     | 4th<br>4th     |
+| Nationals 2019     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
+| North Zone 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
+
