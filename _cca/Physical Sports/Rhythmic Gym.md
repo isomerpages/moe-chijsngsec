@@ -100,22 +100,22 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nicole Lim Zi Qing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Li Xuan Chloe</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Reanne Yeoh Shyen Yee</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Coordinator</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Andrina Ng En Ci</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sports Leader</span></td>
   </tr>
 </tbody>
