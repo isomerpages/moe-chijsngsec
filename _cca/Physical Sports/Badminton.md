@@ -192,8 +192,7 @@ SNBT All the way!
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| North Zone Inter-School<br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
-| North Zone Inter-School<br>Badminton Championships 2021     | 'B' Division     | 1st     |
-
+| NSG National <br>Badminton Championships 2023     | 'B' Division     | Top 8     |
+| NSG North Zone<br>Badminton Championships 2023     | 'B' Division     | 2nd     |
+| NSG North Zone <br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
+| NSG North Zone <br>Badminton Championships 2021     | 'B' Division     | 1st     |
