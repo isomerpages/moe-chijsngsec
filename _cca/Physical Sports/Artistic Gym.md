@@ -170,9 +170,9 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games<br>Trampoline Championships 2023     | 'B' Division<br>'C' Division     | 1st<br><br>1st     |
-| National School Games<br>Artistic Gymnastics Championships 2023     | 'B' Division<br>'C' Division     | 1st<br><br>1st     |
-| National School Games<br>Trampoline Championships 2022     | 'B' Division<br>'C' Division     | 1st<br><br>1st     |
+| National School Games<br>Trampoline Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>1st     |
+| National School Games<br>Artistic Gymnastics Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>1st     |
+| National School Games<br>Trampoline Championships 2022     | 'B' Division<br>'C' Division     | 1st<br>1st     |
 | National School Games<br>Artistic Gymnastics Championships 2022     | 'B' Division<br>'C' Division     | All Around: 3rd Tan Shang Yu Olivia<br>1st     |
 | National School Games<br>Trampoline Championships 2021     | 'B' Division     | 1st     |
 | National School Games<br>Artistic Gymnastics Championships 2021     | 'B' Division     | 2nd     |
