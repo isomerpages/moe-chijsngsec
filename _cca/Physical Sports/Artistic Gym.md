@@ -103,7 +103,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Alexis Chan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2 Grace</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3 Charity</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Vice-Captain</span></td>
   </tr>
   <tr>
