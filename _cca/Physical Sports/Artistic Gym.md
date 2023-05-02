@@ -98,7 +98,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Wan Ning, Edith</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Grace</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4 Grace</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
   </tr>
   <tr>
