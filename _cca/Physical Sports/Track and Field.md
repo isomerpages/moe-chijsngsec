@@ -233,3 +233,13 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| National School Games<br>Track and Field Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>3rd     |
+| National School Games<br>Cross Country Championships 2023     | 'B' Division<br>'C' Division     | 4th<br>2nd     |
+| National School Games<br>Track and Field Championships 2022     | 'B' Division<br>'C' Division     | 1st<br>2nd     |
+| National School Games<br>Cross Country Championships 2022     | 'B' Division<br>'C' Division     | 1st<br>2nd     |
+
