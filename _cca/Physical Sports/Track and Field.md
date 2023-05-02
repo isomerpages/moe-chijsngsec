@@ -201,39 +201,6 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 </table>
 
 #### **CCA Achievement**
----------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Div</span><br><span style="color:#222;background-color:transparent">C Div</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st</span><br><span style="color:#222;background-color:transparent">2nd</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Cross Country 2022</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Div </span><br><span style="color:#222;background-color:transparent">C Div</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st</span><br><span style="color:#222;background-color:transparent">2nd</span></td>
-  </tr>
-</tbody>
-</table>
-
 
 
 | Competition | Level | Achievement |
@@ -242,4 +209,3 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 | National School Games<br>Cross Country Championships 2023     | 'B' Division<br>'C' Division     | 4th<br>2nd     |
 | National School Games<br>Track and Field Championships 2022     | 'B' Division<br>'C' Division     | 1st<br>2nd     |
 | National School Games<br>Cross Country Championships 2022     | 'B' Division<br>'C' Division     | 1st<br>2nd     |
-
