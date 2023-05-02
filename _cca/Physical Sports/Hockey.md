@@ -102,22 +102,22 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Tze En Meghan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
     <td class="tg-vo25">B Division Captain</td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Gisele Tan Si Han</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Vice Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Xin Yun, Melanie</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Jing Xuan Cindy</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Vice Captain</span></td>
   </tr>
 </tbody>
