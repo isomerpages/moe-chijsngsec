@@ -262,3 +262,13 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
   </tr>
 </tbody>
 </table>
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| National School Games<br>Trampoline Championship 2022     | 'B' Division<br>'C' Division     | 1st<br><br>1st     |
+| National School Games<br>Artistic Gymnastics Championship 2022     | 'B' Division<br>'C' Division     | All Around: 3rd Tan Shang Yu Olivia<br>1st     |
+| National School Games<br>Trampoline Championship 2021     | 'B' Division     | 1st     |
+| National School Games<br>Artistic Gymnastics Championship 2021     | 'B' Division     | 2nd     |
+
