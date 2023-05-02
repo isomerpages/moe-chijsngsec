@@ -159,46 +159,6 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 </table>
 
 #### **CCA Achievements**
-----------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span><br></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span><br></th>
-    <th class="tg-s2rg">Achievement <br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National Inter-School Competition 2022</span> <br></td>
-    <td class="tg-vo25">B Division<br>C Division</td>
-    <td class="tg-vo25">Second<br>Second</td>
-  </tr>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National Inter-School Competition 2021</span> <br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Champion</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">National Inter-School Competition 2019</span><br></td>
-    <td class="tg-vo25">B Division<br>C Division</td>
-    <td class="tg-vo25">Second<br>Second</td>
-  </tr>
-</tbody>
-</table>
-
 
 
 | Competition | Level | Achievement |
@@ -207,4 +167,3 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 | National Inter-School Competition 2022     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
 | National Inter-School Competition 2021     | 'B' Division     | Champion     |
 | National Inter-School Competition 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
-
