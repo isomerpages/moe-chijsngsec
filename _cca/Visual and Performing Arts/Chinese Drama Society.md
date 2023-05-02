@@ -170,4 +170,3 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 | 2021 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Distinction     |
 | 2019 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Certificate of Accomplishment     |
 | 2017 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Distinction     |
-
