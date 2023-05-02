@@ -96,32 +96,32 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Khoo Qi Xuan, Claresta 邱琪媗</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">主席</span> <span style="background-color:#FFF">President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kelly Ho Jia Yi 何嘉怡</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">副主席</span> <span style="background-color:#FFF">Vice President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amelie Koh Wei Lyn 许玮琳</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 演出组长</span> <span style="background-color:#FFF">Head of Performance</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Woon Le Qing 云乐晴</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 总务</span> <span style="background-color:#FFF">Head of Logistics</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goh Si Ying Fiona 吴思颖</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 福利组长</span> <span style="background-color:#FFF">Head of Welfare</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Xinyi, Fionn李欣怡</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 活动组长</span> <span style="background-color:#FFF">Head of Events</span></td>
   </tr>
 </tbody>
