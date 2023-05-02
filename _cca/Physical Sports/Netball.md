@@ -113,22 +113,22 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Avrielle Charlotte Ho </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shanice Yeo Yingxuan </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Vice-Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Katie Khoo Pei Yun  </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Captain</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rachel Tan Yi Ting  </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Vice-Captain</span></td>
   </tr>
 </tbody>
