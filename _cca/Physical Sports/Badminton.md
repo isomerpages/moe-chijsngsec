@@ -187,3 +187,13 @@ SNBT All the way!
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| North Zone Inter-School<br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
+| North Zone Inter-School<br>Badminton Championships 2021     | 'B' Division     | 1st     |
+
