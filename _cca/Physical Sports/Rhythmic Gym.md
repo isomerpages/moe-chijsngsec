@@ -198,3 +198,13 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| National School Games<br>Rhythmic Gymnastics Championships 2023    | 'B' Division<br>'C' Division     | 1st<br>1st     |
+| National Inter-School Competition 2022     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
+| National Inter-School Competition 2021     | 'B' Division     | Champion     |
+| National Inter-School Competition 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
+
