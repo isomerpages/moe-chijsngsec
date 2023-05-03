@@ -279,8 +279,4 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 | NPCC Inter Unit<br>Campcraft Competition 2018     | All     | Team 1: 16th<br>Team 2: 20th     |
 | NFEC-NCDCC Inter Unit Quiz<br>Open Category 2017     | All     | 3rd     |
 | NPCC Inter Unit .22 Revolver<br>Shooting Competition 2017     | All     | Team 1: 31st<br>Team 2: 14th     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| NPCC Inter Unit<br>Drills Competition 2017     | All     | 17th     |
