@@ -259,3 +259,14 @@ We strive to do our best in all our performances. We are blessed to have a dedic
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Distinction     |
+| Singapore Youth Festival 2019     | Secondary School     | Distinction     |
+| Singapore Youth Festival 2017     | Secondary School     | Distinction     |
+| Singapore International Chinese Choral Festival     | Secondary School     | Gold Award     |
+| 3rd Singapore International Chloral Festival    | Secondary School     | Silver Award     |
+
