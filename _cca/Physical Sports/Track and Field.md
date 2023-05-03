@@ -72,6 +72,21 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 </tbody>
 </table>
 
+
+
+| Miss Susan Lim | HOD / PE &amp; CCA |
+| -------- | -------- |
+| Ms Yang Peishan     | Overall I/C     |
+| Miss Lee Le Xin Francoise     | 2nd I/C     |
+| Mr Koh Wen Jin, Marcus     |      |
+| Ms Kho Qi En Shermaine     |      |
+| Mr Kevin Andrew Thesman     |      |
+| Ms Audrey Chia     |      |
+
+
+
+
+
 #### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
