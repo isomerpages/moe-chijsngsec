@@ -103,57 +103,57 @@ In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and 
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clare Bernadette Wong En Ning</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Band Major</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Elizabeth Wen Jun Lee</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Drum Major</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Ong Si Yu</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Student Conductor</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Shan Xuan Gracelyn</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary/Treasurer </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Gan Pei Em</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Brass) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Maegin Ma Wye Kit</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Woodwind) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeanette Tan Tze Yan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Percussion) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lam Yann Yi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ashley Tay Rui En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Li Lin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Jia Yi Sonia</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
   </tr>
 </tbody>
@@ -204,4 +204,3 @@ In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and 
 | 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Accomplishment     |
 | 2021 Singapore Youth Festival<br>Arts Presentation (Band A)     | Secondary School Bands &amp; Ensembles     | Certificate of Distinction     |
 | 2021 Singapore Youth Festival<br>Arts Presentation (Band B)     | Secondary School Bands &amp; Ensembles     | Certificate of Accomplishment     |
-
