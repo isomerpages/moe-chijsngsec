@@ -93,37 +93,37 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jyzel Tok</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee-Goh En, Emma Joy</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Lim</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tey Hui Wen Ashley</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Emma Yap Sze Tyng</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jillen Ng Jie En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Joy Ng (Wu Lewen)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
   </tr>
 </tbody>
