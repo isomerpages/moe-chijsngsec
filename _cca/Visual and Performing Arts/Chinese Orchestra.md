@@ -257,3 +257,11 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2023 Singapore Youth Festival<br>Arts Presentation     | Full Orchestra, Secondary School     | Certificate of Distinction     |
+| 2021 Singapore Youth Festival<br>Arts Presentation     | Chinese Orchestra (Mixed Ensemble)     | Certificate of Distinction     |
+
