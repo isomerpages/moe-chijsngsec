@@ -264,3 +264,26 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2022 Unit Overall Proficiency Award     | Secondary Schools     | Distinction     |
+| Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+
