@@ -21,37 +21,6 @@ Training encompasses fitness training, skills techniques and the occasional game
 SNBT All the way!
 
 #### **CCA Information**
----------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training/ Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">Secondary ISH / Hall</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day/ Time</td>
-    <td class="tg-brl1">Mon &amp; Wed:    3:45 pm - 6.30 pm<br>Fri:                     4:00 pm - 6.30 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">Instructors</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Jin Xiao Bai</span></td>
-  </tr>
-</tbody>
-</table>
 
 | Training/Meeting Venue | Secondary ISH / Hall |
 | -------- | -------- |
