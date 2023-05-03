@@ -223,4 +223,3 @@ third_nav_title: Clubs & Societies
   </tr>
 </tbody>
 </table>
-
