@@ -53,6 +53,11 @@ SNBT All the way!
 </tbody>
 </table>
 
+| Training/Meeting Venue | Secondary ISH / Hall |
+| -------- | -------- |
+| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
+| Instructor     | Mr Jin Xiao Bai     |
+
 #### **Teachers-in-charge**
 ------------------
 
