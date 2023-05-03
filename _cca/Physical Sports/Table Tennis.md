@@ -26,7 +26,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 ##### **Teachers-in-charge**
 
 
-| Mr Wan Yew Boon (Overall-in-charge) |
+| Mr Wan Yew Boon |
 | -------- |
 | Mr Tan Yong Meng |
 | Ms Chua Shi Yan |
