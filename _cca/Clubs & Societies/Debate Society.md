@@ -261,7 +261,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Orator's Trophy 2022     | Senior League     | Semi-Final     |
 | Orator's Trophy 2021     | Secondary 2 (Junior League)<br>Secondary 3 (Senior League)     | Semi-Finalist (Junior League)<br>Final – Top 6 (Senior League)     |
 | Debate Association<br>Debating Championships 2022     | Secondary<br>3 &amp; 4     | Participation     |
 | Debate Association<br>Debating Championships 2021     | Secondary<br>3 &amp; 4     | Top 4     |
