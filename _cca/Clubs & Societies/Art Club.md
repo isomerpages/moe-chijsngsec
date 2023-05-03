@@ -75,7 +75,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
 </table>
 
 
-#### **Student Executive Committee(2022 - 2023)**
+#### **Student Executive Committee (2022 - 2023)**
 ----------------------------------------
 
 <style type="text/css">
