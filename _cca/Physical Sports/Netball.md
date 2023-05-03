@@ -27,40 +27,11 @@ To develop players’ fitness, skills and character through training and games
 To nurture players of character so as to become Girls of Grace, Women of Strength, Leaders with Heart  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue</th>
-    <th class="tg-frbo">Netball Courts</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time</td>
-    <td class="tg-frbo">Mon &amp; Wed:    3:45 pm - 6:30 pm<br>Fri:                     4:00 pm - 6:30 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-r52z">Instructors</td>
-    <td class="tg-frbo">Ms Ong Chin Chin</td>
-  </tr>
-</tbody>
-</table>
-
-| Training/Meeting Venue | School Gynasium |
+| Training/Meeting Venue | Netball Courts |
 | -------- | -------- |
 | Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Instructors     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
+| Instructor     | Ms Ong Chin Chin     |
 
 
 #### **Teachers-in-charge**
