@@ -275,7 +275,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 | GOTC II Virtual Tournament 2021     | All     | Team A: Silver<br>Team B: Gold     |
 | NPCC Inter Unit .22 Revolver<br>Shooting Competition 2019     | All     | Team 1: 2nd<br>Team 2: 37th     |
 | NPCC Inter Unit<br>Drills Competition 2019     | All     | 8th     |
-| Text     | Text     | Text     |
+| NPCC Inter Unit .22 Revolver<br>Shooting Competition 2018     | All     | Team 1: 23rd<br>Team 2: 6th     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
