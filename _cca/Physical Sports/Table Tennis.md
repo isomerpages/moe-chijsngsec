@@ -41,7 +41,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | See Hui Yui | Sec 4H | Vice Captain |
 | Eu Woon Ning | Sec 3J | Sec 3 Level Coordinator |
 | Ng Yi Xin, Giselle | Sec 3L | Sec 3 Assistant Level Coordinator |
-| Kimberly Gan Yuxin | Sec 2T | C Division Captain |
+| Kimberly Gan Yuxin | Sec 2T | 'C' Division Captain |
 | Lim Heng Xuan, Chavelle | Sec 2J | Sec 2 Level Coordinator |
 
 
