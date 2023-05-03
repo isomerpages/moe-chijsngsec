@@ -225,5 +225,3 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 | Singapore Youth Festival 2017     | Secondary School     | Distinction     |
 | Singapore International Chinese Choral Festival     | Secondary School     | Gold Award     |
 | 3rd Singapore International Chloral Festival    | Secondary School     | Silver Award     |
-
-![](/images/06%20CCA/Choir/picture%204.jpg)
