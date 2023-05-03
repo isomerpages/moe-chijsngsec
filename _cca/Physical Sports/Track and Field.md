@@ -71,7 +71,7 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
-    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><img src="/images/NSG2.jpeg" style="width:100%"><img src="/images/NSG3.jpeg" style="width:100%"></th>
+    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><br><img src="/images/NSG2.jpeg" style="width:100%"><br><img src="/images/NSG3.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
