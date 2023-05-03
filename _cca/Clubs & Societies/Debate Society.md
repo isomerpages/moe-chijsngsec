@@ -109,32 +109,32 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Jewelyn </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President (Debate Chairperson) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shervelle Soh En Hui</span><br></td>
-    <td class="tg-vo25">Sec 3T</td>
+    <td class="tg-vo25">Sec 4T</td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President (Debate Vice-Chairperson)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Adeline Yap</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary (Upper Sec Debate EXCO)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Arielle Ho Ming Xuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Head (Upper Sec Debate EXCO)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Teng Ee</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Sec Debate Comm Member</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Kiat Kee Rachel</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1J</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2J</span><br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Debate Comm Member</span></td>
   </tr>
 </tbody>
