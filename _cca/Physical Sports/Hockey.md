@@ -167,5 +167,3 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 | National 11-a-side 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
 | National 11-a-side 2019     | 'C' Division     | 2nd     |
 | National 11-a-side 2018     | 'B' Division<br>'C' Division     | 4th<br>4th     |
-
-![](/images/06%20CCA/Physical%20Sports%20Hockey/picture1%20(hockey%202023).jpg)
