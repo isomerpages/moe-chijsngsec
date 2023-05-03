@@ -263,10 +263,10 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Debate Association<br>Debating Championships 2022     | Secondary<br>3 &amp; 4     | Participation     |
+| Debate Association<br>Debating Championships 2021     | Secondary<br>3 &amp; 4     | Top 4     |
+| Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
+| Raffles Debate Academy U-14<br>Debating Championship 2021     | Secondary<br>1 &amp; 2     | Participation     |
 | Youth Debate Open 2022     | Secondary<br>1 &amp; 2     | Participation     |
 | Youth Debate Open 2021     | Secondary<br>1 &amp; 2     | Participation     |
 | Secondary School Debating<br>Championships 2021-22     | Secondary<br>3 &amp; 4     | Participation     |
