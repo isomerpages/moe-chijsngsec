@@ -18,39 +18,19 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 
 | Training/Meeting Venue | School Gynasium |
-| --- | --- |
+| -------- | -------- |
 | Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
 | Instructors     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
 
 
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cees">Ms Amy Yee</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cees">Ms Mohana d/o S Sinniah</td>
-  </tr>
-  <tr>
-    <td class="tg-frbo">Mrs Theresa Chan</td>
-  </tr>
-</tbody>
-</table>
+| Ms Amy Yee |
+| -------- |
+| Ms Mohana d/o S Sinniah     |
+| Mrs Theresa Chan     |
+
 
 #### **Student Executive Committee (2022-2023)**
 ---------------------------------------
