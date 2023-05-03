@@ -186,11 +186,11 @@ In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and 
     <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture3.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
     <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture4.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture5.jpg" style="width:100%"></td>
   </tr>
 </tbody>
