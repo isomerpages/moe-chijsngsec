@@ -2,7 +2,7 @@
 title: IJYM
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/IJYM/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -93,102 +93,43 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jyzel Tok</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee-Goh En, Emma Joy</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Lim</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tey Hui Wen Ashley</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Emma Yap Sze Tyng</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Upper Sec)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jillen Ng Jie En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Joy Ng (Wu Lewen)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member (Lower Sec)</span></td>
   </tr>
 </tbody>
 </table>
 
 
-#### **Student Executive Committee (2021 - 2022)**
------------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Shih Han </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Khor Jia Yee (Angeline)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tara Ng Yun Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lae Rae Kae Reiki</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chong Yeng Tung</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jyzel Tok</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee-Goh En, Emma Joy</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Committee Member</span></td>
-  </tr>
-</tbody>
-</table>
 
 #### **CCA Highlights**
 --------------
@@ -207,7 +148,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-frbo"><span style="font-weight:bold;color:#494949">Outreach at Lions Befrienders Active Ageing Center (Tampines)</span><br><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><br><br><img src="/images/IJYM1.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br></th>
+    <th class="tg-frbo"><span style="font-weight:bold;color:#494949">Outreach at Lions Befrienders Active Ageing Center (Tampines)</span><br><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><br><br><img src="/images/IJYM1.jpeg" style="width:100%"><br></th>
     <th class="tg-vo25"><img src="/images/IJYM2.jpeg" style="width:100%"><img src="/images/IJYM3.jpeg" style="width:100%"></th>
   </tr>
 </thead>
@@ -217,7 +158,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
     <td class="tg-vo25"><img src="/images/IJYM5.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/IJYM6.jpeg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/IJYM7.jpeg" style="width:100%"><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/IJYM7.jpeg" style="width:100%"></td>
     <td class="tg-vo25"><img src="/images/IJYM8.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/IJYM9.jpeg" style="width:100%"><br><img src="/images/IJYM10.jpeg" style="width:100%"></td>
   </tr>
   <tr>

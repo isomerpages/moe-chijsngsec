@@ -101,39 +101,39 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kang Jia Wen </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall-in-charge </span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Hui Jun </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Field Instructress</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tiffany Loy Zhen Min</span><br><span style="color:#222;background-color:transparent">Kate Ng Yue Min</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span><br><span style="color:#222;background-color:transparent">Sec 3J</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4J</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 4 Squad-in-charge </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choo Yee Ern Cherish</span><br><span style="color:#222;background-color:transparent">Joey Ong Yu Zi </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span><br><span style="color:#222;background-color:transparent">Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br><span style="color:#222;background-color:transparent">Sec 4G</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 3 Squad-in-charge </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jin Xin</span><br><span style="color:#222;background-color:transparent">Koh Xin Yee Abigail</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span><br><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4H</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Beh Jing Yi Letticia</span><br><span style="color:#222;background-color:transparent">Joanie Tan Jie En</span><br><span style="color:#222;background-color:transparent">Ang Kah Ning, Zelia</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span><br><span style="color:#222;background-color:transparent">Sec 3F</span><br><span style="color:#222;background-color:transparent">Sec 3G</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 1 Squad-in-charge </span></td>
   </tr>
 </tbody>
 </table>
 
 
-#### **Student Executive Committee (2021-2022)**
+#### **CCA Highlights**
 ---------------------------------------
 
 <style type="text/css">
@@ -180,87 +180,19 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 </table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Inter-Unit Crime Scene Investigation Competition 2022  </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 8th</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall Proficiency Award 2021 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Gold (since 2011)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">GOTC II Virtual Tournament 2021 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team A: Silver<br>Team B: Gold </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall Proficiency Award 2020</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Gold (since 2011)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">GOTC II Virtual Tournament 2020 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team A: Silver<br>Team B: Silver </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2019</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team 1: 2nd<br>Team 2: 37th</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit Drills Competition 2019</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 8th</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2018</span>  <br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team 1: 23rd<br>Team 2: 6th </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit Campcraft Competition 2018</span> <br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team 1:16th<br>Team 2: 20th  </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NFEC-NCDCC Inter Unit Quiz Open Category 2017</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3rd</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NPCC Inter Unit .22 Revolver Shooting Competition 2017</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-vo25">Team 1: 31st<br>Team 2: 14th </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> NPCC Inter Unit Drills Competition 2017</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">All</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">17th </span></td>
-  </tr>
-</tbody>
-</table>
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
+| Unit Overall Proficiency Award 2022    | Secondary Schools     | Distinction     |
+| Inter-Unit Crime Scene<br>Investigation Competition 2022     | All     | 8th     |
+| Unit Overall Proficiency Award 2021     | All     | Gold (since 2011)     |
+| GOTC II Virtual Tournament 2021     | All     | Team A: Silver<br>Team B: Gold     |
+| NPCC Inter Unit .22 Revolver<br>Shooting Competition 2019     | All     | Team 1: 2nd<br>Team 2: 37th     |
+| NPCC Inter Unit<br>Drills Competition 2019     | All     | 8th     |
+| NPCC Inter Unit .22 Revolver<br>Shooting Competition 2018     | All     | Team 1: 23rd<br>Team 2: 6th     |
+| NPCC Inter Unit<br>Campcraft Competition 2018     | All     | Team 1: 16th<br>Team 2: 20th     |
+| NFEC-NCDCC Inter Unit Quiz<br>Open Category 2017     | All     | 3rd     |
+| NPCC Inter Unit .22 Revolver<br>Shooting Competition 2017     | All     | Team 1: 31st<br>Team 2: 14th     |
+| NPCC Inter Unit<br>Drills Competition 2017     | All     | 17th     |

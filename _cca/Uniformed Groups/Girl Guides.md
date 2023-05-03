@@ -106,91 +106,37 @@ To keep the Guide Law
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Engracia See Yun En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jaenelle Lim Jia En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yvonne Aurelia Wibowo</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Sim Yan Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jaimie Chan Xin Hui</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Zai Min Si Isabelle</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
   </tr>
 </tbody>
 </table>
 
-#### **Student Executive Committee (2021-2022)**
----------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yoo Karis</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Denise Bey Yi Jie</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rei Ho</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Yee Teng, Raeneice</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Phoebe Raelyn Quek</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Le Ning Kellene</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
-  </tr>
-</tbody>
-</table>
 
 #### **CCA Highlights**
 --------------
@@ -229,44 +175,15 @@ To keep the Guide Law
 </table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-s2rg">Level<span style="color:#222;background-color:transparent"> </span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement / Recipients</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Baden-Powell Award 2022</span><br><br><br><br><br><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> -</span></td>
-    <td class="tg-brl1">Poh Sher Lyn Alaena (Sec 3G)<br><br>Rachel Ong Jing Wen (Sec 3U)<br><br>Engracia See Yun En (Sec 3J)<br><br>See Rui Ying Rainie (Sec 3D)<br><br>Jaimie Chan Xin Hui (Sec 3L)<br><br>Yvonne Aurelia Wibowo (Sec 3P)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Baden-Powell Award 2021</span><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> -</span></td>
-    <td class="tg-brl1">Caroline Yuen Wen Qi (Sec 4P)<br><br>Chan Ler Ting, Valerie (Sec 4G)<br><br>Felice Tan Yan Ning (Sec 3L)<br><br>Gabrielle Faith Wong Hui En (Sec 3L)<br><br>Koo Keet Wai, Joanna (Sec 3J)<br><br>Lee Wan Lin (Sec 3D)<br><br>Lim Jiayi, Anjo (Sec 4D)<br><br>Rei Ho (Sec 3W)<br><br>So Shao Qing (Sec 3U)<br><br>Toh En Qi, Michelle (Sec 4D)<br><br>Yoo Karis (Sec 3H)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Puan Noor Aishah Award 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Unit Award </span></td>
-    <td class="tg-frbo">Bronze </td>
-  </tr>
-</tbody>
-</table>
+
+| Competition | Level | Achievement / Recipients |
+| -------- | -------- | -------- |
+| Puan Noor Aishah Award 2022     | Secondary Schools     | Gold     |
+| 2023 North Division<br>Let’s Get Moving Dance Competition    | North Division     | 1st     |
+| 2023 North Division<br>Fitness Workout Competition     | North Division     | 1st     |
+| 2023 North Division<br>Innovative Ideas     | North Division     | 3rd     |
+| 2023 North Division<br>Telematch     | North Division     | Merit     |
+| Baden-Powell Award 2022     |      | Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
+| Baden-Powell Award 2021     |      | Caroline Yuen Wen Qi (Sec 4P)<br>Chan Ler Ting, Valerie (Sec 4G)<br>Felice Tan Yan Ning (Sec 3L)<br>Gabrielle Faith Wong Hui En (Sec 3L)<br>Koo Keet Wai, Joanna (Sec 3J)<br>Lee Wan Lin (Sec 3D)<br>Lim Jiayi, Anjo (Sec 4D)<br>Rei Ho (Sec 3W)<br>So Shao Qing (Sec 3U)<br>Toh En Qi, Michelle (Sec 4D)<br>Yoo Karis (Sec 3H)     |
+| Puan Noor Aishah Award 2021     | Unit Award     | Bronze     |

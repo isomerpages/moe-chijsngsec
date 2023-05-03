@@ -19,20 +19,20 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 | **Training / Meeting Venue** | Primary ISH |
 | -------- | -------- |
-| **Training Day / Time** | 3.45 pm - 6.30 pm (Mon and Wed)<br>4.00 pm - 6.30 pm (Fri) |
-| **Coaches / Instructors** | Mr Tang Hua |
+| Training Day / Time | 3.45 pm - 6.30 pm (Mon, Wed)<br>4.00 pm - 6.30 pm (Fri) |
+| Coach | Mr Tang Hua |
 
 
 ##### **Teachers-in-charge**
 
 
-| Mr Wan Yew Boon (Overall-in-charge) |
+| Mr Wan Yew Boon |
 | -------- |
 | Mr Tan Yong Meng |
 | Ms Chua Shi Yan |
 
 
-##### **Student Executive Committee (2022-2023)**
+##### **Student Executive Committee (2022 - 2023)**
 
 
 | Name | Class | Position |
@@ -41,7 +41,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | See Hui Yui | Sec 4H | Vice Captain |
 | Eu Woon Ning | Sec 3J | Sec 3 Level Coordinator |
 | Ng Yi Xin, Giselle | Sec 3L | Sec 3 Assistant Level Coordinator |
-| Kimberly Gan Yuxin | Sec 2T | C Division Captain |
+| Kimberly Gan Yuxin | Sec 2T | 'C' Division Captain |
 | Lim Heng Xuan, Chavelle | Sec 2J | Sec 2 Level Coordinator |
 
 
@@ -61,6 +61,6 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National Inter-School<br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
-| North Zone Inter-School<br>Table Tennis Championships 2023 | C Division<br>B Division | 1st Runner-up<br>Team Champion |
+| NSG National <br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
+| NSG North Zone <br>Table Tennis Championships 2023 | C Division<br>B Division | 1st Runner-up<br>Team Champion |
 | North Zone Inter-School<br>Table Tennis Championships 2022 | C Division<br>B Division | Team Champion<br>Team Champion |

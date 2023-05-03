@@ -96,95 +96,37 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Khoo Qi Xuan, Claresta 邱琪媗</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">主席</span> <span style="background-color:#FFF">President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kelly Ho Jia Yi 何嘉怡</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">副主席</span> <span style="background-color:#FFF">Vice President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amelie Koh Wei Lyn 许玮琳</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 演出组长</span> <span style="background-color:#FFF">Head of Performance</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Woon Le Qing 云乐晴</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 总务</span> <span style="background-color:#FFF">Head of Logistics</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goh Si Ying Fiona 吴思颖</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 福利组长</span> <span style="background-color:#FFF">Head of Welfare</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Xinyi, Fionn李欣怡</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 活动组长</span> <span style="background-color:#FFF">Head of Events</span></td>
   </tr>
 </tbody>
 </table>
 
-#### **Student Executive Committee (2021 - 2022)**
------------------------------------------
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-4ufn"><span style="background-color:#FFF">Class</span></th>
-    <th class="tg-4ufn"><span style="background-color:#FFF">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wong Jie Hui Rosanne 黄洁惠</span>  <br></td>
-    <td class="tg-brl1">Sec 4H</td>
-    <td class="tg-lygy"><span style="color:#000;background-color:#FFF">主席 </span><span style="background-color:#FFF">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Carlyn Chew 周可淋</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-lygy"><span style="color:#000">副主席 </span>Vice President<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Esther Loh Xin Qi 罗心琪</span> </td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-lygy"><span style="color:#000">演出组长 </span>Head of Performance<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Giann Soo Jing Wen 苏靖文</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
-    <td class="tg-lygy"><span style="color:#000">总务 </span>Head of Logistics</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Ee Ching 黄逸晴</span><br></td>
-    <td class="tg-lygy">Sec 3D</td>
-    <td class="tg-lygy"><span style="color:#000">福利组长 </span>Head of Welfare</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Khoo Qi Xuan, Claresta 邱琪媗</span><br></td>
-    <td class="tg-lygy">Sec 3H</td>
-    <td class="tg-lygy"><span style="color:#000">活动组长 </span>Head of Events</td>
-  </tr>
-</tbody>
-</table>
 
 #### **CCA Highlights**
 --------------
@@ -220,40 +162,11 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 </table>
 
 #### **CCA Achievement**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 2021 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Distinction </span></td>
-  </tr>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">2019 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Certificate of Accomplishment</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">2017 Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary School Level</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Distinction</span></td>
-  </tr>
-</tbody>
-</table>
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2023 Singapore Youth Festival<br>Arts Presentation for Drama    | Secondary School     | Certificate of Accomplishment     |
+| 2021 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Distinction     |
+| 2019 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Certificate of Accomplishment     |
+| 2017 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Distinction     |

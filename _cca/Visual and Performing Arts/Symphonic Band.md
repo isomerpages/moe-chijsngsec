@@ -8,8 +8,7 @@ third_nav_title: Visual and Performing Arts
 
 #### **Symphonic Band**
 
-<img src="/images/Picture1.jpg" style="width:75%">
-
+<img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture1.jpg" style="width:75%">
 
 The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band.
 
@@ -104,148 +103,62 @@ In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and 
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clare Bernadette Wong En Ning</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Band Major</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Elizabeth Wen Jun Lee</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Drum Major</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Ong Si Yu</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Student Conductor</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Shan Xuan Gracelyn</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary/Treasurer </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Gan Pei Em</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Brass) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Maegin Ma Wye Kit</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Woodwind) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeanette Tan Tze Yan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Percussion) </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lam Yann Yi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3H</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ashley Tay Rui En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Li Lin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Jia Yi Sonia</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer </span></td>
   </tr>
 </tbody>
 </table>
 
-#### **Student Executive Committee (2021 - 2022)**
------------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rachel Tan En Xi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Band Major</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goh Qjun Hjan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Drum Major</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yu Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Student Conductor</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Wong Hui Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Student Conductor</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Leong Jamie</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary/Treasurer</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goh Yu Jin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Brass)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Genia Tan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Woodwind)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Freya Lo Huai Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress(Percussion)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Alexandra Benedicta Lim</td>
-    <td class="tg-vo25">Sec 4G</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Too Yi Zhen</td>
-    <td class="tg-vo25">Sec 4D</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Librarian</span></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Edith Ong Xiuting</td>
-    <td class="tg-vo25">Sec 4F</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Ong</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Officer</span></td>
-  </tr>
-</tbody>
-</table>
 
 #### **CCA Highlights**
 --------------
@@ -264,55 +177,30 @@ In the 2021 SYF Arts Presentation, we obtained a Certificate of Distinction and 
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Jubilate XIII 2022</span><br><br>The band serenaded the audience with music from How to Train Your Dragon.</th>
-    <th class="tg-s2rg"><img src="/images/Picture2.jpg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture2.jpg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">School National Day Observance Ceremony</span><br><br>Working together with SN’s uniform groups, band members worked hard to create a memorable National Day performance.</td>
-    <td class="tg-vo25"><img src="/images/Picture3.jpg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture3.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
-    <td class="tg-vo25"><img src="/images/Picture4.jpg" style="width:100%"></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band A)</span><br><br>The band's rousing rendition of Invicta was awarded the Certificate of Distinction.</td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture4.jpg" style="width:100%"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
-    <td class="tg-vo25"><img src="/images/Picture5.jpg" style="width:100%"></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Singapore Youth Festival 2021 (Band B)</span><br><br>The band moved audiences with their stirring rendition of <span style="font-style:italic">Stars of Tomorrow</span>.<br><br></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Symphonic%20Band/Picture5.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation 2021 (Band A)</span> <br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Secondary School Bands &amp; Ensembles</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Certificate of Distinction </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation 2021 (Band B)</span>  <br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Secondary School Bands &amp; Ensembles</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Certificate of Accomplishment </span></td>
-  </tr>
-</tbody>
-</table>
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Accomplishment     |
+| 2021 Singapore Youth Festival<br>Arts Presentation (Band A)     | Secondary School Bands &amp; Ensembles     | Certificate of Distinction     |
+| 2021 Singapore Youth Festival<br>Arts Presentation (Band B)     | Secondary School Bands &amp; Ensembles     | Certificate of Accomplishment     |

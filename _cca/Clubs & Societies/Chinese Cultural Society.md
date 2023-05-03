@@ -2,7 +2,7 @@
 title: Chinese Cultural Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Chinese-Cultural-Society/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -103,72 +103,28 @@ third_nav_title: Clubs &amp; Societies
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eyu Kai Xing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Anna Lim Si En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeslyn Lee Jie Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">An Yutong</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-</tbody>
-</table>
-
-
-#### **Student Executive Committee (2021-2022)**
----------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Natis Boon Jia Xin</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lau Jia Wen</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Anna Lim Si En</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Goik Yoyo</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeslyn Lee Jie Ning</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yi Sin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">An Yutong</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
   </tr>
 </tbody>
 </table>
+
+
 
 
 #### **CCA Highlights**
