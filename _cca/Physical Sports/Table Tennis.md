@@ -32,7 +32,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 | Ms Chua Shi Yan |
 
 
-##### **Student Executive Committee (2022-2023)**
+##### **Student Executive Committee (2022 - 2023)**
 
 
 | Name | Class | Position |
