@@ -228,5 +228,4 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 | -------- | -------- | -------- |
 | 2023 Singapore Youth Festival<br>Arts Presentation     | Chinese Dance, Secondary School<br>International Dance, Secondary School     | Certificate of Distinction<br>Certificate of Distinction     |
 | 2021 Singapore Youth Festival<br>Arts Presentation     | Chinese Dance Team A<br>Chinese Dance Team B     | Certificate of Distinction<br>Certificate of Distinction     |
-| 2019 Singapore Youth Festival<br>Arts Presentation     | Chinese Dance<br>International Dance     | Certificate of Distinction<br>Certificate of Accomplishment     |
-
+| 2019 Singapore Youth Festival<br>Arts Presentation     | Chinese Dance<br><br>International Dance     | Certificate of Distinction<br>Certificate of Accomplishment     |
