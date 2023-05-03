@@ -57,6 +57,12 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 </tbody>
 </table>
 
+| Training/Meeting Venue | School Gynasium |
+| -------- | -------- |
+| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
+| Instructors     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
+
+
 #### **Teachers-in-charge**
 ------------------
 
