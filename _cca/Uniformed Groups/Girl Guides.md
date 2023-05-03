@@ -216,3 +216,13 @@ To keep the Guide Law
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement / Recipients |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Baden-Powell Award 2021     |      | Caroline Yuen Wen Qi (Sec 4P)<br>Chan Ler Ting, Valerie (Sec 4G)<br>Felice Tan Yan Ning (Sec 3L)<br>Gabrielle Faith Wong Hui En (Sec 3L)<br>Koo Keet Wai, Joanna (Sec 3J)<br>Lee Wan Lin (Sec 3D)<br>Lim Jiayi, Anjo (Sec 4D)<br>Rei Ho (Sec 3W)<br>So Shao Qing (Sec 3U)<br>Toh En Qi, Michelle (Sec 4D)<br>Yoo Karis (Sec 3H)     |
+| Puan Noor Aishah Award 2021     | Unit Award     | Bronze     |
+
