@@ -46,6 +46,12 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 </tbody>
 </table>
 
+| Training/Meeting Venue | School Gynasium |
+| -------- | -------- |
+| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
+| Instructors     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
+
+
 #### **Teachers-in-charge**
 ------------------
 <style type="text/css">
