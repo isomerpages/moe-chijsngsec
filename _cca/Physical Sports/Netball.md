@@ -35,35 +35,13 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Ms Ou Wanjun</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Juliet Huang</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Juliana Grahan</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Goh Meow Peng Sherry </span></td>
-  </tr>
-</tbody>
-</table>
+| Ms Ou Wanjun |
+| -------- |
+| Ms Juliet Huang     |
+| Ms Juliana Grahan     |
+| Ms Goh Meow Peng Sherry     |
+
 
 #### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
