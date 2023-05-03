@@ -231,5 +231,5 @@ To be courteous and honest in all my words and actions</i>
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
+| National First Aid and Home Nursing Competition 2023     | Nursing Adult<br>Footdrill     | 3rd<br>1st     |
 | Chief Commissioner Badge 2022     | Selected Sec 4 cadets     | Amber Buy Rui Qi<br>Ashley Chong Ying Rou<br>Goh Jia Hui Trina<br>Hannah Gan Xin Hui<br>Lim Jing Yun Hannah<br>Nathanee Lim Xiang Yun<br>Ng Hui En Iris<br>Soon Yoke Ting Isabelle<br>Tan Zi Ying Faith<br>Teo Hui Hui Hillary Sidney<br>Yolindrea Chow Wen Ning     |
-
