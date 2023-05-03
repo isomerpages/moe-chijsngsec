@@ -20,7 +20,7 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 | Training/Meeting Venue | School Gynasium |
 | -------- | -------- |
 | Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri)<br>11.00 am - 1.30 pm (Sat)^<br>^competition season |
-| Instructors     | Ms Cherrie Kwek<br>刘老师     |
+| Coaches     | Ms Cherrie Kwek<br>刘老师     |
 
 
 #### **Teachers-in-charge**
