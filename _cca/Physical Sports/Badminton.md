@@ -35,46 +35,12 @@ SNBT All the way!
 | Mdm Yan Guifang     |
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Siu Li Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rachel Loh Si Jin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jessie Lua Le En </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower-Sec Coordinator </span></td>
-  </tr>
-</tbody>
-</table>
-
-
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Siu Li Xuan     | Sec 4F     | Captain     |
+| Rachel Loh Si Jin     | Sec 4P     | Vice-Captain     |
+| Jessie Lua Le En     | Sec 3L     | Lower Secondary Coordinator     |
 
 #### **CCA Highlights**
 --------------
