@@ -59,13 +59,13 @@ SNBT All the way!
 <thead>
   <tr>
     <th class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
-    <th class="tg-s2rg"><img src="/images/Badminton1.jpeg" style="width:100%"><img src="/images/Badminton2.jpeg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/Badminton1.jpeg" style="width:100%"><br><img src="/images/Badminton2.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
-    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><img src="/images/Badminton4.jpeg" style="width:100%"><img src="/images/Badminton5.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><br><img src="/images/Badminton4.jpeg" style="width:100%"><br><img src="/images/Badminton5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
