@@ -195,7 +195,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <thead>
   <tr>
     <th class="tg-v41i">Jubilate 2022<br><span style="font-weight:normal">From the initial planning and the numerous sessions of practices, leading to the recording, the girls experienced a new way of performing. All enjoyed and put up an interesting performance with 3 songs weaved into a narration of hope and passion for singing.</span><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Choir/Picture%203.jpg" alt="Picture 3.jpg" width="436" height="327"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/Choir/picture%203.jpg" alt="Picture 3.jpg" width="436" height="327"></th>
   </tr>
 </thead>
 <tbody>
@@ -225,3 +225,5 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 | Singapore Youth Festival 2017     | Secondary School     | Distinction     |
 | Singapore International Chinese Choral Festival     | Secondary School     | Gold Award     |
 | 3rd Singapore International Chloral Festival    | Secondary School     | Silver Award     |
+
+![](/images/06%20CCA/Choir/picture%203.jpg)
