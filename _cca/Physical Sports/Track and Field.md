@@ -17,41 +17,11 @@ Every year, we endure countless hours of gruelling training which has moulded us
 Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNTF has taught us many invaluable life lessons: perseverance, determination, discipline and sportsmanship. Moving forward, SNTF promises to strive for excellence, push our limits and do our best! 圣中田径一级棒!  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">School 400m Track and Field</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Mon, Wed      3:45 pm - 6:30 pm<br>Fri                    4:00 pm - 6:30 pm<br>Sat                  8:00 am - 10:30 am (Jan-Mar, for Mid-D only)*</td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">Coaches</td>
-    <td class="tg-brl1">Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms Yang Peishan (Middle Distance)</td>
-  </tr>
-</tbody>
-</table>
-
-| Training/Meeting Venue | School Gynasium |
+| Training/Meeting Venue | School 400m Track and Field |
 | -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Instructors     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
+| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri)<br>8.00 - 10.30 am (Sat)^<br>^(Jan-Mar, for Mid-D only) |
+| Coaches     | Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms Yang Peishan (Middle Distance)     |
 
 
 #### **Teachers-in-charge**
