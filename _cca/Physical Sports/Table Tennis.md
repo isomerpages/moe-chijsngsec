@@ -19,7 +19,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 | **Training / Meeting Venue** | Primary ISH |
 | -------- | -------- |
-| Training Day / Time | 3.45 pm - 6.30 pm (Mon and Wed)<br>4.00 pm - 6.30 pm (Fri) |
+| Training Day / Time | 3.45 pm - 6.30 pm (Mon, Wed)<br>4.00 pm - 6.30 pm (Fri) |
 | Instructor | Mr Tang Hua |
 
 
