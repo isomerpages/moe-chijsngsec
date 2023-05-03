@@ -200,8 +200,8 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Choir/Picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Choir/Picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><img src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" alt="Image" width="16" height="16"><br><br><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/Choir/Picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
@@ -226,4 +226,4 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 | Singapore International Chinese Choral Festival     | Secondary School     | Gold Award     |
 | 3rd Singapore International Chloral Festival    | Secondary School     | Silver Award     |
 
-![](/images/06%20CCA/Choir/picture%203.jpg)
+![](/images/06%20CCA/Choir/picture%204.jpg)
