@@ -97,7 +97,13 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 | Alexis Chan     | Sec 3C     | Vice-Captain     |
 | Hannah Lim Shi En     | Sec 2W     | Lower Secondary Coordinator     |
 
+**Trampoline Committee**
 
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Megan Lee Jing Xuan     | Sec 4C     | Captain     |
+| Ang Ying Le Gwyneth     | Sec 3T     | Vice-Captain     |
+| Ang Ying Qi Vera     | Sec 2U     | Lower Secondary Coordinator     |
 
 
 
