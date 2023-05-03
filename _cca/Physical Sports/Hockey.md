@@ -29,50 +29,13 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 | Mr Ng Kok Kuen     |
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Tze En Meghan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-vo25">B Division Captain</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Gisele Tan Si Han</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Vice Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Marabelle Lee Zhiyi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Soon Qi Shuang Charlotte</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Vice Captain</span></td>
-  </tr>
-</tbody>
-</table>
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Lim Tze En Meghan     | Sec 4T     | 'B' Division Captain     |
+| Gisele Tan Si Han     | Sec 4L     | 'B' Division Vice-Captain     |
+| Marabelle Lee Zhiyi     | Sec 2D     | 'C' Division Captain     |
+| Soon Qi Shuang Charlotte    | Sec 2P     | 'C' Division Vice-Captain     |
 
 
 #### **CCA Highlights**
