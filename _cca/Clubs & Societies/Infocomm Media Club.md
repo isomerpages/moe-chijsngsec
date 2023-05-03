@@ -98,37 +98,37 @@ Opportunities also abound for members to contribute to the school and community 
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Michele Khoon Man Yu</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Rui Ting</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choong Hui Xuan Caitlin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Admin)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Emeline Tan En Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (PA)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shayne Lai</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Media)</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level Coordinator</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level Coordinator</span></td>
   </tr>
 </tbody>
