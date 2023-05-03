@@ -37,80 +37,21 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 | Ms Audrey Chia     |      |
 
 
-#### **Student Executive Committee (2022-2023)**
----------------------------------------
+#### **Student Executive Committee (2022 - 2023)**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span><br></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Valerie Koh Han Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Isabel Tong Yu Wei</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Angel Lim Yuxin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Looi Yan Ning Samantha</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sprints &amp; Hurdles Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Verboon Lara</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Jumps Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nicole Yeo Ser Leng</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Middle Distance Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Siu Yu Tung Raechelle</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Throws Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Jia Xin Isabelle</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sprints &amp; Hurdles / Jumps Lower Sec Coordinator</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Aletheia Charis Lim Rae-Ern</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Middle Distance Lower Sec Coordinator</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Guok Xue Qian</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Throws Lower Sec Coordinator</span></td>
-  </tr>
-</tbody>
-</table>
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Valerie Koh Han Ning     | Sec 4U     | Captain     |
+| Isabel Tong Yu Wei     | Sec 4U     | Vice-Captain     |
+| Angel Lim Yuxin     | Sec 4L     | Vice-Captain     |
+| Looi Yan Ning Samantha     | Sec 4L     | Sprints &amp; Hurdles Leader     |
+| Verboon Lara    | Sec 4W     | Jumps Leader     |
+| Nicole Yeo Ser Leng     | Sec 4F     | Middle Distance Leader     |
+| Siu Yu Tung Raechelle     | Sec 4P     | Throws Leader     |
+| Seah Jia Xin Isabelle     | Sec 2P     | Sprints &amp; Hurdles / Jumps<br>Lower Sec Coordinator     |
+| Aletheia Charis Lim Rae-Ern     | Sec 2C     | Middle Distance<br>Lower Sec Coordinator     |
+| Guok Xue Qian     | Sec 2C     | Throws<br>Lower Sec Coordinator     |
+
 
 
 #### **CCA Highlights**
