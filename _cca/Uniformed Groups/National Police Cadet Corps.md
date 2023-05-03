@@ -269,12 +269,13 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| 2022 Unit Overall Proficiency Award     | Secondary Schools     | Distinction     |
+
 | Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
+| Unit Overall Proficiency Award 2022    | Secondary Schools     | Distinction     |
 | Inter-Unit Crime Scene Investigation Competition 2022     | All     | 8th     |
 | Unit Overall Proficiency Award 2021     | All     | Gold (since 2011)     |
 | GOTC II Virtual Tournament 2021     | All     | Team A: Silver<br>Team B: Gold     |
-| Text     | Text     | Text     |
+| NPCC Inter Unit .22 Revolver Shooting Competition 2019     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
