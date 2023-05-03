@@ -33,61 +33,6 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y" colspan="3"><span style="color:#222;background-color:transparent">Artistic Gymnastics 2022 - 2023 Committee</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Wan Ning, Edith</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4 Grace</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Alexis Chan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3 Charity</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Vice-Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Hannah Lim Shi En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2 Wisdom</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Lower Secondary Coordinator</span></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i" colspan="3">Trampoline 2022 - 2023 Committee</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Lee Jing Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4 Charity</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Ying Le Gwyneth</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3 Truth</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Ying Qi Vera</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Unity</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Coordinator</span></td>
-  </tr>
-</tbody>
-</table>
 
 **Artistic Gymnastics Committee**
 
