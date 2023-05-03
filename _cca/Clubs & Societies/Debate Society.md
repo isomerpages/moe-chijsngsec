@@ -262,7 +262,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Orator's Trophy 2023     | Junior League     | Top 6     |
 | Orator's Trophy 2022     | Senior League     | Semi-Final     |
 | Orator's Trophy 2021     | Secondary 2 (Junior League)<br>Secondary 3 (Senior League)     | Semi-Finalist (Junior League)<br>Final – Top 6 (Senior League)     |
 | Debate Association<br>Debating Championships 2023     | Secondary Schools     | Top 8     |
