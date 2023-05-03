@@ -124,7 +124,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
 
 #### **CCA Highlights**
 --------------
-![]()
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -145,7 +145,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <thead>
   <tr>
     <th class="tg-v41i">SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION <br><br><span style="font-weight:normal">Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition.</span><br><br><span style="font-weight:normal">Their artwork was exhibited at the National Gallery Singapore.</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-mezc"><img src="/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/picture1%20(art%20club).jpg" style="width:100%"><img src="/images/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
+    <th class="tg-mezc"><img src="/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/picture1%20(art%20club).jpg" style="width:100%"><br><img src="/images/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
     <th class="tg-vo25"><img src="/images/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br><img src="/images/Art5.jpeg" style="width:100%"><img src="/images/Art6.jpeg" style="width:100%"></th>
   </tr>
 </thead>
