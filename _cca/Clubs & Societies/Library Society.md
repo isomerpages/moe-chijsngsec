@@ -107,32 +107,32 @@ To conclude, a quote by Marcus Tullius Cicero: “A room without books is like a
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jia Ying</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span><br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Chairperson</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Si Yin Isabel</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span><br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Vice-Chairperson</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seng Jia Shyuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span><br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Wan Ying Emily</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Secondary Coordinator</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Hannah Cheok</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2T</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Coordinator</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Boh Shu Ting, Shannon</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Secondary Executive Committee Member</span></td>
   </tr>
 </tbody>
