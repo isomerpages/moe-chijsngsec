@@ -89,6 +89,17 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 </tbody>
 </table>
 
+**Artistic Gymnastics Committee**
+
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Lee Wan Ning, Edith     | Sec 4G     | Captain     |
+| Alexis Chan     | Sec 3C     | Vice-Captain     |
+| Hannah Lim Shi En     | Sec 2W     | Lower Secondary Coordinator     |
+
+
+
+
 
 
 #### **CCA Highlights**
