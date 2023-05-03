@@ -54,49 +54,14 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 </table>
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nicole Lim Zi Qing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Li Xuan Chloe</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-Captain</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Reanne Yeoh Shyen Yee</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Coordinator</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Andrina Ng En Ci</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sports Leader</span></td>
-  </tr>
-</tbody>
-</table>
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Nicole Lim Zi Qing     | Sec 4G     | Captain     |
+| Lim Li Xuan Chloe     | Sec 3H     | Vice-Captain     |
+| Reanne Yeoh Shyen Yee     | Sec 2U     | Lower Secondary Coordinator     |
+| Andrina Ng En Ci     | Sec 4L     | Sports Leader     |
+
 
 #### **CCA Highlights**
 --------------
