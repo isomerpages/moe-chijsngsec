@@ -255,3 +255,22 @@ Whether as an abstract construct or as the constructed exercise with strict rule
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Secondary School Debating<br>Championships 2021-22     | Secondary<br>3 &amp; 4     | Participation     |
+| Lasallian Debate League 2021     | Secondary<br>1, 2 &amp; 3     | Top 2     |
+| Hua Yi Debate<br>Championships 2021     | Secondary<br>1, 2 &amp; 3     | Participation     |
+
+
