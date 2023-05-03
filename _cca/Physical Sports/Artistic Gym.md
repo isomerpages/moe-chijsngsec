@@ -79,7 +79,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
   </tr>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><img src="/images/Artistic%20Gym4.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><br><img src="/images/Artistic%20Gym4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
