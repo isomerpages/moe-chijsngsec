@@ -178,7 +178,6 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 </tbody>
 </table>
 
-
 #### **CCA Highlights**
 --------------
 
@@ -202,17 +201,14 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">SNSO Year End Concert – </span><span style="font-weight:bold;font-style:italic">Senzationale</span><br><br>In our annual student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with pieces such as the Harry Potter Medley, Les Miserables and Norman Leyden’s Serenade for Strings.  <br></td>
-    <td class="tg-brl1"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/03%20SNSO%20Year%20End%20Concert.jpg" alt="03 SNSO Year End Concert.jpg" width="402" height="256"></td>
+    <td class="tg-brl1"><img src="/images/06%20CCA/Visual%20PA%20String%20Orchestra/03%20snso%20year%20end%20concert.jpg" alt="03 SNSO Year End Concert.jpg" width="402" height="256"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Performance at National Gallery - </span><span style="font-weight:bold;font-style:italic">Resonates With</span><br><br>As part of a series of weekend performances at the National Gallery, 11 SO girls treated the public with an afternoon of popular tunes such as Swan Lake and Pirates of the Caribbean. <span style="color:#000;background-color:#FFF"> </span><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/String%20Orchestra/04%20Performance%20at%20National%20Gallery.jpg" alt="04 Performance at National Gallery.jpg" width="401" height="283"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20String%20Orchestra/04%20performance%20at%20national%20gallery.jpg" alt="04 Performance at National Gallery.jpg" width="401" height="283"></td>
   </tr>
 </tbody>
 </table>
-
-
-<img src="/images/Arts%20Presentation1.jpeg" style="width:100%">
 
 
 #### **CCA Achievement**
