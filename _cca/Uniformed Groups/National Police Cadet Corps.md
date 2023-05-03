@@ -276,7 +276,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 | NPCC Inter Unit .22 Revolver<br>Shooting Competition 2019     | All     | Team 1: 2nd<br>Team 2: 37th     |
 | NPCC Inter Unit<br>Drills Competition 2019     | All     | 8th     |
 | NPCC Inter Unit .22 Revolver<br>Shooting Competition 2018     | All     | Team 1: 23rd<br>Team 2: 6th     |
-| Text     | Text     | Text     |
+| NPCC Inter Unit<br>Campcraft Competition 2018     | All     | Team 1: 16th<br>Team 2: 20th     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
