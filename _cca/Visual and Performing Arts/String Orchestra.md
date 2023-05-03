@@ -247,3 +247,11 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Distinction     |
+| 2021 Singapore Youth Festival<br>Arts Presentation for Instrumental Ensembles     | -     | Certificate of Distinction     |
+| 4th Singapore Raffles International Music Festival (SRIMF) Competition     | -     | Gold with Honours     |
