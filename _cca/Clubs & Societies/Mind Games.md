@@ -94,17 +94,17 @@ Members of MGC develop their critical thinking and strategic skills in playing b
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yong Neng</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3J</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jenna Quek</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Beatrice Tan Li-Ann</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 2P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 3P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Level Coordinator</span></td>
   </tr>
 </tbody>
