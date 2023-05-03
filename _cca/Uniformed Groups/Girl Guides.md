@@ -179,7 +179,11 @@ To keep the Guide Law
 
 | Competition | Level | Achievement / Recipients |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Puan Noor Aishah Award 2022     | Secondary Schools     | Gold     |
+| 2023 North Division<br>Let’s Get Moving Dance Competition    | North Division     | 1st     |
+| 2023 North Division<br>Fitness Workout Competition     | North Division     | 1st     |
+| 2023 North Division<br>Innovative Ideas     | North Division     | 3rd     |
+| 2023 North Division<br>Telematch     | North Division     | Merit     |
 | Baden-Powell Award 2022     |      | Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
 | Baden-Powell Award 2021     |      | Caroline Yuen Wen Qi (Sec 4P)<br>Chan Ler Ting, Valerie (Sec 4G)<br>Felice Tan Yan Ning (Sec 3L)<br>Gabrielle Faith Wong Hui En (Sec 3L)<br>Koo Keet Wai, Joanna (Sec 3J)<br>Lee Wan Lin (Sec 3D)<br>Lim Jiayi, Anjo (Sec 4D)<br>Rei Ho (Sec 3W)<br>So Shao Qing (Sec 3U)<br>Toh En Qi, Michelle (Sec 4D)<br>Yoo Karis (Sec 3H)     |
 | Puan Noor Aishah Award 2021     | Unit Award     | Bronze     |
