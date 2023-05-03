@@ -195,7 +195,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-v41i">Singapore Youth Festival 2021<br>Arts Presentation for Instrumental Ensembles<br><br><br><span style="font-weight:normal">In the Singapore Youth Festival Arts Presentation 2021, we presented Little Suite for Strings, op.1 by Carl Nielsen and Hoe Down by Aaron Copland. SO is proud to be awarded the Certificate of Distinction.</span></th>
+    <th class="tg-v41i">Singapore Youth Festival 2021<br>Arts Presentation for Instrumental Ensembles<br><br><span style="font-weight:normal">In the Singapore Youth Festival Arts Presentation 2021, we presented Little Suite for Strings, op.1 by Carl Nielsen and Hoe Down by Aaron Copland. SO is proud to be awarded the Certificate of Distinction.</span></th>
     <th class="tg-v41i"><img src="/images/06%20CCA/Visual%20PA%20String%20Orchestra/02%20syf%202021%20arts%20presentation.jpg" style="width:100%"></th>
   </tr>
 </thead>
