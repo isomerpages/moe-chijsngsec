@@ -183,6 +183,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
+| Secondary School Debating<br>Championships 2021-22     | Secondary<br>3 &amp; 4     | Participation     |
 | Orator's Trophy 2023     | Junior League     | Top 6     |
 | Orator's Trophy 2022     | Senior League     | Semi-Final     |
 | Orator's Trophy 2021     | Secondary 2 (Junior League)<br>Secondary 3 (Senior League)     | Semi-Finalist (Junior League)<br>Final – Top 6 (Senior League)     |
@@ -193,6 +194,5 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Raffles Debate Academy U-14<br>Debating Championship 2021     | Secondary<br>1 &amp; 2     | Participation     |
 | Youth Debate Open 2022     | Secondary<br>1 &amp; 2     | Participation     |
 | Youth Debate Open 2021     | Secondary<br>1 &amp; 2     | Participation     |
-| Secondary School Debating<br>Championships 2021-22     | Secondary<br>3 &amp; 4     | Participation     |
 | Lasallian Debate League 2021     | Secondary<br>1, 2 &amp; 3     | Top 2     |
 | Hua Yi Debate<br>Championships 2021     | Secondary<br>1, 2 &amp; 3     | Participation     |
