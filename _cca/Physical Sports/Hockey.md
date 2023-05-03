@@ -18,7 +18,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 | Training/Meeting Venue | School Hockey Pitch<br>PESEB Hockey Pitch<br>Sengkang Hockey Stadium |
 | -------- | -------- |
 | Training Day and Time | 3.45 - 6.30 pm (Mon, Wed, Fri) |
-| Instructor     | Mr Robin Ng     |
+| Coach     | Mr Robin Ng     |
 
 #### **Teachers-in-charge**
 
