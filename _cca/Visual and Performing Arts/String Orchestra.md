@@ -178,7 +178,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 </tbody>
 </table>
 
-![]()
+
 #### **CCA Highlights**
 --------------
 
