@@ -204,7 +204,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
     <td class="tg-vo25"><img src="/images/06%20CCA/Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><img src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" alt="Image" width="16" height="16"><br><br><img src="/images/06%20CCA/Choir/picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><br><img src="/images/06%20CCA/Choir/picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/Choir/picture%206.jpg" alt="Picture 6.jpg" width="435" height="326"><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
