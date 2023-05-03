@@ -225,3 +225,11 @@ To be courteous and honest in all my words and actions</i>
   </tr>
 </tbody>
 </table>
+
+
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Chief Commissioner Badge 2022     | Selected Sec 4 cadets     | Amber Buy Rui Qi<br>Ashley Chong Ying Rou<br>Goh Jia Hui Trina<br>Hannah Gan Xin Hui<br>Lim Jing Yun Hannah<br>Nathanee Lim Xiang Yun<br>Ng Hui En Iris<br>Soon Yoke Ting Isabelle<br>Tan Zi Ying Faith<br>Teo Hui Hui Hillary Sidney<br>Yolindrea Chow Wen Ning     |
+
