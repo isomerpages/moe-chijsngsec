@@ -2,7 +2,7 @@
 title: Green Club
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Green-Club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -99,27 +99,27 @@ Through organising and carrying out school-wide activities and taking part in mu
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tay Karlyn</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
     <td class="tg-vo25">President</td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Samantha Chua Wei Shan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jolene Jauw Xi Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2C</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Loh Wei Lin, Eunice</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head of Welfare</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Christy Lye Ke Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head of Gardening</span></td>
   </tr>
 </tbody>
