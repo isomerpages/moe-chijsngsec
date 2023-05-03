@@ -103,22 +103,22 @@ third_nav_title: Clubs & Societies
 <tbody>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eyu Kai Xing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Anna Lim Si En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeslyn Lee Jie Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">An Yutong</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
   </tr>
 </tbody>
@@ -223,3 +223,4 @@ third_nav_title: Clubs & Societies
   </tr>
 </tbody>
 </table>
+
