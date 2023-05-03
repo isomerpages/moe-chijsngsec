@@ -21,36 +21,12 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 | Instructor     | Mr Robin Ng     |
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Ms Siti Nur'aini Abdul Rashid </span><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Wong Yan Keet Amanda</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Siti Wajihah Zar'an</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Ng Kok Kuen </span></td>
-  </tr>
-</tbody>
-</table>
-
+| Ms Siti Nur'aini Abdul Rashid |
+| -------- |
+| Ms Wong Yan Keet Amanda     |
+| Ms Siti Wajihah Zar'an     |
+| Mr Ng Kok Kuen     |
 
 #### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
