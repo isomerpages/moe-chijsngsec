@@ -32,7 +32,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 | Mrs Theresa Chan     |
 
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2022 - 2023)**
 
 **Artistic Gymnastics Committee**
 
