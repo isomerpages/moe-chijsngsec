@@ -200,7 +200,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
