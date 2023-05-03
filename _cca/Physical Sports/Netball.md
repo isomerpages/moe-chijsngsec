@@ -44,50 +44,14 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Avrielle Charlotte Ho     | Sec 4U     | 'B' Division Captain     |
+| Shanice Yeo Yingxuan     | Sec 4P     | 'B' Division Vice-Captain     |
+| Katie Khoo Pei Yun     | Sec 2D     | 'C' Division Captain     |
+| Rachel Tan Yi Ting     | Sec 2U     | 'C' Division Vice-Captain     |
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Avrielle Charlotte Ho </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shanice Yeo Yingxuan </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B Division Vice-Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Katie Khoo Pei Yun  </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Captain</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Rachel Tan Yi Ting  </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division Vice-Captain</span></td>
-  </tr>
-</tbody>
-</table>
 
 #### **CCA Highlights**
 --------------
