@@ -69,15 +69,15 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
          *   &nbsp;Parents may navigate the portal with their child, using their child's account, and take the opportunity to begin an ECG conversation.
 
 ![](/images/05%20Student%20Development/ECG%20page%20photo.jpg)
-Link for Secondary students:&nbsp;[www.myskillsfuture.sg/secondary](http://www.myskillsfuture.sg/secondary)
 
-Note: MySkillsFuture link for Secondary students broken.
+[Link to myskillsfuture portal for secondary students](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+
 
 * <img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align="right">
     
    * In-house ECG Counsellor (Ms Grace Champion)
        *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
-		[www.tinyurl.com/sngsecgappt](http://www.tinyurl.com/sngsecgappt) or scan the QR Code on the right.
+		[go.gov.sg/sngsecg](http://go.gov.sg/sngsecg) or scan the QR Code on the right.
 		
 
 
