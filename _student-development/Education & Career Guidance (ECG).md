@@ -73,13 +73,12 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
 [Link to myskillsfuture portal for secondary students](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
 
-* <img src="/images/QR%20Code%20ECG.jpg" style="width:180px;height:180px;margin-left:15px;" align="right">
+* <img src="/images/05%20Student%20Development/sngs%20ecgc%20qr%20code.png" style="width:180px;height:180px;margin-left:15px;" align="right">
     
    * In-house ECG Counsellor (Ms Grace Champion)
        *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
 		[go.gov.sg/sngsecg](http://go.gov.sg/sngsecg) or scan the QR Code on the right.
 		
-
 
    *    [Brief Info on DSA-JC&amp; Poly EAE (updated as of May 2019)](/files/Brief%20Info%20on%20DSA-JC%20&amp;%20Poly%20EAE%20(updated%20as%20of%202019).pdf)
     
