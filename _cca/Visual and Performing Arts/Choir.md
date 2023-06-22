@@ -8,7 +8,7 @@ third_nav_title: Visual and Performing Arts
 
 #### **Choir**
 
-![](/images/Choir.png)
+![Choir 230527](/images/06%20CCA/Visual%20PA%20Choir/choir%20230527.jpeg)
 
 CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging from 13 to 16 years old. The choristers take immense pride in representing their school in performances and competitions, singing an extensive choral repertoire ranging from traditional Asian folk songs, English madrigals to Eastern European songs. Our members are motivated and bonded by their passion for music and singing. To share their joy of singing, SN Choir has performed in many concerts, competitions and community events over the years.
 
@@ -17,7 +17,6 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 "We are SN Choir, and we create the dream!"
 
  #### **CCA Information**
----------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,10 +66,10 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Miss Latha d/o Murugiah</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Tay Li Na</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Lee Shanwei, Joshua</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Jowie Tung</span></td>
   </tr>
 </tbody>
 </table>
