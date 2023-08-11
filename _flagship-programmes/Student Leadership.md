@@ -95,27 +95,27 @@ The Student Council comprises of Councillors from Secondary 2 to 4, led by a Pre
 </thead>
 <tbody>
   <tr>
-    <td class="tg-s2rg" colspan="2">2022 - 2023 Executive Committee <br></td>
+    <td class="tg-s2rg" colspan="2">2023/24 Student Council Executive Committee <br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">President</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Andrea Lim (4 Diligence)</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Zi Xin, Gwyneth&nbsp;(3 Truth)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Vice-Presidents </span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Ee Ching</span>	<span style="color:#222;background-color:transparent">(4 Diligence)</span><br><span style="color:#222;background-color:transparent">Ariel Grace Cheah Po Yi (4 Unity)</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shum Yin Theng</span>	<span style="color:#222;background-color:transparent">&nbsp;(3 Diligence)</span><br><span style="color:#222;background-color:transparent">Iva Soh&nbsp;(3 Loyalty)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Logistics Wing)</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amelie Koh Wei Lyn (4 Grace)</span><br><span style="color:#222;background-color:transparent">Wah Ro Shin Eriel (4 Unity)</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Woo Xin Hui, Claire (3 Faith)</span><br><span style="color:#222;background-color:transparent">Ngoi Shin Yee&nbsp;(3 Grace)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Events Wing)</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Hui Xin Chloe (4 Purity)</span><br><span style="color:#222;background-color:transparent">Valerie Koh Han Ning (4 Unity)</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Jingyi Shuanne&nbsp;(3 Purity)</span><br><span style="color:#222;background-color:transparent">Koh Zi Rui Kirstyn&nbsp;(3 Truth)</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heads (Welfare Wing)</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Nicole Lim Zi Qing (4 Grace)</span><br><span style="color:#222;background-color:transparent">Rebecca Kui (4 Wisdom)</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jillen Ng Jie En&nbsp;(3 Hope)</span><br><span style="color:#222;background-color:transparent">Joy Ng&nbsp;(3 Justice)</span></td>
   </tr>
 </tbody>
 </table>

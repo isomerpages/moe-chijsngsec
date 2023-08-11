@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2kyho38yqhcge.amplifyapp.com
 prod: https://master.d2kyho38yqhcge.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/school_crest.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
