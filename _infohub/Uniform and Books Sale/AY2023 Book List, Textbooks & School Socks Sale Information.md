@@ -6,6 +6,26 @@ third_nav_title: Uniform and Books Sale
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
+##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2023**
+
+##### **Self-Collection for Online**
+
+Time: 9am to 3pm <br>
+Nov: 29 &amp; 30 <br>
+Dec: 01, 05, 06, 07, 08, 13 &amp; 15<br><br>
+Time: 9am to 12noon <br>
+Dec: 02 <br><br>
+Time: 9am to 4pm <br>
+Dec: 14
+
+##### **Self-Collection for Online, Walk-In Purchase for Sec 1 Only**
+
+Time: 9am to 3pm <br>
+Dec: 21, 22, 26, 27 &amp; 28
+
+Time: 9am to 12noon <br>
+Dec: 23
+
 #### **AY2023 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
