@@ -30,17 +30,17 @@ Dec: 23
 #### **AY2023 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
-[S1 O-level Booklist.pdf](/files/06%20Infohub/Sec%201%20O-Level%20booklist.pdf)[](/files/06%20Infohub/Booklist/sec%201%20o-level%20booklist.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [S1 Year 1 IP Booklist.pdf](/files/06%20Infohub/Year%201%20IP%20booklist.pdf)[](/files/06%20Infohub/Booklist/year%201%20ip%20booklist.pdf)
+[S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%201%20o-level%20booklist.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%201%20ip%20booklist.pdf)
   
 Sec 2/Year 2  
-[S2 O-Level Booklist.pdf](/files/06%20Infohub/Sec%202%20O-Level%20booklist.pdf)[](/files/06%20Infohub/Booklist/sec%202%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 2 IP Booklist.pdf](/files/06%20Infohub/Year%202%20IP%20booklist.pdf)[](/files/06%20Infohub/Booklist/year%202%20ip%20booklist.pdf)
+[S2 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%202%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 2 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%202%20ip%20booklist.pdf)
   
 Sec 3/Year 3  
-[S3 O-Level Booklist.pdf](/files/06%20Infohub/Sec%203%20O-Level%20booklist.pdf)[](/files/06%20Infohub/Booklist/sec%203%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 3 IP Booklist.pdf](/files/06%20Infohub/Year%203%20IP%20booklist.pdf)[](/files/06%20Infohub/Booklist/year%203%20ip%20booklist.pdf)
+[S3 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%203%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 3 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%203%20ip%20booklist.pdf)
 
   
 Sec 4/Year 4  
-[S4 O-Level Booklist.pdf](/files/06%20Infohub/Sec%204%20O-Level%20booklist.pdf)[](/files/06%20Infohub/Booklist/sec%204%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; &nbsp;[Year 4 IP Booklist.pdf](/files/06%20Infohub/Year%204%20IP%20booklist.pdf)[](/files/06%20Infohub/Booklist/year%204%20ip%20booklist.pdf)
+[S4 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%204%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; &nbsp; [Year 4 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%204%20ip%20booklist.pdf)
   
 
 ---
