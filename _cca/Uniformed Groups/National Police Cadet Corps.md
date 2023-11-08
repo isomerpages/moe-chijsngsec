@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /co-curricular-activities-ccas/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -35,11 +36,11 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tbody>
   <tr>
     <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 1:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br><br>*Once a month, in place of weekday's training sessions</td>
+    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br>*Once a month, in place of weekday's training sessions<br></td>
   </tr>
   <tr>
     <td class="tg-v41i">Instructors</td>
-    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Toh Pan Shin (Honorary Officer)<br>Miss Hazel Wong (Cadet Inspector)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)</td>
+    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Hazel Wong (Honorary Officer)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)<br>Miss Lim Li Xuan Jillianne (Cadet Inspector)<br>Miss Chen Wen Zheng @ Sophia (Cadet Inspector)<br></td>
   </tr>
 </tbody>
 </table>
@@ -77,7 +78,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 </table>
 
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 ---------------------------------------
 
 <style type="text/css">
@@ -100,33 +101,33 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kang Jia Wen </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chin Xin Xuan, Gwen </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall-in-charge </span><br></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Hui Jun </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Joo Geng (Huang Yujin) </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Field Instructress</span><br></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tiffany Loy Zhen Min</span><br><span style="color:#222;background-color:transparent">Kate Ng Yue Min</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4J</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yin Ziling</span><br><span style="color:#222;background-color:transparent">Chua Rui Xin</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span><br><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 4 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choo Yee Ern Cherish</span><br><span style="color:#222;background-color:transparent">Joey Ong Yu Zi </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br><span style="color:#222;background-color:transparent">Sec 4G</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Kai En</span><br><span style="color:#222;background-color:transparent">Chung Min Yee, Claire </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3U</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 3 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jin Xin</span><br><span style="color:#222;background-color:transparent">Koh Xin Yee Abigail</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4H</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xin Yi Shernynn (Huang Xinyi)</span><br><span style="color:#222;background-color:transparent">Feng Xinyi</span><br><span style="color:#222;background-color:transparent">Janelle Lim Ru Xuan</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3W</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Beh Jing Yi Letticia</span><br><span style="color:#222;background-color:transparent">Joanie Tan Jie En</span><br><span style="color:#222;background-color:transparent">Ang Kah Ning, Zelia</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chor Shu Yee</span><br><span style="color:#222;background-color:transparent">Ada Teo Rui Tian</span><br><span style="color:#222;background-color:transparent">Yu Jingwei Janice</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span><br><span style="color:#222;background-color:transparent">Sec 3J</span><br><span style="color:#222;background-color:transparent">Sec 3U</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 1 Squad-in-charge </span></td>
   </tr>
 </tbody>
@@ -184,6 +185,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NPCC Inter - Unit Crime Scene Investigation Competition  | Secondary Schools     | 10th     |
+| NPCC Inter Unit .22 Revolver Shooting Competition 2023    | Secondary Schools     | Team 1: 4th<br>Team 2: 8th     |
 | Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
 | Unit Overall Proficiency Award 2022    | Secondary Schools     | Distinction     |
 | Inter-Unit Crime Scene<br>Investigation Competition 2022     | All     | 8th     |

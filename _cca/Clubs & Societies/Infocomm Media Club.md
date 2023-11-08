@@ -3,12 +3,13 @@ title: Infocomm Media Club
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Infocomm-Media-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Infocomm Media Club**
 
-<img src="/images/Infocomm%20Media%20Club.jpeg" style="width:75%">
+![](/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/1all%20infocomm%202023.jpg)
 
 SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
 
@@ -74,7 +75,7 @@ Opportunities also abound for members to contribute to the school and community 
 </tbody>
 </table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 ---------------------------------------
 
 <style type="text/css">
@@ -97,38 +98,38 @@ Opportunities also abound for members to contribute to the school and community 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Michele Khoon Man Yu</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Rui Ting</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choong Hui Xuan Caitlin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Lee-Ann</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Admin)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Emeline Tan En Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Chen Zhiyun</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (PA)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shayne Lai</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Qian Ying</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Media)</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clarisse Fong Jie Min</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level Coordinator</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choy Yumin</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level Coordinator</span></td>
   </tr>
 </tbody>
@@ -197,10 +198,20 @@ Opportunities also abound for members to contribute to the school and community 
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2023 (DrCT) </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4 Gold Award,</span><br><span style="color:#222;background-color:transparent">12 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">7 Honorable Mention</span></td>
+  </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2022 (DrCT) </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3 Gold Award,</span><br><span style="color:#222;background-color:transparent">3 Silver Award,</span><br><span style="color:#222;background-color:transparent">11 Bronze Award,</span><br><span style="color:#222;background-color:transparent">2 Honorable Mention</span></td>
+  </tr>
+  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2022 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Gold Award,</span><br><span style="color:#222;background-color:transparent">6 Silver Award,</span><br><span style="color:#222;background-color:transparent">4 Bronze Award</span><br></td>
   </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Microsoft DigiGirlz 2021</span></td>
