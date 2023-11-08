@@ -126,8 +126,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Beh Jing Yi Letticia</span><br><span style="color:#222;background-color:transparent">Joanie Tan Jie En</span><br><span style="color:#222;background-color:transparent">Ang Kah Ning, Zelia</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chor Shu Yee</span><br><span style="color:#222;background-color:transparent">Ada Teo Rui Tian</span><br><span style="color:#222;background-color:transparent">Yu Jingwei Janice</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span><br><span style="color:#222;background-color:transparent">Sec 3J</span><br><span style="color:#222;background-color:transparent">Sec 3U</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 1 Squad-in-charge </span></td>
   </tr>
 </tbody>
