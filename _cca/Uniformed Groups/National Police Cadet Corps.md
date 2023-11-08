@@ -78,7 +78,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 </table>
 
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 ---------------------------------------
 
 <style type="text/css">
@@ -101,28 +101,28 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kang Jia Wen </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chin Xin Xuan, Gwen </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall-in-charge </span><br></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Hui Jun </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Joo Geng (Huang Yujin) </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Field Instructress</span><br></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tiffany Loy Zhen Min</span><br><span style="color:#222;background-color:transparent">Kate Ng Yue Min</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4J</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yin Ziling</span><br><span style="color:#222;background-color:transparent">Chua Rui Xin</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span><br><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 4 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choo Yee Ern Cherish</span><br><span style="color:#222;background-color:transparent">Joey Ong Yu Zi </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span><br><span style="color:#222;background-color:transparent">Sec 4G</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Kai En</span><br><span style="color:#222;background-color:transparent">Chung Min Yee, Claire </span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3U</span></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 3 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim Jin Xin</span><br><span style="color:#222;background-color:transparent">Koh Xin Yee Abigail</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br><span style="color:#222;background-color:transparent">Sec 4H</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xin Yi Shernynn (Huang Xinyi)</span><br><span style="color:#222;background-color:transparent">Feng Xinyi</span><br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br><span style="color:#222;background-color:transparent">Sec 3T</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
   </tr>
   <tr>
