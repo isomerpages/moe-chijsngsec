@@ -198,6 +198,11 @@ Opportunities also abound for members to contribute to the school and community 
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2023 (DrCT) </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4 Gold Award,</span><br><span style="color:#222;background-color:transparent">12 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">7 Honorable Mention</span></td>
+  </tr>
   <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2022 (DrCT) </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
