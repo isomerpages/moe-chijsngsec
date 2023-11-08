@@ -121,7 +121,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 3 Squad-in-charge </span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xin Yi Shernynn (Huang Xinyi)</span><br><span style="color:#222;background-color:transparent">Feng Xinyi</span><br><br><span style="color:#222;background-color:transparent">Janelle Lim Ru Xuan</span><br></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xin Yi Shernynn (Huang Xinyi)</span><br><span style="color:#222;background-color:transparent">Feng Xinyi</span><br><span style="color:#222;background-color:transparent">Janelle Lim Ru Xuan</span><br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3W</span><br></td>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
   </tr>
