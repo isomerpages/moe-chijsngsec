@@ -185,6 +185,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NPCC Inter - Unit Crime Scene Investigation Competition  | Secondary Schools     | 10th     |
+| NPCC Inter Unit .22 Revolver Shooting Competition 2023    | Secondary Schools     | Team 1: 4th<br>Team 2: 8th     |
 | Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
 | Unit Overall Proficiency Award 2022    | Secondary Schools     | Distinction     |
 | Inter-Unit Crime Scene<br>Investigation Competition 2022     | All     | 8th     |
