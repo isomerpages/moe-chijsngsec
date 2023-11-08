@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /co-curricular-activities-ccas/Uniformed-Groups/National-Police-Cadet-Corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -35,11 +36,11 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tbody>
   <tr>
     <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 1:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br><br>*Once a month, in place of weekday's training sessions</td>
+    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br><br>*Once a month, in place of weekday's training sessions</td>
   </tr>
   <tr>
     <td class="tg-v41i">Instructors</td>
-    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Toh Pan Shin (Honorary Officer)<br>Miss Hazel Wong (Cadet Inspector)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)</td>
+    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Hazel Wong (Honorary Officer)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)<br>Miss Lim Li Xuan Jillianne (Cadet Inspector)<br><br>Miss Chen Wen Zheng @ Sophia (Cadet Inspector)<br></td>
   </tr>
 </tbody>
 </table>
