@@ -36,7 +36,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tbody>
   <tr>
     <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br><br>*Once a month, in place of weekday's training sessions</td>
+    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br>*Once a month, in place of weekday's training sessions</td>
   </tr>
   <tr>
     <td class="tg-v41i">Instructors</td>
