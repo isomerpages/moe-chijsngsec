@@ -40,7 +40,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
   </tr>
   <tr>
     <td class="tg-v41i">Instructors</td>
-    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Hazel Wong (Honorary Officer)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)<br>Miss Lim Li Xuan Jillianne (Cadet Inspector)<br><br>Miss Chen Wen Zheng @ Sophia (Cadet Inspector)<br></td>
+    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Hazel Wong (Honorary Officer)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)<br>Miss Lim Li Xuan Jillianne (Cadet Inspector)<br>Miss Chen Wen Zheng @ Sophia (Cadet Inspector)<br></td>
   </tr>
 </tbody>
 </table>
