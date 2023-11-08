@@ -204,6 +204,11 @@ Opportunities also abound for members to contribute to the school and community 
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3 Gold Award,</span><br><span style="color:#222;background-color:transparent">3 Silver Award,</span><br><span style="color:#222;background-color:transparent">11 Bronze Award,</span><br><span style="color:#222;background-color:transparent">2 Honorable Mention</span></td>
   </tr>
   <tr>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2022 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Gold Award,</span><br><span style="color:#222;background-color:transparent">6 Silver Award,</span><br><span style="color:#222;background-color:transparent">4 Bronze Award</span><br></td>
+  </tr>
+  <tr>
     <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Microsoft DigiGirlz 2021</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 2 </span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Tech &amp; Creativity Award </span></td>
