@@ -3,12 +3,13 @@ title: Infocomm Media Club
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Infocomm-Media-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Infocomm Media Club**
 
-<img src="/images/Infocomm%20Media%20Club.jpeg" style="width:75%">
+![](/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/1all%20infocomm%202023.jpg)
 
 SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
 
@@ -74,7 +75,7 @@ Opportunities also abound for members to contribute to the school and community 
 </tbody>
 </table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 ---------------------------------------
 
 <style type="text/css">
@@ -97,13 +98,13 @@ Opportunities also abound for members to contribute to the school and community 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Michele Khoon Man Yu</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Rui Ting</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
+    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
   </tr>
   <tr>
