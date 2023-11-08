@@ -9,7 +9,7 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/NPCC.jpeg" style="width:75%">
+<img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC.jpeg" style="width:75%">
 
 Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
@@ -107,25 +107,25 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <thead>
   <tr>
     <th class="tg-v41i">Camps<br><br><span style="font-weight:normal">Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</span></th>
-    <th class="tg-s2rg"><img src="/images/NPCC1.jpeg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Crime Scene Investigation Competition</span><br><br><br>Our cadets participated in the first E-CSI Competition this year.<br></td>
-    <td class="tg-vo25"><img src="/images/NPCC2.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Outdoor Cooking</span><br><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td class="tg-mezc"><img src="/images/NPCC3.jpeg" style="width:100%"></td>
+    <td class="tg-mezc"><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Parades</span><br><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony. </td>
-    <td class="tg-mezc"><img src="/images/NPCC4.jpeg" style="width:100%"></td>
+    <td class="tg-mezc"><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Police Youth Ambassador </span><br><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td class="tg-vo25"><img src="/images/NPCC5.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
