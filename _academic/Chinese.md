@@ -2,8 +2,8 @@
 title: Chinese
 permalink: /academic/Chinese/
 description: ""
+variant: markdown
 ---
-
 ### **Chinese**
 Bilingual education is a cornerstone of Singapore’s education system. As a Special Assistance Plan (SAP) school whose mission is to cultivate bicultural youth who are effectively bilingual in English and Mother Tongue, we strive to nurture students who build a firm foundation in the Chinese language, as well as appreciate the richness of Chinese language and culture and its enduring value in our multicultural society and open economy.<br><br>双语教育是我国教育的基石，而圣尼各拉女校作为特选学校的使命是为国家培育双语双文化人才。我校华文部致力于通过与时俱进的教学培养热爱华文与文化、热爱生活、知书达礼的时代女性。我们坚信每一名学生都可以努力打好华文基础，领略华文语言与文化之美，从而培养双语双文化的优势，开拓世界观，在二十一世纪为我国社会文化与经济的持续发展做出贡献。  
 
@@ -36,9 +36,6 @@ The annual Mother Tongue Fortnight and other enrichment activities allow you to 
 *   SNGS Chinese Knowledge Challenge
 *   Author-in-Residence Programme
 *   Creative writing
-*   Basic DJ course
-*   Introduction to Zither
-*   Introduction to&nbsp;_Weiqi_
 *   China immersion programme
 
 为促进学生在华文与文学、文化历史、学术思辨等方面的学习，华文部每年举办母语双周和一系列深广活动，包括：
@@ -52,7 +49,4 @@ The annual Mother Tongue Fortnight and other enrichment activities allow you to 
 *   圣尼各拉“华文无极限”常识问答比赛
 *   驻校作家计划
 *   文学创作
-*   基础DJ课程
-*   古琴初探
-*   围棋入门
 *   中国浸濡
