@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Badminton**
 
-<img src="/images/Badminton.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Badminton/Badminton.jpeg" style="width:100%">
 
 Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.&nbsp;&nbsp;
 
@@ -60,13 +60,13 @@ SNBT All the way!
 <thead>
   <tr>
     <th class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
-    <th class="tg-s2rg"><img src="/images/Badminton1.jpeg" style="width:100%"><br><img src="/images/Badminton2.jpeg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20Badminton/Badminton1.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton2.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
-    <td class="tg-vo25"><img src="/images/Badminton3.jpeg" style="width:100%"><br><img src="/images/Badminton4.jpeg" style="width:100%"><br><img src="/images/Badminton5.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Badminton/Badminton3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton4.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
