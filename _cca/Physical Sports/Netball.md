@@ -3,12 +3,13 @@ title: Netball
 permalink: /co-curricular-activities-ccas/Physical-Sports/Netball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Netball**
 
-<img src="/images/Netball%20Photo%20for%20school%20website.jpg" style="width:75%">
+<img src="/images/06%20CCA/PS%20Netball/Netball%20Photo%20for%20school%20website.jpg" style="width:100%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
@@ -75,13 +76,13 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <thead>
   <tr>
     <th class="tg-v41i">‘B’ Division 2022<br><br><span style="font-weight:normal">After 2 years of not being able to compete, our ‘B’ Division Netball team was finally able to do so this year! We were extremely blessed and fortunate to have the opportunity to compete against various schools, allowing us to improve both physically and mentally. The competitions were a platform for us to gain experience and bond with our teammates alike, making the experience immensely fulfilling and unique.</span><br><br><br><span style="font-weight:normal">SNNB is a close-knit CCA where we are all able to express ourselves confidently and forge strong bonds with our teammates. Training may be tough, but our never-ending support and encouragement for each other push us to do our best, to grow individually and as a team.</span><br><br><span style="font-weight:normal">Leading SNNB has been an enriching experience for us and we are grateful for our teachers, coach and teammates for guiding us throughout this fruitful journey. SNNB will always have a special place in our hearts!</span><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/Netball1.png" style="width:100%"><br><img src="/images/Netball2.png" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20Netball/Netball1.png" style="width:100%"><br><img src="/images/06%20CCA/PS%20Netball/Netball2.png" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">‘C’ Division 2022</span><br><br><br>SNNB ‘C’ Division is family, We reply, support and encourage one another unconditionally, performing to the best of our ability during training. As a lively bunch, training has brought much laughter and values. It also provides an environment where we can learn without fear of making mistakes and receive constructive feedback from our peers, teachers and coach.<br><br>When it was announced that the National School Games (NSG) would resume after two years, many of us were excited but there was still anxiety amongst us. We had to train hard, three times a week, three hours every training session during the holidays. Although it was mentally, physically and emotionally draining, all of us managed to push through, train diligently, encourage and support one another through it all.<br><br>We are immensely grateful for this experience which allowed us to forge closer and lasting bonds and create unforgettable memories. Through this opportunity, we truly have understood the saying "Process is more important than outcome" because the NSG experience allowed us to live up to our school vision "Girls of Grace, Women of Strength, Leaders with Heart". We are appreciative of this fruitful experience and we look forward to our future endeavours as a team and family.</td>
-    <td class="tg-vo25"><img src="/images/Netball3.jpeg" style="width:100%"><br><img src="/images/Netball4.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Netball/Netball3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Netball/Netball4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
