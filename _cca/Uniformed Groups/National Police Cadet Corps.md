@@ -43,7 +43,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
   </tr>
 	</tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
   <tbody><tr>
