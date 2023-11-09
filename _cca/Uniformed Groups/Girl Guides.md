@@ -3,12 +3,13 @@ title: Girl Guides
 permalink: /co-curricular-activities-ccas/Uniformed-Groups/Girl-Guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Girl Guides**
 
-<img src="/images/Girl%20Guides.jpeg" style="width:75%">
+<img src="/images/06%20CCA/UG%20Girl%20Guides/Girl%20Guides.jpeg" style="width:100%">
 
 Girl Guides @ SN aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through the 5-Point Programme and various proficiency/interest badges, guides are able to develop their leadership, decision-making and team-building skills.
 
@@ -159,17 +160,17 @@ To keep the Guide Law
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Annual Girl Guides Camp and Campfire</span><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking and Kim’s games.<br><br><br><br><br><br></th>
-    <th class="tg-vo25"><img src="/images/GG1.jpeg" style="width:100%"></th>
+    <th class="tg-vo25"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">World Thinking Day and North Division Day</span><br><br>The annual North Division Day is a day where Brownies and Girl Guides from all units in the North Division meet to learn from and share with each other their guiding practices through activities and competitions. In 2022, it was held virtually.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/GG2.jpeg" style="width:100%"><img src="/images/GG3.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG2.jpeg" style="width:100%"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">5-Point Programme, Proficiency &amp; Interest Badges</span><br><br>The 5-Point Programme provides Girl Guides with opportunities to develop in the following areas:<br><br>• Personal &amp; Social Development<br>• Home<br>• Outdoor<br>• Community<br>• International<br><br>Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides, for example:<br><br>• Craft badge<br>• Entertainer badge<br>• Friends to the Visually Impaired badge<br>• Gardens by the Bay Ambassador badge<br>• Pathfinder badge</td>
-    <td class="tg-mezc"><img src="/images/GG4.jpeg" style="width:100%"></td>
+    <td class="tg-mezc"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
