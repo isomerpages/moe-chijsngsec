@@ -3,12 +3,13 @@ title: Table Tennis
 permalink: /co-curricular-activities-ccas/Physical-Sports/Table-Tennis/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 ##### **Table Tennis**
 
-<img src="/images/TableTennis.jpeg" style="width:75%">
+<img src="/images/TableTennis.jpeg" style="width:100%">
 
 The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
 
@@ -49,7 +50,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 
 
-| North Zone Inter-School Table Tennis Championships 2023<br><br>B Division Team Champion<br>C Division Team 1st Runner-up | ![TT5 2023](/images/06%20CCA/Physical%20Sports%20%20%20Table%20Tennis/tt5%202023.jpg) |
+| North Zone Inter-School Table Tennis Championships 2023<br><br>B Division Team Champion<br>C Division Team 1st Runner-up | ![TT5 2023](/images/06%20CCA/PS%20Table%20Tennis/tt5%202023.jpg) |
 | -------- | -------- |
 | **North Zone Inter-School Table Tennis Championships 2022<br><br>B Division Team Champion** | ![TT1 2022](/images/TT1.jpeg) |
 | **North Zone Inter-School Table Tennis Championships 2022<br><br>C Division Team Champion** | ![TT2 2022](/images/TT2.jpeg) |
