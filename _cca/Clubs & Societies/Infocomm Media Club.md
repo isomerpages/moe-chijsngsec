@@ -19,8 +19,7 @@ Opportunities also abound for members to contribute to the school and community 
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
+  <tbody><tr>
     <th>Training / Meeting Venue</th>
     <td>Computer Labs 2 &amp; 3</td>
   </tr>
@@ -50,8 +49,8 @@ Opportunities also abound for members to contribute to the school and community 
 <table style="width:100%">
   <tbody><tr>
     <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
+    <th style="width:20%">Class</th> 
+    <th style="width:35%">Position</th>
   </tr>
   <tr>
     <td>Eliana Chng Jia Xuan</td>
@@ -111,50 +110,44 @@ Opportunities also abound for members to contribute to the school and community 
   </tr>
 </tbody></table>
 
-
 #### **CCA Achievement**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-	  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2023 (DrCT) </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4 Gold Award,</span><br><span style="color:#222;background-color:transparent">12 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">7 Honorable Mention</span></td>
+ <table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2022 (DrCT) </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3 Gold Award,</span><br><span style="color:#222;background-color:transparent">3 Silver Award,</span><br><span style="color:#222;background-color:transparent">11 Bronze Award,</span><br><span style="color:#222;background-color:transparent">2 Honorable Mention</span></td>
+    <td>Design Thinking and Computational Thinking International Competition 2023 (DrCT)</td>
+    <td>Sec 1 - 4</td>
+    <td>4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention</td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2022 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Gold Award,</span><br><span style="color:#222;background-color:transparent">6 Silver Award,</span><br><span style="color:#222;background-color:transparent">4 Bronze Award</span><br></td>
+<tr>
+    <td>Design Thinking and Computational Thinking International Competition 2022 (DrCT)</td>
+    <td>Sec 1 - 4</td>
+    <td>3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention</td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Microsoft DigiGirlz 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 2 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Tech &amp; Creativity Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2021 (DrCT)</span></td>
+<tr>
+    <td>Bebras Challenge 2022</td>
+    <td>Sec 1 - 3</td>
+    <td>5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award</td>
+  </tr>		
+	<tr>
+    <td>Microsoft DigiGirlz 2021</td>
+    <td>Sec 1 - 2</td>
+    <td>Tech &amp; Creativity Award</td>
+  </tr>			
+ <tr>
+    <td>Design Thinking and Computational Thinking International Competition 2021 (DrCT</td>
+    <td>Sec 1 - 4</td>
+    <td>11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention</td>
+  </tr>		
+		
+		
+		
+
+    <tr><td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2021 (DrCT)</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">11 Gold Award,</span><br><span style="color:#222;background-color:transparent">17 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">5 Honorable Mention</span></td>
   </tr>
