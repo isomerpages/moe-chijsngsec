@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Artistic Gym**
 
-<img src="/images/Artistic%20Gym.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym.jpeg" style="width:100%">
 
 Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
   
@@ -70,17 +70,17 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <thead>
   <tr>
     <th class="tg-v41i"><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
-    <th class="tg-vo25"><img src="/images/Artistic%20Gym1.jpeg" style="width:100%"></th>
+    <th class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Trampoline Competition</td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym2.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><br><img src="/images/Artistic%20Gym4.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
