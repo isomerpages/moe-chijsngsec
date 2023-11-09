@@ -3,12 +3,13 @@ title: Rhythmic Gym
 permalink: /co-curricular-activities-ccas/Physical-Sports/Rhythmic-Gym/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Rhythmic Gym**
 
-<img src="/images/01%20CCA%20Photo.jpg" style="width:75%">
+<img src="/images/01%20CCA%20Photo.jpg" style="width:100%">
 
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
