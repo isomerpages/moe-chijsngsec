@@ -9,176 +9,109 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/NPCC.jpeg" style="width:75%">
+<img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC.jpeg" style="width:100%">
 
 Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">Field</span><br>Basketball court<br>Venues as designated by NPCC HQ</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Fri:          4:00 pm - 6:30 pm<br>Sat:        8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br>*Once a month, in place of weekday's training sessions<br></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Field<br>Basketball court<br>Venues as designated by NPCC HQ</td>
   </tr>
   <tr>
-    <td class="tg-v41i">Instructors</td>
-    <td class="tg-brl1">Mr Chan Siang Long Eugene (Honorary Officer)<br>Miss Hazel Wong (Honorary Officer)<br>Miss Lui Ting Mun, Sharlyn (Cadet Inspector)<br>Miss Faustina Anne Francisco (Cadet Inspector)<br>Miss Ng Min Hui (Cadet Inspector)<br>Miss Savannah Chan (Cadet Inspector)<br>Miss Lim Li Xuan Jillianne (Cadet Inspector)<br>Miss Chen Wen Zheng @ Sophia (Cadet Inspector)<br></td>
+    <th>Training Day / Time</th>
+    <td>Fri: 4:00 pm - 6:30 pm<br>Sat: 8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br>*Once a month, in place of weekday's training sessions</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td>
   </tr>
 </tbody>
 </table>
-
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mdm Lee Keat Peng (Officer-in-Command)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Daniel Khor </span></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th style="width:40%">Officer-in-Command</th>
+    <td>Mdm Lee Keat Peng</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Chang Zheng </span></td>
+    <th>Teacher Officers</th>
+    <td>Mr Daniel Khor<br>Mr Chang Zheng<br>Ms Jocelyn Ling</td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Jocelyn Ling </span></td>
-  </tr>
-</tbody>
-</table>
+	</tbody></table>
 
+#### **Student Executive Committee (2023 - 2024)**
 
-#### **Student Executive Committee (2023-2024)**
----------------------------------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chin Xin Xuan, Gwen </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Unit Overall-in-charge </span><br></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Joo Geng (Huang Yujin) </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Field Instructress</span><br></td>
+    <td>Chin Xin Xuan, Gwen</td>
+    <td>Sec 3H</td>
+    <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yin Ziling</span><br><span style="color:#222;background-color:transparent">Chua Rui Xin</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3C</span><br><span style="color:#222;background-color:transparent">Sec 3H</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 4 Squad-in-charge </span></td>
+    <td>Ng Joo Geng (Huang Yujin)</td>
+    <td>Sec 3D</td>
+    <td>Field Instructress</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Kai En</span><br><span style="color:#222;background-color:transparent">Chung Min Yee, Claire </span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3U</span></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 3 Squad-in-charge </span></td>
+    <td>Yin Ziling<br>Chua Rui Xin</td>
+    <td>Sec 3C<br>Sec 3H</td>
+    <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xin Yi Shernynn (Huang Xinyi)</span><br><span style="color:#222;background-color:transparent">Feng Xinyi</span><br><span style="color:#222;background-color:transparent">Janelle Lim Ru Xuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span><br><span style="color:#222;background-color:transparent">Sec 3T</span><br><span style="color:#222;background-color:transparent">Sec 3W</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 2 Squad-in-charge </span></td>
+    <td>Seah Kai En<br>Chung Min Yee, Claire</td>
+    <td>Sec 3T<br>Sec 3U</td>
+    <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chor Shu Yee</span><br><span style="color:#222;background-color:transparent">Ada Teo Rui Tian</span><br><span style="color:#222;background-color:transparent">Yu Jingwei Janice</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span><br><span style="color:#222;background-color:transparent">Sec 3J</span><br><span style="color:#222;background-color:transparent">Sec 3U</span><br></td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sec 1 Squad-in-charge </span></td>
+    <td>Ng Xin Yi Shernynn (Huang Xinyi)<br>Feng Xinyi<br>Janelle Lim Ru Xuan</td>
+    <td>Sec 3D<br><br>Sec 3T<br>Sec 3W</td>
+    <td>Sec 2 Squad-in-charge</td>
   </tr>
-</tbody>
-</table>
+  <tr>
+    <td>Chor Shu Yee<br>Ada Teo Rui Tian<br>Yu Jingwei Janice</td>
+    <td>Sec 3H<br>Sec 3J<br>Sec 3U</td>
+    <td>Sec 1 Squad-in-charge</td>
+  </tr>
+</tbody></table>
 
 
 #### **CCA Highlights**
 ---------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-mezc{color:#F00;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-v41i">Camps<br><br><span style="font-weight:normal">Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</span></th>
-    <th class="tg-s2rg"><img src="/images/NPCC1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Crime Scene Investigation Competition</span><br><br><br>Our cadets participated in the first E-CSI Competition this year.<br></td>
-    <td class="tg-vo25"><img src="/images/NPCC2.jpeg" style="width:100%"></td>
+<table style="width:100%">
+    <tbody><tr>
+			<td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
+    <td><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC1.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Outdoor Cooking</span><br><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td class="tg-mezc"><img src="/images/NPCC3.jpeg" style="width:100%"></td>
+			<td style="width:40%"><b>E-CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
+    <td><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC2.jpeg"></td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Parades</span><br><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony. </td>
-    <td class="tg-mezc"><img src="/images/NPCC4.jpeg" style="width:100%"></td>
+	<tr>
+		<td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
+    <td><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC3.jpeg"></td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Police Youth Ambassador </span><br><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td class="tg-vo25"><img src="/images/NPCC5.jpeg" style="width:100%"></td>
+	<tr>
+		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
+    <td><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC4.jpeg"></td>
   </tr>
-</tbody>
-</table>
+	<tr>
+		<td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
+    <td><img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC5.jpeg"></td>
+  </tr>
+</tbody></table>
 
 #### **CCA Achievements**
 
@@ -189,7 +122,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 | NPCC Inter Unit .22 Revolver Shooting Competition 2023    | Secondary Schools     | Team 1: 4th<br>Team 2: 8th     |
 | Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
 | Unit Overall Proficiency Award 2022    | Secondary Schools     | Distinction     |
-| Inter-Unit Crime Scene<br>Investigation Competition 2022     | All     | 8th     |
+| NPCC Inter-Unit Crime Scene<br>Investigation Competition 2022     | All     | 8th     |
 | Unit Overall Proficiency Award 2021     | All     | Gold (since 2011)     |
 | GOTC II Virtual Tournament 2021     | All     | Team A: Silver<br>Team B: Gold     |
 | NPCC Inter Unit .22 Revolver<br>Shooting Competition 2019     | All     | Team 1: 2nd<br>Team 2: 37th     |
