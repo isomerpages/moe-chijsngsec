@@ -38,10 +38,9 @@ Opportunities also abound for members to contribute to the school and community 
 
 #### **Teachers-in-charge**
 ------------------
-
-<br><table style="width:100%">
-
-    <tbody><tr><td>Mr Andy Lee</td>
+<table style="width:100%">
+<tbody>
+	<tr><td>Mr Andy Lee</td>
     <td>Mr Chua Sau Chuan<br>
 		</td><td>Ms Claire Cher<br></td>
   </tr>
@@ -93,48 +92,28 @@ Opportunities also abound for members to contribute to the school and community 
   </tr>
 </tbody></table>
 
-
-
 #### **CCA Highlights**
 --------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-v41i">Public Announcement (PA) Duty for school events<br><br><span style="font-weight:normal">All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life. </span><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/Infocomm%20Media%20Club1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Photography and Videography</span><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.<br><br><br><br><br></td>
-    <td class="tg-brl1"><img src="/images/Infocomm%20Media%20Club2.jpeg" style="width:100%"></td>
+<table style="width:100%">
+    <tbody><tr>
+			<td style="width:40%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/2pa%20duty.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Coding</span><br><br><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years. <br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club3.jpeg" style="width:100%"></td>
+			<td style="width:40%"><b>Photography and Videography</b><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/3photo%20and%20videography.jpg"></td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Learning Journeys</span><br><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society. <br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club4.jpeg" style="width:100%"></td>
+	<tr>
+		<td style="width:40%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club3.jpeg"></td>
+		</tr>
+	<tr>
+		<td style="width:40%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club4.jpeg"></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
+
 
 #### **CCA Achievement**
 ---------------
