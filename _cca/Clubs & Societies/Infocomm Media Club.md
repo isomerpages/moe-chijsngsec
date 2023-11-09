@@ -9,229 +9,147 @@ variant: markdown
 
 #### **Infocomm Media Club**
 
-![](/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/1all%20infocomm%202023.jpg)
+<img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/1all%20infocomm%202023.jpg" style="width:100%">
+
 
 SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
 
 Opportunities also abound for members to contribute to the school and community by providing PA, photography and videography support in regular and major school activities. Through experiential learning, the students grasp vital soft skills such as teamwork and communication and core values such as integrity and responsibility.&nbsp;
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue</th>
-    <th class="tg-cees">Computer Labs 2&amp;3</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time</td>
-    <td class="tg-frbo">Wed:        3.45 pm - 6:00 pm <br>Fri:            4:00 pm - 6:00 pm</td>
+<table style="width:100%">
+  <tbody><tr>
+    <th>Training / Meeting Venue</th>
+    <td>Computer Labs 2 &amp; 3</td>
   </tr>
   <tr>
-    <td class="tg-r52z">Instructors<br></td>
-    <td class="tg-cees">-</td>
+    <th>Training Day / Time</th>
+    <td>Wed: 3:45 pm - 6:00 pm<br>Fri: 4:00 pm - 6:00 pm<br></td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>-</td>
   </tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mr Andy Lee</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Chua Sau Chuan</span><br></td>
+	<tr><td>Mr Andy Lee</td>
+    <td>Mr Chua Sau Chuan<br>
+		</td><td>Ms Claire Cher<br></td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Claire Cher</span></td>
-  </tr>
-</tbody>
-</table>
+	</tbody></table>
 
 #### **Student Executive Committee (2023-2024)**
----------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Appointment</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:10%">Class</th> 
+    <th style="width:45%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
+    <td>Eliana Chng Jia Xuan</td>
+    <td>Sec 3W</td>
+    <td>President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Lee-Ann</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Admin)</span></td>
+    <td>Chua Yi Xuan Cherise</td>
+    <td>Sec 3P</td>
+    <td>Vice-President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Chen Zhiyun</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (PA)</span></td>
+    <td>Tan Lee-Ann</td>
+    <td>Sec 3L<br></td>
+    <td>Head (Admin)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Qian Ying</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Media)</span></td>
+    <td>Amanda Chen Zhiyun</td>
+    <td>Sec 3P</td>
+    <td>Head (PA)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clarisse Fong Jie Min</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level Coordinator</span></td>
+    <td>Lee Qian Ying</td>
+    <td>Sec 3D</td>
+    <td>Head (Media)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choy Yumin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level Coordinator</span></td>
+    <td>Clarisse Fong Jie Min</td>
+    <td>Sec 2U</td>
+    <td>Sec 2 Level Coordinator</td>
   </tr>
-</tbody>
-</table>
-
+		<tr>
+    <td>Choy Yumin</td>
+    <td>Sec 2U</td>
+    <td>Sec 1 Level Coordinator</td>
+  </tr>
+</tbody></table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-v41i">Public Announcement (PA) Duty for school events<br><br><span style="font-weight:normal">All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life. </span><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/Infocomm%20Media%20Club1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Photography and Videography</span><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.<br><br><br><br><br></td>
-    <td class="tg-brl1"><img src="/images/Infocomm%20Media%20Club2.jpeg" style="width:100%"></td>
+<table style="width:100%">
+    <tbody><tr>
+			<td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/2pa%20duty.jpg"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Coding</span><br><br><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years. <br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club3.jpeg" style="width:100%"></td>
+			<td style="width:50%"><b>Photography and Videography</b><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/3photo%20and%20videography.jpg"></td>
   </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Learning Journeys</span><br><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society. <br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/Infocomm%20Media%20Club4.jpeg" style="width:100%"></td>
+	<tr>
+		<td style="width:50%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club3.jpeg"></td>
+		</tr>
+	<tr>
+		<td style="width:50%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
+    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club4.jpeg"></td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 #### **CCA Achievement**
----------------
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-	  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2023 (DrCT) </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4 Gold Award,</span><br><span style="color:#222;background-color:transparent">12 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">7 Honorable Mention</span></td>
+
+ <table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2022 (DrCT) </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3 Gold Award,</span><br><span style="color:#222;background-color:transparent">3 Silver Award,</span><br><span style="color:#222;background-color:transparent">11 Bronze Award,</span><br><span style="color:#222;background-color:transparent">2 Honorable Mention</span></td>
+    <td>Design Thinking and Computational Thinking International Competition 2023 (DrCT)</td>
+    <td>Sec 1 - 4</td>
+    <td>4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention</td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2022 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Gold Award,</span><br><span style="color:#222;background-color:transparent">6 Silver Award,</span><br><span style="color:#222;background-color:transparent">4 Bronze Award</span><br></td>
+<tr>
+    <td>Design Thinking and Computational Thinking International Competition 2022 (DrCT)</td>
+    <td>Sec 1 - 4</td>
+    <td>3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention</td>
   </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Microsoft DigiGirlz 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 2 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Tech &amp; Creativity Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2021 (DrCT)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">11 Gold Award,</span><br><span style="color:#222;background-color:transparent">17 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">5 Honorable Mention</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">National Software Competition 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1 Gold Award,</span><br><span style="color:#222;background-color:transparent">2 Silver Award,</span><br><span style="color:#222;background-color:transparent">3 Bronze Award,</span><br><span style="color:#222;background-color:transparent">1st Place Team Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2021 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Exemplary Certificate,</span><br><span style="color:#222;background-color:transparent">3 Outstanding Certificate,</span><br><span style="color:#222;background-color:transparent">5 Commendable Certificate,</span><br><span style="color:#222;background-color:transparent">4 Honorable Mention</span></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+    <td>Bebras Challenge 2022</td>
+    <td>Sec 1 - 3</td>
+    <td>5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award</td>
+  </tr>		
+	<tr>
+    <td>Microsoft DigiGirlz 2021</td>
+    <td>Sec 1 - 2</td>
+    <td>Tech &amp; Creativity Award</td>
+  </tr>			
+ <tr>
+    <td>Design Thinking and Computational Thinking International Competition 2021 (DrCT)</td>
+    <td>Sec 1 - 4</td>
+    <td>11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention</td>
+  </tr>		
+	 <tr>
+    <td>National Software Competition 2021</td>
+    <td>Sec 1 - 4</td>
+    <td>1 Gold Award,<br> 2 Silver Award,<br>3 Bronze Award,<br>1st Place Team Award</td>
+  </tr>		
+		 <tr>
+    <td>Bebras Challenge 2021 </td>
+    <td>Sec 1 - 3</td>
+    <td>5 Exemplary Certificate,<br> 3 Outstanding Certificate,<br>5 Commendable Certificate,<br>4 Honorable Mention</td>
+  </tr>			</tbody></table>
