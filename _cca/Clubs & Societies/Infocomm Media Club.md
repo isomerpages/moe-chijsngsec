@@ -50,62 +50,49 @@ Opportunities also abound for members to contribute to the school and community 
 #### **Student Executive Committee (2023-2024)**
 ---------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Appointment</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eliana Chng Jia Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chua Yi Xuan Cherise</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
+    <td>Eliana Chng Jia Xuan</td>
+    <td>Sec 3W</td>
+    <td>President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Lee-Ann</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Admin)</span></td>
+    <td>Chua Yi Xuan Cherise</td>
+    <td>Sec 3P</td>
+    <td>Vice-President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Amanda Chen Zhiyun</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (PA)</span></td>
+    <td>Tan Lee-Ann</td>
+    <td>Sec 3L<br></td>
+    <td>Head (Admin)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Qian Ying</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head (Media)</span></td>
+    <td>Amanda Chen Zhiyun</td>
+    <td>Sec 3P</td>
+    <td>Head (PA)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Clarisse Fong Jie Min</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level Coordinator</span></td>
+    <td>Lee Qian Ying</td>
+    <td>Sec 3D</td>
+    <td>Head (Media)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Choy Yumin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level Coordinator</span></td>
+    <td>Clarisse Fong Jie Min</td>
+    <td>Sec 2U</td>
+    <td>Sec 2 Level Coordinator</td>
   </tr>
-</tbody>
-</table>
+		<tr>
+    <td>Choy Yumin</td>
+    <td>Sec 2U</td>
+    <td>Sec 1 Level Coordinator</td>
+  </tr>
+</tbody></table>
+
 
 
 #### **CCA Highlights**
