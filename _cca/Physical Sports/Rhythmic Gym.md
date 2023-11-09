@@ -9,8 +9,7 @@ variant: markdown
 
 #### **Rhythmic Gym**
 
-<img src="/images/01%20CCA%20Photo.jpg" style="width:100%">
-
+<img src="/images/06%20CCA/PS%20RGym/01%20CCA%20Photo.jpg" style="width:100%">
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
@@ -61,21 +60,21 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 <thead>
   <tr>
     <th class="tg-v41i">National Inter-school Competition 2022<br><br><span style="font-weight:normal">FIG gymnast</span></th>
-    <th class="tg-s2rg"><img src="/images/NISC%202022%20FIG%20gymnast.png" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20FIG%20gymnast.png" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 4 group event</td>
-    <td class="tg-vo25"><img src="/images/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 5 gymnasts</td>
-    <td class="tg-vo25"><img src="/images/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Sports Camp 2020</span><br><br>The Rgym girls playing modified volleyball during Sports Camp. </td>
-    <td class="tg-vo25"><img src="/images/Sports%20Camp.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/Sports%20Camp.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
