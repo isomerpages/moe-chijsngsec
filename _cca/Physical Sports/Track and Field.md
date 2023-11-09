@@ -3,12 +3,14 @@ title: Track and Field
 permalink: /co-curricular-activities-ccas/Physical-Sports/Track-and-Field/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Track and Field**
 
-<img src="/images/Track%20and%20Field.jpeg" style="width:75%">
+<img src="/images/06%20CCA/PS%20Track%20and%20Field/Track%20and%20Field.jpeg" style="width:100%">
+
 
 Track and Field is a sport which consists of four main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
 
@@ -71,13 +73,13 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">National School Games</span><br><span style="color:#222;background-color:transparent">Track and Field Championships 2022</span><br></th>
-    <th class="tg-v41i"><img src="/images/NSG1.jpeg" style="width:100%"><br><img src="/images/NSG2.jpeg" style="width:100%"><br><img src="/images/NSG3.jpeg" style="width:100%"></th>
+    <th class="tg-v41i"><img src="/images/06%20CCA/PS%20Track%20and%20Field/NSG1.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/NSG2.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/NSG3.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-v41i">National School Games<br>Cross Country Championships 2022<br></td>
-    <td class="tg-brl1"><img src="/images/NSG4.jpeg" style="width:100%"></td>
+    <td class="tg-brl1"><img src="/images/06%20CCA/PS%20Track%20and%20Field/NSG4.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
