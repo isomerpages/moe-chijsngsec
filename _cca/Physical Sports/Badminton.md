@@ -3,12 +3,13 @@ title: Badminton
 permalink: /co-curricular-activities-ccas/Physical-Sports/Badminton/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Badminton**
 
-<img src="/images/Badminton.jpeg" style="width:75%">
+<img src="/images/Badminton.jpeg" style="width:100%">
 
 Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.&nbsp;&nbsp;
 
