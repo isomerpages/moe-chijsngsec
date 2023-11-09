@@ -9,7 +9,7 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC.jpeg" style="width:75%">
+<img src="/images/06%20CCA/Uniformed%20Groups%20NPCC/NPCC.jpeg" style="width:100%">
 
 Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
