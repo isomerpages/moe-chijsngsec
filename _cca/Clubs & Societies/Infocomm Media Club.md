@@ -17,7 +17,6 @@ SNGS Infocomm Media Club seeks to develop students with skills to be more than j
 Opportunities also abound for members to contribute to the school and community by providing PA, photography and videography support in regular and major school activities. Through experiential learning, the students grasp vital soft skills such as teamwork and communication and core values such as integrity and responsibility.&nbsp;
 
 #### **CCA Information**
----------------
 
 <table style="width:100%">
   <tbody>
@@ -37,7 +36,7 @@ Opportunities also abound for members to contribute to the school and community 
 </table>
 
 #### **Teachers-in-charge**
-------------------
+
 <table style="width:100%">
 <tbody>
 	<tr><td>Mr Andy Lee</td>
@@ -47,7 +46,6 @@ Opportunities also abound for members to contribute to the school and community 
 	</tbody></table>
 
 #### **Student Executive Committee (2023-2024)**
----------------------------------------
 
 <table style="width:100%">
   <tbody><tr>
@@ -93,7 +91,6 @@ Opportunities also abound for members to contribute to the school and community 
 </tbody></table>
 
 #### **CCA Highlights**
---------------
 
 <table style="width:100%">
     <tbody><tr>
@@ -116,7 +113,7 @@ Opportunities also abound for members to contribute to the school and community 
 
 
 #### **CCA Achievement**
----------------
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
