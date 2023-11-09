@@ -16,7 +16,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody><tr>
+  <tbody>
+		<tr>
     <th>Training / Meeting Venue</th>
     <td>Field<br>Basketball court<br>Venues as designated by NPCC HQ</td>
   </tr>
@@ -28,12 +29,14 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
     <th>Instructors</th>
 		<td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody><tr>
+  <tbody>
+		<tr>
     <th style="width:40%">Officer-in-Command</th>
     <td>Mdm Lee Keat Peng</td>
   </tr>
