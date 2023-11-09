@@ -39,30 +39,13 @@ Opportunities also abound for members to contribute to the school and community 
 #### **Teachers-in-charge**
 ------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mr Andy Lee</span></th>
+<br><table style="width:100%">
+
+    <tbody><tr><td>Mr Andy Lee</td>
+    <td>Mr Chua Sau Chuan<br>
+		</td><td>Ms Claire Cher<br></td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Chua Sau Chuan</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Claire Cher</span></td>
-  </tr>
-</tbody>
-</table>
+	</tbody></table>
 
 #### **Student Executive Committee (2023-2024)**
 ---------------------------------------
