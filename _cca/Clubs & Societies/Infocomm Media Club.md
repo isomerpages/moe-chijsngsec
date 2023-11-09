@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Infocomm Media Club**
 
-<img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/1all%20infocomm%202023.jpg" style="width:90%">
+<img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/1all%20infocomm%202023.jpg" style="width:50%">
 
 
 SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
