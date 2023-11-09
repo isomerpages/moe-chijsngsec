@@ -49,8 +49,8 @@ Opportunities also abound for members to contribute to the school and community 
 <table style="width:100%">
   <tbody><tr>
     <th style="width:45%">Name</th>
-    <th style="width:20%">Class</th> 
-    <th style="width:35%">Position</th>
+    <th style="width:10%">Class</th> 
+    <th style="width:45%">Position</th>
   </tr>
   <tr>
     <td>Eliana Chng Jia Xuan</td>
@@ -139,27 +139,17 @@ Opportunities also abound for members to contribute to the school and community 
     <td>Tech &amp; Creativity Award</td>
   </tr>			
  <tr>
-    <td>Design Thinking and Computational Thinking International Competition 2021 (DrCT</td>
+    <td>Design Thinking and Computational Thinking International Competition 2021 (DrCT)</td>
     <td>Sec 1 - 4</td>
     <td>11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention</td>
   </tr>		
-		
-		
-		
-
-    <tr><td class="tg-vl7p"><span style="color:#222;background-color:transparent">Design Thinking and Computational Thinking International Competition 2021 (DrCT)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">11 Gold Award,</span><br><span style="color:#222;background-color:transparent">17 Silver Award,</span><br><span style="color:#222;background-color:transparent">9 Bronze Award,</span><br><span style="color:#222;background-color:transparent">5 Honorable Mention</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">National Software Competition 2021</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 4 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1 Gold Award,</span><br><span style="color:#222;background-color:transparent">2 Silver Award,</span><br><span style="color:#222;background-color:transparent">3 Bronze Award,</span><br><span style="color:#222;background-color:transparent">1st Place Team Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Bebras Challenge 2021 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 - 3 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Exemplary Certificate,</span><br><span style="color:#222;background-color:transparent">3 Outstanding Certificate,</span><br><span style="color:#222;background-color:transparent">5 Commendable Certificate,</span><br><span style="color:#222;background-color:transparent">4 Honorable Mention</span></td>
-  </tr>
-</tbody>
-</table>
+	 <tr>
+    <td>National Software Competition 2021</td>
+    <td>Sec 1 - 4</td>
+    <td>1 Gold Award,<br> 2 Silver Award,<br>3 Bronze Award,<br>1st Place Team Award</td>
+  </tr>		
+		 <tr>
+    <td>Bebras Challenge 2021 </td>
+    <td>Sec 1 - 3</td>
+    <td>5 Exemplary Certificate,<br> 3 Outstanding Certificate,<br>5 Commendable Certificate,<br>4 Honorable Mention</td>
+  </tr>			</tbody></table>
