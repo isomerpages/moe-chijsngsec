@@ -45,25 +45,55 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 </table>
 
 #### **Student Executive Committee (2022 - 2023)**
+<br>
+<table style="width:100%">
+	<caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
+  <tbody><tr>
+    <th>Name</th>
+    <th>Class</th>
+		<th>Appointment</th>
+  </tr>
+  <tr>
+    <td>Lee Wan Ning, Edith</td>
+    <td>Sec 4G</td>
+		<td>Captain</td>
+  </tr>
+  <tr>
+    <td>Alexis Chan</td>
+    <td>Sec 3C</td>
+		<td>Vice-Captain</td>
+  </tr>
+<tr>
+    <td>Hannah Lim Shi En</td>
+    <td>Sec 2W</td>
+		<td>Lower Secondary Coordinator</td>
+  </tr>
+	</tbody></table>
 
-**Artistic Gymnastics Committee**
-
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Lee Wan Ning, Edith     | Sec 4G     | Captain     |
-| Alexis Chan     | Sec 3C     | Vice-Captain     |
-| Hannah Lim Shi En     | Sec 2W     | Lower Secondary Coordinator     |
-
-**Trampoline Committee**
-
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Megan Lee Jing Xuan     | Sec 4C     | Captain     |
-| Ang Ying Le Gwyneth     | Sec 3T     | Vice-Captain     |
-| Ang Ying Qi Vera     | Sec 2U     | Lower Secondary Coordinator     |
-
-
-
+<br>
+<table style="width:100%">
+	<caption><b><u>Trampoline Committee</u></b><br><br></caption>
+  <tbody><tr>
+    <th>Name</th>
+    <th>Class</th>
+		<th>Appointment</th>
+  </tr>
+  <tr>
+    <td>Megan Lee Jing Xuan</td>
+    <td>Sec 4C</td>
+		<td>Captain</td>
+  </tr>
+  <tr>
+    <td>Ang Ying Le Gwyneth</td>
+    <td>Sec 3T</td>
+		<td>Vice-Captain</td>
+  </tr>
+<tr>
+    <td>Ang Ying Qi Vera</td>
+    <td>Sec 2U</td>
+		<td>Lower Secondary Coordinator</td>
+  </tr>
+	</tbody></table>
 
 #### **CCA Highlights**
 --------------
