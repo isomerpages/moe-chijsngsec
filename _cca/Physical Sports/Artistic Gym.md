@@ -17,21 +17,32 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 #### **CCA Information**
 
-
-| Training/Meeting Venue | School Gynasium |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Coaches     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
-
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>School Gynasium</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri)</td>
+  </tr>
+	<tr>
+    <th>Coaches</th>
+		<td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Teachers-in-charge**
 
-| Ms Amy Yee |
-| -------- |
-| Ms Mohana d/o S Sinniah     |
-| Mrs Theresa Chan     |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Amy Yee</b><br>Ms Mohana d/o S Sinniah<br>Mrs Theresa Chan </td>
+  </tr>
+  </tbody>
+</table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
