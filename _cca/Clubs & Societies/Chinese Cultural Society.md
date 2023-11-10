@@ -10,7 +10,7 @@ variant: markdown
 #### **Chinese Cultural Society**
 
 
-<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12.jpg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12.jpg" style="width:100%">
 
 
 华文文化学会以推广校园华文文化为使命，希望该会的创立能让同学们更加热爱华文文化。  
