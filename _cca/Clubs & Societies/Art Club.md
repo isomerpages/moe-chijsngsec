@@ -3,12 +3,13 @@ title: Art Club
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Art-Club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Art Club**
 
-<img src="/images/Art%20Club.jpeg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Art%20Club.jpeg" style="width:75%">
 
 Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.
 
@@ -145,15 +146,15 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <thead>
   <tr>
     <th class="tg-v41i">SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION <br><br><span style="font-weight:normal">Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition.</span><br><br><span style="font-weight:normal">Their artwork was exhibited at the National Gallery Singapore.</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-mezc"><img src="/images/06%20CCA/Clubs%20and%20Societies%20Art%20Club/picture1%20(art%20club).jpg" style="width:100%"><br><img src="/images/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
-    <th class="tg-vo25"><img src="/images/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br><img src="/images/Art5.jpeg" style="width:100%"><img src="/images/Art6.jpeg" style="width:100%"></th>
+    <th class="tg-mezc"><img src="/images/06%20CCA/CS%20Art%20Club/picture1%20(art%20club).jpg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
+    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br><img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Doodle Board</span><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
-    <td class="tg-brl1"><img src="/images/Art7.jpeg" style="width:100%"><br><img src="/images/Art8.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/Art10.jpeg" style="width:100%"></td>
+    <td class="tg-brl1"><img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
