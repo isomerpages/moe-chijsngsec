@@ -3,6 +3,7 @@ title: Chinese Drama Society
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Chinese-Drama-Society/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -13,61 +14,30 @@ third_nav_title: Visual and Performing Arts
 Chinese Drama Society (CDS) is an open and welcoming family. Each and every member is unique with their own skills and talents. Through enjoyable CCA sessions, we are able to bond and learn with others, allowing us to discover the new talents we never knew existed. Moreover, we are able to gain experience in stage make-up, props-making and acting, some skills that are not taught in our daily curriculum.
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">MPR 1, 2, 3 (Wed)</span><br><span style="font-weight:normal">Drama Studio (Fri)</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wed:</span>     <span style="color:#222;background-color:transparent">3.45 pm - 6.30 pm</span><br><span style="color:#222;background-color:transparent">Fri:</span>         <span style="color:#222;background-color:transparent">4.00 pm - 6.30 pm</span></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>MPR 1, 2, 3 (Wed)<br>Drama Studio (Fri)</td>
   </tr>
   <tr>
-    <td class="tg-v41i">Instructors</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Li Jia 李嘉老师</span><br><span style="color:#222;background-color:transparent">Ms Sun Meiling 孙美玲老师</span></td>
+    <th>Training Day / Time</th>
+    <td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>Mr Li Jia 李嘉老师<br>Ms Sun Meiling 孙美玲老师</td>
   </tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Zhao Haiping 赵海萍老师</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Jacqueline Lim Xin Yi 林欣仪老师</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Phang Lee Shia 彭栎霞老师  </span></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Zhao Haiping 赵海萍老师</b><br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br>Ms Phang Lee Shia 彭栎霞老师</td>
   </tr>
 </tbody>
 </table>
