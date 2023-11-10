@@ -3,13 +3,15 @@ title: Chinese Cultural Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Chinese-Cultural-Society/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Chinese Cultural Society**
 
 
-<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12.jpg" style="width:75%">
+
 
 华文文化学会以推广校园华文文化为使命，希望该会的创立能让同学们更加热爱华文文化。  
   
