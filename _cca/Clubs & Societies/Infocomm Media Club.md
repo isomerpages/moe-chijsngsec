@@ -111,44 +111,12 @@ Opportunities also abound for members to contribute to the school and community 
 
 #### **CCA Achievement**
 
- <table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-  <tr>
-    <td>Design Thinking and Computational Thinking International Competition 2023 (DrCT)</td>
-    <td>Sec 1 - 4</td>
-    <td>4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention</td>
-  </tr>
-<tr>
-    <td>Design Thinking and Computational Thinking International Competition 2022 (DrCT)</td>
-    <td>Sec 1 - 4</td>
-    <td>3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention</td>
-  </tr>
-<tr>
-    <td>Bebras Challenge 2022</td>
-    <td>Sec 1 - 3</td>
-    <td>5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award</td>
-  </tr>		
-	<tr>
-    <td>Microsoft DigiGirlz 2021</td>
-    <td>Sec 1 - 2</td>
-    <td>Tech &amp; Creativity Award</td>
-  </tr>			
- <tr>
-    <td>Design Thinking and Computational Thinking International Competition 2021 (DrCT)</td>
-    <td>Sec 1 - 4</td>
-    <td>11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention</td>
-  </tr>		
-	 <tr>
-    <td>National Software Competition 2021</td>
-    <td>Sec 1 - 4</td>
-    <td>1 Gold Award,<br> 2 Silver Award,<br>3 Bronze Award,<br>1st Place Team Award</td>
-  </tr>		
-		 <tr>
-    <td>Bebras Challenge 2021 </td>
-    <td>Sec 1 - 3</td>
-    <td>5 Exemplary Certificate,<br> 3 Outstanding Certificate,<br>5 Commendable Certificate,<br>4 Honorable Mention</td>
-  </tr>			</tbody></table>
+ | Competition | Level | Achievement |
+| -------- | -------- | -------- |
+|Design Thinking and Computational Thinking International Competition 2023 (DrCT)|Sec 1 - 4|4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention|
+|Design Thinking and Computational Thinking International Competition 2022 (DrCT)|Sec 1 - 4|3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention|
+|Bebras Challenge 2022|Sec 1 - 3|5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award|
+|Microsoft DigiGirlz 2021|Sec 1 - 2|Tech &amp; Creativity Award|
+|Design Thinking and Computational Thinking International Competition 2021 (DrCT)|Sec 1 - 4|11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention|
+|National Software Competition 2021|Sec 1 - 4|1 Gold Award,<br> 2 Silver Award,<br>3 Bronze Award,<br>1st Place Team Award|
+|Bebras Challenge 2021|Sec 1 - 3|5 Exemplary Certificate,<br> 3 Outstanding Certificate,<br>5 Commendable Certificate,<br>4 Honorable Mention|
