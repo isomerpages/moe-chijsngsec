@@ -94,7 +94,6 @@ To keep the Guide Law
 
 #### **CCA Highlights**
 --------------
-
 <table style="width:100%">
     <tbody><tr>
 			<td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.
@@ -102,15 +101,32 @@ To keep the Guide Law
 It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.
 
 This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td>
+    <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td>
   </tr>
   <tr>
-			<td style="width:40%"><b>E-CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC2.jpeg"></td>
+			<td style="width:40%"><b>**North Division Day**</b><br><br>The annual North Division Day is a day where all units, both Brownies and GIrl Guides, from the North Division, meet to learn from and share with each other their guiding practices through activities and competitions.</td>
+    <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture18.jpg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td>
+		<td style="width:40%"><b>**5-Point Programme, Proficiency and Interest Badges**</b><br><br>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
+<ul>
+  <li>Personal &amp; Social Development</li>
+  <li>Home</li>
+  <li>Outdoor</li>
+	<li> Community</li>
+	<li> Internationaly</li>
+</ul>  
+On top of that, Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides for example
+<ul>
+  <li>Personal &amp; Social Development</li>
+  <li>Craft badge</li>
+  <li>Entertainer badge</li>
+	<li>Friends to the Visually Impaired badge</li>
+	<li>Gardens by the Bay Ambassador badge</li>
+	<li>Pathfinder badge</li>
+</ul>  
+</td>
+    <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td>
   </tr>
 	<tr>
 		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
