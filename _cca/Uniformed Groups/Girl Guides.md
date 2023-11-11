@@ -50,7 +50,7 @@ To keep the Guide Law
  </tbody>
 </table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -95,38 +95,32 @@ To keep the Guide Law
 #### **CCA Highlights**
 --------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-mezc{color:#F00;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 400px">
-<col style="width: 400px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Annual Girl Guides Camp and Campfire</span><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking and Kim’s games.<br><br><br><br><br><br></th>
-    <th class="tg-vo25"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">World Thinking Day and North Division Day</span><br><br>The annual North Division Day is a day where Brownies and Girl Guides from all units in the North Division meet to learn from and share with each other their guiding practices through activities and competitions. In 2022, it was held virtually.<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG2.jpeg" style="width:100%"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG3.jpeg" style="width:100%"></td>
+<table style="width:100%">
+    <tbody><tr>
+			<td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.
+
+It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.
+
+This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
+    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">5-Point Programme, Proficiency &amp; Interest Badges</span><br><br>The 5-Point Programme provides Girl Guides with opportunities to develop in the following areas:<br><br>• Personal &amp; Social Development<br>• Home<br>• Outdoor<br>• Community<br>• International<br><br>Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides, for example:<br><br>• Craft badge<br>• Entertainer badge<br>• Friends to the Visually Impaired badge<br>• Gardens by the Bay Ambassador badge<br>• Pathfinder badge</td>
-    <td class="tg-mezc"><img src="/images/06%20CCA/UG%20Girl%20Guides/GG4.jpeg" style="width:100%"></td>
+			<td style="width:40%"><b>E-CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
+    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC2.jpeg"></td>
   </tr>
-</tbody>
-</table>
+	<tr>
+		<td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
+    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td>
+  </tr>
+	<tr>
+		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
+    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC4.jpeg"></td>
+  </tr>
+	<tr>
+		<td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
+    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC5.jpeg"></td>
+  </tr>
+</tbody></table>
 
 #### **CCA Achievements**
 
