@@ -139,11 +139,18 @@ variant: markdown
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"></td>
 	  <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td>
 	 </tr>
+
 <tr>
 	<td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。
 
-在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。<br>
-</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td>
+在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
+    <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td>
+	 </tr>		
+<tr>
+	<td style="width:40%"><b>National Chinese Short Film Competition</b><br><br><b>全国中学及初院华语短片制作比赛</b><br><br>今年我们首次参加了“全国中学及初院华语短片制作比赛”。同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届比赛以“觉醒”为主题，包括最佳短片和最受欢迎海报奖。今年的评审是本地导演何书铭、孙立人和关锦森。我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！<br>
+</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg"></td>
+
+
 
 </tr></tbody></table>
 
