@@ -83,45 +83,38 @@ The Art Club will strive to continue to be a place where young artists can grow 
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-mezc{color:#F00;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 813px">
-<colgroup>
-<col style="width: 301px">
-<col style="width: 256px">
-<col style="width: 256px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-v41i">SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION <br><br><span style="font-weight:normal">Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition.</span><br><br><span style="font-weight:normal">Their artwork was exhibited at the National Gallery Singapore.</span><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></th>
-    <th class="tg-mezc"><img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
-    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br><img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Doodle Board</span><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
-    <td class="tg-brl1"><img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<table style="width:100%">
+    <tbody><tr>
+			<td style="width:40%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION</b><br><br>Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. <br><br>Their artwork was exhibited at the National Gallery Singapore.</td>
+   <th class="tg-mezc">
+<img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
+    <th class="tg-vo25">
+<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
+
+</tr></tbody></table><table style="width:100%">
+    <tbody><tr>
+			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
+   <th class="tg-mezc">
+<img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
+    <td class="tg-brl1">
+<img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
+    <td class="tg-vo25">
+<img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
+</tr></tbody></table>
+			
+
 
 
 #### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)<br>Chen Le Anne (3C)<br>Tan Lexuan (3C)<br>Caitlyn Kwong Tschi En (3J)<br>Heng Chloe (3T)<br>Kyra Sim Kaixuan (3H)<br>Wong Chinn Yi (3D)<br>Charlotte Soh (3H)<br>Ang Wan Xin (4G)   |
+| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)<br>Chen Le Anne (3C)<br>Tan Lexuan (3C)<br>Caitlyn Kwong Tschi En (3J)<br>Heng Chloe (3T)<br>Kyra Sim Kaixuan (3H)<br>Wong Chinn Yi (3D)<br>Charlotte Soh (3H)<br>Ang Wan Xin (4G)|
 
