@@ -9,8 +9,7 @@ variant: markdown
 
 #### **Infocomm Media Club**
 
-<img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/1all%20infocomm%202023.jpg" style="width:50%">
-
+<img src="/images/06%20CCA/CS%20Infocomm%20MC/1all%20infocomm%202023.jpg" style="width:100%">
 
 SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
 
@@ -94,19 +93,19 @@ Opportunities also abound for members to contribute to the school and community 
 <table style="width:100%">
     <tbody><tr>
 			<td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
-    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/2pa%20duty.jpg"></td>
+    <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td>
   </tr>
   <tr>
 			<td style="width:50%"><b>Photography and Videography</b><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.</td>
-    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/3photo%20and%20videography.jpg"></td>
+    <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/3photo%20and%20videography.jpg"></td>
   </tr>
 	<tr>
 		<td style="width:50%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
-    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club3.jpeg"></td>
+    <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club3.jpeg"></td>
 		</tr>
 	<tr>
 		<td style="width:50%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
-    <td><img src="/images/06%20CCA/Clubs%20and%20Societies%20InfocommMC/Infocomm%20Media%20Club4.jpeg"></td>
+    <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg"></td>
   </tr>
 </tbody></table>
 
