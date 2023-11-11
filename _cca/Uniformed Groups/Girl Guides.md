@@ -104,11 +104,11 @@ This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
     <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td>
   </tr>
   <tr>
-			<td style="width:40%"><b>**North Division Day**</b><br><br>The annual North Division Day is a day where all units, both Brownies and GIrl Guides, from the North Division, meet to learn from and share with each other their guiding practices through activities and competitions.</td>
+			<td style="width:40%"><b>North Division Day</b><br><br>The annual North Division Day is a day where all units, both Brownies and GIrl Guides, from the North Division, meet to learn from and share with each other their guiding practices through activities and competitions.</td>
     <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture18.jpg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>**5-Point Programme, Proficiency and Interest Badges**</b><br><br>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
+		<td style="width:40%"><b>5-Point Programme, Proficiency and Interest Badges</b><br><br>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
 <ul>
   <li>Personal &amp; Social Development</li>
   <li>Home</li>
@@ -129,7 +129,7 @@ On top of that, Guides are also able to attain different proficiency and interes
     <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>**Competitions and Other HQ Activities**</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning!
+		<td style="width:40%"><b>Competitions and Other HQ Activities</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning!
 
 This year, our Guides who were in the winning team for the North Division Dance Competition were invited to represent Girl Guides Singapore and perform in the GetActive! Heartlands National Day celebrations.
 
