@@ -49,7 +49,7 @@ variant: markdown
 <table style="width:100%">
   <tbody>
 		<tr>
-    <td>Ms Du Jia<br>Ms Mok Kai Jun</td>
+			<td><b>Ms Du Jia</b><br>Ms Mok Kai Jun</td>
   </tr>
    
 </tbody>
