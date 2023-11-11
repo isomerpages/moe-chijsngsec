@@ -119,7 +119,7 @@ variant: markdown
 
 #### **CCA Highlights**
 
-<table style="width:100%">
+<br><table style="width:100%">
     <tbody>
 <tr>
 			<td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
@@ -127,33 +127,16 @@ variant: markdown
  </tr>
 <tr>
 			<td style="width:40%"><b>Chinese Challenge</b><br><br>华文无极限知识竞答比赛<br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。</td>
-  <td></td><th class="tg-s2rg"><span style="font-weight:700;color:#000">Enjoy the show here!</span><br><a href="https://youtu.be/wI7GrU-8zwU"><span style="text-decoration:none;color:#005B9A">https://youtu.be/wI7GrU-8zwU</span></a><br><br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture2.jpg" style="width:100%"><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture3.jpg" style="width:100%"></th>
-	</tr>
-		
+    <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture2.jpg"></td>
+	 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture3.jpg"></td>
+	
+	
+ </tr>
 			
 			
 			
 			
-  <tr>
-		<td style="width:40%">Chinese Challenge<br>华文无极限知识竞答比赛<br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。
-    </td><th class="tg-s2rg"><span style="font-weight:700;color:#000">Enjoy the show here!</span><br><a href="https://youtu.be/wI7GrU-8zwU"><span style="text-decoration:none;color:#005B9A">https://youtu.be/wI7GrU-8zwU</span></a><br><br><img src="/images/CCS1.jpeg" style="width:100%"><img src="/images/CCS2.jpeg" style="width:100%"></th>
-  </tr>
-
-</tbody><tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Learning Journey to China Town</span><br>牛车水学习之旅<br><br>    一年一度的华人新年期间，本会将组织会员们组织前往牛车水，感受那里浓厚的新年气氛。高年级的学长将为学妹们设计新鲜有趣的闯关题目，活动中会员们有机会走上街头与素不相识的路人交流，与售卖传统食品的摊贩互动，当然也少不了品尝美食，以及拍照留影。同时这一天也是学姐们与中一小妹妹们建立友情的良机。<br></td>
-    <td class="tg-vo25"><img src="/images/CCS3.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Cultural Programme</span><br>文化课程<br><br><br><br>    每年的文化课程都有新颖的活动内容。我们曾在课上学习篆刻、剪纸，也曾在课上学习中国画、卷纸等。总之，我们希望能以不同的方式，诠释对华文文化的理解，致力于将其传承下去。<br><br>    为了增加华族节庆气氛，文化学会的成员还精心设计并手绘了漂亮的灯笼，将校园装点一新。<br><br><br><img src="/images/CCS4.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/CCS5.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">校园长卷诉感恩</span><br><br>    为了庆祝新加坡特选学校（SAP school）成立四十周年，我们华文文化学会的学生以圣尼各拉女校的标志性建筑为蓝图，绘制了一幅长卷，献给学校，以画笔书写对母校的感恩之情，希望用一颗颗年轻的心对传统化的精髓加以诠释和传承！<br><br>    2023年将迎来我校建校90周年大庆，会员们正在紧锣密鼓地为母校准备一份表达感恩之情的手工作品。<br></td>
-    <td class="tg-vo25"><img src="/images/CCS6.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 #### **CCA Achievements**
 ----------------
