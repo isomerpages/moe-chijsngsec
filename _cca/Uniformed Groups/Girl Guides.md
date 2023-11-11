@@ -41,33 +41,14 @@ To keep the Guide Law
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cees">Ms Fadhilah Bte R. Harianto<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cees">Ms Tan Ann Nie </td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Fadhilah Bte R. Harianto</b><br>Ms Tan Ann Nie<br>Ms Chen Yiqi<br>Mdm Xie Fuzhen</td>
   </tr>
   <tr>
-    <td class="tg-cees">Ms Chen Yiqi </td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Mdm Xie Fuzhen</td>
-  </tr>
-</tbody>
+ </tr></tbody>
 </table>
 
 #### **Student Executive Committee (2022-2023)**
