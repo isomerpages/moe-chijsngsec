@@ -80,14 +80,44 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>Phoon See-Yi, Clarice</td>
+    <td>Sec 3G</td>
+    <td>Welfare Officer/Communication Officer</td>
   </tr>
 	<tr>
-    <td>Chua Xuan Yang Joelle</td>
+    <td>Chloe Tan Li En</td>
+    <td>Sec 2W</td>
+    <td>Assistant Secretary</td>
+  </tr>
+  <tr>
+    <td>Chia Choy Ann</td>
+    <td>Sec 2W</td>
+    <td>Assistant Welfare Officer</td>
+  </tr>
+  <tr>
+    <td>Isabella Seet Jing Ying</td>
+    <td>Sec 2L</td>
+    <td>Assistant Quater Mistress</td>
+  </tr>
+  <tr>
+    <td>Tan Shi En Grace</td>
+    <td>Sec 2L</td>
+    <td>Assistant Librarian</td>
+  </tr>
+  <tr>
+    <td>Lee Minyu</td>
+    <td>Sec 3W</td>
+    <td>Concert Mistress/Violin 1 Section Leader</td>
+		</tr>
+  <tr>
+    <td>Bethley Choa</td>
+    <td>Sec 3P</td>
+    <td>Student Conductor</td>
+  </tr>
+  <tr>
+    <td>Ong Zi Ting</td>
     <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>Section Leader: Violin 2</td>
   </tr>
   <tr>
     <td>Chua Xuan Yang Joelle</td>
@@ -99,32 +129,32 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
   </tr>
-  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
-  </tr>
-  <tr>
+ <tr>
     <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
 		</tr>
-  <tr>
+ <tr>
     <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
   </tr>
-  <tr>
+ <tr>
     <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
   </tr>
-  <tr>
+ <tr>
     <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
   </tr>
-  <tr>
+ <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+ <tr>
     <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
     <td>Quater Mistress</td>
