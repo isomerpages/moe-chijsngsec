@@ -27,7 +27,7 @@ variant: markdown
 
 #### **CCA Information**
 
-<table style="width:100%">
+<table>
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
