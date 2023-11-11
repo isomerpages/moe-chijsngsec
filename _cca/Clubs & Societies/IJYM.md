@@ -3,14 +3,16 @@ title: IJYM
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/IJYM/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **IJYM**
+
 <img src="/images/IJYM.jpeg" style="width:75%">
 
 IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
-  
+
 #### **CCA Information**
 ------------------
 
