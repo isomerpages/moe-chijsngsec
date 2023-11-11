@@ -3,14 +3,14 @@ title: St John Brigade
 permalink: /co-curricular-activities-ccas/Uniformed-Groups/St-John-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 
 #### **St John Brigade**
 
-<img src="/images/SJB.jpeg" style="width:75%">
-
+<img src="/images/UG%20St%20John/SJB.jpeg" style="width:75%">
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
@@ -30,7 +30,23 @@ To carry out my duties with zeal and efficiency to the best of my ability&nbsp;
 To be courteous and honest in all my words and actions</i>  
 
 #### **CCA Information :**
------------------
+
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>St John Room / Basketball Court / Classrooms</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>Tues &amp; Wed*: 3.30 pm - 6.00 pm<br>* for school team cadets during competition period<br>Fri: 4.00 pm - 6.30 pm<br>Selected Weekends at NHQ</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>Mr Li Jia 李嘉老师<br>Ms Sun Meiling 孙美玲老师</td>
+  </tr>
+</tbody>
+</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
