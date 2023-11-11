@@ -93,10 +93,16 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <table style="width:100%">
     <tbody>
 <tr><td style="width:100%"><b>Orator's Trophy</b><br><br>In 2022, our debaters took part in The Orator’s Trophy, a National Oratorical Competition, organised by ACJC. They did us proud by qualifying to the Semi-Finals in the competition where a member emerged as one of the top 6 semi-finalists in the Senior League.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate1.jpeg"></td>
-</tr>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate1.jpeg"></td></tr>
 
+<tr><td style="width:100%"><b>Youth Debate Open</b><br><br>In 2022, our lower secondary debaters took part in this eye-opening maiden experience that exposed them to the rigours of debating, as they honed their confidence in public speaking.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate2.jpeg"></td></tr>
 
+<tr><td style="width:1000%"><b>Debate Association Debating Championships</b><br><br>In 2021, our debaters took part in the Debate Association Debating Championships competition. They emerged as Semi Finalists and clinched the Overall 11th Best Speaker Award, out of more than one hundred competitors.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate3.jpeg"></td></tr>
+
+<tr><td style="width:1000%"><b>WR-NUS Pre-UADC Debating Championship</b><br><br>In 2020, our Secondary 3 debaters took part in this competition aimed at raising awareness of gender equality. The competition discussed concerns pertaining to women’s issues relating to “Marriage and Family Life”, “Workplace and Employment”, “Violence Against Women”, “Women in Ageing” and “Financial Literacy”.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate4.jpeg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
