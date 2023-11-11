@@ -136,8 +136,9 @@ variant: markdown
 	 </tr>			
 <tr>
 	<td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
-    <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td>
-	 </tr>						
+    <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"></td>
+	  <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td>
+	 </tr>
 </tbody></table>
 
 #### **CCA Achievements**
