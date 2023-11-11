@@ -50,46 +50,32 @@ The Art Club will strive to continue to be a place where young artists can grow 
 </table>
 
 #### **Student Executive Committee (2022 - 2023)**
-----------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Heng Chloe</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kyra Sim Kaixuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
+    <td>Heng Chloe</td>
+    <td>Sec 4T</td>
+    <td>President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ho Qian Hui</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
+    <td>Kyra Sim Kaixuan</td>
+    <td>Sec 4H</td>
+    <td>Vice-President</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wong Chinn Yi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head of Welfare </span></td>
+    <td>Ho Qian Hui</td>
+    <td>Sec 4L</td>
+    <td>Secretary</td>
+  </tr>
+  <tr>
+    <td>Wong Chinn Yi</td>
+    <td>Sec 4D</td>
+    <td>Head of Welfare</td>
   </tr>
 </tbody>
 </table>
