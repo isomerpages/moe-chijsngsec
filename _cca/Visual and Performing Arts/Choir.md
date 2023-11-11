@@ -3,12 +3,13 @@ title: Choir
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Choir**
 
-![Choir 230527](/images/06%20CCA/Visual%20PA%20Choir/choir%20230527.jpeg)
+![Choir 230527](/images/06%20CCA/VPA%20Choir/choir%20230527.jpeg)
 
 CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging from 13 to 16 years old. The choristers take immense pride in representing their school in performances and competitions, singing an extensive choral repertoire ranging from traditional Asian folk songs, English madrigals to Eastern European songs. Our members are motivated and bonded by their passion for music and singing. To share their joy of singing, SN Choir has performed in many concerts, competitions and community events over the years.
 
@@ -194,21 +195,21 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <thead>
   <tr>
     <th class="tg-v41i">Jubilate 2022<br><span style="font-weight:normal">From the initial planning and the numerous sessions of practices, leading to the recording, the girls experienced a new way of performing. All enjoyed and put up an interesting performance with 3 songs weaved into a narration of hope and passion for singing.</span><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%203.jpg" alt="Picture 3.jpg" width="436" height="327"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Choir/picture%203.jpg" alt="Picture 3.jpg" width="436" height="327"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><br><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%206.jpg" alt="Picture 6.jpg" width="435" height="326"><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%206.jpg" alt="Picture 6.jpg" width="435" height="326"><br><br><br><br><br><br><br><br><br><br></td>
   </tr>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Exchange at NYGH</span><br><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br><br><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%209.jpg" alt="Picture 9.jpg" width="412" height="197"><br><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%2011.jpg" alt="Picture 11.jpg" width="436" height="210"><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%208.jpg" alt="Picture 8.jpg" width="458" height="343"><img src="/images/06%20CCA/Visual%20PA%20Choir/picture%2010.jpg" alt="Picture 10.jpg" width="452" height="338"></td>
+    <td class="tg-brl1"><span style="font-weight:bold">Choir Exchange at NYGH</span><br><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%209.jpg" alt="Picture 9.jpg" width="412" height="197"><br><img src="/images/06%20CCA/VPA%20Choir/picture%2011.jpg" alt="Picture 11.jpg" width="436" height="210"><br><br><br></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%208.jpg" alt="Picture 8.jpg" width="458" height="343"><img src="/images/06%20CCA/VPA%20Choir/picture%2010.jpg" alt="Picture 10.jpg" width="452" height="338"></td>
   </tr>
 </tbody>
 </table>
