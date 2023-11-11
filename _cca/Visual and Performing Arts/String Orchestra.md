@@ -119,25 +119,30 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <td>Sec 3D</td>
     <td>Section Leader: Violin 2</td>
   </tr>
-  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+ <tr>
+    <td>Shannen Yeo Chze Xuan</td>
+    <td>Sec 3C</td>
+    <td>Section Leader: Viola</td>
   </tr>
   <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>Bethley Choa</td>
+    <td>Sec 3P</td>
+    <td>Section Leader : Cello</td>
   </tr>
  <tr>
     <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>Sec 3F</td>
+    <td>Section Leader : Double Bass</td>
 		</tr>
  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
+    <td>Woo Xin Hui, Claire/td&gt;
+    </td><td>Sec 3D</td>
     <td>Quater Mistress</td>
+  </tr>
+ <tr>
+    <td>Rachael Ng Sze Han</td>
+    <td>Sec 3L</td>
+    <td>Level Coordinator: Sec 4</td>
   </tr>
  <tr>
     <td>Chua Xuan Yang Joelle</td>
@@ -145,19 +150,14 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <td>Quater Mistress</td>
   </tr>
  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>Shayanne Lee Rui Xuan</td>
+    <td>Sec 2C</td>
+    <td>Level Coordinator: Sec 3</td>
   </tr>
  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
-  </tr>
- <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
+    <td>You Chenqi</td>
+    <td>Sec 1W</td>
+    <td>Level Coordinator: Sec 2</td>
   </tr>
 </tbody></table>
 
