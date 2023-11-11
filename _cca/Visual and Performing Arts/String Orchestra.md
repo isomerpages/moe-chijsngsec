@@ -55,34 +55,79 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Chin Xin Xuan, Gwen</td>
-    <td>Sec 3H</td>
-    <td>Unit Overall-in-charge</td>
+    <td>Woo Xin Hui, Claire</td>
+    <td>Sec 3F</td>
+    <td>President</td>
   </tr>
   <tr>
-    <td>Ng Joo Geng (Huang Yujin)</td>
+    <td>Chua Xin Yi Jaelyn</td>
+    <td>Sec 3P</td>
+    <td>Vice President/Discipline</td>
+  </tr>
+  <tr>
+    <td>Liu Meiyi Rachel</td>
+    <td>Sec 3T</td>
+    <td>Secretary</td>
+  </tr>
+  <tr>
+    <td>Chloe Lee Ke Ying</td>
+    <td>Sec 3C</td>
+    <td>Librarian</td>
+  </tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
     <td>Sec 3D</td>
-    <td>Field Instructress</td>
+    <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Yin Ziling<br>Chua Rui Xin</td>
-    <td>Sec 3C<br>Sec 3H</td>
-    <td>Sec 4 Squad-in-charge</td>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+	<tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Seah Kai En<br>Chung Min Yee, Claire</td>
-    <td>Sec 3T<br>Sec 3U</td>
-    <td>Sec 3 Squad-in-charge</td>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Ng Xin Yi Shernynn (Huang Xinyi)<br>Feng Xinyi<br>Janelle Lim Ru Xuan</td>
-    <td>Sec 3D<br><br>Sec 3T<br>Sec 3W</td>
-    <td>Sec 2 Squad-in-charge</td>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Chor Shu Yee<br>Ada Teo Rui Tian<br>Yu Jingwei Janice</td>
-    <td>Sec 3H<br>Sec 3J<br>Sec 3U</td>
-    <td>Sec 1 Squad-in-charge</td>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+		</tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
+  </tr>
+  <tr>
+    <td>Chua Xuan Yang Joelle</td>
+    <td>Sec 3D</td>
+    <td>Quater Mistress</td>
   </tr>
 </tbody></table>
 
