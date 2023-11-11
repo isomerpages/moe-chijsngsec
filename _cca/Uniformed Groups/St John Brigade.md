@@ -105,8 +105,8 @@ To be courteous and honest in all my words and actions</i>
     <td><img src="/images/06%20CCA/UG%20St%20John/SJB2.jpeg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td>
+		<td style="width:40%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
+    <td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td>
   </tr>
 	<tr>
 		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
@@ -118,10 +118,6 @@ To be courteous and honest in all my words and actions</i>
   </tr>
 </tbody></table>
 
-    <span style="font-weight:bold">Presentation of Colours Award </span><br><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours. 
-    <img src="/images/SJB2.jpeg" style="width:100%">
-  
-  
     <span style="font-weight:bold">District Presentation Ceremony</span><br><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.<br>
     <img src="/images/SJB3.jpeg" style="width:100%">
   
