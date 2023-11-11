@@ -151,6 +151,4 @@ On top of that, two of our Secondary Two Guides, Jamie Tang and Gloria Liew, wer
 | 2023 North Division<br>Telematch     | North Division     | Merit     |
 |2023 North Division Challenge: Innovative Gadget|North Division|2nd| 
 |2023 North Div Outdoor Challenge: Packing a Camping Bag|North Division|Merit| |2023 North Div Outdoor Challenge: Wide Games| North Division|Merit|
-| Baden-Powell Award 2022 | |Zai Min Si Isabelle (Sec 3L)<br>Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
-| Baden-Powell Award 2021     |      | Caroline Yuen Wen Qi (Sec 4P)<br>Chan Ler Ting, Valerie (Sec 4G)<br>Felice Tan Yan Ning (Sec 3L)<br>Gabrielle Faith Wong Hui En (Sec 3L)<br>Koo Keet Wai, Joanna (Sec 3J)<br>Lee Wan Lin (Sec 3D)<br>Lim Jiayi, Anjo (Sec 4D)<br>Rei Ho (Sec 3W)<br>So Shao Qing (Sec 3U)<br>Toh En Qi, Michelle (Sec 4D)<br>Yoo Karis (Sec 3H)     |
-| Puan Noor Aishah Award 2021     | Unit Award     | Bronze     |
+| Baden-Powell Award 2022 |Secondary School |Zai Min Si Isabelle (Sec 3L)<br>Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
