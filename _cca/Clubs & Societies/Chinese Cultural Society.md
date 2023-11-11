@@ -152,57 +152,15 @@ variant: markdown
 </tr></tbody></table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1">The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br>第四届“中华瀚墨情”国际书法比赛</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">The 29th National Youth Exhibition of Chinese Calligraphy<br>第二十九届全国青少年书法展 </td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore </span></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Silver Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 33rd National School Chinese Calligraphy Competition</span><br><span style="color:#222;background-color:transparent">第三十三届全国中学书法比赛 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Third Prize</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Fo Guang Shan National Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">威德智海全国硬笔书法比赛</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Harmony Award</span><br><span style="color:#222;background-color:transparent">Merit Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 5th Sing Chu National Student Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">第五届“星衢墨艺”全国中小学书法比赛</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Achievement Award</span></td>
-  </tr>
-</tbody>
-</table>
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award)|
+|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition
+<br>第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
+|The 30th National Youth Exhibition of Chinese Calligraphy<br>第三十届全国青少年书法展|Secondary|Exhibition in Singapore|
+|2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp; Consolation prize|
+|Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
+|The 33rd National School Chinese Calligraphy Competition<br>第三十三届全国中学书法比赛|Secondary|Third Prize|
+|Fo Guang Shan National Chinese Calligraphy Competition<br>威德智海全国硬笔书法比赛|Secondary|Harmony Award<br>Merit Award|
+|The 5th Sing Chu National Student Chinese Calligraphy Competition<br>第五届“星衢墨艺”全国中小学书法比赛|Secondary|Achievement Award|
