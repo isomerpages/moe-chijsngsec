@@ -3,12 +3,13 @@ title: Mind Games
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Mind-Games/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Mind Games**
 
-<img src="/images/Mind%20Games.jpeg" style="width:75%">
+<img src="/images/Mind%20Games.jpeg" style="width:100%">
 
 Members of MGC develop their critical thinking and strategic skills in playing board games like Scrabble and Wei Qi. Each session is spent not only on play but also on building relationships and forging strong bonds in the club.  
 
