@@ -55,50 +55,25 @@ variant: markdown
 </tbody>
 </table>
 
+#### **Student Executive Committee (2023-2024)**
+---------------------------------------
+
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Choong Yu Yang     | Sec 3U     | President     |
+| Tan Zheng Ning     | Sec 3W    | Vice - President     |
+| Andrea Wong Ying Xuan     | Sec 3P     | Team Leader     |
+| Chi Shing Yee    | Sec 2L     | Team Leader     |
+
 #### **Student Executive Committee (2022-2023)**
 ---------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eyu Kai Xing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Anna Lim Si En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeslyn Lee Jie Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">An Yutong</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-</tbody>
-</table>
+| Name | Class | Appointment |
+| -------- | -------- | -------- |
+| Eyu Kai Xing     | Sec 4L     | President     |
+| Anna Lim Si En     | Sec 4P    | Vice - President     |
+| An Yutong     | Sec 4F     | Team Leader     |
+| Jeslyn Lee Jie Ning    | Sec 4L     | Team Leader     |
 
 
 
