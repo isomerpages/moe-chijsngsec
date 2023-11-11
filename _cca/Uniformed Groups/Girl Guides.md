@@ -50,57 +50,43 @@ To keep the Guide Law
  </tbody>
 </table>
 
-#### **Student Executive Committee (2022-2023)**
----------------------------------------
+#### **Student Executive Committee (2023-2024)**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Engracia See Yun En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:40%">Name</th>
+    <th style="width:20%">Class</th> 
+    <th style="width:40%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jaenelle Lim Jia En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
+    <td>Isabel Ong Rui Xuan</td>
+    <td>Sec 4C</td>
+    <td>Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yvonne Aurelia Wibowo</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Company Leader</span></td>
+    <td>Tricia Teh En Qi</td>
+    <td>Sec 4F</td>
+    <td>Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Megan Sim Yan Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
+    <td>Kaelyn Tay Fang Ting</td>
+    <td>Sec 4H</td>
+    <td>Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jaimie Chan Xin Hui</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
+    <td>Ong Yi Ying</td>
+    <td>Sec 4F</td>
+    <td>Assistant Company Leader</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Zai Min Si Isabelle</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Company Leader</span></td>
+    <td>Janessa Quek Ke Xuan</td>
+    <td>Sec 4J</td>
+    <td>Assistant Company Leader</td>
+  </tr>
+  <tr>
+    <td>Zaylyn Goh</td>
+    <td>Sec 4L</td>
+    <td>Assistant Company Leader</td>
   </tr>
 </tbody>
 </table>
