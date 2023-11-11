@@ -52,7 +52,7 @@ To be courteous and honest in all my words and actions</i>
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mr Lau Yong Gnee<br>Ms Haslinda Bte Safiee</td>
+			<td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Ms Haslinda Bte Safiee</td>
   </tr>
 </tbody>
 </table>
