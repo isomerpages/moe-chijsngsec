@@ -139,7 +139,13 @@ variant: markdown
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"></td>
 	  <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td>
 	 </tr>
-</tbody></table>
+<tr>
+	<td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。
+
+在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。<br>
+</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td>
+
+</tr></tbody></table>
 
 #### **CCA Achievements**
 ----------------
