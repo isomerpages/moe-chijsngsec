@@ -3,13 +3,14 @@ title: Debate Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Debate-Society/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 
 #### **Debate Society**
 
-<img src="/images/Debate%20Society.jpeg" style="width:75%">
+<img src="/images/Debate%20Society.jpeg" style="width:100%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
@@ -64,7 +65,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-cees">Mrs Chong Mei Ling (TIC)<br></th>
+		<th class="tg-cees"><b>Mrs Chong Mei Ling</b><br></th>
   </tr>
 </thead>
 <tbody>
@@ -76,9 +77,6 @@ Whether as an abstract construct or as the constructed exercise with strict rule
   </tr>
   <tr>
     <td class="tg-cees">Mr Mohammed Khalid Kudabar </td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Mr Chan Kin Chuah</td>
   </tr>
 </tbody>
 </table>
