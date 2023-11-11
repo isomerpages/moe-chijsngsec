@@ -49,38 +49,16 @@ To be courteous and honest in all my words and actions</i>
 </table>
 
 #### **Teachers-in-Charge :**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cees">Ms Fatmah Talib</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cees">Ms Melanie Chee</td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Mr Lau Yong Gnee</td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Ms Haslinda Bte Safiee</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mr Lau Yong Gnee<br>Ms Haslinda Bte Safiee</td>
   </tr>
 </tbody>
 </table>
 
-
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
