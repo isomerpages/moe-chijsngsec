@@ -10,7 +10,7 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/UG%20St%20John/stjohn.jpeg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/SJB.jpeg" style="width:75%">
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
