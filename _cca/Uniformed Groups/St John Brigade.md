@@ -59,53 +59,38 @@ To be courteous and honest in all my words and actions</i>
 
 #### **Student Executive Committee (2022-2023)**
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> Ng Yu Le</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Sec 4W</span></td>
-    <td class="tg-vo25">Overall-in-charge<span style="color:#222;background-color:transparent"> </span></td>
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Oh Jing Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant-in-charge</span></td>
+    <td>Ng Yu Le</td>
+    <td>Sec 4W</td>
+    <td>Overall-in-charge</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">He Le</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
+    <td>Oh Jing Xin</td>
+    <td>Sec 4U</td>
+    <td>Assistant-in-charge</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Sin Kaye</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Discipline Mistress </span></td>
+    <td>He Le</td>
+    <td>Sec 4P</td>
+    <td>Secretary</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Natalie Lim Rui Si</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress </span></td>
+    <td>Chloe Sin Kaye</td>
+    <td>Sec 4P</td>
+    <td>Discipline Mistress</td>
   </tr>
-</tbody>
+<tr>
+    <td>Natalie Lim Rui Si</td>
+    <td>Sec 4D</td>
+    <td>Quarter Mistress</td>
+  </tr>
+	</tbody>
 </table>
 
 #### **CCA Highlights**
