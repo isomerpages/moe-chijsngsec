@@ -121,18 +121,22 @@ variant: markdown
 
 <table style="width:100%">
     <tbody>
+
 <tr>
 			<td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture1.jpg"></td>
  </tr>
+
 <tr>
 	<td style="width:40%"><b>Chinese Challenge</b><br><br><b>华文无极限知识竞答比赛</b><br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture2.jpg"><br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture3.jpg"></td>
 	 </tr>
+
 <tr>
 	<td style="width:40%"><b>Learning Journey to Peranakan Museum</b><br><br><b>土生文化馆学习之旅</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td>
 	 </tr>			
+
 <tr>
 	<td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
@@ -145,19 +149,21 @@ variant: markdown
 在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td>
 	 </tr>		
+
 <tr>
 	<td style="width:40%"><b>National Chinese Short Film Competition</b><br><br><b>全国中学及初院华语短片制作比赛</b><br><br>今年我们首次参加了“全国中学及初院华语短片制作比赛”。同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届比赛以“觉醒”为主题，包括最佳短片和最受欢迎海报奖。今年的评审是本地导演何书铭、孙立人和关锦森。我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！<br>
 <img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg">
 </td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"></td>
+
 </tr></tbody></table>
 
 #### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award)|
-|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition
-<br>第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
+|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award|
+
+|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award|
 |The 30th National Youth Exhibition of Chinese Calligraphy<br>第三十届全国青少年书法展|Secondary|Exhibition in Singapore|
 |2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp; Consolation prize|
 |Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
