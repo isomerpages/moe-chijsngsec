@@ -121,7 +121,6 @@ variant: markdown
 
 <table style="width:100%">
     <tbody>
-
 <tr>
 			<td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture1.jpg"></td>
