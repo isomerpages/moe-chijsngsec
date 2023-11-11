@@ -94,9 +94,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
     <th class="tg-vo25">
 <img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
-
-</tr></tbody></table><table style="width:100%">
-    <tbody><tr>
+</tr><tr>
 			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
    <th class="tg-mezc">
 <img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
