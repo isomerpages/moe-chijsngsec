@@ -129,14 +129,14 @@ On top of that, Guides are also able to attain different proficiency and interes
     <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC4.jpeg"></td>
+		<td style="width:40%"><b>**Competitions and Other HQ Activities**</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning!
+
+This year, our Guides who were in the winning team for the North Division Dance Competition were invited to represent Girl Guides Singapore and perform in the GetActive! Heartlands National Day celebrations.
+
+On top of that, two of our Secondary Two Guides, Jamie Tang and Gloria Liew, were selected to participate in the annual Girl Guides Singapore Gala Dinner musical performance.</td>
+    <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture20.jpg"><br><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture21.jpg"></td>
   </tr>
-	<tr>
-		<td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC5.jpeg"></td>
-  </tr>
-</tbody></table>
+  </tbody></table>
 
 #### **CCA Achievements**
 
