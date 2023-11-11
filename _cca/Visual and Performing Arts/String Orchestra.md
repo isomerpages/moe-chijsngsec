@@ -130,24 +130,14 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <td>Section Leader : Cello</td>
   </tr>
  <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3F</td>
+    <td>Woo Xin Hui, Claire</td>
+    <td>Sec 3D</td>
     <td>Section Leader : Double Bass</td>
-		</tr>
- <tr>
-    <td>Woo Xin Hui, Claire/td&gt;
-    </td><td>Sec 3D</td>
-    <td>Quater Mistress</td>
   </tr>
  <tr>
     <td>Rachael Ng Sze Han</td>
     <td>Sec 3L</td>
     <td>Level Coordinator: Sec 4</td>
-  </tr>
- <tr>
-    <td>Chua Xuan Yang Joelle</td>
-    <td>Sec 3D</td>
-    <td>Quater Mistress</td>
   </tr>
  <tr>
     <td>Shayanne Lee Rui Xuan</td>
