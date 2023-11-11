@@ -121,11 +121,19 @@ variant: markdown
 
 <table style="width:100%">
     <tbody>
-		<tr>
-			<td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——**逢此九十华诞 绣姐妹同心桥**</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
+<tr>
+			<td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
     <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture1.jpg"></td>
-  </tr>
-
+ </tr>
+<tr>
+			<td style="width:40%"><b>Chinese Challenge</b><br><br>华文无极限知识竞答比赛<br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。</td>
+  <td></td><th class="tg-s2rg"><span style="font-weight:700;color:#000">Enjoy the show here!</span><br><a href="https://youtu.be/wI7GrU-8zwU"><span style="text-decoration:none;color:#005B9A">https://youtu.be/wI7GrU-8zwU</span></a><br><br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture2.jpg" style="width:100%"><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture3.jpg" style="width:100%"></th>
+	</tr>
+		
+			
+			
+			
+			
   <tr>
 		<td style="width:40%">Chinese Challenge<br>华文无极限知识竞答比赛<br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。
     </td><th class="tg-s2rg"><span style="font-weight:700;color:#000">Enjoy the show here!</span><br><a href="https://youtu.be/wI7GrU-8zwU"><span style="text-decoration:none;color:#005B9A">https://youtu.be/wI7GrU-8zwU</span></a><br><br><img src="/images/CCS1.jpeg" style="width:100%"><img src="/images/CCS2.jpeg" style="width:100%"></th>
