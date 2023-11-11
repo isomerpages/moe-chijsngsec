@@ -109,33 +109,19 @@ To be courteous and honest in all my words and actions</i>
     <td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC4.jpeg"></td>
+		<td style="width:40%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.</td>
+    <td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td>
   </tr>
 	<tr>
-		<td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC5.jpeg"></td>
+		<td style="width:40%"><b>National Day Celebrations @ SNGS</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
+    <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td>
   </tr>
-</tbody></table>
-
-    <span style="font-weight:bold">District Presentation Ceremony</span><br><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.<br>
-    <img src="/images/SJB3.jpeg" style="width:100%">
-  
-  
-    <span style="font-weight:bold">First Aid and Home Nursing Competitions</span><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.<br>
-    <img src="/images/SJB4.jpeg" style="width:100%">
-  
-  
-    <span style="font-weight:bold">National Day Celebrations @ SNGS</span><br><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.
-    <img src="/images/SJB5.jpeg" style="width:100%">
-  
-  
-    <span style="font-weight:bold">Public Duty</span><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.
-    <img src="/images/SJB6.jpeg" style="width:100%">
-  
-
-
-
+<tr>
+		<td style="width:40%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
+    <td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td>
+  </tr>
+</tbody>
+</table>
 
 #### **CCA Achievements**
 
