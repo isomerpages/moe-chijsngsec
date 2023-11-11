@@ -37,9 +37,7 @@ Opportunities also abound for members to contribute to the school and community 
 
 <table style="width:100%">
 <tbody>
-	<tr><td>Mr Andy Lee</td>
-    <td>Mr Chua Sau Chuan<br>
-		</td><td>Ms Claire Cher<br></td>
+	<tr><td>Mr Andy Lee<br>Mr Chua Sau Chuan<br>Ms Claire Cher</td>
   </tr>
 	</tbody></table>
 
