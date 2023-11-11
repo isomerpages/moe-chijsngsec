@@ -3,12 +3,13 @@ title: String Orchestra
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/String-Orchestra/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **String Orchestra**
 
-<img src="/images/06%20CCA/Visual%20PA%20String%20Orchestra/01%20group%20photo.jpg" style="width:75%">
+<img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture13.jpg" style="width:100%">
 
 Starting out as a chamber with fewer than 10 members who had no prior experience in their instruments, SNSO currently has more than 60 members, consisting mainly of experienced instrumentalists. We stage many performances throughout the academic year both in and out of school.
 
@@ -16,31 +17,19 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 
 #### **CCA Information**
 ---------------
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue</th>
-    <th class="tg-cees">MEP Room 1, MEP Practice Room<br>Selected Classrooms</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time</td>
-    <td class="tg-cees">Wed:     3:45 pm - 6:30 pm <br>Fri:         4:00 pm - 6:30 pm</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>MEP Room 1/MEP Practice Room<br>Selected Classrooms</td>
   </tr>
   <tr>
-    <td class="tg-r52z">Instructors</td>
-    <td class="tg-cees">Mr Edward Tan<br>Mr Koh Kai Jie <br>Dr Yeo Jan Wea <br>Ms Ophelia Toh<br>Dr Wang Xu</td>
+    <th>Training Day / Time</th>
+    <td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>Conductors: <br>Mr Edward Tan <br>Mr Koh Kai Jie<br>Viola: Dr Yeo Jan Wea<br>Cello: Ms Ophelia Toh<br>Double Bass: Ms Tan Si Pei</td>
   </tr>
 </tbody>
 </table>
