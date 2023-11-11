@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Green Club**
 
-<img src="/images/GreenCLub.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Green%20Club/GreenCLub.jpeg" style="width:100%">
 
 “I stand for what I stand on” is Green Club’s mission, striving to guide our members in becoming environmental advocates and change-makers in our society. Green Club is a safe space for like-minded individuals who are passionate about the environment to work together towards the common goal of promoting environmental awareness within and beyond the school community.&nbsp;
 
@@ -143,14 +143,14 @@ Through organising and carrying out school-wide activities and taking part in mu
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</span><br><br><span style="color:#494949">We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.</span><br><br><span style="color:#494949">This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.</span><br><br><span style="color:#494949">During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.</span><br><br><span style="color:#494949">In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.</span><br><br><img src="/images/GreenClub1.jpeg" style="width:100%"></th>
-    <th class="tg-vo25"><img src="/images/GreenClub2.jpeg" style="width:100%"><img src="/images/GreenClub3.jpeg" style="width:100%"></th>
+    <th class="tg-brl1"><span style="font-weight:bold">Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</span><br><br><span style="color:#494949">We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.</span><br><br><span style="color:#494949">This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.</span><br><br><span style="color:#494949">During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.</span><br><br><span style="color:#494949">In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.</span><br><br><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub1.jpeg" style="width:100%"></th>
+    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub2.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub3.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Learning Journey with Insectta</span><br><br>Students had a learning journey with Insectta to learn more about food waste in Singapore and how they use the black soldiers fly to reduce the food waste generated. <br><br></td>
-    <td class="tg-s2rg"><img src="/images/GreenClub4.jpeg" style="width:100%"><img src="/images/GreenClub5.jpeg" style="width:100%"><img src="/images/GreenClub6.jpeg" style="width:100%"></td>
+    <td class="tg-s2rg"><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub4.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub6.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
