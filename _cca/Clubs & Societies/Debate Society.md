@@ -66,24 +66,24 @@ Whether as an abstract construct or as the constructed exercise with strict rule
     <td>Vice-President (Debate Vice-Chairperson)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Adeline Yap</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary (Upper Sec Debate EXCO)</span><br></td>
+    <td>Adeline Yap</td>
+    <td>Sec 4P</td>
+    <td>Secretary (Upper Sec Debate EXCO)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Arielle Ho Ming Xuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Head (Upper Sec Debate EXCO)</span><br></td>
+    <td>Arielle Ho Ming Xuan</td>
+    <td>Sec 4G</td>
+    <td>Welfare Head (Upper Sec Debate EXCO)</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Teng Ee</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Upper Sec Debate Comm Member</span><br></td>
+    <td>Ng Teng Ee</td>
+    <td>Sec 3W</td>
+    <td>Upper Sec Debate Comm Member</td>
   </tr>
   <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Kiat Kee Rachel</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2J</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Lower Sec Debate Comm Member</span></td>
+    <td>Ng Kiat Kee Rachel<br></td>
+    <td>Sec 2J</td>
+    <td>Lower Sec Debate Comm Member</td>
   </tr>
 </tbody>
 </table>
