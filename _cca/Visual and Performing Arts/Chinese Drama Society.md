@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Chinese Drama Society**
 
-<img src="/images/Chinese%20Drama%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Chinese%20Drama%20Society.jpeg" style="width:100%">
 
 Chinese Drama Society (CDS) is an open and welcoming family. Each and every member is unique with their own skills and talents. Through enjoyable CCA sessions, we are able to bond and learn with others, allowing us to discover the new talents we never knew existed. Moreover, we are able to gain experience in stage make-up, props-making and acting, some skills that are not taught in our daily curriculum.
 
@@ -116,17 +116,17 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <thead>
   <tr>
     <th class="tg-v41i">2022 流金溢彩表演<br>2022 Jubilate<br><br><span style="font-weight:400">Performance Titles:</span>    <span style="font-weight:400">彩</span><br></th>
-    <th class="tg-s2rg"><img src="/images/Jubilate2.jpeg" style="width:100%"></th>
-  </tr>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Jubilate2.jpeg" style="width:100%">
+  </th></tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span style="color:#222;background-color:transparent">这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
-    <td class="tg-vo25"><img src="/images/Qihang.jpeg" style="width:100%"></td>
+    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span> style="color:#222;background-color:transparent"&gt;这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2021 青年节戏剧艺术汇演</span><br><span style="font-weight:bold">2021 SYF Drama Arts Presentation</span><br>Performance Title:<br>带我到巅峰 / Take Me to the Top<br><br><br>荣获特优奖 (Certificate of Distinction)<br></td>
-    <td class="tg-vo25"><img src="/images/04%20SYF%20Drama%20Arts%20Presentation.jpg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/04%20SYF%20Drama%20Arts%20Presentation.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
