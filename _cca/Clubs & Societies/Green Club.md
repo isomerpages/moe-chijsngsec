@@ -18,19 +18,14 @@ Through organising and carrying out school-wide activities and taking part in mu
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Science Lab G</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed:    3.45 pm - 6.00 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
+<tbody>
+<tr>
+<th>Training / Meeting Venue</th><td>Science Lab G</td>
+</tr>
+<tr><th>Training Day / Time</th><td>Wed:    3.45 pm - 6.00 pm</td>
+</tr>
+<tr><th>Instructors</th><td>-</td>
+</tr>
 </tbody>
 </table>
 
