@@ -88,11 +88,11 @@ The Art Club will strive to continue to be a place where young artists can grow 
     <tbody><tr>
 			<td style="width:40%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION</b><br><br>Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. <br><br>Their artwork was exhibited at the National Gallery Singapore.</td>
    <th class="tg-mezc">
-<img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%">
 <img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
     <th class="tg-vo25">
-<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
 </tr><tr>
 			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
