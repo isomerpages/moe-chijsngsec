@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Mind Games**
 
-<img src="/images/Mind%20Games.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games.jpeg" style="width:100%">
 
 Members of MGC develop their critical thinking and strategic skills in playing board games like Scrabble and Wei Qi. Each session is spent not only on play but also on building relationships and forging strong bonds in the club.  
 
@@ -129,25 +129,25 @@ Members of MGC develop their critical thinking and strategic skills in playing b
 <thead>
   <tr>
     <th class="tg-brl1"><br><br><br><span style="font-weight:normal">Playing Board games like Scrabble, Monopoly and card games</span><br><br></th>
-    <th class="tg-s2rg"><img src="/images/Mind%20Games1.jpeg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Collaboration with Green Club:</span><br><br><span style="color:#222;background-color:transparent">A workshop conducted by an environmental group called Untamed who introduced the card game they created to raise awareness of saving the environment.  </span><br></td>
-    <td class="tg-vo25"><img src="/images/Mind%20Games2.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Training:</span><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
-    <td class="tg-vo25"><img src="/images/Mind%20Games3.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games3.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Jurong Green CC Scrabble Competition:</span><br><br><span style="color:#222;background-color:transparent">This is one of our core game competitions.</span><br><br></td>
-    <td class="tg-vo25"><img src="/images/Mind%20Games4.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games4.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Competition 2022:</span><br><br><span style="color:#222;background-color:transparent">Our very first group competitors for Wei Qi. </span></td>
-    <td class="tg-vo25"><img src="/images/Mind%20Games5.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games5.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
