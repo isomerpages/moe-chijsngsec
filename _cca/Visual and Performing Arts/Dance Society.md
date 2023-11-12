@@ -3,6 +3,7 @@ title: Dance Society
 permalink: /co-curricular-activities-ccas/Visual-and-Performing-Arts/Dance-Society/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
@@ -158,25 +159,26 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate XIII (Chinese Dance)</span></th>
-    <th class="tg-s2rg"><img src="/images/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:100%">
+</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-v41i"><span style="font-weight:700">2022 Jubilate XIII (International Dance)</span><br></td>
-    <td class="tg-vo25"><img src="/images/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (Chinese Dance) <br></td>
-    <td class="tg-vo25"><img src="/images/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (International Dance)<br></td>
-    <td class="tg-vo25"><img src="/images/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">Chinese Dance Performance at Huayi Festival 2020<br></td>
-    <td class="tg-vo25"><img src="/images/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
