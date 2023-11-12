@@ -33,11 +33,11 @@ Through organising and carrying out school-wide activities and taking part in mu
 #### **Teachers-in-Charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mr Kuah Ee Qiang</b><br>Ms Cheryl Cheong Yunling</td>
-  </tr>
-  </tbody>
+<tbody>
+<tr>
+<td><b>Mr Kuah Ee Qiang</b><br>Ms Cheryl Cheong Yunling</td>
+</tr>
+</tbody>
 </table>
 
 
