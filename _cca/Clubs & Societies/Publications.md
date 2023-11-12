@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/Publications.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Publications/Publications.jpeg" style="width:100%">
 
 SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
   
@@ -127,17 +127,17 @@ Our writers are also involved in journalism by gathering stories through intervi
 <thead>
   <tr>
     <th class="tg-brl1"><span style="font-weight:bold">Workshop</span><br><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.   <br></th>
-    <th class="tg-vo25"><img src="/images/Publications1.jpeg" style="width:100%"></th>
+    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Photo Essay</span><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.  </td>
-    <td class="tg-vo25"><img src="/images/Publications2.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">Journalistic Writing:</span><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.<br></td>
-    <td class="tg-vo25"><img src="/images/Publications3.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
