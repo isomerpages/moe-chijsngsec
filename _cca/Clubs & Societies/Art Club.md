@@ -96,15 +96,12 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
 </tr><tr>
 			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
-   <th class="tg-mezc">
-<img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
-    <td class="tg-brl1">
-<img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br>
+<td>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%">
 <img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
-    <td class="tg-vo25">
-<img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
+ <td>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
 </tr></tbody></table>
 			
 
