@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Literary Drama Society**
 
-<img src="/images/Literary%20Drama%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Literary%20Drama%20Society.jpeg" style="width:100%">
 
 The Literary Drama Society (LDS) provides a platform for our members to convey their thoughts and ideas through the theatrical arts, writing and performing our very own pieces of plays and poetry.  
   
@@ -148,17 +148,17 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama 2021</span><br></th>
-    <th class="tg-s2rg"><img src="/images/Arts%20Presentation%202.jpeg" style="width:80%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Arts%20Presentation%202.jpeg" style="width:80%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-v41i">SYF Showcase Performance</td>
-    <td class="tg-vo25"><img src="/images/SYF%20Showcase%20Performance.jpeg" style="width:80%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/SYF%20Showcase%20Performance.jpeg" style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-v41i">LD Showcase Performance</td>
-    <td class="tg-vo25"><img src="/images/LD%20Showcase%20Performance.jpeg" style="width:80%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/LD%20Showcase%20Performance.jpeg" style="width:80%"></td>
   </tr>
 </tbody>
 </table>
