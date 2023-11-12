@@ -121,7 +121,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span> style="color:#222;background-color:transparent"&gt;这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
+    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span style="color:#222;background-color:transparent">这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg" style="width:100%"></td>
   </tr>
   <tr>
