@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Chinese Orchestra**
 
-<img src="/images/01%20Group%20Photo.jpg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/01%20Group%20Photo.jpg" style="width:100%">
 
 Inaugurated in 1992, St. Nicholas Chinese Orchestra (SNCO) started off with a few individuals interested in certain instruments. Initially, there were only dizi and pipa classes.
 
@@ -210,17 +210,17 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 <thead>
   <tr>
     <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate Online Concert</span></th>
-    <th class="tg-s2rg"><img src="/images/Jubilate.jpeg" style="width:100%"></th>
+    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Jubilate.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2021 Singapore Youth Festival Arts Presentation</span><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br></td>
-    <td class="tg-vo25"><img src="/images/2021%20SYF%20Arts%20Presentation%20Mixed.png" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2021%20SYF%20Arts%20Presentation%20Mixed.png" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
-    <td class="tg-vo25"><img src="/images/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%"></td>
+    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%"></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
