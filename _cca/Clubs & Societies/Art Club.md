@@ -30,7 +30,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
   </tr>
   <tr>
     <th>Training Day / Time</th>
-    <td>Wed:    3.45 pm - 5.45 pm</td>
+    <td>Wed<br>3.45 pm - 5.45 pm</td>
   </tr>
 	<tr>
     <th>Instructors</th>
