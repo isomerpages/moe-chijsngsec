@@ -42,7 +42,6 @@ Through organising and carrying out school-wide activities and taking part in mu
 
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
