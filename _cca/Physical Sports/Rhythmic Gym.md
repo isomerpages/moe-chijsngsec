@@ -17,20 +17,32 @@ The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has vari
 
 #### **CCA Information**
 
-| Training/Meeting Venue | School Gynasium |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri)<br>11.00 am - 1.30 pm (Sat)^<br>^competition season |
-| Coaches     | Ms Cherrie Kwek<br>刘老师     |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>School Gymnasium</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>3.45 - 6.30 pm (Mon &amp; Wed)<br>4.00 - 6.30 pm (Fri)<br>11.00 am - 1.30 pm (Sat)^<br>^competition season</td>
+  </tr>
+	<tr>
+    <th>Coaches</th>
+		<td>Ms Cherrie Kwek<br>刘老师</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Teachers-in-charge**
 
-| Ms Catherine Sim |
-| -------- |
-| Mrs Tan Siew Kim     |
-| Mrs Josephine Sherwood     |
-| Ms Jennifer Lim     |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
