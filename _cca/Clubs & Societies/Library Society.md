@@ -24,62 +24,30 @@ As librarians, we strive to continuously improve the image of the library and en
 To conclude, a quote by Marcus Tullius Cicero: “A room without books is like a body without a soul.” Time spent in the Library Society is truly time that is cherished by all our members.
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">Library</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day / Time</td>
-    <td class="tg-brl1">Wed:    3:45 pm - 5:45 pm<br>Fri:        3:45 pm - 5.45 pm</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Library</td>
   </tr>
   <tr>
-    <td class="tg-v41i">Instructors</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">-</span></td>
+    <th>Training Day / Time</th>
+    <td>Wed &amp; Fri<br>3.45 pm - 5.45 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>-</td>
   </tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mdm Niu Sheng Kai</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mrs Annie Panthradil</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Miss Choo Teck Chan </span></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Mdm Niu Sheng Kai</b><br>Mrs Annie Panthradil<br>Miss Choo Teck Chan</td>
   </tr>
 </tbody>
 </table>
