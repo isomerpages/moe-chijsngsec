@@ -16,57 +16,30 @@ SN Publications is where our love for writing seeks to meet readers’ senses. T
 Our writers are also involved in journalism by gathering stories through interviews and producing news videos. As a team of dedicated writers, Publications will continue to write to touch the hearts of our readers.  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue  </th>
-    <th class="tg-cees">Computer Lab 1<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time<br></td>
-    <td class="tg-cees">Wednesday:    3.45 pm - 5.45 pm<br></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Computer Lab 1</td>
   </tr>
   <tr>
-    <td class="tg-r52z">Instructors / Coach<br></td>
-    <td class="tg-cees">-</td>
+    <th>Training Day / Time</th>
+    <td>Wed<br>3.45 pm - 5.45 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>-</td>
   </tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mr Victor Francis</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Phua Meow Noi</span></td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td>
   </tr>
 </tbody>
 </table>
