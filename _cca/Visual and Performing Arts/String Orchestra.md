@@ -21,7 +21,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>MEP Room 1/MEP Practice Room<br>Selected Classrooms</td>
+    <td>MEP Room 1<br>MEP Practice Room<br>Selected Classrooms</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
@@ -29,7 +29,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   </tr>
 	<tr>
     <th>Instructors</th>
-		<td>Conductors: <br>Mr Edward Tan <br>Mr Koh Kai Jie<br>Viola: Dr Yeo Jan Wea<br>Cello: Ms Ophelia Toh<br>Double Bass: Ms Tan Si Pei</td>
+		<td><b>Conductors</b><br>Mr Edward Tan<br>Mr Koh Kai Jie<br><br><b>Viola</b><br>Dr Yeo Jan Wea<br><br><b>Cello</b><br>Ms Ophelia Toh<br><br><b>Double Bass</b><br>Ms Tan Si Pei</td>
   </tr>
 </tbody>
 </table>
