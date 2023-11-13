@@ -35,11 +35,11 @@ To be courteous and honest in all my words and actions</i>
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>St John Room / Basketball Court / Classrooms</td>
+    <td>St John Room<br>Basketball Court<br>Classrooms</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
-    <td>Tues &amp; Wed*: 3.30 pm - 6.00 pm<br>* for school team cadets during competition period<br>Fri: 4.00 pm - 6.30 pm<br>Selected Weekends at NHQ</td>
+    <td>3.30 pm - 6.00 pm (Tues &amp; Wed*)<br>4.00 pm - 6.30 pm (Fri)<br>Selected weekends at NHQ<br><br>* for school team cadets during competition period</td>
   </tr>
 	<tr>
     <th>Instructors</th>
