@@ -37,7 +37,8 @@ Opportunities also abound for members to contribute to the school and community 
 
 <table style="width:100%">
 <tbody>
-	<tr><td>Mr Andy Lee<br>Mr Chua Sau Chuan<br>Ms Claire Cher</td>
+	<tr>
+		<td><b>Mr Andy Lee</b><br>Mr Chua Sau Chuan<br>Ms Claire Cher</td>
   </tr>
 	</tbody></table>
 
@@ -45,9 +46,9 @@ Opportunities also abound for members to contribute to the school and community 
 
 <table style="width:100%">
   <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:10%">Class</th> 
-    <th style="width:45%">Position</th>
+    <th style="width:40%">Name</th>
+    <th style="width:20%">Class</th> 
+    <th style="width:40%">Position</th>
   </tr>
   <tr>
     <td>Eliana Chng Jia Xuan</td>
