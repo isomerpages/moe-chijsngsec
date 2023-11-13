@@ -17,66 +17,34 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 
   
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Training / Meeting Venue</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">Drama Studio</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">Training Day/ Time</td>
-    <td class="tg-brl1">Wed &amp; Fri:    3:45 pm - 6.30 pm</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Drama Studio</td>
   </tr>
   <tr>
-    <td class="tg-v41i">Instructors</td>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Ken Mizusawa</span></td>
+    <th>Training Day / Time</th>
+    <td>Wed &amp; Fri<br>3:45 pm - 6.30 pm</td>
+  </tr>
+	<tr>
+    <th>Instructor</th>
+		<td>Mr Ken Mizusawa</td>
   </tr>
 </tbody>
 </table>
 
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Koh Zhi-Ti Jason</span></th>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Mr Koh Zhi-Ti Jason</b><br>Ms Sharon Law<br>Ms Kok Choy Yoke</td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Naseem Fathima</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Sharon Law</span></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
-
 
 #### **Student Executive Committee (2022 - 2023)**
 -----------------------------------------
