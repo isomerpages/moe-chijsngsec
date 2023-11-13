@@ -14,64 +14,35 @@ variant: markdown
 Members of MGC develop their critical thinking and strategic skills in playing board games like Scrabble and Wei Qi. Each session is spent not only on play but also on building relationships and forging strong bonds in the club.  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue</th>
-    <th class="tg-cees">ITR 1&amp;2</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z"> Training Day / Time</td>
-    <td class="tg-cees">Wed:    3:45 pm to 5:45 pm</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>ITR 1&amp;2</td>
   </tr>
   <tr>
-    <td class="tg-r52z"> Instructors / Coach</td>
-    <td class="tg-frbo"> -</td>
+    <th>Training Day / Time</th>
+    <td>Wed<br>3.45 pm - 5.45 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>-</td>
   </tr>
 </tbody>
 </table>
-
 
 #### **Teacher-in-Charge**
------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mrs Maria Sng</span></th>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Mrs Maria Sng</b><br>Mr Jowie Tung</td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Mr Jowie Tung </span></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2022 - 2023)**
 ---------------------------------------
 
 <style type="text/css">
