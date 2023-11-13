@@ -29,20 +29,32 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 #### **CCA Information**
 
-| Training/Meeting Venue | Netball Courts |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Instructor     | Ms Ong Chin Chin     |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Netball Courts</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>3.45 - 6.30 pm (Mon &amp; Wed)<br>4.00 - 6.30 pm (Fri)</td>
+  </tr>
+	<tr>
+    <th>Coach</th>
+		<td>Ms Ong Chin Chin</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Teachers-in-charge**
 
-| Ms Ou Wanjun |
-| -------- |
-| Ms Juliet Huang     |
-| Ms Juliana Grahan     |
-| Ms Goh Meow Peng Sherry     |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Ou Wanjun</b><br>Ms Juliet Huang<br>Ms Juliana Grahan</td>
+  </tr>
+  </tbody>
+</table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
