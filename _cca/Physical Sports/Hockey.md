@@ -15,19 +15,32 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 #### **CCA Information**
 
-
-| Training/Meeting Venue | School Hockey Pitch<br>PESEB Hockey Pitch<br>Sengkang Hockey Stadium |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed, Fri) |
-| Coach     | Mr Robin Ng     |
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>School Hockey Pitch<br>PESEB Hockey Pitch<br>Sengkang Hockey Stadium</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>Mon, Wed &amp; Fri<br>3.45 - 6.30 pm</td>
+  </tr>
+	<tr>
+    <th>Coach</th>
+		<td>Mr Robin Ng</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Teachers-in-charge**
 
-| Ms Siti Nur'aini Abdul Rashid |
-| -------- |
-| Ms Wong Yan Keet Amanda     |
-| Ms Siti Wajihah Zar'an     |
-| Mr Ng Kok Kuen     |
+<table style="width:100%">
+  <tbody>
+		<tr>
+		<td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Wong Yan Keet Amanda<br>Ms Siti Wajihah Zar'an<br>Mr Ng Kok Kuen</td>
+  </tr>
+ </tbody>
+</table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
