@@ -20,64 +20,32 @@ Some of the orchestra’s key objectives are to promote the awareness and apprec
 Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a renowned composer and conductor, the orchestra has been steadily improving. SNCO is also continually working to develop the group's repertoire and technical capabilities, to foster new audiences, as well as recruit and train new members.
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue  </th>
-    <th class="tg-frbo">Music Room (Wed) <br>Various Classrooms (Fri)<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time<br></td>
-    <td class="tg-frbo">Wed:        3.45 pm - 6.30 pm <br>Fri:            4.00 pm - 6.30 pm</td>
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Music Room (Wed) <br>Various Classrooms (Fri)</td>
   </tr>
   <tr>
-    <td class="tg-r52z">Instructors / Coach<br></td>
-    <td class="tg-frbo">Mr Liu Bin (Conductor) <br>Ms Huo Ruo Wei <br>Mr Yeo Siew Wee <br>Mr Tony Ang Ting Leong <br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang <br>Mr Jonathan Ngeow</td>
+    <th>Training Day / Time</th>
+    <td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td>
+  </tr>
+	<tr>
+    <th>Instructors</th>
+		<td>Mr Liu Bin (Conductor)<br>Ms Huo Ruo Wei<br>Mr Yeo Siew Wee<br>Mr Tony Ang Ting Leong<br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang<br>Mr Jonathan Ngeow</td>
   </tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cees">Ms Lim Hwee Chin<br></th>
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Mr David Chang</td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cees">Mdm Goh Siew Ngoh<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Ms Lua Yi Wen Clarissa<br></td>
-  </tr>
-  <tr>
-    <td class="tg-cees">Mr David Chang</td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
 
 #### **Student Executive Committee (2022-2023)**
