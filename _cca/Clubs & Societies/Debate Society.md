@@ -24,7 +24,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>Computer Lab 1, 2D Classroom</td>
+    <td>Computer Lab 1<br>2D Classroom</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
