@@ -42,7 +42,7 @@ Opportunities also abound for members to contribute to the school and community 
   </tr>
 	</tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
   <tbody><tr>
