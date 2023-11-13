@@ -37,7 +37,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Mrs Gloria Gurung</b><br>Ms Vilochana Veloo</td>
+			<td><b>Mrs Gloria Gurung</b><br>Ms Goh I-Mei</td>
   </tr>
 </tbody>
 </table>
