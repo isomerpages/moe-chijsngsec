@@ -17,21 +17,32 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 ##### **CCA Information**
 
-
-| **Training / Meeting Venue** | Primary ISH |
-| -------- | -------- |
-| Training Day / Time | 3.45 pm - 6.30 pm (Mon, Wed)<br>4.00 pm - 6.30 pm (Fri) |
-| Coach | Mr Tang Hua |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>Primary ISH</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>3.45 pm - 6.30 pm (Mon &amp; Wed)<br>4.00 pm - 6.30 pm (Fri)</td>
+  </tr>
+	<tr>
+    <th>Coach</th>
+		<td>Mr Tang Hua</td>
+  </tr>
+</tbody>
+</table>
 
 ##### **Teachers-in-charge**
 
-
-| Mr Wan Yew Boon |
-| -------- |
-| Mr Tan Yong Meng |
-| Ms Chua Shi Yan |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+			<td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng</td>
+  </tr>
+</tbody>
+</table>
 
 ##### **Student Executive Committee (2022 - 2023)**
 
