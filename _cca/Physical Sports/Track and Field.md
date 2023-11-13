@@ -20,24 +20,33 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 
 #### **CCA Information**
 
-| Training/Meeting Venue | School 400m Track and Field |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri)<br>8.00 - 10.30 am (Sat)^<br>^(Jan-Mar, for Mid-D only) |
-| Coaches     | Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms Yang Peishan (Middle Distance)     |
+<table style="width:100%">
+  <tbody>
+		<tr>
+    <th>Training / Meeting Venue</th>
+    <td>School 400m Track and Field</td>
+  </tr>
+  <tr>
+    <th>Training Day / Time</th>
+    <td>3.45 - 6.30 pm (Mon &amp; Wed)<br>4.00 - 6.30 pm (Fri)<br>8.00 - 10.30 am (Sat)^<br>^(Jan-Mar, for Mid-D only)</td>
+  </tr>
+	<tr>
+    <th>Coaches</th>
+		<td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)</td>
+  </tr>
+</tbody>
+</table>
 
 
 #### **Teachers-in-charge**
 
-
-| Miss Susan Lim | HOD / PE &amp; CCA |
-| -------- | -------- |
-| Ms Yang Peishan     | Overall I/C     |
-| Miss Lee Le Xin Francoise     | 2nd I/C     |
-| Mr Koh Wen Jin, Marcus     |      |
-| Ms Kho Qi En Shermaine     |      |
-| Mr Kevin Andrew Thesman     |      |
-| Ms Audrey Chia     |      |
-
+<table style="width:100%">
+  <tbody>
+		<tr>
+		<td><b>Miss Lee Le Xin Francoise</b><br>Mr Koh Wen Jin, Marcus<br>Ms Audrey Chia<br>Ms Kho Qi En Shermaine<br>Miss Susan Lim (HOD / PE &amp; CCA)</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
