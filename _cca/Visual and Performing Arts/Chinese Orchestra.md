@@ -22,142 +22,51 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Music Room (Wed) <br>Various Classrooms (Fri)</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>Mr Liu Bin (Conductor)<br>Ms Huo Ruo Wei<br>Mr Yeo Siew Wee<br>Mr Tony Ang Ting Leong<br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang<br>Mr Jonathan Ngeow</td>
-  </tr>
+<tbody>
+<tr>
+<th>Training / Meeting Venue</th><td>Music Room (Wed) <br>Various Classrooms (Fri)</td></tr>
+<tr>
+<th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<tr>
+<th>Instructors</th><td>Mr Liu Bin (Conductor)<br>Ms Huo Ruo Wei<br>Mr Yeo Siew Wee<br>Mr Tony Ang Ting Leong<br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang<br>Mr Jonathan Ngeow</td></tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Mr David Chang</td>
-  </tr>
+<tbody>
+<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Ms Lua Yi Wen Clarissa<br>Mr David Chang</td></tr>
  </tbody>
 </table>
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Hui Xin Chloe</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Si Ying</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ong Tze Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tang Si Yuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Student Conductor</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Yi Shyan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Quarter Mistress</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee Yan Yi Celeste</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Scores Director</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yuki Loh Siek Kee</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Head</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Denise Kua Yee Sim</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Secretary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Liu Jinghan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Quarter Mistress</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tanya Toh Yan Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Welfare Head</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Rou Jing</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Scores Director</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Charlotte Lee Rou Xuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Laxian Sectional Leader </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Soh En Qi Chloe</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Tanbo Sectional Leader </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Charlotte Lim Le Xuan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Cello-Bass Sectional Leader </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lee En Qi</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Chuiguan Sectional Leader (Dizi) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ho Enhui, Megan</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Chuiguan Sectional Leader (Suona/Sheng)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Kimi Yeo Ming Jing</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Daji Sectional Leader</span></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Tan Hui Xin Chloe</td><td>Sec 4P</td><td>President</td></tr>
+<tr><td>Tan Si Ying</td><td>Sec 4C</td><td>Vice President</td></tr>
+<tr><td>Ong Tze Ning</td><td>Sec 4T</td><td>Secretary</td></tr>
+<tr><td>Tang Si Yuan</td><td>Sec 4C</td><td>Student Conductor</td></tr>
+<tr><td>Tan Yi Shyan</td><td>Sec 4H</td><td>Quarter Mistress</td></tr>
+<tr><td>Lee Yan Yi Celeste</td><td>Sec 4G</td><td>Scores Director</td></tr>
+<tr><td>Yuki Loh Siek Kee</td><td>Sec 4W</td><td>Welfare Head</td></tr>
+<tr><td>Denise Kua Yee Sim</td><td>Sec 3U</td><td>Assistant Secretary</td></tr>
+<tr><td>Liu Jinghan</td><td>Sec 3L</td><td>Assistant Quarter Mistress</td></tr>
+<tr><td>Tanya Toh Yan Xuan</td><td>Sec 3H</td><td>Assistant Welfare Head</td></tr>
+<tr><td>Tan Rou Jing</td><td>Sec 3F</td><td>Assistant Scores Director</td></tr>
+<tr><td>Charlotte Lee Rou Xuan</td><td>Sec 4G</td><td>Laxian Sectional Leader</td></tr>
+<tr><td>Soh En Qi Chloe</td><td>Sec 4G</td><td>Tanbo Sectional Leader </td></tr>
+<tr><td>Charlotte Lim Le Xua</td><td>Sec 3D</td><td>Cello-Bass Sectional Leader</td></tr>
+<tr><td>Lee En Qi</td><td>Sec 3D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
+<tr><td>Ho Enhui, Megan</td><td>Sec 3P</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
+<tr><td>Kimi Yeo Ming Jing</td><td>Sec 4T</td><td>Daji Sectional Leader</td></tr>
+</tbody></table>
 
 
 #### **CCA Highlights**
