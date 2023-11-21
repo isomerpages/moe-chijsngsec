@@ -79,7 +79,8 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 <tr>
 <td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg"></td></tr>
+<td><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg"><br>
+	<img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg"></td></tr>
 
 <tr>
 <td style="width:50%"><b>Guest performance at HCI High School concert "From Dusk till Dawn"</b><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.</td>
