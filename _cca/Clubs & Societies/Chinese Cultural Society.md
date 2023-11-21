@@ -27,95 +27,39 @@ variant: markdown
 
 #### **CCA Information**
 
-<table>
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Language Room 1,2,3</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Monday<br>3:45 pm – 6:00 pm<br>Wednesday<br>3:45 pm – 6:00 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>An Chun Lai<br>Cui Ping<br>Wu Yixing<br>Lee Xinqiang<br>Li Ping</td>
-  </tr>
-</tbody>
-</table>
+<table><tbody>
+<tr><th>Training / Meeting Venue</th><td>Language Room 1,2,3</td></tr> 
+<tr><th>Training Day / Time</th><td>Monday<br>3:45 pm – 6:00 pm<br>Wednesday<br>3:45 pm – 6:00 pm</td></tr>
+<tr><th>Instructors</th><td>An Chun Lai<br>Cui Ping<br>Wu Yixing<br>Lee Xinqiang<br>Li Ping</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Ms Du Jia</b><br>Ms Mok Kai Jun</td>
-  </tr>
-   
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Ms Du Jia</b><br>Ms Mok Kai Jun</td></tr>
+	</tbody></table>
 
 #### **Student Executive Committee (2023-2024)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-  <tr>
-    <td>Choong Yu Yang</td>
-    <td>Sec 3U</td>
-    <td>President</td>
-  </tr>
-	<tr>
-    <td>Tan Zheng Ning </td>
-    <td>Sec 3W</td>
-    <td>Vice-President</td>
-  </tr>
-	<tr>
-    <td>Andrea Wong Ying Xuan</td>
-    <td>Sec 3P</td>
-    <td>Team Leader</td>
-  </tr>
-	<tr>
-    <td>Chi Shing Yee</td>
-    <td>Sec 2L</td>
-    <td>Team Leader</td>
-  </tr>
-	</tbody>
-</table>
+<tbody><tr>
+<th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
+<tr><td>Choong Yu Yang</td><td>Sec 3U</td><td>President</td></tr>
+<tr><td>Tan Zheng Ning </td><td>Sec 3W</td><td>Vice-President</td></tr>
+<tr><td>Andrea Wong Ying Xuan</td><td>Sec 3P</td><td>Team Leader</td></tr>
+<tr><td>Chi Shing Yee</td><td>Sec 2L</td><td>Team Leader
+	</td></tr></tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2022-2023)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-  <tr>
-    <td>Eyu Kai Xing</td>
-    <td>Sec 4L</td>
-    <td>President</td>
-  </tr>
-	<tr>
-    <td>Anna Lim Si En</td>
-    <td>Sec 4P</td>
-    <td>Vice-President</td>
-  </tr>
-	<tr>
-    <td>An Yutong</td>
-    <td>Sec 4F</td>
-    <td>Team Leader</td>
-  </tr>
-	<tr>
-    <td>Jeslyn Lee Jie Ning </td>
-    <td>Sec 4L</td>
-    <td>Team Leader</td>
-  </tr>
-	</tbody>
-</table>
+<tbody><tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
+<tr><td>Eyu Kai Xing</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>Anna Lim Si En</td><td>Sec 4P</td><td>Vice-President</td></tr>
+<tr><td>An Yutong</td><td>Sec 4F</td><td>Team Leader</td></tr>
+<tr><td>Jeslyn Lee Jie Ning </td><td>Sec 4L</td><td>Team Leader</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
 
@@ -131,11 +75,9 @@ variant: markdown
 <tr><td style="width:40%"><b>Learning Journey to Peranakan Museum</b><br><br><b>土生文化馆学习之旅</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！</td>
 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td></tr>			
 
-<tr>
-	<td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
-    <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
-	  <img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td>
-	 </tr>
+<tr><td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
+	<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td></tr>		
