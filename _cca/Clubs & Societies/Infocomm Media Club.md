@@ -18,73 +18,31 @@ Opportunities also abound for members to contribute to the school and community 
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th>Training / Meeting Venue</th>
-    <td>Computer Labs 2 &amp; 3</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed: 3:45 pm - 6:00 pm<br>Fri: 4:00 pm - 6:00 pm<br></td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Computer Labs 2 &amp; 3</td></tr>
+<tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:00 pm<br>Fri: 4:00 pm - 6:00 pm<br></td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
 <tbody>
-	<tr>
-		<td><b>Mr Andy Lee</b><br>Mr Chua Sau Chuan<br>Ms Claire Cher</td>
-  </tr>
-	</tbody></table>
+<tr><td><b>Mr Andy Lee</b><br>Mr Chua Sau Chuan<br>Ms Claire Cher</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:40%">Name</th>
-    <th style="width:20%">Class</th> 
-    <th style="width:40%">Position</th>
-  </tr>
-  <tr>
-    <td>Eliana Chng Jia Xuan</td>
-    <td>Sec 3W</td>
-    <td>President</td>
-  </tr>
-  <tr>
-    <td>Chua Yi Xuan Cherise</td>
-    <td>Sec 3P</td>
-    <td>Vice-President</td>
-  </tr>
-  <tr>
-    <td>Tan Lee-Ann</td>
-    <td>Sec 3L<br></td>
-    <td>Head (Admin)</td>
-  </tr>
-  <tr>
-    <td>Amanda Chen Zhiyun</td>
-    <td>Sec 3P</td>
-    <td>Head (PA)</td>
-  </tr>
-  <tr>
-    <td>Lee Qian Ying</td>
-    <td>Sec 3D</td>
-    <td>Head (Media)</td>
-  </tr>
-  <tr>
-    <td>Clarisse Fong Jie Min</td>
-    <td>Sec 2U</td>
-    <td>Sec 2 Level Coordinator</td>
-  </tr>
-		<tr>
-    <td>Choy Yumin</td>
-    <td>Sec 2U</td>
-    <td>Sec 1 Level Coordinator</td>
-  </tr>
+ <tbody>
+<tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
+<tr><td>Eliana Chng Jia Xuan</td><td>Sec 3W</td><td>President</td></tr>
+<tr><td>Chua Yi Xuan Cherise</td><td>Sec 3P</td><td>Vice-President</td> </tr>
+<tr><td>Tan Lee-Ann</td><td>Sec 3L<br></td><td>Head (Admin)</td></tr>
+<tr><td>Amanda Chen Zhiyun</td><td>Sec 3P</td><td>Head (PA)</td></tr>
+<tr><td>Lee Qian Ying</td><td>Sec 3D</td><td>Head (Media)</td></tr>
+<tr><td>Clarisse Fong Jie Min</td><td>Sec 2U</td><td>Sec 2 Level Coordinator</td></tr>
+<tr><td>Choy Yumin</td><td>Sec 2U</td><td>Sec 1 Level Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
