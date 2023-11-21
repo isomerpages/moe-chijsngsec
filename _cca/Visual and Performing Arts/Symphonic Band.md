@@ -13,7 +13,6 @@ variant: markdown
 
 The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In the 2023 SYF Arts Presentation, we obtained a Certificate of Accomplishment. We also serenaded the public with beloved National Day tunes at the Changi Airport’s National Day Spectacular.
 
-
 #### **CCA Information**
 
 <table style="width:100%">
