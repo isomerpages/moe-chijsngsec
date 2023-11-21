@@ -41,7 +41,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Mr Koh Zhi-Ti Jason</b><br>Ms Sharon Law<br>Ms Kok Choy Yoke</td>
+			<td><b>Mr Koh Zhi-Ti Jason</b><br>Ms Naseem Fathima<br>Ms Sharon Law</td>
   </tr>
   </tbody>
 </table>
