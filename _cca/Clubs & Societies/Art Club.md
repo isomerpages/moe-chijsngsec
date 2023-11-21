@@ -11,33 +11,22 @@ variant: markdown
 
 <img src="/images/06%20CCA/CS%20Art%20Club/Art%20Club.jpeg" style="width:75%">
 
-Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talents and welcomes students who are passionate about art with open arms.
+Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talent and welcomes students who are passionate about art with open arms.
 
-The Art Club oversees the maintaining of the school’s ‘Doodle Wall’. It is regularly updated to showcase upcoming events in the school and invites members to freely display their creativity.  
-  
-We have participated in many events, such as the Singapore Youth Festival (SYF) with an artwork exhibited at the National Gallery Singapore, the Young Illustrator Awards clinching Second prize and the 天天向上 (TTXS) Exhibition Project showcased at the Singapore Chinese Cultural Centre. Not forgetting our duty of service, we also actively give back to our community and participate in community projects with Kebun Bahru Community Club and Kebun Bahru View RC. Through these projects, we have developed our technical competency to complete them efficiently and learning to collaborate with one other.  
-  
+The Art Club oversees the maintaining of the school’s ‘Doodle Wall’. It is regularly updated to showcase upcoming events in the school and invites members to freely display their creativity.
+
+We have participated in many events, such as the Singapore Youth Festival (SYF) with artworks exhibited at the National Museum of Singapore. Not forgetting our duty of service, we also actively give back to our community and participate in community projects with Kebun Bahru Community Club and Kebun Bahru View RC. Through these projects, we have developed our technical competency to complete them efficiently and learning to collaborate with one other.
+
 The Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
-&nbsp;&nbsp; &nbsp;
 
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Art Room</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed<br>3.45 pm - 5.45 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Art Room</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
@@ -57,50 +46,43 @@ The Art Club will strive to continue to be a place where young artists can grow 
     <th style="width:25%">Class</th> 
     <th style="width:30%">Position</th>
   </tr>
-  <tr>
-    <td>Heng Chloe</td>
-    <td>Sec 4T</td>
-    <td>President</td>
-  </tr>
-  <tr>
-    <td>Kyra Sim Kaixuan</td>
-    <td>Sec 4H</td>
-    <td>Vice-President</td>
-  </tr>
-  <tr>
-    <td>Ho Qian Hui</td>
-    <td>Sec 4L</td>
-    <td>Secretary</td>
-  </tr>
-  <tr>
-    <td>Wong Chinn Yi</td>
-    <td>Sec 4D</td>
-    <td>Head of Welfare</td>
-  </tr>
-</tbody>
-</table>
+<tr><td>Heng Chloe</td><td>Sec 4T</td><td>President</td></tr>
+<tr><td>Kyra Sim Kaixuan</td><td>Sec 4H</td><td>Vice-President</td></tr>
+<tr><td>Ho Qian Hui</td><td>Sec 4L</td><td>Secretary</td></tr>
+<tr><td>Wong Chinn Yi</td><td>Sec 4D</td><td>Head of Welfare</td></tr>
+</tbody></table>
 
 
 
 #### **CCA Highlights**
 
-<table style="width:100%">
-    <tbody><tr>
-			<td style="width:40%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2018 ART EXHIBITION</b><br><br>Our students has participated in the 2018 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. <br><br>Their artwork was exhibited at the National Gallery Singapore.</td>
-   <th class="tg-mezc">
+<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"><table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2022 ART EXHIBITION</b><br><br>Our students have participated in the 2022 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. Their artwork was exhibited at the National Museum of Singapore.</td>
+<td>
 <img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"><span style="font-weight:700;color:#F00"></span></th>
-    <th class="tg-vo25">
-<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></th>
-</tr><tr>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><br>
+	<img src="/images/06%20CCA/CS%20Art%20Club/Art3.jpeg" style="width:100%"></td>
+ <td>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></td>
+</tr>
+
+
+
+
+
+
+
+
+<tr>
 			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
  <td>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
 </tr></tbody></table>
 			
