@@ -19,77 +19,37 @@ Through organising and carrying out school-wide activities and taking part in mu
 
 <table style="width:100%">
 <tbody>
-<tr>
-<th>Training / Meeting Venue</th><td>Science Lab G</td>
-</tr>
-<tr><th>Training Day / Time</th><td>Wed:    3.45 pm - 6.00 pm</td>
-</tr>
-<tr><th>Instructors</th><td>-</td>
-</tr>
-</tbody>
-</table>
+<tr><th>Training / Meeting Venue</th><td>Science Lab G</td></tr>
+<tr><th>Training Day / Time</th><td>Wed:    3.45 pm - 6.00 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 
 #### **Teachers-in-Charge**
 
 <table style="width:100%">
 <tbody>
-<tr>
-<td><b>Mr Kuah Ee Qiang</b><br>Ms Cheryl Cheong Yunling</td>
-</tr>
-</tbody>
-</table>
+<tr><td><b>Mr Kuah Ee Qiang</b><br>Ms Cheryl Cheong Yunling</td></tr>
+</tbody></table>
 
 
 #### **Student Executive Committee (2022 - 2023)**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tay Karlyn</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-vo25">President</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Samantha Chua Wei Shan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jolene Jauw Xi Xuan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Loh Wei Lin, Eunice</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head of Welfare</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Christy Lye Ke Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3H</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Head of Gardening</span></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Tay Karlyn</td><td>Sec 4U</td><td>President</td></tr>
+<tr><td>Samantha Chua Wei Shan</td><td>Sec 4D</td><td>Vice President</td></tr>
+<tr><td>Jolene Jauw Xi Xuan</td><td>Sec 3H</td><td>Secretary</td></tr>
+<tr><td>Loh Wei Lin, Eunice</td><td>Sec 4D</td><td>Head of Welfare</td></tr>
+ <tr><td>Christy Lye Ke Xin</td><td>Sec 3H</td><td>Head of Gardening</td></tr>
+</tbody></table>
+
+
 
 
 #### **CCA Highlights**
