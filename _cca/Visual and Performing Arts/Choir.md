@@ -78,7 +78,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <td><img src="/images/06%20CCA/VPA%20Choir/picture%203.jpg"></td></tr>
 
 <tr>
-<td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.</td>
+<td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learn new ways to express themselves and surely benefitted much from the workshop.</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg"><br>
 	<img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg"></td></tr>
 
