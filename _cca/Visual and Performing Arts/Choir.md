@@ -20,29 +20,23 @@ We strive to do our best in all our performances. We are blessed to have a dedic
  #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>AVA Room</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Tue: 3.45 pm - 6.15 pm<br>Fri: 4.00 pm - 6.30 pm</td>
-  </tr>
-	<tr>
-    <th>Instructor</th>
-		<td>Miss Lim Ai Hooi (Conductor)</td>
-  </tr>
+<tbody>
+<tr><th>Training / Meeting Venue</th>
+<td>AVA Room</td></tr>
+<tr><th>Training Day / Time</th>
+<td>Tue: 3.45 pm - 6.15 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<tr><th>Instructor</th>
+<td>Miss Lim Ai Hooi (Conductor)</td></tr>
 </tbody>
 </table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na</td>
-  </tr>
+<tbody>
+<tr>
+<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na<br>Mr Jowie Tung</td>
+</tr>
 </tbody>
 </table>
 
