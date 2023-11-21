@@ -82,7 +82,6 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 <tr><td style="width:50%"><b>2019 Singapore Youth Festival Arts Presentation</b><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br></td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2019%20SYF%20Arts%20Presentation%20Full.jpeg"></td></tr>
 
- 
 </tbody></table>
 
 
