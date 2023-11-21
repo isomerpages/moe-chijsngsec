@@ -51,37 +51,19 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">2022 流金溢彩表演<br>2022 Jubilate<br><br><span style="font-weight:400">Performance Titles:</span>    <span style="font-weight:400">彩</span><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Jubilate2.jpeg" style="width:100%">
-  </th></tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2022 启航 </span><br><br><span style="color:#222;background-color:transparent">Performance Titles:</span><br><span style="color:#222;background-color:transparent">彩，作者和哈利的对话，假戏真做，生与死，雇佣人生</span><br><br><span style="color:#222;background-color:transparent">这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</span></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2021 青年节戏剧艺术汇演</span><br><span style="font-weight:bold">2021 SYF Drama Arts Presentation</span><br>Performance Title:<br>带我到巅峰 / Take Me to the Top<br><br><br>荣获特优奖 (Certificate of Distinction)<br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/04%20SYF%20Drama%20Arts%20Presentation.jpg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>2022 流金溢彩表演<br>2022 Jubilate</b><br><br>Performance Titles: 彩 </td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Jubilate2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>2022 启航</b><br><br>Performance Titles: <br>彩，作者和哈利的对话，假戏真做，生与死，雇佣人生 <br><br>这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>2021 青年节戏剧艺术汇演 <br>2021 SYF Drama Arts Presentation</b><br><br>Performance Titles: <br>带我到巅峰 / Take Me to the Top<br><br>荣获特优奖 (Certificate of Distinction)</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/04%20SYF%20Drama%20Arts%20Presentation.jpg"></td></tr>
+
+</tbody></table>
 
 #### **CCA Achievement**
 
