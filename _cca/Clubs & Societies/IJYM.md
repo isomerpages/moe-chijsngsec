@@ -60,25 +60,12 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <img src="/images/06%20CCA/CS%20IJYM/IJYM5.jpeg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM6.jpeg" style="width:100%"></td></tr>
 
-
-
-
-
-
-
-
-
- 
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><br><span style="font-weight:bold">“BEEkind Programme”</span><br><br><br>This year, IJYM embarked on the journey of being the driver for VIA activities in our school. To this end, we created opportunities and platforms for our peers in school to be involved in various VIA activities that would benefit people in our school community besides helping others in society.<br><br>We created the Peer-tutoring programme and helped coordinate and partner students who needed help in subjects such as Mathematics to students proficient in the subject and who were willing to help them clarify their questions.<br>We also helped to create storybook resources for the after-school care at IJHCC and looked into plans to help support and show appreciation for the cleaners in our school.<br><br>Look out for more exciting plans in 2023!<br></td>
-    <td class="tg-f8tx"><br><br><br><br><br><br><br><br><br>Watch this space for photos of this initiative in 2023.</td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>IJYM Inter-school Competition 2022</b><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <b><br><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"></b></td>
+<td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"><br>
+<br>
+<img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg"><br>
+<img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td></tr>
+</tbody></table>
 
 #### **CCA Achievements**
 ----------------
