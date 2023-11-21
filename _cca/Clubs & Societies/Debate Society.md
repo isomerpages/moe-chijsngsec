@@ -21,77 +21,36 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Computer Lab 1<br>2D Classroom</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>Mr Ian Dylan Cha</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Computer Lab 1<br>2D Classroom</td></tr>
+<tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td></tr>
+<tr><th>Instructors</th><td>Mr Ian Dylan Cha</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mrs Malarvizhi Haugen <br>Mr Mohammed Khalid Kudabar </td>
-  </tr>
-  </tbody>
-</table>
+<tbody>
+<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mrs Malarvizhi Haugen <br>Mr Mohammed Khalid Kudabar </td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-  <tr>
-    <td>Lee Jewelyn </td>
-    <td>Sec 4J</td>
-    <td>President (Debate Chairperson)</td>
-  </tr>
-<tr>
-    <td>Shervelle Soh En Hui</td>
-    <td>Sec 4T</td>
-    <td>Vice-President (Debate Vice-Chairperson)</td>
-  </tr>
-  <tr>
-    <td>Adeline Yap</td>
-    <td>Sec 4P</td>
-    <td>Secretary (Upper Sec Debate EXCO)</td>
-  </tr>
-  <tr>
-    <td>Arielle Ho Ming Xuan</td>
-    <td>Sec 4G</td>
-    <td>Welfare Head (Upper Sec Debate EXCO)</td>
-  </tr>
-  <tr>
-    <td>Ng Teng Ee</td>
-    <td>Sec 3W</td>
-    <td>Upper Sec Debate Comm Member</td>
-  </tr>
-  <tr>
-    <td>Ng Kiat Kee Rachel<br></td>
-    <td>Sec 2J</td>
-    <td>Lower Sec Debate Comm Member</td>
-  </tr>
-</tbody>
-</table>
+ <tbody>
+<tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
+ <tr><td>Lee Jewelyn </td><td>Sec 4J</td><td>President (Debate Chairperson)</td></tr>
+<tr><td>Shervelle Soh En Hui</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
+<tr><td>Adeline Yap</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Arielle Ho Ming Xuan</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Ng Teng Ee</td><td>Sec 3W</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Ng Kiat Kee Rachel<br></td><td>Sec 2J</td><td>Lower Sec Debate Comm Member</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
-    <tbody>
+<tbody>
 <tr><td style="width:50%"><b>Orator's Trophy</b><br><br>In 2022, our debaters took part in The Orator’s Trophy, a National Oratorical Competition, organised by ACJC. They did us proud by qualifying to the Semi-Finals in the competition where a member emerged as one of the top 6 semi-finalists in the Senior League.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate1.jpeg"></td></tr>
 
