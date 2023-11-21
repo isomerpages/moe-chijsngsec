@@ -39,7 +39,7 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Mr Kevin Andrew Thesman</b><br>Ms Ding Lay Yen<br>Ms Elizabeth Mosbergen<br>Mrs Daphne Lim</td>
+			<td><b>Ms Nurulhuda Arslan</b><br>Mrs Daphne Lim<br>Ms Ding Lay Yen</td>
   </tr>
   </tbody>
 </table>
