@@ -69,61 +69,26 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </table>
 
 
-
-
-
- 
-  
-    <span style="color:#222;background-color:transparent">Seah Jingyi Shuanne</span>
-    <span style="color:#222;background-color:transparent">Sec 3P</span>
-    <span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 1)</span><br>
-  
-  
-    <span style="color:#222;background-color:transparent">Zhu Mingqi</span>
-    <span style="color:#222;background-color:transparent">Sec 3L</span><br>
-    <span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 2)</span>
-  
-
-
-
-
-
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">Jubilate 2022<br><span style="font-weight:normal">From the initial planning and the numerous sessions of practices, leading to the recording, the girls experienced a new way of performing. All enjoyed and put up an interesting performance with 3 songs weaved into a narration of hope and passion for singing.</span><br><br><br><br><br><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Choir/picture%203.jpg" alt="Picture 3.jpg" width="436" height="327"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Workshop with Dr Harper</span><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg" alt="Picture 5.jpg" width="432" height="323"><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg" alt="Picture 4.jpg" width="433" height="324"><br><br><br><br><br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Guest performance at HCI High School concert "From Dusk till Dawn"</span><br><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%207.jpg" alt="Picture 7.jpg" width="436" height="327"><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%206.jpg" alt="Picture 6.jpg" width="435" height="326"><br><br><br><br><br><br><br><br><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Choir Exchange at NYGH</span><br><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br><br><img src="/images/06%20CCA/VPA%20Choir/picture%209.jpg" alt="Picture 9.jpg" width="412" height="197"><br><img src="/images/06%20CCA/VPA%20Choir/picture%2011.jpg" alt="Picture 11.jpg" width="436" height="210"><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Choir/picture%208.jpg" alt="Picture 8.jpg" width="458" height="343"><img src="/images/06%20CCA/VPA%20Choir/picture%2010.jpg" alt="Picture 10.jpg" width="452" height="338"></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<td style="width:50%"><b>Jubilate 2022</b><br><br>From the initial planning and the numerous sessions of practices, leading to the recording, the girls experienced a new way of performing. All enjoyed and put up an interesting performance with 3 songs weaved into a narration of hope and passion for singing.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/picture%203.jpg"></td></tr>
+
+<tr>
+<td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr Harper is a music clinician with a wide repertoire of skills and experience in singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and surely benefitted much from the workshop.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/picture%205.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/picture%204.jpg"></td></tr>
+
+<tr>
+<td style="width:50%"><b>Guest performance at HCI High School concert "From Dusk till Dawn"</b><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/picture%207.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/picture%206.jpg"></td></tr>
+
+<tr>
+<td style="width:50%"><b>Choir Exchange at NYGH</b><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br><img src="/images/06%20CCA/VPA%20Choir/picture%209.jpg"><br></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/picture%2011.jpg"><img src="/images/06%20CCA/VPA%20Choir/picture%208.jpg"><img src="/images/06%20CCA/VPA%20Choir/picture%2010.jpg"></td></tr>
+</tbody></table>
 
 
 #### **CCA Achievement**
