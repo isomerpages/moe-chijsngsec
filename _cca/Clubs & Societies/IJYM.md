@@ -60,9 +60,8 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <img src="/images/06%20CCA/CS%20IJYM/IJYM5.jpeg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM6.jpeg" style="width:100%"></td></tr>
 
-<tr><td style="width:50%"><b>IJYM Inter-school Competition 2022</b><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <b><br><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"></b></td>
-<td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"><br>
-<br>
+<tr><td style="width:50%"><b>IJYM Inter-school Competition 2022</b><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <b><br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"></b></td>
+<td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td></tr>
 </tbody></table>
