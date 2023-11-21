@@ -56,6 +56,8 @@ The Art Club will strive to continue to be a place where young artists can grow 
 
 #### **CCA Highlights**
 
+	
+	![](/images/06%20CCA/CS%20Art%20Club/Picture2.jpg)
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2022 ART EXHIBITION</b><br><br>Our students have participated in the 2022 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. Their artwork was exhibited at the National Museum of Singapore.</td>
@@ -74,8 +76,11 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
  <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td>
-</tr></tbody></table>
+<img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td></tr>
+	
+<tr><td style="width:40%"><b>2023 Live On Festival Design Competition</b><br><br>Our students have participated in the 2023 Live On Festival Design Competition organised by National Organ Transplant Unit (NOTU). Ministry of Health and are awarded High Distinction. Their artwork was exhibited at the award ceremony which encourages youths, to express their thoughts on organ donation and transplantation through art and writing.</td>
+<td>
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture2.jpg" style="width:100%"></td></tr></tbody></table>
 			
 
 
