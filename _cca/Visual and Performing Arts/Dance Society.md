@@ -54,46 +54,29 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 </table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate XIII (Chinese Dance)</span></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg" style="width:100%">
-</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i"><span style="font-weight:700">2022 Jubilate XIII (International Dance)</span><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (Chinese Dance) <br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">2021 Singapore Youth Festival<br>Arts Presentation (International Dance)<br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">Chinese Dance Performance at Huayi Festival 2020<br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<table style="width:100%">
+<tbody><tr>
+<td style="width:50%"><b>2022 Jubilate XIII (Chinese Dance)</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg"></td></tr>
+
+<tr>
+<td style="width:50%"><b>2022 Jubilate XIII (International Dance)</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg"></td></tr>
+
+<tr>
+<td style="width:50%"><b>2021 Singapore Youth Festival<br>Arts Presentation (Chinese Dance) </b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png"></td></tr>
+ 
+<tr>
+<td style="width:50%"><b>2021 Singapore Youth Festival<br>Arts Presentation (International Dance) </b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png"></td></tr>
+	
+<tr>
+<td style="width:50%"><b>Chinese Dance Performance at Huayi Festival 2020</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png"></td></tr>
+
+</tbody></table>
 
 
 #### **CCA Achievement**
