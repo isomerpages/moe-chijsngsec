@@ -70,41 +70,20 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">2022 Jubilate Online Concert</span></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Jubilate.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2021 Singapore Youth Festival Arts Presentation</span><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2021%20SYF%20Arts%20Presentation%20Mixed.png" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2019%20SYF%20Arts%20Presentation%20Full.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">2019 Singapore Youth Festival Arts Presentation</span><br><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br><br></td>
-    <td class="tg-vo25"><img src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u570/CCA/CO/05%202019%20SYF%20Arts%20Presentation%20Mixed.jpg" alt="05 2019 SYF Arts Presentation Mixed.jpg" width="486" height="363"></td>
-  </tr>
-</tbody>
-</table>
+<table style="width:100%">
+<tbody><tr>
+<td style="width:50%"><b>2022 Jubilate Online Concert</b><br><br></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Jubilate.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>2021 Singapore Youth Festival Arts Presentation</b><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2021%20SYF%20Arts%20Presentation%20Mixed.png"></td></tr>
+
+<tr><td style="width:50%"><b>2019 Singapore Youth Festival Arts Presentation</b><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2019%20SYF%20Arts%20Presentation%20Full.jpeg"></td></tr>
+
+ 
+</tbody></table>
 
 
 #### **CCA Achievements**
