@@ -56,7 +56,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
 
 #### **CCA Highlights**
 
-<img src="/images/06%20CCA/CS%20Art%20Club/Art4.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"></span><br><img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"><table style="width:100%">
+<table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2022 ART EXHIBITION</b><br><br>Our students have participated in the 2022 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. Their artwork was exhibited at the National Museum of Singapore.</td>
 <td>
@@ -68,16 +68,7 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <img src="/images/06%20CCA/CS%20Art%20Club/Art5.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art6.jpeg" style="width:100%"></td>
 </tr>
-
-
-
-
-
-
-
-
-<tr>
-			<td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events. <br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
+<tr><td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events.<br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art7.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art8.jpeg" style="width:100%"></td>
