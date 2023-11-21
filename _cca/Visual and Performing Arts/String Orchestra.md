@@ -155,18 +155,15 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 --------------
 <table style="width:100%">
  <tbody>
-		<tr>
-			<td style="width:40%"><b>       Singapore Youth Festival Arts Presentation for Instrumental Ensembles</b><br><br>In the Singapore Youth Festival Arts Presentation 2023, we presented Serenade for Strings in E minor and Pantomime. SO is proud to be awarded the Certificate of Distinction.</td>
- <td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture14.jpg"></td>
- </tr>
-	<tr>
-		<td style="width:40%"><b>       SNSO Year End Concert – <i>Senzationale</i></b><br><br>In our annual student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with classical pieces such as the Vivaldi’s ‘Four Seasons’ and Osborne’s ‘Suite and Light’, as well as light-hearted pieces such as the Super Mario medley.</td>
-    <td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture15.jpg"></td>
-  </tr>
-<tr>
-			<td style="width:40%"><b> String Orchestra School Exchange</b><br><br>To hone the skills of our students and foster bonding amongst like-minded musicians through performances and games, we collaborate with other schools such as Singapore Chinese Girls’ School for school exchange.</td>
-    <td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture16.jpg"></td>
-  </tr>
+<tr><td style="width:40%"><b>       Singapore Youth Festival Arts Presentation for Instrumental Ensembles</b><br><br>In the Singapore Youth Festival Arts Presentation 2023, we presented Serenade for Strings in E minor and Pantomime. SO is proud to be awarded the Certificate of Distinction.</td>
+<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture14.jpg"></td></tr>
+
+<tr><td style="width:40%"><b>       SNSO Year End Concert – <i>Senzationale</i></b><br><br>In our annual student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with classical pieces such as the Vivaldi’s ‘Four Seasons’ and Osborne’s ‘Suite and Light’, as well as light-hearted pieces such as the Super Mario medley.</td>
+<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/picture15.jpg"></td></tr>
+	 
+<tr><td style="width:40%"><b> String Orchestra School Exchange</b><br><br>To hone the skills of our students and foster bonding amongst like-minded musicians through performances and games, we collaborate with other schools such as Singapore Chinese Girls’ School for school exchange.</td>
+<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture16.jpg"></td></tr>
+
 </tbody>
 </table>
 
