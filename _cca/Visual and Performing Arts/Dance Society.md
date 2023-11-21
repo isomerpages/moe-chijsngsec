@@ -14,7 +14,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
+<tbody>
 <tr><th>Training / Meeting Venue</th>
 <td>Hall / Dance Studio</td></tr>
   
@@ -29,76 +29,27 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chong Bao Ling<br>Ms Chen Jiehui</td>
-  </tr>
- </tbody>
-</table>
+<tbody><tr>
+<td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chong Bao Ling<br>Ms Chen Jiehui</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jewel Lim Yu-En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Chairperson </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ang Xuan Lin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">CCA Vice-Chairperson</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Magdalene Ong Xi En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Level-Coordinator (Chinese Dance)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Wah Ro Shin Eriel</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3 Level-Coordinator (International Dance)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Erynn Toh (Du Yining)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3T</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level-Coordinator (Chinese Dance)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ng Xuan Na</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2 Level-Coordinator (International Dance)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Elizabeth Lee Zild Juan</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2F</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level-Coordinator (Chinese Dance)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Olesya Tiffany Koe Mei Ni</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 2C</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 1 Level-Coordinator (International Dance)</span></td>
-  </tr>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Jewel Lim Yu-En</td><td>Sec 4L</td><td>CCA Chairperson</td></tr>
+<tr><td>Ang Xuan Lin</td><td>Sec 4P</td><td>CCA Vice-Chairperson</td></tr>
+<tr><td>Magdalene Ong Xi En</td><td>Sec 4L</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Wah Ro Shin Eriel</td><td>Sec 4U</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Erynn Toh (Du Yining)</td><td>Sec 3T</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Ng Xuan Na</td><td>Sec 3G</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Elizabeth Lee Zild Juan</td><td>Sec2F</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Olesya Tiffany Koe Mei Ni</td><td>Sec 2C</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 
