@@ -41,104 +41,50 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </table>
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-s2rg">Name<br></th>
-    <th class="tg-s2rg">Class<br></th>
-    <th class="tg-s2rg">Position<br></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Sarah Anne Lim Yue Shi</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4F</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Yu Zhiqian Kaelyn</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4D</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Chloe Tay Jia Yi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secretary</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Lim En Wen</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Resource Manager</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Neo Jia Xin Olivia</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Welfare Manager</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Shania Pan Rui Lin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Secretary </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Koh Wan Ting</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Resource Manager</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Grace Giam Enxi</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sectional Leader (Sop 1)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Esther Lai En Xin</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sectional Leader (Sop 2)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Tan Wen Hui</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sectional Leader (Alto 1)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Leong Enhui Melina</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4J</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sectional Leader (Alto 2)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Charmaine Ng Kit Min</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3G</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Sectional Leader (Sop 1)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Crystal Moe</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3W</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Sectional Leader (Sop 2)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Seah Jingyi Shuanne</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 1)</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Zhu Mingqi</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 3L</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 2)</span></td>
-  </tr>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Sarah Anne Lim Yue Shi</td><td>Sec 4F</td><td>President</td></tr>
+<tr><td>Yu Zhiqian Kaelyn</td><td>Sec 4D</td><td>Vice President</td></tr>
+<tr><td>Chloe Tay Jia Yi</td><td>Sec 4J</td><td>Secretary</td></tr>
+<tr><td>Lim En Wen</td><td>Sec 4L</td><td>Resource Manager</td></tr>
+<tr><td>Neo Jia Xin Olivia</td><td>Sec 4W</td><td>Welfare Manager</td></tr>
+<tr><td>Shania Pan Rui Lin</td><td>Sec3L</td><td>Assistant Secretary</td></tr>
+<tr><td>Koh Wan Ting</td><td>Sec 3P</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Grace Giam Enxi</td><td>Sec 4P</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Esther Lai En Xin</td><td>Sec 4W</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Grace Giam Enxi</td><td>Sec 4P</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Tan Wen Hui</td><td>Sec 4J</td><td>Sectional Leader (Alto 1)</td></tr>
+<tr><td>Leong Enhui Melina</td><td>Sec 4J</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Charmaine Ng Kit Min</td><td>Sec 3G</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Crystal Moe</td><td>Sec 3W</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Seah Jingyi Shuanne</td><td>Sec 3P</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Zhu Mingqi</td><td>Sec 3L</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
+
+
+
+
+
+ 
+  
+    <span style="color:#222;background-color:transparent">Seah Jingyi Shuanne</span>
+    <span style="color:#222;background-color:transparent">Sec 3P</span>
+    <span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 1)</span><br>
+  
+  
+    <span style="color:#222;background-color:transparent">Zhu Mingqi</span>
+    <span style="color:#222;background-color:transparent">Sec 3L</span><br>
+    <span style="color:#222;background-color:transparent">Assistant Sectional Leader (Alto 2)</span>
+  
+
+
 
 
 
