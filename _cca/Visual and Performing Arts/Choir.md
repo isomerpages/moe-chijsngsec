@@ -93,6 +93,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <td><img src="/images/06%20CCA/VPA%20Choir/picture%2011.jpg">
 <img src="/images/06%20CCA/VPA%20Choir/picture%208.jpg">
 <img src="/images/06%20CCA/VPA%20Choir/picture%2010.jpg"></td></tr>
+	
 </tbody></table>
 
 
