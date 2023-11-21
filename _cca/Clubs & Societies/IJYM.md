@@ -16,34 +16,23 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Humanities Room</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed<br>3.45 pm - 6.15 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Humanities Room</td></tr>
+<tr><th>Training Day / Time</th><td>Wed<br>3.45 pm - 6.15 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mrs Gloria Gurung</b><br>Ms Vilochana Veloo</td>
-  </tr>
-</tbody>
-</table>
+ <tbody>
+<tr>
+<td><b>Mrs Gloria Gurung</b><br>Ms Vilochana Veloo</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
------------------------------------------
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
