@@ -63,33 +63,12 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td></tr>
+
 </tbody></table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span>Level</th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">IJ Youth Mission</span><br><span style="color:#222;background-color:transparent">Inter-school Competition 2022 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Whole CCA</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Distinction Award (Gold)</span></td>
-  </tr>
-</tbody>
-</table>
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| IJ Youth Mission <br> Inter-school Competition 2022  |Whole CCA| Certificate of Recognition <br><br>Distinction Award (Gold)|
+
