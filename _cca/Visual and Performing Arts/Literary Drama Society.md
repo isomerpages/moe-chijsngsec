@@ -64,37 +64,19 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 </table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-bb6y{color:#222;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bb6y"><span style="color:#222;background-color:transparent">Singapore Youth Festival</span><br><span style="color:#222;background-color:transparent">Arts Presentation for Drama 2021</span><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Arts%20Presentation%202.jpeg" style="width:80%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-v41i">SYF Showcase Performance</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/SYF%20Showcase%20Performance.jpeg" style="width:80%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i">LD Showcase Performance</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/LD%20Showcase%20Performance.jpeg" style="width:80%"></td>
-  </tr>
-</tbody>
-</table>
+<table style="width:100%">
+<tbody><tr>
+<td style="width:50%"><b>Singapore Youth Festival <br>Arts Presentation for Drama 2021</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Arts%20Presentation%202.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>SYF Showcase Performance</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/SYF%20Showcase%20Performance.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>LD Showcase Performance</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/LD%20Showcase%20Performance.jpeg"></td></tr>
+
+</tbody></table>
 
 
 #### **CCA Achievements**
@@ -102,6 +84,8 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| 2023 National Schools Literature Festival Choral Speaking Competition &nbsp; &nbsp; | Secondary School &nbsp; &nbsp; | 2nd place&nbsp; &nbsp; |
+| 2023 National Schools Literature Festival Book Trailer Competition &nbsp; &nbsp; | Secondary School &nbsp; &nbsp; | 3rd place&nbsp; &nbsp; |
 | 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Accomplishment     |
 | Singapore Youth Festival<br>Arts Presentation for Drama     | Upper Secondary     |   Certificate of Distinction (2021, 2019, 2017, 2015)   |
 | National Schools Literature Festival<br>Choral Speaking Competition     | Lower Secondary     | 3rd place (2021)     |
