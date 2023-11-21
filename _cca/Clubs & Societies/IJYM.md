@@ -49,31 +49,26 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 </tbody></table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-f8tx{color:#000000;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-frbo"><span style="font-weight:bold;color:#494949">Outreach at Lions Befrienders Active Ageing Center (Tampines)</span><br><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM1.jpeg" style="width:100%"><br></th>
-    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20IJYM/IJYM2.jpeg" style="width:100%"><img src="/images/06%20CCA/CS%20IJYM/IJYM3.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">kidsRead Programme @ Ang Mo Kio Pri School</span><br><br>This year, we participated in National Library Board’s kidsRead Programme and partnered Ang Mo Kio Pri School to help identified Pri 1 students to read and instil in them a love for books and reading.<br><br>This was done by conducting story-telling sessions and engaging the students in activities such reading/spelling games to get to know them better and engage them in conversations to help improve their language skills.<br><br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM4.jpeg" style="width:100%"><br><br><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20IJYM/IJYM5.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/06%20CCA/CS%20IJYM/IJYM6.jpeg" style="width:100%"></td>
-  </tr>
+<tr><td style="width:50%"><b>Outreach at Lions Befrienders Active Ageing Center (Tampines)</b><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><img src="/images/06%20CCA/CS%20IJYM/IJYM1.jpeg" style="width:100%"></td>
+<td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM2.jpeg"><br><img src="/images/06%20CCA/CS%20IJYM/IJYM3.jpeg" style="width:100%"></td></tr>
+
+<tr><td style="width:50%"><b>kidsRead Programme @ Ang Mo Kio Pri School</b><br><br>This year, we participated in National Library Board’s kidsRead Programme and partnered Ang Mo Kio Pri School to help identified Pri 1 students to read and instil in them a love for books and reading.<br><br>This was done by conducting story-telling sessions and engaging the students in activities such reading/spelling games to get to know them better and engage them in conversations to help improve their language skills.</td>
+<td><img src="/images/06%20CCA/CS%20IJYM/IJYM4.jpeg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20IJYM/IJYM5.jpeg"><br>
+<img src="/images/06%20CCA/CS%20IJYM/IJYM6.jpeg" style="width:100%"></td></tr>
+
+
+
+
+
+
+
+
+
+ 
   <tr>
     <td class="tg-brl1"><span style="font-weight:bold">IJYM Inter-school Competition 2022</span><br><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"><span style="color:#222;background-color:transparent"> </span><br><img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg" style="width:100%"><br><img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td>
