@@ -52,7 +52,7 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 <tr><td>Tan Hui Xin Chloe</td><td>Sec 4P</td><td>President</td></tr>
 <tr><td>Tan Si Ying</td><td>Sec 4C</td><td>Vice President</td></tr>
 <tr><td>Ong Tze Ning</td><td>Sec 4T</td><td>Secretary</td></tr>
-<tr><td>Tang Si Yuan</td><td>Sec 4C</td><td>Student Conductor</td></tr>
+<tr><td>Tang Si Yuan</td><td>Sec 4C</td><td>5 Conductor</td></tr>
 <tr><td>Tan Yi Shyan</td><td>Sec 4H</td><td>Quarter Mistress</td></tr>
 <tr><td>Lee Yan Yi Celeste</td><td>Sec 4G</td><td>Scores Director</td></tr>
 <tr><td>Yuki Loh Siek Kee</td><td>Sec 4W</td><td>Welfare Head</td></tr>
