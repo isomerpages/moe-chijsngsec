@@ -88,7 +88,6 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture13.jpg"><b>Scrapbooking Workshop</b></td></tr>
 	
-<tr><td style="width:50%"><b>小书迷读书会讲故事 (little-avid-volunteer)</b><br><br>On the 10th of February 2023, Library Society had the invaluable opportunity to invite local author and poet Dr Ann Ang to host a creative writing workshop.<br><br>Through this workshop, librarians explored concepts such as nature, trash and Anthropocene – the human effect on the environment – through Dr Ang’s insightful presentation as well as various writing activities. We did a fill-in-the-blank poem, writing a haiku inspired by trash and crafting a poem about a plant’s life, as told from its point of view. All of which truly unlocked our inner poets!</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b><br><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture10.jpg"><b>Synergise 2023</b></td></tr>
+<tr><td style="width:50%"><b>小书迷读书会讲故事 <br>(little-avid-volunteer)</b><br><br>今年4月，我校八位中二的学生参与了国家图书馆举办的小书迷小小书迷&gt;义工讲故事活动。她们在活动前认真准备，并利用周末的空闲时间去图书馆为小孩子们讲了有趣的故事，并耐心地教他们一起做手工，受到孩子和家长们的欢迎和好评。通过这次愉快和难得的经验，同学们提高了讲华语的自信心，也学会了如何与他人沟通相处，跨出舒适区，挑战自我。最重要的是明白了我们应该回馈社会，为有需要的人伸出援助之手。</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture14.jpg"><b>Story Sharing as little-avid-volunteer</b></td></tr>
 </tbody></table>
