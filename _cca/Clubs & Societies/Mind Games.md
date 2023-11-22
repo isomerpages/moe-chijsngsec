@@ -45,44 +45,25 @@ Members of MGC develop their critical thinking and strategic skills in playing b
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><br><br><br><span style="font-weight:normal">Playing Board games like Scrabble, Monopoly and card games</span><br><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Collaboration with Green Club:</span><br><br><span style="color:#222;background-color:transparent">A workshop conducted by an environmental group called Untamed who introduced the card game they created to raise awareness of saving the environment.  </span><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Training:</span><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games3.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Jurong Green CC Scrabble Competition:</span><br><br><span style="color:#222;background-color:transparent">This is one of our core game competitions.</span><br><br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games4.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Wei Qi Competition 2022:</span><br><br><span style="color:#222;background-color:transparent">Our very first group competitors for Wei Qi. </span></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games5.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Playing Board games like Scrabble, Monopoly and card games</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+<td><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Collaboration with Green Club:</b><br><br>A workshop conducted by an environmental group called Untamed who introduced the card game they created to raise awareness of saving the environment.</td>
+<td><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Wei Qi Training:</b><br><br>The club introduced this new board game in recent years, and it has diversified the strategic game play skills.</td>
+<td><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games3.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Jurong Green CC Scrabble Competition:</b><br><br>This is one of our core game competitions.</td>
+<td><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games4.jpeg"></td></tr> 
+
+<tr><td style="width:50%"><b>Wei Qi Competition 2022:</b><br><br>Our very first group competitors for Wei Qi.</td>
+<td><img src="/images/06%20CCA/CS%20Mind%20Games/Mind%20Games5.jpeg"></td></tr> 
+
+</tbody></table>
 
 #### **Achievements**
 ------------
