@@ -69,17 +69,21 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>Prove It! Contest 2023 (EL NLB Competition)</b><br>Our two Lower Secondary teams were awarded Gold in this contest organised by National Library Board.The Written Category team were required to write an article on their chosen topic of “Social Media Usage Among Teenagers: Positive or Negative?”. To produce quality work, they did extensive research, ensured appropriate use of images, careful citations of sources, meticulously crafted survey questions for data collection and analysed data for the article. The team did exceedingly well and was overall 2<sup>nd</sup> amongst all schools that took part.
-<br><br>The Video Category team chose to create an engaging video regarding the same topic as the written category team, “Social Media Usage Among Teenagers: Positive or Negative?”. They researched deeper into the positive and negative aspects of social media, utilized information literacy skills and cross-referenced other sources to check the reliability and accuracy of information. The video was shared school wide to create awareness of information literacy skills.
-<br><b>Historical Scene Investigation (HSI) Challenge 2023 (EL NLB Competition)</b></td>
-
-
+<br><br>The Video Category team chose to create an engaging video regarding the same topic as the written category team, “Social Media Usage Among Teenagers: Positive or Negative?”. They researched deeper into the positive and negative aspects of social media, utilized information literacy skills and cross-referenced other sources to check the reliability and accuracy of information. The video was shared school wide to create awareness of information literacy skills.<br>
+<br><b>Historical Scene Investigation (HSI) Challenge 2023 (EL NLB Competition)</b><br>Four lower secondary librarians took part in this annual competition organised by the National Library Board - our team won a Silver Award for their video and report. This year’s theme was on Singapore’s Road to Independence.</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture4.jpg"><br><b>Prove It! Contest 2023 Gold Award Winners</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture5.jpg"><br><b>Award Ceremony at National Library for Prove It! – 2nd Gold Award (Written category)</b><br>
 </td></tr>
 
-</tbody></table><table style="width:100%">
+
+	
+	
+	
+	
+	
+</tbody></table><br><br><span style="mso-spacerun:yes">&nbsp; </span><table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+<tr><td style="width:50%"><b>Learning Journeys to the National Gallery Singapore and Kinokuniya</b></td>
 <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
 
 
@@ -87,4 +91,4 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 
 
 </tbody>
-</table>
+</table>Learning Journeys to the National Gallery Singapore and KinokuniyaLibrary Society went for a learning journey to the National Gallery Singapore on Friday, 24 March 2023.Our librarians were led by facilitators from the museum to look at art pieces from the gallery such as‘Wood Print of a Malay Kampung’ by Lim Yew Kuan and ‘Shipyard’ by Lee Boon Wang. The guided tour by the facilitators honed our skills on analysis of art such as highlighting textures, contrast and colour. This greatly benefitted us in the process of working on a follow up project which involved complementing an art piece for a book we were recommending.We were also able to visit City Hall Chambers and Supreme Court building to learn about historical events that happened there such as the surrender of the Japanese. In semester 2 we also had a fun-filled trip to Kinokuniya bookshop to select a variety of new books for our library - we will certainly review these books and have presentations done on them in 2024.
