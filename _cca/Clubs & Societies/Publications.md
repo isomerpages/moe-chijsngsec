@@ -49,39 +49,19 @@ Our writers are also involved in journalism by gathering stories through intervi
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Workshop</span><br><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.   <br></th>
-    <th class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Photo Essay</span><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.  </td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Journalistic Writing:</span><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.<br></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Workshop</b><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Photo Essay</b><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Journalistic Writing:</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
+	
+</tbody></table>
 
 #### **CCA Achievement**
 ---------------
