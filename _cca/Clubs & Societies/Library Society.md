@@ -91,3 +91,15 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <tr><td style="width:50%"><b>小书迷读书会讲故事 <br>(little-avid-volunteer)</b><br><br>今年4月，我校八位中二的学生参与了国家图书馆举办的小书迷小小书迷&gt;义工讲故事活动。她们在活动前认真准备，并利用周末的空闲时间去图书馆为小孩子们讲了有趣的故事，并耐心地教他们一起做手工，受到孩子和家长们的欢迎和好评。通过这次愉快和难得的经验，同学们提高了讲华语的自信心，也学会了如何与他人沟通相处，跨出舒适区，挑战自我。最重要的是明白了我们应该回馈社会，为有需要的人伸出援助之手。</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture14.jpg"><b>Story Sharing as little-avid-volunteer</b></td></tr>
 </tbody></table>
+
+#### **CCA Achievements**
+
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)|
+| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)|
+|Green Reads Haiku Competition 2022|C Division|1st, 3rd and Special Mention|
+|2021 Historical Scene Investigation (HSI) Challenge 2022 |C Division| Gold|
+|Green Reads Haiku Competition 2022|C Division|1st, 3rd and Special Mention|
+|2021 Historical Scene Investigation Challenge|C Division| Gold Award|
+|SURE Prove It! Contest 2021 |C Division| Consolation (within top 10)|
