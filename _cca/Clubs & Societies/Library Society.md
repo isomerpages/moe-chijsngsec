@@ -11,7 +11,7 @@ variant: markdown
 
 <img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society.jpeg" style="width:100%">
 
-" I have always imagined that Paradise will be a kind of a Library."<br>-Argentine author, Jorge Luis Borges
+<i><b>" I have always imagined that Paradise will be a kind of a Library."<br>-Argentine author, Jorge Luis Borges</b></i>
 
 Other than being a ‘paradise’ for our librarians and students, Library Society strives to spread the joy of reading amongst our 姐妹们, and to hone our librarians’ confidence and other soft skills with various public speaking opportunities, group projects, competitions and presentations.
 
@@ -29,7 +29,7 @@ Due to the ease of Covid-19 restrictions, we were able to work with other CCAs a
 
 We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughly enjoyable time selecting new books from a wide range of genres for our library. Library Society is hopeful that we will have a ‘fun filled’ 2024 to hone our literary talents and develop us further as well-read young women.
 
-_“We read to know we are not alone”_ C.S Lewis
+<i><b>“We read to know we are not alone” C.S Lewis</b></i>
 
 #### **CCA Information**
 
