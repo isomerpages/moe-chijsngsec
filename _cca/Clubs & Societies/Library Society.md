@@ -76,9 +76,9 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture6.jpg"><b>National Gallery Visit</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture7.jpg"><b>Intricacies of Art analysis by our helpful tour guide</b></td></tr>
 	
-<tr><td style="width:50%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Read for Books VIA 2023, ‘Finding Poems in Trash Trees’ &amp; other snippets</b><br><br><b>Read for Books 2023</b><br>In July, we organised 23 sessions of ‘Read for Books Charity Drive’ school wide in collaboration with NLB - for every 10 people who read a book for 15 minutes, one book would be donated by NLB to less privileged children via The WondeRead initiative, Ready to Read @ NLB and kidsREAD. <br><br>We were glad to be able to give back to society by raising awareness of reading and sharing the gift of reading with the less privileged!</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture8.jpg"><b>Read for Books Charity Drive 2023</b></td></tr>
 	
-<tr><td style="width:50%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Creative Writing EL Workshop- Finding Poems in Trash and Trees</b><br><br>On the 10th of February 2023, Library Society had the invaluable opportunity to invite local author and poet Dr Ann Ang to host a creative writing workshop.<br><br>Through this workshop, librarians explored concepts such as nature, trash and Anthropocene – the human effect on the environment – through Dr Ang’s insightful presentation as well as various writing activities. We did a fill-in-the-blank poem, writing a haiku inspired by trash and crafting a poem about a plant’s life, as told from its point of view. All of which truly unlocked our inner poets!</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b></td></tr>
 </tbody></table>
