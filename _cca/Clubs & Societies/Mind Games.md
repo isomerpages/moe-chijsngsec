@@ -16,21 +16,11 @@ Members of MGC develop their critical thinking and strategic skills in playing b
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>ITR 1&amp;2</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed<br>3.45 pm - 5.45 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>ITR 1&amp;2</td></tr>
+<tr><th>Training Day / Time</th><td>Wed<br>3.45 pm - 5.45 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teacher-in-Charge**
 
