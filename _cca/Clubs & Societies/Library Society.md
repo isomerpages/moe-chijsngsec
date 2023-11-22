@@ -96,10 +96,10 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)|
-| SYF Art Exhibition 2022 |Secondary School| Certificate of Recognition <br><br> Ho Qian Hui (3L)<br>Lee Wen Xin Carys (3L)|
-|Green Reads Haiku Competition 2022|C Division|1st, 3rd and Special Mention|
-|2021 Historical Scene Investigation (HSI) Challenge 2022 |C Division| Gold|
-|Green Reads Haiku Competition 2022|C Division|1st, 3rd and Special Mention|
+|Prove It! Contest 2023|C Division - 2 teams|Gold for Written category<br>(overall 2nd)<br>Gold for Video category|
+|Historical Challenge 2023 |C Division| Silver|
+| CDAC Award 2022|Library Society SNGS|Outstanding partnership award and the 5 year partnership award|
+|Historical Scene Investigation (HSI) Challenge 2022 |C Division| Gold|
+|Green Reads Haiku Competition 2022|B and C Division|1st, 3rd and Special Mention|
 |2021 Historical Scene Investigation Challenge|C Division| Gold Award|
 |SURE Prove It! Contest 2021 |C Division| Consolation (within top 10)|
