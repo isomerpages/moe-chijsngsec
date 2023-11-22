@@ -64,150 +64,18 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <tr><td>Tan Yi Xuan</td><td>Sec 2C</td><td>Lower Secondary Executive Committee Member</td></tr>
 </tbody></table>
 
-
-  
-    <span style="color:#222;background-color:transparent">Lim Jia Ying</span><br>
-    <span style="color:#222;background-color:transparent">Sec 4H</span><br>
-    <span style="color:#222;background-color:transparent">CCA Chairperson</span>
-  
-  
-    <span style="color:#222;background-color:transparent">Tan Si Yin Isabel</span><br>
-    <span style="color:#222;background-color:transparent">Sec 4U</span><br>
-    <span style="color:#222;background-color:transparent">CCA Vice-Chairperson</span>
-  
-  
-    <span style="color:#222;background-color:transparent">Seng Jia Shyuan</span><br>
-    <span style="color:#222;background-color:transparent">Sec 3C</span><br>
-    <span style="color:#222;background-color:transparent">Secretary</span>
-  
-  
-    <span style="color:#222;background-color:transparent">Ng Wan Ying Emily</span>
-    <span style="color:#222;background-color:transparent">Sec 4J</span>
-    <span style="color:#222;background-color:transparent">Upper Secondary Coordinator</span><br>
-  
-  
-    <span style="color:#222;background-color:transparent">Megan Hannah Cheok</span>
-    <span style="color:#222;background-color:transparent">Sec 3L</span>
-    <span style="color:#222;background-color:transparent">Lower Secondary Coordinator</span>
-  
-  
-    <span style="color:#222;background-color:transparent">Boh Shu Ting, Shannon</span>
-    <span style="color:#222;background-color:transparent">Sec 3T</span>
-    <span style="color:#222;background-color:transparent">Lower Secondary Executive Committee Member</span>
-  
-
-
-
-
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-v41i">CDAC (华助会补习计划) Award<br><span style="font-weight:normal">Our school was awarded the outstanding partnership award and the 5-year partnership award when CDAC held their 30th anniversary awards ceremony in 2022.</span><br><br><span style="font-weight:normal">Since 2016, our librarians have been involved in reading newspapers to the elderly at the CDAC centre in Ang Mo Kio. Through this we were able to understand the meaning of “kindness begets kindness” and we will continue working hard to benefit the seniors at CDAC through our sessions!</span><br><br><br></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Historical Scene Investigation (HSI) Challenge 2022</span><br><br><span style="color:#222;background-color:transparent">Four lower secondary librarians took part in this annual competition organised by the National Library Board - our team won a Gold Award.</span><br><br><span style="color:#222;background-color:transparent">2022’s theme commemorated the 80th anniversary of the Fall of Singapore, in which students investigated the historical significance of the Second World War in Singapore between 1942 to 1945.</span><br><br><span style="color:#222;background-color:transparent">Megan Hannah Cheok (2T), Seng Jia Shyuan (2D), Janice Phang Wan Yi (1D) and Lim Yu Xuan (1F) produced a video and did a creative write-up on education in Singapore schools during the Japanese Occupation.</span></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society2.jpeg" style="width:100%"><br></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Green Reads Haiku Competition 2022</span><br><br><span style="color:#222;background-color:transparent">Bowen Secondary School organized the Green Reads Haiku Competition which our librarians readily took part in - they sourced for articles related to environmental issues in our world and wrote poems advocating action to stop environmental damage.</span><br><br><span style="color:#222;background-color:transparent">We are pleased that several of our librarians’ works earned distinctions in the competition!Ng Wing Yan Emily (3J) and Liang Wern Hwee (3D) came in first in the competition, Andrea Teo Yujie (3J) and Dawn Chong Wei (3C) came in third and Cate Marissa Verghese (2L) and Goh Wern Shyan (2L) were given a special mention award.</span></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society3.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Read for Books VIA, Escape Room Activity &amp; other snippets</span><br><br>In August we organised several sessions of ‘Read for Books Charity Drive’ school wide in collaboration with NLB - for every 10 people who read a book for 15 minutes, one book would be donated to either WonderRead, or the Migrant Worker Library (MWL).<br><br>We were glad to be able to give back to society by raising awareness of reading and sharing the gift of reading with the less privileged! We also produced a virtual escape room for our 姐妹们 to participate in during the Mother Tongue Fortnight, as well as a Kahoot quiz for ELLF and shared IG posts on EL book reviews in April. <br><br>Apart from book reviews, Library Society also carried out English presentations which delved into the lives of refugees who had been impacted by wars and climate change. Other than honing our soft skills, this activity allowed us greater awareness of global issues such as climate change and the devastating impact of wars.<br><br>This year, our librarians had the chance to visit the Zall Bookstore in October to handpick more books and also enjoy a scrumptious tea session there!<br><br>We are certainly looking forward to doing book reviews on our latest selections!<br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-s2rg">Read for Books Charity Drive<br><img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society4.jpeg" style="width:100%">Virtual Escape Room Crew<br><img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society5.jpeg" style="width:100%">Zall Bookshop LJ<img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society6.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Prove It! Contest 2023 (EL NLB Competition)</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
 
-#### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent"> CDAC Award 2022</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Library Society SNGS</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Outstanding partnership award and the 5-year partnership award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Historical Scene Investigation (HSI) Challenge 2022</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Gold </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Green Reads Haiku Competition 2022</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> B &amp; C divisions</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st, 3rd and Special Mention </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2021 Historical Scene Investigation Challenge</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
-    <td class="tg-vo25">Gold Award</td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">SURE Prove It! Contest 2021</span> <br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Consolation (within top 10 teams) </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">NE Quiz (Intra-School)</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions </span></td>
-    <td class="tg-vo25">B Division: 2nd Prize<br>C Division: 5th Prize </td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2020 Tales of S ebook Competition </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions</span><br></td>
-    <td class="tg-vo25">5 stories shortlisted <br>4 Winners – Low Yi Xuan, Jesselyn Chenice, Mandy Boh, Lim Jia Ying.</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="color:#222;background-color:transparent">2020 Tales of S ebook – Competition</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">B &amp; C Divisions</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">5 Illustrations submited</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">2020 Historical Scene Investigation</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">C Division</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Silver Award</span></td>
-  </tr>
+
+
+
+
+
 </tbody>
 </table>
