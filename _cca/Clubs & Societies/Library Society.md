@@ -85,7 +85,8 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>密室逃脱线上游戏 (Online Escape Room)<br><br>今年，我校图书馆学会的同学再一次与本地作家合作，共同制作线上密室逃脱游戏，推广华文阅读。本次与我们合作的是《蓝宝石号上的七天》的作者陈帅。有了去年的经验，同学们从写稿、编剧、制作道具、表演、后期制作到制作游戏都进行得相当顺利 。<br><br> 经过本次的学习体验，大家有了更多的机会了解本地作家，通过与作家的交流与讨论，也对华文阅读和写作有了更浓厚的兴趣。不仅如此，历经了九个月时间，同学们也学会了许多重要的软技能，锻炼了自己的能力，并且促进了彼此的关系，可谓收获颇丰。<br><br><b>剪贴簿工作坊（Scrapbooking Workshop)</b><br><br>     为了让同学们接触更多元的学习领域，探索并掌握更多新技能，也能有机会将自己的阅读体验更好地记录与展示出来。今年月，我校图书馆学会的同学参加了一个剪贴簿工作坊，学习了一些制作技巧，尝试使用各种材料和技巧制作自己的阅读剪贴簿。通过运用新学到的技能，她们将在卓尔书店学习之旅留下的珍贵回忆转变成了富有创意的剪贴簿页面。</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture11.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b></td></tr>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture13.jpg"><b>Scrapbooking Workshop</b></td></tr>
 	
 <tr><td style="width:50%"><b>Creative Writing EL Workshop- Finding Poems in Trash and Trees</b><br><br>On the 10th of February 2023, Library Society had the invaluable opportunity to invite local author and poet Dr Ann Ang to host a creative writing workshop.<br><br>Through this workshop, librarians explored concepts such as nature, trash and Anthropocene – the human effect on the environment – through Dr Ang’s insightful presentation as well as various writing activities. We did a fill-in-the-blank poem, writing a haiku inspired by trash and crafting a poem about a plant’s life, as told from its point of view. All of which truly unlocked our inner poets!</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b><br><br>
