@@ -20,54 +20,32 @@ Our writers are also involved in journalism by gathering stories through intervi
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Computer Lab 1</td></tr>
-<tr><th>Training Day / Time</th><td>Wed<br>3.45 pm - 5.45 pm</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span> </th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
+#### **Student Executive Committee (2022 - 2023)**
+
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ashley Ng Ching En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Marianne Neo Xin Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President</span></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Ashley Ng Ching En</td><td>Sec 4U</td><td>President</td></tr>
+<tr><td>Marianne Neo Xin Ning</td><td>Sec 4P</td><td>Vice President</td></tr>
+</tbody></table>
+
 
 
 #### **CCA Highlights**
