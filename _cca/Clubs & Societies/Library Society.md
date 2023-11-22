@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Library Society**
 
-<img src="/images/06%20CCA/CS%20Library%20Society/Library%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture3.jpg" style="width:100%">
 
 <i><b>" I have always imagined that Paradise will be a kind of a Library."<br>-Argentine author, Jorge Luis Borges</b></i>
 
