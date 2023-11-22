@@ -34,21 +34,11 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Library</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed &amp; Fri<br>3.45 pm - 5.45 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Library</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>3.45 pm - 5.45 pm</td></tr><tr>
+<th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
