@@ -80,5 +80,6 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture8.jpg"><b>Read for Books Charity Drive 2023</b></td></tr>
 	
 <tr><td style="width:50%"><b>Creative Writing EL Workshop- Finding Poems in Trash and Trees</b><br><br>On the 10th of February 2023, Library Society had the invaluable opportunity to invite local author and poet Dr Ann Ang to host a creative writing workshop.<br><br>Through this workshop, librarians explored concepts such as nature, trash and Anthropocene – the human effect on the environment – through Dr Ang’s insightful presentation as well as various writing activities. We did a fill-in-the-blank poem, writing a haiku inspired by trash and crafting a poem about a plant’s life, as told from its point of view. All of which truly unlocked our inner poets!</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b></td></tr>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b><br><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture10.jpg"><b>Synergise 2023</b></td></tr>
 </tbody></table>
