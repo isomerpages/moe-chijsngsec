@@ -85,7 +85,7 @@ We also had a trip to Kinokuniya bookshop in Semester 2 where we had a thoroughl
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>密室逃脱线上游戏 (Online Escape Room)<br><br>今年，我校图书馆学会的同学再一次与本地作家合作，共同制作线上密室逃脱游戏，推广华文阅读。本次与我们合作的是《蓝宝石号上的七天》的作者陈帅。有了去年的经验，同学们从写稿、编剧、制作道具、表演、后期制作到制作游戏都进行得相当顺利 。<br><br> 经过本次的学习体验，大家有了更多的机会了解本地作家，通过与作家的交流与讨论，也对华文阅读和写作有了更浓厚的兴趣。不仅如此，历经了九个月时间，同学们也学会了许多重要的软技能，锻炼了自己的能力，并且促进了彼此的关系，可谓收获颇丰。<br><br><b>剪贴簿工作坊（Scrapbooking Workshop)</b><br><br>     为了让同学们接触更多元的学习领域，探索并掌握更多新技能，也能有机会将自己的阅读体验更好地记录与展示出来。今年月，我校图书馆学会的同学参加了一个剪贴簿工作坊，学习了一些制作技巧，尝试使用各种材料和技巧制作自己的阅读剪贴簿。通过运用新学到的技能，她们将在卓尔书店学习之旅留下的珍贵回忆转变成了富有创意的剪贴簿页面。</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture11.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture13.jpg"><b>Scrapbooking Workshop</b></td></tr>
 	
 <tr><td style="width:50%"><b>小书迷读书会讲故事 <br>(little-avid-volunteer)</b><br><br>今年4月，我校八位中二的学生参与了国家图书馆举办的小书迷小小书迷&gt;义工讲故事活动。她们在活动前认真准备，并利用周末的空闲时间去图书馆为小孩子们讲了有趣的故事，并耐心地教他们一起做手工，受到孩子和家长们的欢迎和好评。通过这次愉快和难得的经验，同学们提高了讲华语的自信心，也学会了如何与他人沟通相处，跨出舒适区，挑战自我。最重要的是明白了我们应该回馈社会，为有需要的人伸出援助之手。</td>
