@@ -57,21 +57,12 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <td><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg"><br>
 <img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg"></td></tr>
 
+<tr><td style="width:50%"><b>2022 C Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg"></td></tr>
 
-	
-	
-  <tr>
-    <th class="tg-v41i">2022 B Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg" style="width:100%"></th>
-    <th class="tg-brl1"><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg" style="width:100%"></th>
-  </tr>
-
-</tbody><tbody>
-  <tr>
-    <td class="tg-v41i"><br>2022 C Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 #### **Achievement**
 
