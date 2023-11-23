@@ -27,12 +27,9 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
