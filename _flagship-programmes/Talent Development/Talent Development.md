@@ -3,6 +3,7 @@ title: Talent Development
 permalink: /flagship-programmes/Talent-Development/Talent-Development/
 description: ""
 third_nav_title: Talent Development
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg)
 
@@ -25,4 +26,4 @@ Our Talent Development Framework draws on Treffinger’s Levels of Service model
   
 The approach involves services at 4 levels, ranging from services to build foundations for talent development and provide exposure (Level 1) to services that recognise and respond to the needs of students who have demonstrated high levels of aptitude in specific domains (Level 4).
 
-<img src="/images/02%20Flagship%20Programmes/SAP%20Flagship%20Programme/2023%20Treffinger%20Model%20LOS.png" style="width: 75%" align="center">
+<img src="/images/02%20Flagship%20Programmes/Talent%20Development/2023%20Treffinger%20Model%20LOS.png" style="width: 75%" align="center">
