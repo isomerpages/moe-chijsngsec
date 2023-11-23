@@ -37,7 +37,7 @@ SNBT All the way!
 <tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Cai Jinhong<br> Mdm Yan Guifang</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>
@@ -46,9 +46,9 @@ SNBT All the way!
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Siu Li Xuan </td><td>Sec 4F</td><td>Captain</td></tr>
-<tr><td>Rachel Loh Si Jin</td><td>Sec 4P</td><td>Vice - Captain</td></tr>
-<tr><td>Jessie Lua Le En</td><td>Sec 3L</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Jessie Lua Le En </td><td>Sec 3L</td><td>Captain</td></tr>
+<tr><td> Koh Tong, Dena</td><td>Sec 3H</td><td>Vice - Captain</td></tr>
+<tr><td> Koa Sze Siew</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 
@@ -60,26 +60,22 @@ SNBT All the way!
 | Jessie Lua Le En     | Sec 3L     | Lower Secondary Coordinator     |
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
+<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
+
+
+	
+	
+	
   <tr>
     <th class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
     <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20Badminton/Badminton1.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton2.jpeg" style="width:100%"></th>
   </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   <tr>
     <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
     <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Badminton/Badminton3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton4.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton5.jpeg" style="width:100%"></td>
