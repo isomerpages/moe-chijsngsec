@@ -24,7 +24,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <tr><th>Training / Meeting Venue</th>
 <td>AVA Room</td></tr>
 <tr><th>Training Day / Time</th>
-<td>Tue: 3.45 pm - 6.15 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<td>From 2024, choir practices will be on Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
 <td>Miss Lim Ai Hooi (Conductor)</td></tr>
 </tbody>
@@ -40,7 +40,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </tbody>
 </table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>
@@ -49,22 +49,21 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Sarah Anne Lim Yue Shi</td><td>Sec 4F</td><td>President</td></tr>
-<tr><td>Yu Zhiqian Kaelyn</td><td>Sec 4D</td><td>Vice President</td></tr>
-<tr><td>Chloe Tay Jia Yi</td><td>Sec 4J</td><td>Secretary</td></tr>
-<tr><td>Lim En Wen</td><td>Sec 4L</td><td>Resource Manager</td></tr>
-<tr><td>Neo Jia Xin Olivia</td><td>Sec 4W</td><td>Welfare Manager</td></tr>
-<tr><td>Shania Pan Rui Lin</td><td>Sec3L</td><td>Assistant Secretary</td></tr>
-<tr><td>Koh Wan Ting</td><td>Sec 3P</td><td>Assistant Resource Manager</td></tr>
-<tr><td>Grace Giam Enxi</td><td>Sec 4P</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Esther Lai En Xin</td><td>Sec 4W</td><td>Sectional Leader (Sop 2)</td></tr>
-<tr><td>Grace Giam Enxi</td><td>Sec 4P</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Tan Wen Hui</td><td>Sec 4J</td><td>Sectional Leader (Alto 1)</td></tr>
-<tr><td>Leong Enhui Melina</td><td>Sec 4J</td><td>Sectional Leader (Alto 2)</td></tr>
-<tr><td>Charmaine Ng Kit Min</td><td>Sec 3G</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
-<tr><td>Crystal Moe</td><td>Sec 3W</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
-<tr><td>Seah Jingyi Shuanne</td><td>Sec 3P</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
-<tr><td>Zhu Mingqi</td><td>Sec 3L</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
+<tr><td> Shania Pan Rui Lin</td><td>Sec 3L/4L</td><td>President</td></tr>
+<tr><td>Koh Wan Ting</td><td>Sec 3P/4P</td><td>Vice President</td></tr>
+<tr><td>Chloe Wong Jing Ning</td><td>Sec 3H/4H</td><td>Secretary</td></tr>
+<tr><td>Kwong Tschi-Xuan, Kayla</td><td>Sec 3C/4C</td><td>Resource Manager</td></tr>
+<tr><td>Tan Yu Tong</td><td>Sec 3J/4J</td><td>Welfare Manager</td></tr>
+<tr><td>Charmaine Ng Kit Min</td><td>Sec 3G/4G</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Crystal Moe</td><td>Sec 3W/4W</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Seah Jingyi Shuanne</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 1)</td></tr>
+<tr><td>Zhu Mingqi</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Yeo Caitlyn</td><td>Sec 2D</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Ooi Chien Wen</td><td>Sec 2C</td><td>Assistant Secretary</td></tr>
+<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 2P</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Eshley Zhang Yiting</td><td>Sec 2G</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Rachel Tiew</td><td>Sec 2C</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Scarlett Wan Ying</td><td>Sec 2D</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
 
