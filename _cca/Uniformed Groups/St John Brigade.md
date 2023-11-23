@@ -32,15 +32,9 @@ To be courteous and honest in all my words and actions</i>
 #### **CCA Information :**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>St John Room<br>Basketball Court<br>Classrooms</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>3.30 pm - 6.00 pm (Tues &amp; Wed*)<br>4.00 pm - 6.30 pm (Fri)<br>Selected weekends at NHQ<br><br>* for school team cadets during competition period</td>
-  </tr>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>St John Room<br>Basketball Court<br>Classrooms</td></tr>
+<tr><th>Training Day / Time</th><td>Tuesday &amp; Wednesday : 3.30 pm - 6.00 pm<br>Friday : 4.00 pm - 6.30 pm<br>Selected weekends at NHQ*<br>* for school team cadets during competition period</td></tr>
 	<tr>
     <th>Instructors</th>
 		<td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td>
