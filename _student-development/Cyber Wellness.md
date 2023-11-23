@@ -2,6 +2,7 @@
 title: Cyber Wellness
 permalink: /student-development/Cyber-Wellness/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
@@ -15,9 +16,9 @@ The school's Cyber Wellness programme is designed to develop our students into r
 (2) Safe and Responsible Use  
 (3) Positive Peer Influence
 
-<figure><img src="/images/Cyberwellness%20Image.jpg" style="width:80%"><figcaption> © MOE Educational Technology Division (ETD) Baseline ICT Standards</figcaption></figure>
+<figure><img src="/images/05%20Student%20Development/07%20Cyber%20Wellness/Cyberwellness%20Image.jpg" style="width:80%"><figcaption> © MOE Educational Technology Division (ETD) Baseline ICT Standards</figcaption></figure>
 
-In St Nicks’, the Cyber Wellness curriculum takes reference from the five themes stipulated by MOE’s Educational Technology Division (ETD). The table below states the range of topics covered from Sec 1 to 4. We have also aligned our curriculum to the ‘Connect’ prong of the Baseline ICT Standards for New Media Literacies. The table below outlines the Learning Outcomes as well as the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FTGP, CCE lessons, assembly programmes etc.   
+In St Nicks’, the Cyber Wellness curriculum takes reference from the five themes stipulated by MOE’s Educational Technology Division (ETD). The table below states the range of topics covered from Sec 1 to 4. We have also aligned our curriculum to the ‘Connect’ prong of the Baseline ICT Standards for New Media Literacies. The table below outlines the Learning Outcomes as well as the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FTGP, CCE lessons, assembly programmes etc.&nbsp;  
   
 ##### **Learning Outcomes (Sec School)**
 
@@ -153,7 +154,7 @@ We have also included some resources that may be helpful for understanding your 
     
 *   <i>Ministry of Education: [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)</i>
 
-<img src="/images/Cyberwellness%20Image%202.jpg" style="width:75%">
+<img src="/images/05%20Student%20Development/07%20Cyber%20Wellness/Cyberwellness%20Image%202.jpg" style="width:75%">
 
 Together, we hope to partner our parents in ensuring that our students’ participation in the Digital Space remains safe and value adds to her growth.  
   
@@ -161,9 +162,9 @@ Besides learning about Cyber Wellness through structured CCE lessons at all four
   
 (1) ICT-enabled lessons of various subjects  
 (2) Cyber Wellness Carnival  
-(3) Cyber Wellness Assembly/FTGP   
+(3) Cyber Wellness Assembly/FTGP&nbsp;  
 (4) Class Cyber Wellness Ambassadors  
-(5) Discussion of contemporary issues arising from usage in the Cyber Space   
+(5) Discussion of contemporary issues arising from usage in the Cyber Space&nbsp;  
   
 Leadership development is focused on developing a core team of student leaders who are able to lead the student population both at the class and school level to drive the various Cyber Wellness programmes. This is done primarily through the Cyber Wellness Ambassadors.  
   
