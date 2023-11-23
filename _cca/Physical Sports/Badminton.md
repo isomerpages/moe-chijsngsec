@@ -9,7 +9,8 @@ variant: markdown
 
 #### **Badminton**
 
-<img src="/images/06%20CCA/PS%20Badminton/Badminton.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Badminton/Picture20.jpg" style="width:100%"><img src="/images/06%20CCA/PS%20Badminton/Picture21.jpg" style="width:100%">
+
 
 Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.&nbsp;&nbsp;
 
