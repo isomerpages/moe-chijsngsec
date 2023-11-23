@@ -66,8 +66,8 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture32.jpg"><br>
 <img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture33.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
+<tr><td style="width:50%"><b>National School Games Cross Country Championships 2023</b></td>
+<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture34.jpg"></td></tr>
 	
 </tbody></table>
 
