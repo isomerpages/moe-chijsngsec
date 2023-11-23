@@ -63,7 +63,7 @@ SNBT All the way!
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture26.jpg">
 <br><img src="/images/06%20CCA/PS%20Badminton/Picture27.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
+<tr><td style="width:50%"><b>Friendly Matches</b><br><br> As part of the programme for the team, students get to engage in friendly matches with other school teams during the off-peak season.</td>
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture28.jpg"></td></tr>	
 
 </tbody></table>
