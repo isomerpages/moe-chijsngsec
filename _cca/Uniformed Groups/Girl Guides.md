@@ -24,21 +24,11 @@ To keep the Guide Law
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Parade Square / Field / Classroom / Guides HQ</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Wed &amp; Fri<br>4:00 pm - 6:00 pm</td>
-  </tr>
-	<tr>
-    <th>Instructors</th>
-		<td>-</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Parade Square / Field / Classroom / Guides HQ</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>4:00 pm - 6:00 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
@@ -53,43 +43,15 @@ To keep the Guide Law
 #### **Student Executive Committee (2024)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:40%">Name</th>
-    <th style="width:20%">Class</th> 
-    <th style="width:40%">Position</th>
-  </tr>
-  <tr>
-    <td>Isabel Ong Rui Xuan</td>
-    <td>Sec 4C</td>
-    <td>Company Leader</td>
-  </tr>
-  <tr>
-    <td>Tricia Teh En Qi</td>
-    <td>Sec 4F</td>
-    <td>Company Leader</td>
-  </tr>
-  <tr>
-    <td>Kaelyn Tay Fang Ting</td>
-    <td>Sec 4H</td>
-    <td>Company Leader</td>
-  </tr>
-  <tr>
-    <td>Ong Yi Ying</td>
-    <td>Sec 4F</td>
-    <td>Assistant Company Leader</td>
-  </tr>
-  <tr>
-    <td>Janessa Quek Ke Xuan</td>
-    <td>Sec 4J</td>
-    <td>Assistant Company Leader</td>
-  </tr>
-  <tr>
-    <td>Zaylyn Goh</td>
-    <td>Sec 4L</td>
-    <td>Assistant Company Leader</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
+<tr><td>Isabel Ong Rui Xuan</td><td>Sec 4C</td><td>Company Leader</td></tr>
+<tr><td>Tricia Teh En Qi</td><td>Sec 4F</td><td>Company Leader</td></tr>
+<tr><td>Kaelyn Tay Fang Ting</td><td>Sec 4H</td><td>Company Leader</td></tr>
+<tr><td>Ong Yi Ying</td><td>Sec 4F</td><td>Assistant Company Leader</td></tr>
+<tr><td>Janessa Quek Ke Xuan</td><td>Sec 4J</td><td>Assistant Company Leader</td></tr>
+<tr><td>Zaylyn Goh</td><td>Sec 4L</td><td>Assistant Company Leader</td></tr>
+</tbody></table>
 
 
 #### **CCA Highlights**
