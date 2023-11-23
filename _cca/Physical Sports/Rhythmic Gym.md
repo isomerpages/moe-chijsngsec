@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Rhythmic Gym**
 
-<img src="/images/06%20CCA/PS%20RGym/01%20CCA%20Photo.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20RGym/Picture37.jpg" style="width:100%">
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
