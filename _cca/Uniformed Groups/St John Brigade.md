@@ -35,21 +35,14 @@ To be courteous and honest in all my words and actions</i>
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>St John Room<br>Basketball Court<br>Classrooms</td></tr>
 <tr><th>Training Day / Time</th><td>Tuesday &amp; Wednesday : 3.30 pm - 6.00 pm<br>Friday : 4.00 pm - 6.30 pm<br>Selected weekends at NHQ*<br>* for school team cadets during competition period</td></tr>
-	<tr>
-    <th>Instructors</th>
-		<td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td>
-  </tr>
-</tbody>
-</table>
+<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td></tr>
+</tbody></table>
 
 #### **Teachers-in-Charge :**
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Ms Haslinda Bte Safiee</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Ms Haslinda Bte Safiee</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022-2023)**
 
