@@ -24,21 +24,11 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>School 400m Track and Field</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>3.45 - 6.30 pm (Mon &amp; Wed)<br>4.00 - 6.30 pm (Fri)<br>8.00 - 10.30 am (Sat)^<br>^(Jan-Mar, for Mid-D only)</td>
-  </tr>
-	<tr>
-    <th>Coaches</th>
-		<td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>School 400m Track and Field</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>*Saturday : 8.00 - 10.30 am<br> (Jan-Mar, for Mid-D only)*</td></tr>
+<tr><th>Coaches</th><td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)</td></tr>
+</tbody></table>
 
 
 #### **Teachers-in-charge**
