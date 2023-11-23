@@ -73,7 +73,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <table style="width:100%">
 <tbody>
 <tr>
-<td style="width:50%"><b>Jubilate 2022</b><br><br>From the initial planning and the numerous sessions of practices, leading to the recording, the girls experienced a new way of performing. All enjoyed and put up an interesting performance with 3 songs weaved into a narration of hope and passion for singing.</td>
+<td style="width:50%"><b>SYF Arts Presentation 2023</b><br><br>SN Choir was awarded the Certificate of Distinction. We are thankful to all who supported us throughout from the preparation to the actual day of competition. With grit and determination, the students together with our choir conductor, Ms Lim Ai Hooi presented a wonderful performance during the competition!</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/picture%203.jpg"></td></tr>
 
 <tr>
