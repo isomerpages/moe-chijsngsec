@@ -23,17 +23,19 @@ SNBT All the way!
 
 #### **CCA Information**
 
-| Training/Meeting Venue | Secondary ISH / Hall |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Coach     | Mr Jin XiaoBai     |
+<table style="width:100%">
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>ISH/Hall</td></tr>
+<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.00 pm<br>Wednesday : 3.45pm - 6.30pm<br>Friday : 4.00pm - 6.30pm</td></tr>
+<tr><th>Instructors</th><td>Mr Jin XiaoBai </td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
-| Mr Chew Ren Jie, Daryl |
-| -------- |
-| Mr Cai Jinhong     |
-| Mdm Yan Guifang     |
+<table style="width:100%">
+<tbody>
+<tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Cai Jinhong<br> Mdm Yan Guifang</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
