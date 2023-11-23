@@ -54,12 +54,8 @@ To keep the Guide Law
 #### **CCA Highlights**
 --------------
 <table style="width:100%">
-    <tbody><tr>
-			<td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.
-
-It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.
-
-This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
+<tbody>
+<tr><td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.<br><br>This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
     <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td>
   </tr>
   <tr>
