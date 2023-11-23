@@ -15,7 +15,7 @@ CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging fro
 
 We strive to do our best in all our performances. We are blessed to have a dedicated choir conductor and teachers who are constantly supporting and guiding us, ensuring that we have interesting and varied choral experiences. It was through the many obstacles we faced that we were able to grow tremendously in our choral journey.
 
-
+"We are SN Choir, and we create the dream!"
 
 #### **CCA Information**
 
