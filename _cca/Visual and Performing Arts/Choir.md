@@ -81,9 +81,11 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture3.jpg"><br></td></tr>
 
 <tr>
-<td style="width:50%"><b>Guest performance at HCI High School concert "From Dusk till Dawn"</b><br><br>SN Choir was honoured to be invited to perform alongside with the HCI High School Choir. Our choir conductor, Miss Lim Ai Hooi guided the girls throughout the performance. It was definitely a wonderful evening of music and song and seeing young people full of energy and passion.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/picture%207.jpg"><br>
-	<img src="/images/06%20CCA/VPA%20Choir/picture%206.jpg"></td></tr>
+<td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br><img src="/images/06%20CCA/VPA%20Choir/Picture5.jpg"><br>
+<img src="/images/06%20CCA/VPA%20Choir/Picture4.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/Picture6.jpg"><br>
+<img src="/images/06%20CCA/VPA%20Choir/Picture7.jpg"><br>
+<img src="/images/06%20CCA/VPA%20Choir/Picture8.jpg"></td></tr>
 
 <tr>
 <td style="width:50%"><b>Choir Exchange at NYGH</b><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
