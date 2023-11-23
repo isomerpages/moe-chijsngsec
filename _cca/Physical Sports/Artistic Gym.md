@@ -32,55 +32,33 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 </tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
-<br>
-<table style="width:100%">
-	<caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
-  <tbody><tr>
-    <th>Name</th>
-    <th>Class</th>
-		<th>Appointment</th>
-  </tr>
-  <tr>
-    <td>Lee Wan Ning, Edith</td>
-    <td>Sec 4G</td>
-		<td>Captain</td>
-  </tr>
-  <tr>
-    <td>Alexis Chan</td>
-    <td>Sec 3C</td>
-		<td>Vice-Captain</td>
-  </tr>
-<tr>
-    <td>Hannah Lim Shi En</td>
-    <td>Sec 2W</td>
-		<td>Lower Secondary Coordinator</td>
-  </tr>
-	</tbody></table>
 
-<br>
 <table style="width:100%">
-	<caption><b><u>Trampoline Committee</u></b><br><br></caption>
-  <tbody><tr>
-    <th>Name</th>
-    <th>Class</th>
-		<th>Appointment</th>
-  </tr>
-  <tr>
-    <td>Megan Lee Jing Xuan</td>
-    <td>Sec 4C</td>
-		<td>Captain</td>
-  </tr>
-  <tr>
-    <td>Ang Ying Le Gwyneth</td>
-    <td>Sec 3T</td>
-		<td>Vice-Captain</td>
-  </tr>
+<tbody>
 <tr>
-    <td>Ang Ying Qi Vera</td>
-    <td>Sec 2U</td>
-		<td>Lower Secondary Coordinator</td>
-  </tr>
-	</tbody></table>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+</tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
+<tbody><tr><td>Lee Wan Ning, Edith</td><td>Sec 4G</td><td>Captain</td></tr>
+<tr><td>Alexis Chan</td><td>Sec 3C</td><td>Vice-Captain</td></tr>
+<tr><td>Hannah Lim Shi En</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
+</tbody></table>
+
+ <table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+</tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
+<tbody><tr><td>Megan Lee Jing Xuan</td><td>Sec 4C</td><td>Captain</td></tr>
+<tr><td>Ang Ying Le Gwyneth</td><td>Sec 3T</td><td>Vice-Captain</td></tr>
+<tr><td>Ang Ying Qi Vera</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
+</tbody></table>
+
 
 #### **CCA Highlights**
 --------------
