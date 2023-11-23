@@ -17,7 +17,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 "We are SN Choir, and we create the dream!"
 
- #### **CCA Information**
+#### **CCA Information**
 
 <table style="width:100%">
 <tbody>
