@@ -47,40 +47,23 @@ To be courteous and honest in all my words and actions</i>
 #### **Student Executive Committee (2022-2023)**
 
 <table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-  <tr>
-    <td>Ng Yu Le</td>
-    <td>Sec 4W</td>
-    <td>Overall-in-charge</td>
-  </tr>
-  <tr>
-    <td>Oh Jing Xin</td>
-    <td>Sec 4U</td>
-    <td>Assistant-in-charge</td>
-  </tr>
-  <tr>
-    <td>He Le</td>
-    <td>Sec 4P</td>
-    <td>Secretary</td>
-  </tr>
-  <tr>
-    <td>Chloe Sin Kaye</td>
-    <td>Sec 4P</td>
-    <td>Discipline Mistress</td>
-  </tr>
+<tbody>
 <tr>
-    <td>Natalie Lim Rui Si</td>
-    <td>Sec 4D</td>
-    <td>Quarter Mistress</td>
-  </tr>
-	</tbody>
-</table>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Ng Yu Le</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
+<tr><td>Oh Jing Xin</td><td>Sec 4U</td><td>Assistant-in-charge</td></tr>
+<tr><td>He Le</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Chloe Sin Kaye</td><td>Sec 4P</td><td>Discipline Mistress</td></tr>
+ <tr><td>Natalie Lim Rui Si</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+</tbody></table>
+
 
 #### **CCA Highlights**
+
+
 
 <table style="width:100%">
     <tbody><tr>
