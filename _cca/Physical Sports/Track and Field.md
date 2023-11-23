@@ -47,16 +47,13 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Valerie Koh Han Ning</td><td>Sec 4U</td><td>Captain</td></tr>
-<tr><td>Isabel Tong Yu Wei </td><td>Sec 4U</td><td>Vice - Captain</td></tr>
-<tr><td> Angel Lim Yuxin</td><td>Sec 4L</td><td> Vice-Captain</td></tr>
-<tr><td> Looi Yan Ning Samantha </td><td>Sec 4L</td><td>Sprints &amp; Hurdles Leader </td></tr>
-<tr><td>Verboon Lara</td><td>Sec 4W</td><td>Jumps Leader</td></tr>
-<tr><td>Nicole Yeo Ser Leng</td><td>Sec 4F</td><td>Middle Distance Leader</td></tr>
-<tr><td>Siu Yu Tung Raechelle</td><td>Sec 4P</td><td>Jumps Leader</td></tr>
-<tr><td>Seah Jia Xin Isabelle</td><td>Sec 4P</td><td>Sprints &amp; Hurdles / Jumps<br>Lower Sec Coordinator </td></tr>
-<tr><td>Aletheia Charis Lim Rae-Ern</td><td>Sec 2C</td><td>Middle Distance<br>Lower Sec Coordinator</td></tr>
-<tr><td>Guok Xue Qian </td><td>Sec 2C</td><td>Throws<br>Lower Sec Coordinator </td></tr>
+<tr><td> Goh Xu’En Hannah</td><td>Sec 3J</td><td>Captain</td></tr>
+<tr><td>Megan Koh Jeng Peck</td><td>Sec 3D</td><td>Vice - Captain</td></tr>
+<tr><td>Tay Yingxi Vincy </td><td>Sec 3U</td><td>Sprints &amp; Hurdles Leader </td></tr>
+<tr><td>Tan Zhen Ying</td><td>Sec 3D</td><td>Jumps Leader</td></tr>
+<tr><td>Aletheia Charis Lim Rae-Ern</td><td>Sec 2C</td><td>Middle Distance Leader</td></tr>
+<tr><td>Alyssa Chee Fenn</td><td>Sec 3T</td><td>Throws Leader</td></tr>
+<tr><td>Meranda Tan Eng Thiam </td><td>Sec 1G</td><td>Lower Sec Coordinator </td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
