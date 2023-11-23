@@ -45,16 +45,21 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 #### **Student Executive Committee (2022 - 2023)**
 
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Avrielle Charlotte Ho     | Sec 4U     | 'B' Division Captain     |
-| Shanice Yeo Yingxuan     | Sec 4P     | 'B' Division Vice-Captain     |
-| Katie Khoo Pei Yun     | Sec 2D     | 'C' Division Captain     |
-| Rachel Tan Yi Ting     | Sec 2U     | 'C' Division Vice-Captain     |
-
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Avrielle Charlotte Ho</td><td>Sec 4U</td><td> 'B' Division Captain</td></tr>
+<tr><td>Shanice Yeo Yingxuan </td><td>Sec 4P</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>Katie Khoo Pei Yun </td><td>Sec 2D</td><td>'C' Division Captain</td></tr>
+<tr><td>Rachel Tan Yi Ting</td><td>Sec 2U</td><td> 'C' Division Vice-Captain</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
---------------
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
