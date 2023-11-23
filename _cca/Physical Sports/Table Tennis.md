@@ -18,21 +18,11 @@ In SNTT, there are various opportunities and platforms to develop character and 
 ##### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>Primary ISH</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>3.45 pm - 6.30 pm (Mon &amp; Wed)<br>4.00 pm - 6.30 pm (Fri)</td>
-  </tr>
-	<tr>
-    <th>Coach</th>
-		<td>Mr Tang Hua</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>Primary ISH</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday 3.45 pm - 6.30 pm<br>Friday 4.00 pm - 6.30 pm</td></tr>
+<tr><th>Coach</th><td>Mr Tang Hua</td></tr>
+</tbody></table>
 
 ##### **Teachers-in-charge**
 
