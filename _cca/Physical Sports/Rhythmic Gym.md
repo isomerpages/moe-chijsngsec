@@ -31,18 +31,28 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <tr><td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Nicole Lim Zi Qing     | Sec 4G     | Captain     |
-| Lim Li Xuan Chloe     | Sec 3H     | Vice-Captain     |
-| Reanne Yeoh Shyen Yee     | Sec 2U     | Lower Secondary Coordinator     |
-| Andrina Ng En Ci     | Sec 4L     | Sports Leader     |
-
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Lim Li Xuan Chloe</td><td>Sec 4H</td><td>Captain</td></tr>
+<tr><td>Lee Zi Ning Shermay</td><td>Sec 3</td><td>Vice-Captain</td></tr>
+<tr><td>Megan Pang Rui Eun</td><td>Sec 3</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Chang Yun Chen</td><td>Sec 4W</td><td>Sports Leader</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
---------------
+
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>National Inter-school Competition 2023</b><br><br>FIG gymnast</td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture36.jpg"></td></tr>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,7 +65,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 .tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</tbody></table><table class="tg">
 <thead>
   <tr>
     <th class="tg-v41i">National Inter-school Competition 2022<br><br><span style="font-weight:normal">FIG gymnast</span></th>
