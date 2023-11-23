@@ -3,13 +3,15 @@ title: Chinese Cultural Society
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Chinese-Cultural-Society/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Chinese Cultural Society**
 
 
-<img src="/images/Chinese%20Cultural%20Society.jpeg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12.jpg" style="width:100%">
+
 
 华文文化学会以推广校园华文文化为使命，希望该会的创立能让同学们更加热爱华文文化。  
   
@@ -24,202 +26,76 @@ third_nav_title: Clubs & Societies
   
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-frbo{color:#494949;text-align:left;vertical-align:top}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue</th>
-    <th class="tg-frbo">Language Room 1,2,3<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time</td>
-    <td class="tg-frbo">Monday:            3:45 pm – 6:00 pm<br>Wednesday:     3:45 pm – 6:00 pm</td>
-  </tr>
-  <tr>
-    <td class="tg-r52z">Instructors</td>
-    <td class="tg-frbo">An Chun Lai<br>Xiao Yao<br>Wu Yi Xing</td>
-  </tr>
-</tbody>
-</table>
+<table><tbody>
+<tr><th>Training / Meeting Venue</th><td>Language Room 1,2,3</td></tr> 
+<tr><th>Training Day / Time</th><td>Monday<br>3:45 pm – 6:00 pm<br>Wednesday<br>3:45 pm – 6:00 pm</td></tr>
+<tr><th>Instructors</th><td>An Chun Lai<br>Cui Ping<br>Wu Yixing<br>Lee Xinqiang<br>Li Ping</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Ms Du Jia</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Mok Kai Jun</span></td>
-  </tr>
-</tbody>
-</table>
+<tr><td><b>Ms Du Jia</b><br>Ms Mok Kai Jun</td></tr>
+	</tbody></table>
+
+#### **Student Executive Committee (2023-2024)**
+
+<table style="width:100%">
+<tbody><tr>
+<th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
+<tr><td>Choong Yu Yang</td><td>Sec 3U</td><td>President</td></tr>
+<tr><td>Tan Zheng Ning </td><td>Sec 3W</td><td>Vice-President</td></tr>
+<tr><td>Andrea Wong Ying Xuan</td><td>Sec 3P</td><td>Team Leader</td></tr>
+<tr><td>Chi Shing Yee</td><td>Sec 2L</td><td>Team Leader
+	</td></tr></tbody></table>
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Eyu Kai Xing</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Anna Lim Si En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice-President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Jeslyn Lee Jie Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">An Yutong</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4L</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Team Leader</span></td>
-  </tr>
-</tbody>
-</table>
-
-
-
+<table style="width:100%">
+<tbody><tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
+<tr><td>Eyu Kai Xing</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>Anna Lim Si En</td><td>Sec 4P</td><td>Vice-President</td></tr>
+<tr><td>An Yutong</td><td>Sec 4F</td><td>Team Leader</td></tr>
+<tr><td>Jeslyn Lee Jie Ning </td><td>Sec 4L</td><td>Team Leader</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
---------------
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Chinese Challenge</span><br>华文无极限知识竞答比赛<br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。</th>
-    <th class="tg-s2rg"><span style="font-weight:700;color:#000">Enjoy the show here!</span><br><a href="https://youtu.be/wI7GrU-8zwU"><span style="text-decoration:none;color:#005B9A">https://youtu.be/wI7GrU-8zwU</span></a><br><br><img src="/images/CCS1.jpeg" style="width:100%"><img src="/images/CCS2.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Learning Journey to China Town</span><br>牛车水学习之旅<br><br>    一年一度的华人新年期间，本会将组织会员们组织前往牛车水，感受那里浓厚的新年气氛。高年级的学长将为学妹们设计新鲜有趣的闯关题目，活动中会员们有机会走上街头与素不相识的路人交流，与售卖传统食品的摊贩互动，当然也少不了品尝美食，以及拍照留影。同时这一天也是学姐们与中一小妹妹们建立友情的良机。<br></td>
-    <td class="tg-vo25"><img src="/images/CCS3.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Cultural Programme</span><br>文化课程<br><br><br><br>    每年的文化课程都有新颖的活动内容。我们曾在课上学习篆刻、剪纸，也曾在课上学习中国画、卷纸等。总之，我们希望能以不同的方式，诠释对华文文化的理解，致力于将其传承下去。<br><br>    为了增加华族节庆气氛，文化学会的成员还精心设计并手绘了漂亮的灯笼，将校园装点一新。<br><br><br><img src="/images/CCS4.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/CCS5.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">校园长卷诉感恩</span><br><br>    为了庆祝新加坡特选学校（SAP school）成立四十周年，我们华文文化学会的学生以圣尼各拉女校的标志性建筑为蓝图，绘制了一幅长卷，献给学校，以画笔书写对母校的感恩之情，希望用一颗颗年轻的心对传统化的精髓加以诠释和传承！<br><br>    2023年将迎来我校建校90周年大庆，会员们正在紧锣密鼓地为母校准备一份表达感恩之情的手工作品。<br></td>
-    <td class="tg-vo25"><img src="/images/CCS6.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture1.jpg"></td></tr>
+
+<tr><td style="width:40%"><b>Chinese Challenge</b><br><br><b>华文无极限知识竞答比赛</b><br><br>    我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会历时将近半年来筹备这场比赛。<br>    <br>    从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间参考资料，集思广益，最后完成了一套丰富有趣的问答题。<br>    <br>    关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广华文无极限，使这场比赛得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture2.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture3.jpg"></td></tr>
+
+<tr><td style="width:40%"><b>Learning Journey to Peranakan Museum</b><br><br><b>土生文化馆学习之旅</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td></tr>			
+
+<tr><td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
+	<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td></tr>
+
+<tr><td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td></tr>		
+
+<tr><td style="width:40%"><b>National Chinese Short Film Competition</b><br><br><b>全国中学及初院华语短片制作比赛</b><br><br>今年我们首次参加了“全国中学及初院华语短片制作比赛”。同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届比赛以“觉醒”为主题，包括最佳短片和最受欢迎海报奖。今年的评审是本地导演何书铭、孙立人和关锦森。我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！<br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg">
+</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"></td></tr>
+</tbody></table>
 
 #### **CCA Achievements**
-----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1">The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br>第四届“中华瀚墨情”国际书法比赛</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">The 29th National Youth Exhibition of Chinese Calligraphy<br>第二十九届全国青少年书法展 </td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Exhibition in Singapore </span></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展</td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Silver Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 33rd National School Chinese Calligraphy Competition</span><br><span style="color:#222;background-color:transparent">第三十三届全国中学书法比赛 </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> Third Prize</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Fo Guang Shan National Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">威德智海全国硬笔书法比赛</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary </span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Harmony Award</span><br><span style="color:#222;background-color:transparent">Merit Award </span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">The 5th Sing Chu National Student Chinese Calligraphy Competition</span> <br><span style="color:#222;background-color:transparent">第五届“星衢墨艺”全国中小学书法比赛</span><br></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Achievement Award</span></td>
-  </tr>
-</tbody>
-</table>
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award|
+|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
+|The 30th National Youth Exhibition of Chinese Calligraphy<br>第三十届全国青少年书法展|Secondary|Exhibition in Singapore|
+|2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp;<br> Consolation prize|
+|Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
+|The 33rd National School Chinese Calligraphy Competition<br>第三十三届全国中学书法比赛|Secondary|Third Prize|
+|Fo Guang Shan National Chinese Calligraphy Competition<br>威德智海全国硬笔书法比赛|Secondary|Harmony Award<br>Merit Award|
+|The 5th Sing Chu National Student Chinese Calligraphy Competition<br>第五届“星衢墨艺”全国中小学书法比赛|Secondary|Achievement Award|

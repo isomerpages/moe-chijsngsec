@@ -3,169 +3,68 @@ title: Publications
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Publications/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Publications**
 
-<img src="/images/Publications.jpeg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Publications/Publications.jpeg" style="width:100%">
 
 SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
   
 Our writers are also involved in journalism by gathering stories through interviews and producing news videos. As a team of dedicated writers, Publications will continue to write to touch the hearts of our readers.  
 
 #### **CCA Information**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-r52z{color:#494949;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cees{color:#494949;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-r52z">Training / Meeting Venue  </th>
-    <th class="tg-cees">Computer Lab 1<br></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-r52z">Training Day / Time<br></td>
-    <td class="tg-cees">Wednesday:    3.45 pm - 5.45 pm<br></td>
-  </tr>
-  <tr>
-    <td class="tg-r52z">Instructors / Coach<br></td>
-    <td class="tg-cees">-</td>
-  </tr>
-</tbody>
-</table>
+<tr><th>Training / Meeting Venue</th><td>Computer Lab 1</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm</td></tr>
+<tr><th>Instructors</th><td>-</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
-------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:normal">Mr Victor Francis</span></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ms Phua Meow Noi</span></td>
-  </tr>
-</tbody>
-</table>
+<tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022-2023)**
----------------------------------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vl7p{color:#222;text-align:left;vertical-align:middle}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Name</span> </th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Class</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Position</span></th>
-  </tr>
-</thead>
+#### **Student Executive Committee (2022 - 2023)**
+
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Ashley Ng Ching En</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4U</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">President</span></td>
-  </tr>
-  <tr>
-    <td class="tg-vl7p"><span style="color:#222;background-color:transparent">Marianne Neo Xin Ning</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Sec 4P</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Vice President</span></td>
-  </tr>
-</tbody>
-</table>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Ashley Ng Ching En</td><td>Sec 4U</td><td>President</td></tr>
+<tr><td>Marianne Neo Xin Ning</td><td>Sec 4P</td><td>Vice President</td></tr>
+</tbody></table>
+
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 802px">
-<colgroup>
-<col style="width: 401px">
-<col style="width: 401px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-brl1"><span style="font-weight:bold">Workshop</span><br><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.   <br></th>
-    <th class="tg-vo25"><img src="/images/Publications1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Photo Essay</span><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.  </td>
-    <td class="tg-vo25"><img src="/images/Publications2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Journalistic Writing:</span><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.<br></td>
-    <td class="tg-vo25"><img src="/images/Publications3.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Workshop</b><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Photo Essay</b><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Journalistic Writing:</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
+	
+</tbody></table>
 
 #### **CCA Achievement**
----------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
-.tg .tg-e2p0{color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Competition</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Level</span></th>
-    <th class="tg-e2p0"><span style="color:#222;background-color:transparent">Achievement</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Media Challenge 2021 / 2022</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">Secondary Level</span></td>
-    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st Runner-Up</span></td>
-  </tr>
-</tbody>
-</table>
+| Competition | Level | Achievement |
+| -------- | -------- | -------- |
+| Media Challenge 2021 / 2022 |Secondary Level|1st Runner-Up|

@@ -3,12 +3,13 @@ title: Artistic Gym
 permalink: /co-curricular-activities-ccas/Physical-Sports/Artistic-Gym/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
 
 #### **Artistic Gym**
 
-<img src="/images/Artistic%20Gym.jpeg" style="width:75%">
+<img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym.jpeg" style="width:100%">
 
 Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
   
@@ -16,73 +17,63 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 #### **CCA Information**
 
-
-| Training/Meeting Venue | School Gynasium |
-| -------- | -------- |
-| Training Day and Time | 3.45 - 6.30 pm (Mon, Wed)<br>4.00 - 6.30 pm (Fri) |
-| Coaches     | Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng     |
-
-
+<table style="width:100%">
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
+<tr><th>Training Day / Time</th><td>3.45 - 6.30 pm (Monday, Wednesday)<br>4.00 - 6.30 pm (Friday)</td></tr>
+<tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
-| Ms Amy Yee |
-| -------- |
-| Ms Mohana d/o S Sinniah     |
-| Mrs Theresa Chan     |
-
+<table style="width:100%">
+<tbody>
+<tr><td><b>Ms Amy Yee</b><br>Ms Mohana d/o S Sinniah<br>Mrs Theresa Chan </td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
-**Artistic Gymnastics Committee**
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+</tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
+<tbody><tr><td>Lee Wan Ning, Edith</td><td>Sec 4G</td><td>Captain</td></tr>
+<tr><td>Alexis Chan</td><td>Sec 3C</td><td>Vice-Captain</td></tr>
+<tr><td>Hannah Lim Shi En</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
+</tbody></table>
 
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Lee Wan Ning, Edith     | Sec 4G     | Captain     |
-| Alexis Chan     | Sec 3C     | Vice-Captain     |
-| Hannah Lim Shi En     | Sec 2W     | Lower Secondary Coordinator     |
-
-**Trampoline Committee**
-
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Megan Lee Jing Xuan     | Sec 4C     | Captain     |
-| Ang Ying Le Gwyneth     | Sec 3T     | Vice-Captain     |
-| Ang Ying Qi Vera     | Sec 2U     | Lower Secondary Coordinator     |
-
-
+ <table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+</tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
+<tbody><tr><td>Megan Lee Jing Xuan</td><td>Sec 4C</td><td>Captain</td></tr>
+<tr><td>Ang Ying Le Gwyneth</td><td>Sec 3T</td><td>Vice-Captain</td></tr>
+<tr><td>Ang Ying Qi Vera</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
+</tbody></table>
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i"><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
-    <th class="tg-vo25"><img src="/images/Artistic%20Gym1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Trampoline Competition</td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="/images/Artistic%20Gym3.jpeg" style="width:100%"><br><img src="/images/Artistic%20Gym4.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Gymnasts in action during training</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Artistic Gymnastics Championships </b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym3.jpeg"></td></tr>
+
+</tbody></table>
 
 #### **CCA Achievement**
 
