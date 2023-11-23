@@ -82,7 +82,8 @@ On top of that, Guides are also able to attain different proficiency and interes
 <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td></tr>
 	
 <tr><td style="width:40%"><b>Competitions and Other HQ Activities</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning! <br><br>This year, our Guides who were in the winning team for the North Division Dance Competition were invited to represent Girl Guides Singapore and perform in the GetActive! Heartlands National Day celebrations. <br><br>On top of that, two of our Secondary Two Guides, Jamie Tang and Gloria Liew, were selected to participate in the annual Girl Guides Singapore Gala Dinner musical performance.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture20.jpg"><br></td></tr>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture20.jpg"><br>
+<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture21.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
