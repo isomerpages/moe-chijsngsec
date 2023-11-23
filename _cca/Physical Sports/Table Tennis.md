@@ -63,8 +63,6 @@ In SNTT, there are various opportunities and platforms to develop character and 
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg)"></td></tr>
 </tbody></table>
 
-
-
 ##### **CCA Achievements**
 
 | Competition | Level | Achievement |
