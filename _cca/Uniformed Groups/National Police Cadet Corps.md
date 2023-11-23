@@ -75,30 +75,24 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 ---------------------------------------
 
 <table style="width:100%">
-    <tbody><tr>
-			<td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td>
-  </tr>
-  <tr>
-			<td style="width:40%"><b>E-CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC2.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC4.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
-    <td><img src="/images/06%20CCA/UG%20NPCC/NPCC5.jpeg"></td>
-  </tr>
+<tbody>
+<tr><td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td></tr>
+  
+<tr><td style="width:40%"><b>E-CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/NPCC2.jpeg"></td></tr>
+
+<tr><td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td></tr>
+
+<tr><td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/NPCC4.jpeg"></td></tr>
+
+<tr><td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/NPCC5.jpeg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
-
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
