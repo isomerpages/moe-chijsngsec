@@ -16,75 +16,53 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 #### **CCA Information**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th>Training / Meeting Venue</th>
-    <td>School Hockey Pitch<br>PESEB Hockey Pitch<br>Sengkang Hockey Stadium</td>
-  </tr>
-  <tr>
-    <th>Training Day / Time</th>
-    <td>Mon, Wed &amp; Fri<br>3.45 - 6.30 pm</td>
-  </tr>
-	<tr>
-    <th>Coach</th>
-		<td>Mr Robin Ng</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><th>Training / Meeting Venue</th><td>School Hockey Pitch<br>PESEB Hockey Pitch<br>Sengkang Hockey Stadium</td></tr>
+<tr><th>Training Day / Time</th><td>Monday, Wednesday &amp; Friday<br>3.45pm - 6.30 pm</td></tr>
+<tr><th>Coach</th><td>Mr Robin Ng</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-		<td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Wong Yan Keet Amanda<br>Ms Siti Wajihah Zar'an<br>Mr Ng Kok Kuen</td>
-  </tr>
- </tbody>
-</table>
+<tbody>
+<tr><td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Wong Yan Keet Amanda<br>Ms Siti Wajihah Zar'an<br>Mr Ng Kok Kuen</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
 
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Lim Tze En Meghan     | Sec 4T     | 'B' Division Captain     |
-| Gisele Tan Si Han     | Sec 4L     | 'B' Division Vice-Captain     |
-| Marabelle Lee Zhiyi     | Sec 2D     | 'C' Division Captain     |
-| Soon Qi Shuang Charlotte    | Sec 2P     | 'C' Division Vice-Captain     |
-
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td> Lim Tze En Meghan </td><td>Sec 4T</td><td> 'B' Division Captain</td></tr>
+<tr><td>Gisele Tan Si Han</td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>Marabelle Lee Zhiyi</td><td>Sec 2D</td><td> 'C' Division Captain</td></tr>
+<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 2P</td><td>'C' Division Vice-Captain</td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">2023 B Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg" style="width:100%"></th>
-    <th class="tg-brl1"><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></th>
-  </tr>
-</thead>
-	<thead>
-  <tr>
-    <th class="tg-v41i">2022 B Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg" style="width:100%"></th>
-    <th class="tg-brl1"><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-v41i"><br>2022 C Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg" style="width:100%"></td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></td></tr>
+
+<tr><td style="width:50%"><b>2022 B Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>2022 C Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg"></td></tr>
+
+</tbody></table>
 
 #### **Achievement**
 
