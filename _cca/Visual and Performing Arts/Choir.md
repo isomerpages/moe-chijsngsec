@@ -89,7 +89,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </tr>
 
 <tr><td style="width:50%"><b>Choir Exchange at SNG and NYGH</b><br><br>The 2-day exchange was a gathering of 3 girls’ choirs, namely St. Nicholas, Tanjong Katong Girls’ School and Nanyang Girls’ High School. We had the privilege to host the exchange on the first day, where the students learn how to be a good host and gain organisational skills. The students from the 3 schools perform, observe, listen and learn together. The students make friends and had fun in the activities. The exchange climaxed to a performance at the NYGH auditorium where parents were invited to watch their daughters perform. All in all, the exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
-</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td>
+</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture10.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture17.jpg"></td>
 </tr>
 
 
