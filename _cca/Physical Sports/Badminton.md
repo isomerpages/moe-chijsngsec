@@ -73,6 +73,8 @@ SNBT All the way!
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| North Zone Inter-School Badminton Championships 2023     | 'B' Division     | 2nd    |
+| North Zone Inter-School Badminton Championships 2023     | 'C' Division     | 2nd    |
 | NSG National <br>Badminton Championships 2023     | 'B' Division     | Top 8     |
 | NSG North Zone<br>Badminton Championships 2023     | 'B' Division     | 2nd     |
 | NSG North Zone <br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
