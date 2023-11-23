@@ -72,28 +72,27 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 <table style="width:100%">
 <tbody>
-<tr>
-<td style="width:50%"><b>SYF Arts Presentation 2023</b><br><br>SN Choir was awarded the Certificate of Distinction. We are thankful to all who supported us throughout from the preparation to the actual day of competition. With grit and determination, the students together with our choir conductor, Ms Lim Ai Hooi presented a wonderful performance during the competition!</td>
+<tr><td style="width:50%"><b>SYF Arts Presentation 2023</b><br><br>SN Choir was awarded the Certificate of Distinction. We are thankful to all who supported us throughout from the preparation to the actual day of competition. With grit and determination, the students together with our choir conductor, Ms Lim Ai Hooi presented a wonderful performance during the competition!</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture2.jpg"></td></tr>
 
-<tr>
-<td style="width:50%"><b>Choir Workshop with Mr André van der Merwe</b><br><br>Mr André van der Merwe is a conductor and composer from Cape Town, South Africa. His choirs won many awards gobally. With his exuberant personality, Mr André has shared on singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and benefitted much from the workshop.</td>
+<tr><td style="width:50%"><b>Choir Workshop with Mr André van der Merwe</b><br><br>Mr André van der Merwe is a conductor and composer from Cape Town, South Africa. His choirs won many awards gobally. With his exuberant personality, Mr André has shared on singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and benefitted much from the workshop.</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture3.jpg"><br></td></tr>
 
-<tr>
-<td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br><img src="/images/06%20CCA/VPA%20Choir/Picture5.jpg"><br>
+<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br><br><img src="/images/06%20CCA/VPA%20Choir/Picture5.jpg"><br>
 <img src="/images/06%20CCA/VPA%20Choir/Picture4.jpg"></td>
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture6.jpg"><br>
 <img src="/images/06%20CCA/VPA%20Choir/Picture7.jpg"><br>
 <img src="/images/06%20CCA/VPA%20Choir/Picture8.jpg"></td></tr>
 
-<tr>
-<td style="width:50%"><b>Choir Exchange at NYGH</b><br><br>The exchange was a gathering of 5 secondary school choirs. It was a time for the students to perform, observe, listen and learn to be better. The students had fun in the bonding activities and make friends among choirs from other schools. The exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
-<img src="/images/06%20CCA/VPA%20Choir/picture%209.jpg"><br></td>
-<td><img src="/images/06%20CCA/VPA%20Choir/picture%2011.jpg">
-<img src="/images/06%20CCA/VPA%20Choir/picture%208.jpg">
-<img src="/images/06%20CCA/VPA%20Choir/picture%2010.jpg"></td></tr>
-	
+<tr><td style="width:50%"><b>90th Anniversary AA Concert at EJC</b><br><br>SN Choir participated at the concert for the Alumnae. It was an exciting occasion to see the many generations of the SNG family!<br>
+</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td>
+</tr>
+
+<tr><td style="width:50%"><b>Choir Exchange at SNG and NYGH</b><br><br>The 2-day exchange was a gathering of 3 girls’ choirs, namely St. Nicholas, Tanjong Katong Girls’ School and Nanyang Girls’ High School. We had the privilege to host the exchange on the first day, where the students learn how to be a good host and gain organisational skills. The students from the 3 schools perform, observe, listen and learn together. The students make friends and had fun in the activities. The exchange climaxed to a performance at the NYGH auditorium where parents were invited to watch their daughters perform. All in all, the exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
+</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td>
+</tr>
+
+
 </tbody></table>
 
 
