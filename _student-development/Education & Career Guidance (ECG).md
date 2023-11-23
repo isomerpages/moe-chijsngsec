@@ -2,6 +2,7 @@
 title: Education & Career Guidance (ECG)
 permalink: /student-development/Education-and-Career-Guidance-ECG/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
@@ -51,7 +52,7 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
 </thead>
 </table>
 
-![](/images/ECG%202020%20Pic%201.png)
+![ECG](/images/05%20Student%20Development/10%20Education%20Career%20Guidance/ECG%202020%20Pic%201.png)
 
 1.  Who am I?  
 2.  Where am I going?  
@@ -68,12 +69,12 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
         *   Students may use the information and tools to explore various education and career pathways, and take charge of their future.&nbsp;
          *   &nbsp;Parents may navigate the portal with their child, using their child's account, and take the opportunity to begin an ECG conversation.
 
-![](/images/05%20Student%20Development/ECG%20page%20photo.jpg)
+![ECG](/images/05%20Student%20Development/10%20Education%20Career%20Guidance/ECG%20page%20photo.jpg)
 
 [Link to myskillsfuture portal for secondary students](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
 
-* <img src="/images/05%20Student%20Development/sngs%20ecgc%20qr%20code.png" style="width:180px;height:180px;margin-left:15px;" align="right">
+* <img src="/images/05%20Student%20Development/10%20Education%20Career%20Guidance/sngs%20ecgc%20qr%20code.png" style="width:180px;height:180px;margin-left:15px;" align="right">
     
    * In-house ECG Counsellor (Ms Grace Champion)
        *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
