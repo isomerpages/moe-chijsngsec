@@ -60,7 +60,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg"></td></tr>
 
 <tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>C Division Team Champion</b></td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg)"></td></tr>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg"></td></tr>	
 
 </tbody></table>
 
