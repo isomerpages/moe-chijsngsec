@@ -57,6 +57,10 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 
 <table style="width:100%">
 <tbody><tr>
+
+	
+	
+	
 <td style="width:50%"><b>2022 Jubilate XIII (Chinese Dance)</b></td>
 <td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg"></td></tr>
 
