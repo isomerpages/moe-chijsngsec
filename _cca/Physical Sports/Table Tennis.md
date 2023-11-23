@@ -27,39 +27,45 @@ In SNTT, there are various opportunities and platforms to develop character and 
 ##### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng</td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Ms Chua Shi Yan</td></tr>
+</tbody></table>
 
 ##### **Student Executive Committee (2022 - 2023)**
 
-
-| Name | Class | Position |
-| -------- | -------- | -------- |
-| Lim En Xuan, Gloria | Sec 4L | Captain |
-| See Hui Yui | Sec 4H | Vice Captain |
-| Eu Woon Ning | Sec 3J | Sec 3 Level Coordinator |
-| Ng Yi Xin, Giselle | Sec 3L | Sec 3 Assistant Level Coordinator |
-| Kimberly Gan Yuxin | Sec 2T | 'C' Division Captain |
-| Lim Heng Xuan, Chavelle | Sec 2J | Sec 2 Level Coordinator |
-
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Lim En Xuan, Gloria</td><td>Sec 4L</td><td>Captain</td></tr>
+<tr><td>See Hui Yui</td><td>Sec 4H</td><td>Vice Captain</td></tr>
+<tr><td>Eu Woon Ning</td><td>Sec 3J</td><td>Sec 3 Level Coordinator</td></tr>
+<tr><td>Ng Yi Xin, Giselle</td><td>Sec 3L</td><td>Sec 3 Assistant Level Coordinator</td></tr>
+<tr><td>Kimberly Gan Yuxin</td><td>Sec 2T</td><td>'C' Division Captain</td></tr>
+<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 2J</td><td>Sec 2 Level Coordinator</td></tr>
+</tbody></table>
 
 ##### **CCA Highlights**
 
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2023</b><br><b><br>B Division Team Champion</b>
+<b><br>C Division Team 1st Runner-up</b></td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/tt5%202023.jpg"></td></tr>
 
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>B Division Team Champion</b></td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg"></td></tr>
 
-| North Zone Inter-School Table Tennis Championships 2023<br><br>B Division Team Champion<br>C Division Team 1st Runner-up | ![TT5 2023](/images/06%20CCA/PS%20Table%20Tennis/tt5%202023.jpg) |
-| -------- | -------- |
-| **North Zone Inter-School Table Tennis Championships 2022<br><br>B Division Team Champion** | ![TT1 2022](/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg) |
-| **North Zone Inter-School Table Tennis Championships 2022<br><br>C Division Team Champion** | ![TT2 2022](/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg) |
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>C Division Team Champion</b></td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg)"></td></tr>
+</tbody></table>
 
 
 
 ##### **CCA Achievements**
-
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
