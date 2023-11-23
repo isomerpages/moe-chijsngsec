@@ -59,22 +59,14 @@ SNBT All the way!
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture22.jpg">
 <br><img src="/images/06%20CCA/PS%20Badminton/Picture24.jpg"></td></tr>
 
+<tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.<br><img src="/images/06%20CCA/PS%20Badminton/Picture25.jpg"><br></td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture26.jpg">
+<br><img src="/images/06%20CCA/PS%20Badminton/Picture27.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture28.jpg"></td></tr>	
 
-	
-	
-	
-  <tr>
-    <th class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Sports Camp</span><br><br>Sports camp is annual event where sports CCAs come together to bond, to review the year and to plan and strategise for upcoming year. </th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20Badminton/Badminton1.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton2.jpeg" style="width:100%"></th>
-  </tr>
-
-</tbody><tbody>
-  <tr>
-    <td class="tg-brl1"><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">Training Sessions</span><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Badminton/Badminton3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton4.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Badminton/Badminton5.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+</tbody></table>
 
 #### **CCA Achievements**
 
