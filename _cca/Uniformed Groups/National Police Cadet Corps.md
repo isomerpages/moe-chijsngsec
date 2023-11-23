@@ -19,26 +19,16 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Field<br>Basketball court<br>Venues as designated by NPCC HQ</td></tr>
 <tr><th>Training Day / Time</th><td>Friday: 4:00 pm - 6:30 pm<br>Saturday: 8:00 am - 12:00 pm*<br>(HQ courses, activities and competitions according to HQ Schedule)<br>*Once a month, in place of weekday's training sessions</td></tr>
-	<tr>
-    <th>Instructors</th>
-		<td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td>
-  </tr>
-</tbody>
-</table>
+<tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td></tr>
+</tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-    <th style="width:40%">Officer-in-Command</th>
-    <td>Mdm Lee Keat Peng</td>
-  </tr>
-  <tr>
-    <th>Teacher Officers</th>
-    <td>Mr Daniel Khor<br>Mr Chang Zheng<br>Ms Jocelyn Ling</td>
-  </tr>
-	</tbody></table>
+<tbody>
+<tr><th style="width:40%">Officer-in-Command</th><td>Mdm Lee Keat Peng</td></tr>
+<tr><th>Teacher Officers</th><td>Mr Daniel Khor<br>Mr Chang Zheng<br>Ms Jocelyn Ling</td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
 
