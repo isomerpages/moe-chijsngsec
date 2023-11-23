@@ -45,32 +45,27 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 </tbody></table>
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">2023 B Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg" style="width:100%"></th>
-    <th class="tg-brl1"><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></th>
-  </tr>
-</thead>
-	<thead>
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></td></tr>
+
+<tr><td style="width:50%"><b>2022 B Division National School Games Competition</b>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg"></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg"></td></tr>
+
+
+	
+	
   <tr>
     <th class="tg-v41i">2022 B Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg" style="width:100%"></th>
     <th class="tg-brl1"><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg" style="width:100%"></th>
   </tr>
-</thead>
-<tbody>
+
+</tbody><tbody>
   <tr>
     <td class="tg-v41i"><br>2022 C Division National School Games Competition<br><br><img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg" style="width:100%"></td>
     <td class="tg-vo25"><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg" style="width:100%"></td>
