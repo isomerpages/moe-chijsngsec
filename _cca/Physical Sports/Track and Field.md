@@ -12,11 +12,15 @@ variant: markdown
 <img src="/images/06%20CCA/PS%20Track%20and%20Field/Track%20and%20Field.jpeg" style="width:100%">
 
 
-Track and Field is a sport which consists of four main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
+Track and Field is a sport which consists of 4 main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
 
 Every year, we endure countless hours of gruelling training which has moulded us to the athletes we are today. Balancing training and school work had never been easy but with our teammates by our side, we know that no hurdle is too hard to overcome. Every run, jump, or throw has always been a valuable opportunity and a new learning experience for every one of us.
 
-Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNTF has taught us many invaluable life lessons: perseverance, determination, discipline and sportsmanship. Moving forward, SNTF promises to strive for excellence, push our limits and do our best! 圣中田径一级棒!  
+Striving to live up to our motto “Stronger together! No matter the weather”
+
+SNTF has taught us many invaluable life lessons: perseverance, determination, discipline and sportsmanship. Moving forward, SNTF promises to strive for excellence, push our limits and do our best!
+
+圣中田径一级棒！
 
 #### **CCA Information**
 
@@ -41,14 +45,17 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 #### **Teachers-in-charge**
 
 <table style="width:100%">
-  <tbody>
-		<tr>
-			<td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Yang Peishan<br>Miss Lee Le Xin Francoise<br>Mr Koh Wen Jin, Marcus<br>Ms Kho Qi En Shermaine<br>Mr Kevin Andrew Thesman<br>Ms Audrey Chia<br><br></td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Yang Peishan<br>Miss Lee Le Xin Francoise<br>Mr Koh Wen Jin, Marcus<br>Ms Kho Qi En Shermaine<br>Mr Kevin Andrew Thesman<br>Ms Audrey Chia<br><br></td></tr>
+</tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
+
+
+
+
+
+
 
 | Name | Class | Appointment |
 | -------- | -------- | -------- |
