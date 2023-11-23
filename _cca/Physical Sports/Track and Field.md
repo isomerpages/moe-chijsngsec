@@ -43,7 +43,7 @@ Striving to live up to our motto “Throw, jump or run, WE FIGHT AS ONE!”, SNT
 <table style="width:100%">
   <tbody>
 		<tr>
-		<td><b>Miss Lee Le Xin Francoise</b><br>Mr Koh Wen Jin, Marcus<br>Ms Audrey Chia<br>Ms Kho Qi En Shermaine<br>Miss Susan Lim (HOD / PE &amp; CCA)</td>
+			<td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Yang Peishan<br>Miss Lee Le Xin Francoise<br>Mr Koh Wen Jin, Marcus<br>Ms Kho Qi En Shermaine<br>Mr Kevin Andrew Thesman<br>Ms Audrey Chia<br><br></td>
   </tr>
 </tbody>
 </table>
