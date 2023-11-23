@@ -61,35 +61,19 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 
 #### **CCA Highlights**
---------------
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i"><br><br><br><br><br><br>Gymnasts in action during training  <br></th>
-    <th class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym1.jpeg" style="width:100%"></th>
-  </tr>
-</thead>
+<table style="width:100%">
 <tbody>
-  <tr>
-    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Trampoline Competition</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym2.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-v41i"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>NSG Artistic Gymnastics Championships </td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym3.jpeg" style="width:100%"><br><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym4.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Gymnasts in action during training</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Artistic Gymnastics Championships </b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym3.jpeg"></td></tr>
+
+</tbody></table>
 
 #### **CCA Achievement**
 
