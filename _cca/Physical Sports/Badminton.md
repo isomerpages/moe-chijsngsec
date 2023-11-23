@@ -55,8 +55,8 @@ SNBT All the way!
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Sports Camp</b><br><br>Sports camp is an annual event where sports CCAs come together to bond and to review the year and to plan and strategise for the upcoming year.<br><img src="/images/06%20CCA/PS%20Badminton/Picture22.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture23.jpg">
+<tr><td style="width:50%"><b>Sports Camp</b><br><br>Sports camp is an annual event where sports CCAs come together to bond and to review the year and to plan and strategise for the upcoming year.<br><img src="/images/06%20CCA/PS%20Badminton/Picture23.jpg"><br></td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture22.jpg">
 <br><img src="/images/06%20CCA/PS%20Badminton/Picture24.jpg"></td></tr>
 
 
