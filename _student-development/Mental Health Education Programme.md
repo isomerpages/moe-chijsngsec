@@ -2,6 +2,7 @@
 title: Mental Health Education Programme
 permalink: /student-development/Mental-Health-Education-Programme/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
@@ -10,17 +11,17 @@ description: ""
 
 The school's Mental Health Education (MHE) Programme is designed to achieve the following goals for our students:
 
-G1: Strengthen students’ resilience and well-being and for them to obtain and maintain good mental health 
+G1: Strengthen students’ resilience and well-being and for them to obtain and maintain good mental health&nbsp;
 
 G2: Understand mental health as a continuum from mental wellness to mental illness
 
 G3: Develop an understanding of mental illness and their treatments
 
-G4: Enhance their help-seeking efficacy 
+G4: Enhance their help-seeking efficacy&nbsp;
 
-G5: Destigmatise mental illness 
+G5: Destigmatise mental illness&nbsp;
 
-In St Nicks’, the MHE curriculum takes reference from the topics stipulated by MOE’s Student Development Curriculum Division.  The table below states the range of topics covered in the MHE curriculum from Sec 1 to 4, outlining the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FTGP, CCE lessons, assembly programmes etc. 
+In St Nicks’, the MHE curriculum takes reference from the topics stipulated by MOE’s Student Development Curriculum Division.&nbsp; The table below states the range of topics covered in the MHE curriculum from Sec 1 to 4, outlining the Skills, Knowledge, Values and Attitude which will be covered in the various aspects of your child’s school experiences- including FTGP, CCE lessons, assembly programmes etc.&nbsp;
 
 We have also included some resources that may be helpful for understanding your child’s development in Mental Health Education. Together, we hope to journey with parents to ensure our students’ mental well-being as well as to reinforce the importance of having a mindset of growth in them.
 
@@ -73,7 +74,7 @@ We have also included some resources that may be helpful for understanding your 
     <td class="tg-y7qa">https://go.gov.sg/z96mra<br><span style="color:#222;background-color:#EAEAEA"> </span><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="4"><br><img src="/images/Mental%20Health%20Programme.jpg" style="width:100%"></td>
+    <td class="tg-ii8k" colspan="4"><br><img src="/images/05%20Student%20Development/11%20Mental%20Health%20Ed%20Prog/Mental%20Health%20Programme.jpg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
