@@ -38,28 +38,26 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Yang Peishan<br>Miss Lee Le Xin Francoise<br>Mr Koh Wen Jin, Marcus<br>Ms Kho Qi En Shermaine<br>Mr Kevin Andrew Thesman<br>Ms Audrey Chia<br><br></td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
-
-
-
-
-
-
-| Name | Class | Appointment |
-| -------- | -------- | -------- |
-| Valerie Koh Han Ning     | Sec 4U     | Captain     |
-| Isabel Tong Yu Wei     | Sec 4U     | Vice-Captain     |
-| Angel Lim Yuxin     | Sec 4L     | Vice-Captain     |
-| Looi Yan Ning Samantha     | Sec 4L     | Sprints &amp; Hurdles Leader     |
-| Verboon Lara    | Sec 4W     | Jumps Leader     |
-| Nicole Yeo Ser Leng     | Sec 4F     | Middle Distance Leader     |
-| Siu Yu Tung Raechelle     | Sec 4P     | Throws Leader     |
-| Seah Jia Xin Isabelle     | Sec 2P     | Sprints &amp; Hurdles / Jumps<br>Lower Sec Coordinator     |
-| Aletheia Charis Lim Rae-Ern     | Sec 2C     | Middle Distance<br>Lower Sec Coordinator     |
-| Guok Xue Qian     | Sec 2C     | Throws<br>Lower Sec Coordinator     |
-
-
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Valerie Koh Han Ning</td><td>Sec 4U</td><td>Captain</td></tr>
+<tr><td>Isabel Tong Yu Wei </td><td>Sec 4U</td><td>Vice - Captain</td></tr>
+<tr><td> Angel Lim Yuxin</td><td>Sec 4L</td><td> Vice-Captain</td></tr>
+<tr><td> Looi Yan Ning Samantha </td><td>Sec 4L</td><td>Sprints &amp; Hurdles Leader </td></tr>
+<tr><td>Verboon Lara</td><td>Sec 4W</td><td>Jumps Leader</td></tr>
+<tr><td>Nicole Yeo Ser Leng</td><td>Sec 4F</td><td>Middle Distance Leader</td></tr>
+<tr><td>Siu Yu Tung Raechelle</td><td>Sec 4P</td><td>Jumps Leader</td></tr>
+<tr><td>Seah Jia Xin Isabelle</td><td>Sec 4P</td><td>Sprints &amp; Hurdles / Jumps<br>Lower Sec Coordinator </td></tr>
+<tr><td>Aletheia Charis Lim Rae-Ern</td><td>Sec 2C</td><td>Middle Distance<br>Lower Sec Coordinator</td></tr>
+<tr><td>Guok Xue Qian </td><td>Sec 2C</td><td>Throws<br>Lower Sec Coordinator </td></tr>
+</tbody></table>
 
 #### **CCA Highlights**
 --------------
