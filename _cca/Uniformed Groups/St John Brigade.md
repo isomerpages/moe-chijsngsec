@@ -63,35 +63,27 @@ To be courteous and honest in all my words and actions</i>
 
 #### **CCA Highlights**
 
-
-
 <table style="width:100%">
-    <tbody><tr>
-			<td style="width:40%"><b>June and November Camp</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br><span style="font-weight:normal">Our camps also include engaging activities such as Amazing Races that allow our cadets to bond with their squad mates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</span></td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td>
-  </tr>
-  <tr>
-			<td style="width:40%"><b>Presentation of Colours Award</b><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours.</td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB2.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.</td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td>
-  </tr>
-	<tr>
-		<td style="width:40%"><b>National Day Celebrations @ SNGS</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td>
-  </tr>
-<tr>
-		<td style="width:40%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
-    <td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td>
-  </tr>
-</tbody>
-</table>
+<tbody>
+<tr><td style="width:50%"><b>June and November Camp</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as Amazing Races that allow our cadets to bond with their squad mates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>Presentation of Colours Award</b><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB2.jpeg"></td></tr>
+
+<tr><td style="width:50%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td></tr>
+  
+<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td></tr>
+	
+<tr><td style="width:50%"><b>National Day Celebrations @ SNGS</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
+
+<tr><td style="width:50%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td></tr>	
+
+</tbody></table>
 
 #### **CCA Achievements**
 
