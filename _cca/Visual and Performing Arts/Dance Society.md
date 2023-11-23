@@ -33,7 +33,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chong Bao Ling<br>Ms Chen Jiehui</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>
@@ -42,14 +42,14 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Jewel Lim Yu-En</td><td>Sec 4L</td><td>CCA Chairperson</td></tr>
-<tr><td>Ang Xuan Lin</td><td>Sec 4P</td><td>CCA Vice-Chairperson</td></tr>
-<tr><td>Magdalene Ong Xi En</td><td>Sec 4L</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Wah Ro Shin Eriel</td><td>Sec 4U</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Erynn Toh (Du Yining)</td><td>Sec 3T</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Ng Xuan Na</td><td>Sec 3G</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Elizabeth Lee Zild Juan</td><td>Sec2F</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Olesya Tiffany Koe Mei Ni</td><td>Sec 2C</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Erynn Toh (Du Yining)</td><td>Sec 3T</td><td>CCA Chairperson</td></tr>
+<tr><td>Kirstyn Koh Zi Rui</td><td>Sec 3T</td><td>CCA Vice-Chairperson</td></tr>
+<tr><td>Ethel Chong Shan En</td><td>Sec 3H</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Ng Xuan Na</td><td>Sec 3G</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Lim Wen Xuan</td><td>Sec 2W</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 2W</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Mikayla Seah Tian Xin</td><td>Sec1C</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Tessa Peer Enya</td><td>Sec 1F</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 
