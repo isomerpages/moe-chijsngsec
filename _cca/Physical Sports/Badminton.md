@@ -39,6 +39,20 @@ SNBT All the way!
 
 #### **Student Executive Committee (2022 - 2023)**
 
+<table style="width:100%">
+<tbody>
+<tr>
+<th style="width:45%">Name</th>
+<th style="width:25%">Class</th> 
+<th style="width:30%">Position</th>
+</tr>
+<tr><td>Siu Li Xuan </td><td>Sec 4F</td><td>Captain</td></tr>
+<tr><td>Rachel Loh Si Jin</td><td>Sec 4P</td><td>Vice - Captain</td></tr>
+<tr><td>Jessie Lua Le En</td><td>Sec 3L</td><td>Lower Secondary Coordinator</td></tr>
+</tbody></table>
+
+
+
 | Name | Class | Appointment |
 | -------- | -------- | -------- |
 | Siu Li Xuan     | Sec 4F     | Captain     |
