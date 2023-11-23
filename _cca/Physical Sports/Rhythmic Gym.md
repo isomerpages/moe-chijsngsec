@@ -51,49 +51,25 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>National Inter-school Competition 2023</b><br><br>FIG gymnast</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture36.jpg"></td></tr>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture36.jpg"></td>
 
+</tr><tr><td style="width:50%"><b>National Inter-school Competition 2023</b><br><br>The Level 4 gymnasts</td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture38.jpg"></td>
+	
+</tr><tr><td style="width:50%"><b>National Inter-school Competition 2023</b><br><br>The Level 5 gymnasts</td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture39.jpg"></td></tr>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-</tbody></table><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">National Inter-school Competition 2022<br><br><span style="font-weight:normal">FIG gymnast</span></th>
-    <th class="tg-s2rg"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20FIG%20gymnast.png" style="width:100%"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 4 group event</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20Level%204%20group%20event.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">National Inter-school Competition 2022</span><br><br>The Level 5 gymnasts</td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/NISC%202022%20Level%205%20gymnasts.jpeg" style="width:100%"></td>
-  </tr>
-  <tr>
-    <td class="tg-brl1"><span style="font-weight:bold">Sports Camp 2020</span><br><br>The Rgym girls playing modified volleyball during Sports Camp. </td>
-    <td class="tg-vo25"><img src="/images/06%20CCA/PS%20RGym/Sports%20Camp.jpeg" style="width:100%"></td>
-  </tr>
-</tbody>
-</table>
+<tr><td style="width:50%"><b>Sports Camp 2023</b><br><br>Bonding Games</td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture40.jpg"></td></tr>	
+
+</tbody></table>
 
 #### **CCA Achievements**
 
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games<br>Rhythmic Gymnastics Championships 2023    | 'B' Division<br>'C' Division     | 1st<br>1st     |
+| National Inter-school Competition 2023   | 'B' Division<br>'C' Division     | Champion<br>Champion     |
+| National School Games<br>Rhythmic Gymnastics Championships 2023    | 'B' Division<br>'C' Division     |1st<br>1st     |
 | National Inter-School Competition 2022     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
 | National Inter-School Competition 2021     | 'B' Division     | Champion     |
-| National Inter-School Competition 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
