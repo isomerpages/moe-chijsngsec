@@ -13,7 +13,7 @@ variant: markdown
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
-The St. Nicks Rhythmic Gym aims to build resilience and grace. The team has various learning opportunities that help to develop not only strength and dexterity but also poise and self-confidence. Through trainings, competitions, camps and other activities, they learn to take up leadership roles, forge deeper friendships and sisterly love for one another.
+Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holistic development of students. The program focuses on character, resilience, and grace, fostering discipline and perseverance. Athletes develop self-awareness, confidence, and leadership skills, contributing to a tight-knit team. Competitions and diverse activities extend learning beyond the gym, shaping resilient, confident individuals.
 
 #### **CCA Information**
 
