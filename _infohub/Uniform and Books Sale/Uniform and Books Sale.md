@@ -41,6 +41,10 @@ Sale dates in <b>Jan - May 2024</b>
 Sale Time: 9 am to 2.30 pm
 Venue: School Canteen
 
+<u>Ubi Outlet (Tel 6747 8037)</u><br>
+Time: 10 am - 1 pm, 2 - 5.45 pm (Mon-Sat)<br>LUNCH TIME 1 - 2 pm<br>
+Closed on Sunday, Public Holiday
+
 
 <b>Sizing Chart for:</b>
 
