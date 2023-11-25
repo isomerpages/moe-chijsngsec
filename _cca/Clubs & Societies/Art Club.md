@@ -53,7 +53,6 @@ The Art Club will strive to continue to be a place where young artists can grow 
 </tbody></table>
 
 
-
 #### **CCA Highlights**
 
 <table style="width:100%">
