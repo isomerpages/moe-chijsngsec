@@ -66,7 +66,7 @@ Opportunities also abound for members to contribute to the school and community 
 
  | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|Design Thinking and Computational Thinking International Competition 2023 (DrCT)|Sec 1 - 4|4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention|
+|Design Thinking and Computational Thinking International <br>Competition 2023 (DrCT)|Sec 1 - 4|4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention|
 |Design Thinking and Computational Thinking International Competition 2022 (DrCT)|Sec 1 - 4|3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention|
 |Bebras Challenge 2022|Sec 1 - 3|5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award|
 |Microsoft DigiGirlz 2021|Sec 1 - 2|Tech &amp; Creativity Award|
