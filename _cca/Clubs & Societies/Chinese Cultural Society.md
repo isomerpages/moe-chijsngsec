@@ -51,16 +51,6 @@ variant: markdown
 <tr><td>Chi Shing Yee</td><td>Sec 2L</td><td>Team Leader
 	</td></tr></tbody></table>
 
-#### **Student Executive Committee (2022-2023)**
-
-<table style="width:100%">
-<tbody><tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
-<tr><td>Eyu Kai Xing</td><td>Sec 4L</td><td>President</td></tr>
-<tr><td>Anna Lim Si En</td><td>Sec 4P</td><td>Vice-President</td></tr>
-<tr><td>An Yutong</td><td>Sec 4F</td><td>Team Leader</td></tr>
-<tr><td>Jeslyn Lee Jie Ning </td><td>Sec 4L</td><td>Team Leader</td></tr>
-</tbody></table>
-
 #### **CCA Highlights**
 
 <table style="width:100%">
