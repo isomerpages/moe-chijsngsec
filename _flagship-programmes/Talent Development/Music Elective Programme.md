@@ -32,7 +32,7 @@ The programme prepares students for the GCE ‘O’ Level Higher Music Examinati
 
 Upon admission into the school, interested students are required to go through a Selection Exercise comprising listening and aural tests, an audition and an interview. The Selection Exercise will be held at the end of December 2023 for the 2024 intake.  
   
-Application for 2024 S1 MEP will be open on the day of the release of the S1 Posting Results. Click on [this link](https://sites.google.com/moe.edu.sg/2024-s1-mep-admission/selection-exercise) to submit your application and for information about the selection exercise.  
+Application for 2024 S1 MEP will be open on the day of the release of the S1 Posting Results. Click on [this link](https://sites.google.com/moe.edu.sg/2024-s1-mep-admission) to submit your application and for information about the selection exercise.  
 
 
 #### **Additonal Resources**
