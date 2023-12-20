@@ -37,7 +37,7 @@ To keep the Guide Law
 <tr><td><b>Ms Fadhilah Bte R. Harianto</b><br>Ms Tan Ann Nie<br>Ms Chen Yiqi<br>Mdm Xie Fuzhen</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024)**
+#### **Student Executive Committee (2023-2024)**
 
 <table style="width:100%">
 <tbody>

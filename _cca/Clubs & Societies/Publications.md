@@ -31,8 +31,6 @@ Our writers are also involved in journalism by gathering stories through intervi
 <tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022-2023)**
-
 #### **Student Executive Committee (2022 - 2023)**
 
 <table style="width:100%">

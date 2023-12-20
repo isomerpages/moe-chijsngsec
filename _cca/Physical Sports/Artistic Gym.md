@@ -31,7 +31,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <tr><td><b>Ms Amy Yee</b><br>Ms Mohana d/o S Sinniah<br>Mrs Theresa Chan </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>

@@ -31,7 +31,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 <tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Ms Chua Shi Yan</td></tr>
 </tbody></table>
 
-##### **Student Executive Committee (2022 - 2023)**
+##### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>
