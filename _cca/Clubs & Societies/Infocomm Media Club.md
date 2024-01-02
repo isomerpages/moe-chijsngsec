@@ -28,7 +28,7 @@ Opportunities also abound for members to contribute to the school and community 
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Andy Lee</b><br>Mr Chua Sau Chuan<br>Ms Claire Cher</td></tr>
+<tr><td><b>Mr Andy Lee</b><br>Ms Claire Cher<br>Mr Cai Jinhong </td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
@@ -36,13 +36,13 @@ Opportunities also abound for members to contribute to the school and community 
 <table style="width:100%">
  <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Eliana Chng Jia Xuan</td><td>Sec 3W</td><td>President</td></tr>
-<tr><td>Chua Yi Xuan Cherise</td><td>Sec 3P</td><td>Vice-President</td> </tr>
-<tr><td>Tan Lee-Ann</td><td>Sec 3L<br></td><td>Head (Admin)</td></tr>
-<tr><td>Amanda Chen Zhiyun</td><td>Sec 3P</td><td>Head (PA)</td></tr>
-<tr><td>Lee Qian Ying</td><td>Sec 3D</td><td>Head (Media)</td></tr>
-<tr><td>Clarisse Fong Jie Min</td><td>Sec 2U</td><td>Sec 2 Level Coordinator</td></tr>
-<tr><td>Choy Yumin</td><td>Sec 2U</td><td>Sec 1 Level Coordinator</td></tr>
+<tr><td>Eliana Chng Jia Xuan</td><td>Sec 4W</td><td>President</td></tr>
+<tr><td>Chua Yi Xuan Cherise</td><td>Sec 4P</td><td>Vice-President</td> </tr>
+<tr><td>Tan Lee-Ann</td><td>Sec 4L<br></td><td>Head (Admin)</td></tr>
+<tr><td>Amanda Chen Zhiyun</td><td>Sec 4P</td><td>Head (PA)</td></tr>
+<tr><td>Lee Qian Ying</td><td>Sec 4D</td><td>Head (Media)</td></tr>
+<tr><td>Clarisse Fong Jie Min</td><td>Sec 3L</td><td>Sec 2 Level Coordinator</td></tr>
+<tr><td>Choy Yumin</td><td>Sec 3L</td><td>Sec 1 Level Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
@@ -66,6 +66,7 @@ Opportunities also abound for members to contribute to the school and community 
 
  | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+|Bebras Challenge 2023<br>|  Sec 1 - 3  |2 Gold Award,<br> 9 Silver Award,<br>11 Bronze Award,<br>4 Honorable Mention|
 |Design Thinking and Computational <br>Thinking International <br>Competition 2023 (DrCT)|  Sec 1 - 4  |4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention|
 |Design Thinking and Computational<br> Thinking International<br> Competition 2022 (DrCT)|Sec 1 - 4|3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention|
 |Bebras Challenge 2022|Sec 1 - 3|5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award|
