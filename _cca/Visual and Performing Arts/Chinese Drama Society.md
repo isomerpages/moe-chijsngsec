@@ -41,12 +41,12 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Khoo Qi Xuan, Claresta 邱琪媗</td><td>Sec 4H</td><td>主席 President</td></tr>
-<tr><td>Kelly Ho Jia Yi 何嘉怡</td><td>Sec 4F</td><td>副主席 Vice President</td></tr>
-<tr><td>Amelie Koh Wei Lyn 许玮琳</td><td>Sec 4G</td><td>演出组长 Head of Performance </td></tr>
-<tr><td>Woon Le Qing 云乐晴</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
-<tr><td>Goh Si Ying Fiona 吴思颖</td><td>Sec 3D</td><td> 福利组长 Head of Welfare</td></tr>
-<tr><td>Lee Xinyi, Fionn李欣怡</td><td>Sec 3U</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Renee Foo 符芷瑜</td><td>Sec 4D</td><td>主席 President</td></tr>
+<tr><td>Lian Le En Magdalyn 连乐蒽</td><td>Sec 4U</td><td>副主席 Vice President</td></tr>
+<tr><td>Chong Hui Ning Claris 张卉甯</td><td>Sec 4T</td><td>演出组长 Head of Performance </td></tr>
+<tr><td>Lee Xinyi, Fionn 李欣怡</td><td>Sec 4U</td><td>总务 Head of Logistics</td></tr>
+<tr><td>Joelle Lim Shi Min (Lin Shimin) 林诗敏</td><td>Sec 3G</td><td> 福利组长 Head of Welfare</td></tr>
+<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 3L</td><td> 活动组长 Head of Events</td></tr>
 </tbody></table>
 
 
