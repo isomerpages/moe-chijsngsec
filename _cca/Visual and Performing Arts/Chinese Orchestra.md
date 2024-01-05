@@ -17,18 +17,18 @@ Gradually, interest spread and a few enthusiastic girls sent a proposal to the p
 
 Some of the orchestra’s key objectives are to promote the awareness and appreciation of Chinese music, as well as to exchange ideas and experiences among musically-oriented institutions and individuals. We also felt that there was a need to take an active interest in the civic, cultural, and general welfare of the Chinese and wider community.
 
-Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a renowned composer and conductor, the orchestra has been steadily improving. SNCO is also continually working to develop the group's repertoire and technical capabilities, to foster new audiences, as well as recruit and train new members.
+Under the guidance of our conductor, instructors, and teachers, the orchestra has been steadily improving. SNCO is also continually working to develop the group's repertoire and technical capabilities, to foster new audiences, as well as recruit and train new members.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
 <tr>
-<th>Training / Meeting Venue</th><td>Music Room (Wed) <br>Various Classrooms (Fri)</td></tr>
+<th>Training / Meeting Venue</th><td>Music Room (Monday) <br>Various Classrooms (Friday)</td></tr>
 <tr>
-<th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<th>Training Day / Time</th><td>Monday: 3.45 pm - 6.30 pm<br>Friday: 4.00 pm - 6.30 pm</td></tr>
 <tr>
-<th>Instructors</th><td>Mr Liu Bin (Conductor)<br>Ms Huo Ruo Wei<br>Mr Yeo Siew Wee<br>Mr Tony Ang Ting Leong<br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang<br>Mr Jonathan Ngeow</td></tr>
+<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Mr Chua Yew Kok<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Tan Sheng Rong</td></tr>
 </tbody>
 </table>
 
@@ -36,7 +36,7 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Ms Lua Yi Wen Clarissa<br>Mr David Chang</td></tr>
+<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Mr David Chang</td></tr>
  </tbody>
 </table>
 
@@ -49,23 +49,19 @@ Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a r
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Tan Hui Xin Chloe</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Tan Si Ying</td><td>Sec 4C</td><td>Vice President</td></tr>
-<tr><td>Ong Tze Ning</td><td>Sec 4T</td><td>Secretary</td></tr>
-<tr><td>Tang Si Yuan</td><td>Sec 4C</td><td>5 Conductor</td></tr>
-<tr><td>Tan Yi Shyan</td><td>Sec 4H</td><td>Quarter Mistress</td></tr>
-<tr><td>Lee Yan Yi Celeste</td><td>Sec 4G</td><td>Scores Director</td></tr>
-<tr><td>Yuki Loh Siek Kee</td><td>Sec 4W</td><td>Welfare Head</td></tr>
-<tr><td>Denise Kua Yee Sim</td><td>Sec 3U</td><td>Assistant Secretary</td></tr>
-<tr><td>Liu Jinghan</td><td>Sec 3L</td><td>Assistant Quarter Mistress</td></tr>
-<tr><td>Tanya Toh Yan Xuan</td><td>Sec 3H</td><td>Assistant Welfare Head</td></tr>
-<tr><td>Tan Rou Jing</td><td>Sec 3F</td><td>Assistant Scores Director</td></tr>
-<tr><td>Charlotte Lee Rou Xuan</td><td>Sec 4G</td><td>Laxian Sectional Leader</td></tr>
-<tr><td>Soh En Qi Chloe</td><td>Sec 4G</td><td>Tanbo Sectional Leader </td></tr>
-<tr><td>Charlotte Lim Le Xua</td><td>Sec 3D</td><td>Cello-Bass Sectional Leader</td></tr>
-<tr><td>Lee En Qi</td><td>Sec 3D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
-<tr><td>Ho Enhui, Megan</td><td>Sec 3P</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
-<tr><td>Kimi Yeo Ming Jing</td><td>Sec 4T</td><td>Daji Sectional Leader</td></tr>
+<tr><td>Ho Enhui, Megan</td><td>Sec 4P</td><td>President</td></tr>
+<tr><td>Yap Xiaoci</td><td>Sec 4G</td><td>Vice President</td></tr>
+<tr><td>Heng Hui Xuan</td><td>Sec 4L</td><td>Secretary</td></tr>
+<tr><td>Tanya Toh Yan Xuan</td><td>Sec 4H</td><td>Student Conductor</td></tr>
+<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Charlotte Lim Le Xuan</td><td>Sec 4D</td><td>Scores Director</td></tr>
+<tr><td>Denise Kua Yee Sim</td><td>Sec 4U</td><td>Welfare Head</td></tr>
+<tr><td>Tiong Siong Ying Kaylen</td><td>Sec 4P</td><td>Laxian Sectional Leader</td></tr>
+<tr><td>Geraldine Ong Xin Hui</td><td>Sec 4L</td><td>Tanbo Sectional Leader </td></tr>
+<tr><td>Claire Leong Hoi Ting</td><td>Sec 4P</td><td>Cello-Bass Sectional Leader</td></tr>
+<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
+<tr><td>Soh Kim Hwee Gerlene</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
+<tr><td>Giselle Yap Keat Mien</td><td>Sec 4W</td><td>Daji Sectional Leader</td></tr>
 </tbody></table>
 
 
