@@ -39,7 +39,7 @@ SNBT All the way!
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Cai Jinhong<br> Mdm Yan Guifang</td></tr>
+<tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Jowie Tung<br> Mdm Yan Guifang</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
