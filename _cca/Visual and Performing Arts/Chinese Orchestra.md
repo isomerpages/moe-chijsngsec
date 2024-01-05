@@ -17,18 +17,18 @@ Gradually, interest spread and a few enthusiastic girls sent a proposal to the p
 
 Some of the orchestra’s key objectives are to promote the awareness and appreciation of Chinese music, as well as to exchange ideas and experiences among musically-oriented institutions and individuals. We also felt that there was a need to take an active interest in the civic, cultural, and general welfare of the Chinese and wider community.
 
-Under the guidance of our teachers, instructors and the baton of Mr Liu Bin, a renowned composer and conductor, the orchestra has been steadily improving. SNCO is also continually working to develop the group's repertoire and technical capabilities, to foster new audiences, as well as recruit and train new members.
+Under the guidance of our conductor, instructors, and teachers, the orchestra has been steadily improving. SNCO is also continually working to develop the group's repertoire and technical capabilities, to foster new audiences, as well as recruit and train new members.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
 <tr>
-<th>Training / Meeting Venue</th><td>Music Room (Wed) <br>Various Classrooms (Fri)</td></tr>
+<th>Training / Meeting Venue</th><td>Music Room (Monday) <br>Various Classrooms (Friday)</td></tr>
 <tr>
-<th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<th>Training Day / Time</th><td>Monday: 3.45 pm - 6.30 pm<br>Friday: 4.00 pm - 6.30 pm</td></tr>
 <tr>
-<th>Instructors</th><td>Mr Liu Bin (Conductor)<br>Ms Huo Ruo Wei<br>Mr Yeo Siew Wee<br>Mr Tony Ang Ting Leong<br>Mr Danny Ng<br>Mr Li Baoshun<br>Mr Wu Xiang Yang<br>Mr Jonathan Ngeow</td></tr>
+<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Mr Chua Yew Kok<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Tan Sheng Rong</td></tr>
 </tbody>
 </table>
 
