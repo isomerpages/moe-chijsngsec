@@ -36,7 +36,7 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Ms Lua Yi Wen Clarissa<br>Mr David Chang</td></tr>
+<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Mr David Chang</td></tr>
  </tbody>
 </table>
 
@@ -49,23 +49,19 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Tan Hui Xin Chloe</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Tan Si Ying</td><td>Sec 4C</td><td>Vice President</td></tr>
-<tr><td>Ong Tze Ning</td><td>Sec 4T</td><td>Secretary</td></tr>
-<tr><td>Tang Si Yuan</td><td>Sec 4C</td><td>5 Conductor</td></tr>
-<tr><td>Tan Yi Shyan</td><td>Sec 4H</td><td>Quarter Mistress</td></tr>
-<tr><td>Lee Yan Yi Celeste</td><td>Sec 4G</td><td>Scores Director</td></tr>
-<tr><td>Yuki Loh Siek Kee</td><td>Sec 4W</td><td>Welfare Head</td></tr>
-<tr><td>Denise Kua Yee Sim</td><td>Sec 3U</td><td>Assistant Secretary</td></tr>
-<tr><td>Liu Jinghan</td><td>Sec 3L</td><td>Assistant Quarter Mistress</td></tr>
-<tr><td>Tanya Toh Yan Xuan</td><td>Sec 3H</td><td>Assistant Welfare Head</td></tr>
-<tr><td>Tan Rou Jing</td><td>Sec 3F</td><td>Assistant Scores Director</td></tr>
-<tr><td>Charlotte Lee Rou Xuan</td><td>Sec 4G</td><td>Laxian Sectional Leader</td></tr>
-<tr><td>Soh En Qi Chloe</td><td>Sec 4G</td><td>Tanbo Sectional Leader </td></tr>
-<tr><td>Charlotte Lim Le Xua</td><td>Sec 3D</td><td>Cello-Bass Sectional Leader</td></tr>
-<tr><td>Lee En Qi</td><td>Sec 3D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
-<tr><td>Ho Enhui, Megan</td><td>Sec 3P</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
-<tr><td>Kimi Yeo Ming Jing</td><td>Sec 4T</td><td>Daji Sectional Leader</td></tr>
+<tr><td>Ho Enhui, Megan</td><td>Sec 4P</td><td>President</td></tr>
+<tr><td>Yap Xiaoci</td><td>Sec 4G</td><td>Vice President</td></tr>
+<tr><td>Heng Hui Xuan</td><td>Sec 4L</td><td>Secretary</td></tr>
+<tr><td>Tanya Toh Yan Xuan</td><td>Sec 4H</td><td>Student Conductor</td></tr>
+<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Charlotte Lim Le Xuan</td><td>Sec 4D</td><td>Scores Director</td></tr>
+<tr><td>Denise Kua Yee Sim</td><td>Sec 4U</td><td>Welfare Head</td></tr>
+<tr><td>Tiong Siong Ying Kaylen</td><td>Sec 4P</td><td>Laxian Sectional Leader</td></tr>
+<tr><td>Geraldine Ong Xin Hui</td><td>Sec 4L</td><td>Tanbo Sectional Leader </td></tr>
+<tr><td>Claire Leong Hoi Ting</td><td>Sec 4P</td><td>Cello-Bass Sectional Leader</td></tr>
+<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
+<tr><td>Soh Kim Hwee Gerlene</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
+<tr><td>Giselle Yap Keat Mien</td><td>Sec 4W</td><td>Daji Sectional Leader</td></tr>
 </tbody></table>
 
 
