@@ -20,7 +20,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
-<tr><th>Training Day / Time</th><td>3.45 - 6.30 pm (Monday, Wednesday)<br>4.00 - 6.30 pm (Friday)</td></tr>
+<tr><th>Training Day / Time</th><td> Monday: 3.45 - 6.30 pm<br>Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm</td></tr>
 <tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng</td></tr>
 </tbody></table>
 
@@ -41,9 +41,9 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
-<tbody><tr><td>Lee Wan Ning, Edith</td><td>Sec 4G</td><td>Captain</td></tr>
-<tr><td>Alexis Chan</td><td>Sec 3C</td><td>Vice-Captain</td></tr>
-<tr><td>Hannah Lim Shi En</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Alexis Chan</td><td>Sec 4C</td><td>Captain</td></tr>
+<tr><td>Ashleigh Lim Siqi</td><td>Sec 3F</td><td>Vice-Captain</td></tr>
+<tr><td>Emma Ong Yu Si</td><td>Sec 2D</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
  <table style="width:100%">
@@ -54,9 +54,9 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
-<tbody><tr><td>Megan Lee Jing Xuan</td><td>Sec 4C</td><td>Captain</td></tr>
-<tr><td>Ang Ying Le Gwyneth</td><td>Sec 3T</td><td>Vice-Captain</td></tr>
-<tr><td>Ang Ying Qi Vera</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Ang Ying Le Gweyneth</td><td>Sec 4T</td><td>Captain</td></tr>
+<tr><td>Ang Ying Qi Vera</td><td>Sec 3W</td><td>Vice-Captain</td></tr>
+<tr><td>Phua Xuan Ting Isabelle</td><td>Sec 2G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 
