@@ -38,10 +38,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Lim Tze En Meghan </td><td>Sec 4T</td><td> 'B' Division Captain</td></tr>
-<tr><td>Gisele Tan Si Han</td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>Marabelle Lee Zhiyi</td><td>Sec 2D</td><td> 'C' Division Captain</td></tr>
-<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 2P</td><td>'C' Division Vice-Captain</td></tr>
+<tr><td>Loh Xin Yee</td><td>Sec 4G</td><td> 'B' Division Captain (2024)</td></tr>
+<tr><td>Chong Xin Yun, Melanie</td><td>Sec 4F</td><td> 'B' Division Vice-Captain (2024)</td></tr>
+<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'C' Division Captain (2023)</td></tr>
+<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 3T</td><td>'C' Division Vice-Captain (2023)</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
