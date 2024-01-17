@@ -26,7 +26,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Wong Yan Keet Amanda<br>Ms Siti Wajihah Zar'an<br>Mr Ng Kok Kuen</td></tr>
+	<tr><td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Siti Wajihah Zar'an<br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Ng Kok Kuen</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
@@ -38,10 +38,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Lim Tze En Meghan </td><td>Sec 4T</td><td> 'B' Division Captain</td></tr>
-<tr><td>Gisele Tan Si Han</td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>Marabelle Lee Zhiyi</td><td>Sec 2D</td><td> 'C' Division Captain</td></tr>
-<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 2P</td><td>'C' Division Vice-Captain</td></tr>
+<tr><td>Loh Xin Yee</td><td>Sec 4G</td><td> 'B' Division Captain (2024)</td></tr>
+<tr><td>Chong Xin Yun, Melanie</td><td>Sec 4F</td><td> 'B' Division Vice-Captain (2024)</td></tr>
+<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'C' Division Captain (2023)</td></tr>
+<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 3T</td><td>'C' Division Vice-Captain (2023)</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
@@ -69,7 +69,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| NSG National<br>Hockey Championship 2023     | 'B' Division<br>'C' Division| 1st<br>2nd     |
+| National 11-a-side 2023 | 'B' Division  | 1st
 | National 11-a-side 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
 | National 11-a-side 2019     | 'C' Division     | 2nd     |
 | National 11-a-side 2018     | 'B' Division<br>'C' Division     | 4th<br>4th     |
