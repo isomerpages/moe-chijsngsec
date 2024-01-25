@@ -1,0 +1,14 @@
+logo: /images/secondary-logo.svg
+links:
+  - title: Flagship Programmes
+    collection: flagship-programmes
+  - title: Academic
+    collection: academic
+  - title: JIP
+    collection: jip
+  - title: Student Development
+    collection: student-development
+  - title: Cca
+    collection: cca
+  - title: Infohub
+    collection: infohub

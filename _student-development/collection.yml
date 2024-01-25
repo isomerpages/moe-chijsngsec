@@ -1,0 +1,17 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Student Development.md
+      - National Education.md
+      - Student Leadership.md
+      - Values Education.md
+      - Values in Action/.keep
+      - Values in Action/Values in Action.md
+      - Values in Action/Forms.md
+      - Sexuality Education.md
+      - Cyber Wellness.md
+      - Environmental Education.md
+      - Counselling.md
+      - Education & Career Guidance (ECG).md
+      - Mental Health Education Programme.md

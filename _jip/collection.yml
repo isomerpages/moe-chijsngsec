@@ -1,0 +1,5 @@
+collections:
+  jip:
+    output: true
+    order:
+      - Joint Integrated Programme.md
