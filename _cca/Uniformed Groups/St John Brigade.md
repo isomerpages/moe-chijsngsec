@@ -10,7 +10,7 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/06%20CCA/UG%20St%20John/SJB.jpeg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg" style="width:75%">
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
@@ -33,9 +33,9 @@ To be courteous and honest in all my words and actions</i>
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>St John Room<br>Basketball Court<br>Classrooms</td></tr>
-<tr><th>Training Day / Time</th><td>Tuesday &amp; Wednesday : 3.30 pm - 6.00 pm<br>Friday : 4.00 pm - 6.30 pm<br>Selected weekends at NHQ*<br>* for school team cadets during competition period</td></tr>
-<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td></tr>
+<tr><th>Training / Meeting Venue</th><td>St John Room<br>Parade Square<br>Classrooms</td></tr>
+<tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
+<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
 </tbody></table>
 
 #### **Teachers-in-Charge :**
