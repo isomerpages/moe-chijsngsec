@@ -41,10 +41,10 @@ To be courteous and honest in all my words and actions</i>
 #### **Teachers-in-Charge :**
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Ms Haslinda Bte Safiee</td></tr>
+<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 
 <table style="width:100%">
 <tbody>
@@ -53,11 +53,12 @@ To be courteous and honest in all my words and actions</i>
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ng Yu Le</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
-<tr><td>Oh Jing Xin</td><td>Sec 4U</td><td>Assistant-in-charge</td></tr>
-<tr><td>He Le</td><td>Sec 4P</td><td>Secretary</td></tr>
-<tr><td>Chloe Sin Kaye</td><td>Sec 4P</td><td>Discipline Mistress</td></tr>
- <tr><td>Natalie Lim Rui Si</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Athena Peh</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
+<tr><td>Carol Chai Ke Rou</td><td>Sec 4P</td><td>Assistant-in-charge</td></tr>
+<tr><td>Chong Le Xuan</td><td>Sec 4H</td><td>Secretary</td></tr>
+<tr><td>Chen Si Yi</td><td>Sec 4U</td><td>CPBS (Head)</td></tr>
+<tr><td>Toh Kai Rong</td><td>Sec 4H</td><td>Discipline Mistress</td></tr>
+<tr><td>Neo Cze En</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
