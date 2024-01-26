@@ -69,12 +69,6 @@ To be courteous and honest in all my words and actions</i>
 <tr><td style="width:50%"><b>Annual Camps</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as outdoor cooking and Amazing Races that allow our cadets to bond with their squadmates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
-<tr><td style="width:50%"><b>Presentation of Colours Award</b><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB2.jpeg"></td></tr>
-
-<tr><td style="width:50%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td></tr>
-  
 <tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>Our cadets performed well in 2023. At the District level, our Nursing Adult team were crowned District champions and went on to clinch Overall 3rd place at the National level.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td></tr>
 	
