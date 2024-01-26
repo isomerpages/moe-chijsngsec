@@ -95,6 +95,7 @@ To be courteous and honest in all my words and actions</i>
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Corps Achievement Award || Gold |
-| Chief Commissioner Badge|      | Amber Buy Rui Qi<br>Ashley Chong Ying Rou<br>Goh Jia Hui Trina<br>Hannah Gan Xin Hui<br>Lim Jing Yun Hannah<br>Nathanee Lim Xiang Yun<br>Ng Hui En Iris<br>Soon Yoke Ting Isabelle<br>Tan Zi Ying Faith<br>Teo Hui Hui Hillary Sidney<br>Yolindrea Chow Wen Ning     |
+| Chief Commissioner Badge||Natalie Lim Rui Si (4 Diligence)<br>Leah Tan Rui En (4 Diligence)<br>Sophie Fong Shih-Ann (4 Diligence)<br>Lee Yu Wei (4 Faith)<br>Charlotte Elena Tan Xuan Ning (4 Hope)<br>Wong Ein Yeu (4 Hope)<br>Chloe Sin Kaye (4 Purity)<br>He Le (4 Purity)<br>Koh Jing Si (4 Purity)<br>
+Yee Yi Xin Kristen (4 Purity)<br>Oh Jing Xin (4 Unity)<br>Ow Yang Ying Jie (4 Unity)<br>Ng Yu Le (4 Wisdom) |
 | District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place<br>3rd Place<br>2nd Place<br>3rd Place|
 | National First Aid &amp;<br>Home Nursing Competition|<b> Nursing Adult</b><br>Overall<br>Footdrill Category     | <br>3rd Place<br>1st Place     |
