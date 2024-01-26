@@ -10,7 +10,7 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/06%20CCA/UG%20St%20John/SJB.jpeg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg" style="width:75%">
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
@@ -33,18 +33,18 @@ To be courteous and honest in all my words and actions</i>
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>St John Room<br>Basketball Court<br>Classrooms</td></tr>
-<tr><th>Training Day / Time</th><td>Tuesday &amp; Wednesday : 3.30 pm - 6.00 pm<br>Friday : 4.00 pm - 6.30 pm<br>Selected weekends at NHQ*<br>* for school team cadets during competition period</td></tr>
-<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi</td></tr>
+<tr><th>Training / Meeting Venue</th><td>St John Room<br>Parade Square<br>Classrooms</td></tr>
+<tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
+<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
 </tbody></table>
 
 #### **Teachers-in-Charge :**
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Ms Haslinda Bte Safiee</td></tr>
+<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2023-2024)**
 
 <table style="width:100%">
 <tbody>
@@ -53,11 +53,12 @@ To be courteous and honest in all my words and actions</i>
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ng Yu Le</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
-<tr><td>Oh Jing Xin</td><td>Sec 4U</td><td>Assistant-in-charge</td></tr>
-<tr><td>He Le</td><td>Sec 4P</td><td>Secretary</td></tr>
-<tr><td>Chloe Sin Kaye</td><td>Sec 4P</td><td>Discipline Mistress</td></tr>
- <tr><td>Natalie Lim Rui Si</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Athena Peh</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
+<tr><td>Carol Chai Ke Rou</td><td>Sec 4P</td><td>Assistant-in-charge</td></tr>
+<tr><td>Chong Le Xuan</td><td>Sec 4H</td><td>Secretary</td></tr>
+<tr><td>Chen Si Yi</td><td>Sec 4U</td><td>CPBS (Head)</td></tr>
+<tr><td>Toh Kai Rong</td><td>Sec 4H</td><td>Discipline Mistress</td></tr>
+<tr><td>Neo Cze En</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
@@ -65,7 +66,7 @@ To be courteous and honest in all my words and actions</i>
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>June and November Camp</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as Amazing Races that allow our cadets to bond with their squad mates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
+<tr><td style="width:50%"><b>Annual Camps</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as outdoor cooking and Amazing Races that allow our cadets to bond with their squadmates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
 <tr><td style="width:50%"><b>Presentation of Colours Award</b><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours.</td>
@@ -74,14 +75,17 @@ To be courteous and honest in all my words and actions</i>
 <tr><td style="width:50%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td></tr>
   
-<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>In 2022, our Nursing Adult Team emerged victorious at DIstrict level.</td>
+<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>Our cadets performed well in 2023. At the District level, our Nursing Adult team were crowned District champions and went on to clinch Overall 3rd place at the National level.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td></tr>
 	
-<tr><td style="width:50%"><b>National Day Celebrations @ SNGS</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations.<br><br>Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.</td>
+<tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.<br><br>Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
 
-<tr><td style="width:50%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
+<tr><td style="width:50%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. While performing public duties at community events, cadets are attached to experienced officers and medical professionals. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td></tr>	
+	
+<tr><td style="width:50%"><b>HQ events</b><br><br>As a member of North District, we occasionally come together with other schools across the District to participate in various events.<br>Pictured here is North District’s Annual Secondary 1 Enrolment and Inauguration Ceremony.</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture2.jpg"></td></tr>	
 
 </tbody></table>
 
@@ -90,6 +94,8 @@ To be courteous and honest in all my words and actions</i>
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National First Aid and<br>Home Nursing Competition 2023     | Nursing Adult<br>Footdrill     | 3rd<br>1st     |
-| District First Aid and<br>Home Nursing Competition 2023     | Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     | Overall Champion, Best Leader<br>2nd runner-up<br><br>1st runner-up<br><br>2nd runner-up     |
-| Chief Commissioner Badge 2022     | Selected Sec 4 cadets     | Amber Buy Rui Qi<br>Ashley Chong Ying Rou<br>Goh Jia Hui Trina<br>Hannah Gan Xin Hui<br>Lim Jing Yun Hannah<br>Nathanee Lim Xiang Yun<br>Ng Hui En Iris<br>Soon Yoke Ting Isabelle<br>Tan Zi Ying Faith<br>Teo Hui Hui Hillary Sidney<br>Yolindrea Chow Wen Ning     |
+| Corps Achievement Award || Gold |
+| Chief Commissioner Badge||Natalie Lim Rui Si (4 Diligence)<br>Leah Tan Rui En (4 Diligence)<br>Sophie Fong Shih-Ann (4 Diligence)<br>Lee Yu Wei (4 Faith)<br>Charlotte Elena Tan Xuan Ning (4 Hope)<br>Wong Ein Yeu (4 Hope)<br>Chloe Sin Kaye (4 Purity)<br>He Le (4 Purity)<br>Koh Jing Si (4 Purity)<br>
+Yee Yi Xin Kristen (4 Purity)<br>Oh Jing Xin (4 Unity)<br>Ow Yang Ying Jie (4 Unity)<br>Ng Yu Le (4 Wisdom) |
+| District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place<br>3rd Place<br>2nd Place<br>3rd Place|
+| National First Aid &amp;<br>Home Nursing Competition|<b> Nursing Adult</b><br>Overall<br>Footdrill Category     | <br>3rd Place<br>1st Place     |
