@@ -85,7 +85,7 @@ To be courteous and honest in all my words and actions</i>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td></tr>	
 	
 <tr><td style="width:50%"><b>HQ events</b><br><br>As a member of North District, we occasionally come together with other schools across the District to participate in various events.<br>Pictured here is North District’s Annual Secondary 1 Enrolment and Inauguration Ceremony.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td></tr>	
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture2.jpg"></td></tr>	
 
 </tbody></table>
 
