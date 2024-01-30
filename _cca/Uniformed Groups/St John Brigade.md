@@ -69,12 +69,6 @@ To be courteous and honest in all my words and actions</i>
 <tr><td style="width:50%"><b>Annual Camps</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as outdoor cooking and Amazing Races that allow our cadets to bond with their squadmates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
-<tr><td style="width:50%"><b>Presentation of Colours Award</b><br><br>Following the major transformation of St John Brigade in 2020, 5 new districts were inaugurated on 1st January 2020.<br><br>This ceremony, graced by our President Mdm Halimah Yacob, serves to uncase the new Brigade Colours.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB2.jpeg"></td></tr>
-
-<tr><td style="width:50%"><b>District Presentation Ceremony</b><br><br>The District Presentation is an annual event where we come together to recognise and celebrate the achievements and growth of our cadets, our officers and our corps.<br><br>The District Presentation is preceded by the District Inspection, consisting of volunteers from the district and cadets from CHIJ St Nicholas Girls' School and Deyi Secondary School.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB3.jpeg"></td></tr>
-  
 <tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>Our cadets performed well in 2023. At the District level, our Nursing Adult team were crowned District champions and went on to clinch Overall 3rd place at the National level.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td></tr>
 	
@@ -95,7 +89,6 @@ To be courteous and honest in all my words and actions</i>
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Corps Achievement Award || Gold |
-| Chief Commissioner Badge||Natalie Lim Rui Si (4 Diligence)<br>Leah Tan Rui En (4 Diligence)<br>Sophie Fong Shih-Ann (4 Diligence)<br>Lee Yu Wei (4 Faith)<br>Charlotte Elena Tan Xuan Ning (4 Hope)<br>Wong Ein Yeu (4 Hope)<br>Chloe Sin Kaye (4 Purity)<br>He Le (4 Purity)<br>Koh Jing Si (4 Purity)<br>
-Yee Yi Xin Kristen (4 Purity)<br>Oh Jing Xin (4 Unity)<br>Ow Yang Ying Jie (4 Unity)<br>Ng Yu Le (4 Wisdom) |
+| Chief Commissioner Badge||Natalie Lim Rui Si (4 Diligence)<br>Leah Tan Rui En (4 Diligence)<br>Sophie Fong Shih-Ann (4 Diligence)<br>Lee Yu Wei (4 Faith)<br>Charlotte Elena Tan Xuan Ning (4 Hope)<br>Wong Ein Yeu (4 Hope)<br>Chloe Sin Kaye (4 Purity)<br>He Le (4 Purity)<br>Koh Jing Si (4 Purity)<br>Yee Yi Xin Kristen (4 Purity)<br>Oh Jing Xin (4 Unity)<br>Ow Yang Ying Jie (4 Unity)<br>Ng Yu Le (4 Wisdom) |
 | District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place<br>3rd Place<br>2nd Place<br>3rd Place|
 | National First Aid &amp;<br>Home Nursing Competition|<b> Nursing Adult</b><br>Overall<br>Footdrill Category     | <br>3rd Place<br>1st Place     |
