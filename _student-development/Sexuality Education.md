@@ -22,7 +22,7 @@ Support students in managing their physiological, social and emotional changes a
 (b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);<br>
 (c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and<br>
 (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
-You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may&nbsp;click&nbsp;[here]([https://go.gov.sg/moe-sexuality-education](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 <b>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2023</b>
 
