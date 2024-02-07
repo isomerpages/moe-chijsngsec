@@ -14,13 +14,13 @@ variant: markdown
 2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <b>Goals</b> of Sexuality Education are to:<br>
 (a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.<br>
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guide students to make wise, informed and responsible decisions on sexuality matters.<br>
-(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students to make wise, informed and responsible decisions on sexuality matters.<br>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The key messages of Sexuality Education are:<br>
-(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;<br>
-(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and<br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <b>Key Messages</b> of Sexuality Education are to:<br>
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;<br>
+(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);<br>
+(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and<br>
 (iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
 You may&nbsp;click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
