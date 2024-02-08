@@ -186,10 +186,10 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 <p>· understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise that there are moral
-and legal consequences of risky sexual behaviours, pornography access and
-acting irresponsibly or maliciously when online (e.g. spreading of online
-falsehoods, flouting copyright laws, etc.)</p>
+<br>· recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
+when online (e.g. spreading of online falsehoods, flouting copyright laws,
+etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 6</p>
@@ -243,12 +243,11 @@ nurses.
 and build their self- confidence.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;know that one’s understanding of
-gender roles should not be limited by gender stereotypes
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop an appreciation of one’s
-own unique qualities and characteristics as a male or female
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand what sexual orientation
-entails</p>
+<p>· know that one’s understanding of gender roles should not be limited
+by gender stereotypes
+<br>· develop an appreciation of one’s own unique qualities and characteristics
+as a male or female
+<br>· understand what sexual orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -273,13 +272,12 @@ and safety.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise one’s vulnerability to
-risky situations and the importance of exercising discretion to reduce
-risks and avoid negative consequences, both online and offline</p>
+<p>· recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
+both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 3</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -300,15 +298,14 @@ aware of Singapore laws protecting minors, such as the legal consequences
 of having sex with a minor, abortion and the abandonment of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance of self-respect
-and respect for others in relating to members of the opposite gender
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise one’s vulnerability to risky
-situations and the importance of exercising discretion to reduce risks
-and avoid negative consequences, both offline and online</p>
+<p>· recognise the importance of self-respect and respect for others in relating
+to members of the opposite gender
+<br>· recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 6</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -361,11 +358,10 @@ on oneself and others can limit one’s experiences, cause harm to the self-este
 of oneself and others and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 1</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
