@@ -535,7 +535,14 @@ in a relationship.</p>
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment. Students will learn that what really
+matters to sustain and maintain a long-term romantic relationship leading
+to marriage is understanding the other person’s perspective and effectively
+communicating with each other.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;know that long-term romantic relationships leading to marriage
