@@ -395,7 +395,7 @@ is normal and one can recover from the experience</p>
 and friends are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -403,27 +403,31 @@ and friends are important pillars of support</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Do I or Don't I Lesson 2B
+<p>When Respect Takes Centre Stage</p>
+<p>Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on respect for personal boundaries; and how to be
-safe from risky sexual behaviour, teenage pregnancy and abortion. Students
-will learn the importance of respecting one another’s boundaries in relationships.
-This lesson emphasises the importance of responsible decision-making, the
-value of sexual abstinence, the need for help seeking. Students will be
-aware of Singapore laws protecting minors, such as the legal consequences
-of having sex with a minor, abortion and the abandonment of babies.</p>
+<p>This lesson aims to help students think critically and make informed decisions
+in the contexts of sexting and voyeurism, and encourages students to exert
+a positive influence as a respectful online user. It will also deepen students’
+convictions about making moral decisions by taking into consideration the
+impact of their decisions and actions on their well-being and safety, their
+loved ones, and the community. Students learn that they have a right and
+responsibility to be safe and protect their personal space and body. They
+also learn that sexting, voyeurism and other related sexual offences are
+never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender
-<br>· recognise one’s vulnerability to risky situations and the importance
-of exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
+<p>·&nbsp;recognise the importance of being informed of social and moral
+issues of the day and the need to reflect on these issues, and weigh them
+against our own moral standpoints as we form our perspectives about them</p>
+<p>understand that we strengthen our character when we commit to sound values-based
+viewpoints (e.g. respect for life) and decisions, and speak and act in
+alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 4 Week 2</p>
 </td>
 </tr>
 </tbody>
