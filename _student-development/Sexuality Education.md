@@ -598,7 +598,7 @@ negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family. Abstinence and upholding family
 values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em> programme
 is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2023:</strong>
+<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
 <table>
 <tbody>
@@ -621,17 +621,14 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 <br>HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awareness of the different
-STIs and HIV/AIDS
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of transmission
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modes of protection, specifically
-on how the condom is used
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consequences and impact of
-STIs/HIV</p>
+<p>·&nbsp;Raise awareness and provide knowledge on:</p>
+<p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
+<p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 1</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -640,13 +637,11 @@ STIs/HIV</p>
 <br>based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learn to negotiate their way
-out of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>·&nbsp;Learn to negotiate their way out of a risky situation by applying
+skills of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 2</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
