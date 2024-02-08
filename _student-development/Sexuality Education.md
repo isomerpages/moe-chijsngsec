@@ -125,20 +125,17 @@ and understand how to build healthy and supportive relationships, both
 online and offline.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance of
-monitoring and managing our emotional reactions, in helpful ways that are
-reflective of our values and principles
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise that there are different
-forms of love (e.g. familial, platonic, romantic love)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise the importance and
-understand what builds healthy and supportive relationships, both online
-and offline
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand what dating is,
-and recognise that the readiness and interest in dating vary among individuals</p>
+<p>·&nbsp; recognise the importance of monitoring and managing our emotional
+reactions, in helpful ways that are reflective of our values and principles
+<br>·&nbsp; recognise that there are different forms of love (e.g. familial,
+platonic, romantic love)
+<br>· recognise the importance and understand what builds healthy and supportive
+relationships, both online and offline
+<br>· understand what dating is, and recognise that the readiness and interest
+in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 3</p>
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -164,8 +161,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 4</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -187,18 +183,16 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;understand and accept that
-as we work towards becoming our best self, there will be times when we
-make mistakes, and recognise the importance of exercising moral courage
-in facing up to consequences
+<p>· understand and accept that as we work towards becoming our best self,
+there will be times when we make mistakes, and recognise the importance
+of exercising moral courage in facing up to consequences
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recognise that there are moral
 and legal consequences of risky sexual behaviours, pornography access and
 acting irresponsibly or maliciously when online (e.g. spreading of online
 falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 6</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -257,8 +251,7 @@ own unique qualities and characteristics as a male or female
 entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 1</p>
+<p>Term 3 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -322,133 +315,6 @@ and avoid negative consequences, both offline and online</p>
 </table>
 <p><strong>Secondary 3</strong>
 </p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Unit</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson /
-<br>Duration</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Overview</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Lesson Objectives
-<br>At the end of the lesson, students will be able to:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Time Period
-<br>(e.g.Term 1 Week 2)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Respectful
-<br>Relationships
-<br>&amp; Safety</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Love Yourself, Love Others Lesson 1A
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on dating respectfully in healthy relationships. Students
-will learn about self-esteem, their sources of influence (e.g. friends’
-perception) on self-esteem, the impact of one’s self-esteem on our mental
-well-being as well as relationships with others. Students will also learn
-how emotional reactions can affect relationships positively or negatively.
-Students will also learn that maturity and readiness are important when
-entering into a dating relationship.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp; know that self-perception and identity have an impact on our self-esteem
-and how we interact with others and the choices we make, both online and
-offline.
-<br>·&nbsp; understand that expectations of oneself and others may differ
-and can affect one’s emotions, thoughts and behaviours.
-<br>·&nbsp; recognise what healthy dating relationships involve and know that
-readiness is important when entering into a dating relationship.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mending a Broken Heart Lesson 1B
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students will learn how to manage their emotions if they were to face
-a breakup and know that relationship building involves person emotions
-and vulnerabilities, and changes and challenges. Students will also learn
-that a decision to end a relationship will have consequences on oneself
-and others, and that grief and loss due to rejections and broken relationships
-is normal and that one can recover from the experience. They will learn
-that there are healthy ways of coping with breakdowns in relationships
-and that family and friends are important pillars of support.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;know that relationship-building involves personal emotions
-and vulnerabilities, and changes and challenges.
-<br>· know that a decision to end a relationship will have consequences on
-oneself and others.
-<br>·&nbsp; know that grief and loss due to rejections and broken relationships
-is normal and one can recover from the experience.
-<br>·&nbsp; know there are healthy ways of coping with broken relationships,
-and family and friends are important pillars of support.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>When Respect Takes Centre Stage</p>
-<p>Lesson 2
-<br>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>· recognise the importance of being informed of social and moral issues
-of the day and the need to reflect on these issues, and weigh them against
-our own moral standpoints as we form our perspectives about them.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 4
-<br>Week 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Secondary 4</strong>
 </p>
 <table>
