@@ -419,9 +419,10 @@ also learn that sexting, voyeurism and other related sexual offences are
 never justifiable and they can seek help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;recognise the importance of being informed of social and moral
-issues of the day and the need to reflect on these issues, and weigh them
-against our own moral standpoints as we form our perspectives about them</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; recognise the
+importance of being informed of social and moral issues of the day and
+the need to reflect on these issues, and weigh them against our own moral
+standpoints as we form our perspectives about them</p>
 <p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
