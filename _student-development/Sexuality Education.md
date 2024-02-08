@@ -464,22 +464,27 @@ alignment with our beliefs</p>
 <br>&amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1
-<br>(60 mins)</p>
+<p>Levelling the ground Lesson 1</p>
+<p>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that the value of
-a person is not tied to one’s gender and not conforming to gender stereotypes
-does not negate one’s gender identity.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand what gender stereotypes
-comprise, e.g. notions of masculinity and femininity vary over time and
-space, and are shaped by societal expectations.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know that imposing gender stereotypes
-on oneself and others can limit one’s experiences, cause harm to the self-esteem
-of oneself and others and should be avoided.</p>
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals. Students will learn to be aware of possible gender stereotypes
+that may affect one’s family and future decisions. They will also learn
+to reframe their perspectives and not judge others based on their own or
+others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>· understand that the value of a person is not tied to one’s gender and
+not conforming to gender stereotypes does not negate one’s gender identity.
+<br>· understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations.
+<br>· know that imposing gender stereotypes on oneself and others can limit
+one’s experiences, cause harm to the self-esteem of oneself and others
+and should be avoided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 1</p>
@@ -490,28 +495,35 @@ of oneself and others and should be avoided.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2
+<p>When Love Hurts Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know there are healthy ways
-of coping with broken relationships, and family and friends are important
-pillars of support.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognise emotions caused by
-traumatic situations, e.g. bullying, abuse and dating violence, and understand
-the physiological and psychological, social impact on victims.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that we need moral
-courage and wisdom to recognise and end relationships that are unhealthy
-and cause harm to our mental and emotional well-being.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand the importance of
-ensuring that non-verbal messages match with verbal ones, when communicating
-personal and emotional boundaries in a relationship.</p>
+<p>This lesson aims to help students recognise unhealthy relationships and
+build their help-seeking skills. Students will learn to identify potential
+signs of an unhealthy relationship and recognise the different forms of
+dating violence. They will get to understand why dating violence occurs,
+why victims often feel “trapped” in such unhealthy relationships, and how
+one can get out of such a relationship safely. Students will learn when,
+where and how to seek help from trusted adults (e.g. family, teachers,
+school counsellors) in the supportive environment that they have if they
+or their friends are involved in an unhealthy relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 2</p>
+<p>·&nbsp;know there are healthy ways of coping with broken relationships,
+and family and friends are important pillars of support.
+<br>·&nbsp;recognise emotions caused by traumatic situations, e.g. bullying,
+abuse and dating violence, and understand the physiological and psychological,
+social impact on victims.
+<br>·&nbsp;understand that we need moral courage and wisdom to recognise and
+end relationships that are unhealthy and cause harm to our mental and emotional
+well-being.
+<br>·&nbsp;understand the importance of ensuring that non-verbal messages
+match with verbal ones, when communicating personal and emotional boundaries
+in a relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Term 3 Week 2</p>
 <p></p>
 </td>
 </tr>
@@ -520,26 +532,24 @@ personal and emotional boundaries in a relationship.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3
+<p>For Better or For Worse Lesson 3
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know that long-term romantic
-relationships leading to marriage involve understanding oneself and others
-in the intellectual, emotional, social and moral dimensions.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know that marriage entails
-a union between a man and a woman based on love, trust, commitment, and
-requires mutual effort.
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that conflicts are
-normal in any relationship, including marriage, and the way in which a
-couple handles conflict is critical to the success of their marriage.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;know that long-term romantic relationships leading to marriage
+involve understanding oneself and others in the intellectual, emotional,
+social and moral dimensions.
+<br>·&nbsp;know that marriage entails a union between a man and a woman based
+on love, trust, commitment, and requires mutual effort.
+<br>·&nbsp;understand that conflicts are normal in any relationship, including
+marriage, and the way in which a couple handles conflict is critical to
+the success of their marriage.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -551,16 +561,15 @@ couple handles conflict is critical to the success of their marriage.</p>
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that we strengthen
-our character when we commit to sound values-based viewpoints (e.g. respect
-for life) and decisions, and speak and act in alignment with our beliefs.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3
-<br>Week 6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;&nbsp;understand that we strengthen our character when we commit
+to sound values-based viewpoints (e.g. respect for life) and decisions,
+and speak and act in alignment with our beliefs.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
