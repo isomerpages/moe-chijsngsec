@@ -563,11 +563,16 @@ the success of their marriage.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4
+<p>There's Always More to a Story Lesson 4
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>In this lesson, students will revisit the impact of pornography and deepen
+their understanding on its impact on relationships. Students will also
+learn about revenge pornography, including its definition and legal provisions.
+They will also learn that they can turn to trusted adults for help in setting
+boundaries and overcoming difficulties in making sound decisions, to prevent
+themselves from encountering danger.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;understand that we strengthen our character when we commit
