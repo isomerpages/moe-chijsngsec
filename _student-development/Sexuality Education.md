@@ -312,6 +312,122 @@ both offline and online</p>
 </table>
 <p><strong>Secondary 3</strong>
 </p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Unit</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Lesson /
+<br>Duration</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Lesson Overview</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Lesson Objectives
+<br>At the end of the lesson, students will be able to:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time Period
+<br>(e.g.Term 1 Week 2)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Respectful
+<br>Relationships
+<br>&amp; Safety</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Love Yourself, Love Others</p>
+<p>Lesson Lesson 1A
+<br>(60&nbsp;mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on dating respectfully in healthy relationships. Students
+will learn about self-esteem, their sources of influence (e.g. friends’
+perception) on self-esteem, the impact of one’s self-esteem on our mental
+well-being as well as relationships with others. Students will also learn
+how emotional reactions can affect relationships positively or negatively.
+Students will also learn that maturity and readiness are important when
+entering into a dating relationship.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;know that self-perception and identity have an impact on our self-esteem
+and how we interact with others and the choices we make, both online and
+offline</p>
+<p>·&nbsp;understand that expectations of oneself and others may differ and
+can affect one’s emotions, thoughts and behaviours</p>
+<p>·&nbsp;recognise what healthy dating relationships involve and know that
+readiness is important when entering into a dating relationship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mending a Broken Heart Lesson 1B
+<br>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students will learn how to manage their emotions if they were to face
+a breakup and know that relationship building involves person emotions
+and vulnerabilities, and changes and challenges. Students will also learn
+that a decision to end a relationship will have consequences on oneself
+and others, and that grief and loss due to rejections and broken relationships
+is normal and that one can recover from the experience. They will learn
+that there are healthy ways of coping with breakdowns in relationships
+and that family and friends are important pillars of support.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>·&nbsp;know that a decision to end a relationship will have consequences
+on oneself and others</p>
+<p>·&nbsp;know that grief and loss due to rejections and broken relationships
+is normal and one can recover from the experience</p>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Do I or Don't I Lesson 2B
+<br>(60 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on respect for personal boundaries; and how to be
+safe from risky sexual behaviour, teenage pregnancy and abortion. Students
+will learn the importance of respecting one another’s boundaries in relationships.
+This lesson emphasises the importance of responsible decision-making, the
+value of sexual abstinence, the need for help seeking. Students will be
+aware of Singapore laws protecting minors, such as the legal consequences
+of having sex with a minor, abortion and the abandonment of babies.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>· recognise the importance of self-respect and respect for others in relating
+to members of the opposite gender
+<br>· recognise one’s vulnerability to risky situations and the importance
+of exercising discretion to reduce risks and avoid negative consequences,
+both offline and online</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 Week 6</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Secondary 4</strong>
 </p>
 <table>
