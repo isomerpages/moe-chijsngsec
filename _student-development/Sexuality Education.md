@@ -8,7 +8,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg">
 </div>
 <h3><strong>Sexuality Education</strong></h3>
-<p><strong>MOE Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong> 
 <br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd)
 in schools aims to enable students to understand the physiological, social
 and emotional changes they experience as they mature, develop healthy and
@@ -58,7 +58,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 on sexuality include:
 <br>a.&nbsp;&nbsp;&nbsp;&nbsp;Science
 <br>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</p>
-<p><strong>Sexuality Education Lessons</strong>
+<p><strong>Sexuality Education Lessons</strong> 
 <br>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our
 youth towards sexuality are increasingly shaped by their peers, exposure
 to the media, popular culture and the internet. Adolescence is a complex
@@ -424,14 +424,14 @@ and family and friends are important pillars of support.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2
+<p>When Respect Takes Centre Stage</p>
+<p>Lesson 2
 <br>(60 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recognise the importance of
-being informed of social and moral issues of the day and the need to reflect
-on these issues, and weigh them against our own moral standpoints as we
-form our perspectives about them.
+<p>· recognise the importance of being informed of social and moral issues
+of the day and the need to reflect on these issues, and weigh them against
+our own moral standpoints as we form our perspectives about them.
 <br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Understand that we strengthen
 our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs.</p>
