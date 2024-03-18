@@ -13,6 +13,6 @@ sections:
           url: https://www.chijstnicholasgirls.moe.edu.sg
         - title: SNGS Primary
           description: ""
-          url: https://master.d6ffahuouz5lv.amplifyapp.com
+          url: https://www.chijsngpri.moe.edu.sg
       background: /images/01 Banner Photos/sec banner v1.gif
 ---
