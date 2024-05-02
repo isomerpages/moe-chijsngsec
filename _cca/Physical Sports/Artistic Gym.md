@@ -58,7 +58,6 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 </tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
 <tbody><tr><td>Ang Ying Le Gweyneth</td><td>Sec 4T</td><td>Captain</td></tr>
 <tr><td>Ang Ying Qi Vera</td><td>Sec 3W</td><td>Vice-Captain</td></tr>
-<tr><td>Phua Xuan Ting Isabelle</td><td>Sec 2G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 
