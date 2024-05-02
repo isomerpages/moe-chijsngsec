@@ -71,8 +71,8 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <tr><td style="width:50%"><b>Gymnasts in action during CCA Fair</b></td>
 <td><img src="/images/06%20CCA/PS%20AGym/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>NSG Artistic Gymnastics Championships </b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture5.jpg"></td></tr>
 
 </tbody></table>
 
