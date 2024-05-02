@@ -9,11 +9,13 @@ variant: markdown
 
 #### **Artistic Gym**
 
-<img src="/images/06%20CCA/PS%20AGym/Artistic%20Gym.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20AGym/Picture1.jpg" style="width:100%">
 
-Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
-  
-Besides training for competitions, our gymnasts are exposed to a wide range of activities that allow them to interact with the society in hope of developing a holistic individual. These activities include an annual sports camp, VIA, CCA fair, Open House etc. Through such activities, our gymnasts are able to develop and display team-work and creativity, at the same time, not forgetting to demonstrate compassion and empathy. Our gymnasts realise that Gymnastics is not all about winning. It is about developing resilience and a positive attitude that will empower them to achieve much in their lives. This is exemplified through their willingness to devote long training hours in order to hone their skills to perfection.  
+Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports known for their artistry and grace, require gymnasts to display exceptional balance, strength and flexibility.
+
+Besides training for competitions, our gymnasts are exposed to a wide range of activities that allow them to develop holistically; such as the annual sports camp, VIA project, CCA fair, Open House etc. Through such activities, our gymnasts are able to develop and display team-work and creativity, as well as demonstrate compassion and empathy for others. Our gymnasts demonstrate the virtues of Good Sportsmanship at competitions and are trained to show resilience and a positive attitude that will empower them to achieve success in their lives. This is exemplified through their willingness to devote long hours to physical training in order to hone their skills to perfection and to strive to achieve their personal best.
+
+In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.  
 
 #### **CCA Information**
 
