@@ -85,4 +85,4 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | National School Games<br>Trampoline Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>1st |
-| National School Games<br>Artistic Gymnastics Championships 2023     | 'B' Division<br>'C' Division     |1st<br>1st |
+| National School Games<br>Artistic Gymnastics Championships 2023     | 'B' Division | All Round : <br>1st Danielle Fong<br>2nd  Gwyneth Ang<br>2nd Alexis Chan |
