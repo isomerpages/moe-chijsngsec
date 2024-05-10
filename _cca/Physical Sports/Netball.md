@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Netball**
 
-<img src="/images/06%20CCA/PS%20Netball/Netball%20Photo%20for%20school%20website.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Netball/Picture9.jpg" style="width:100%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
@@ -40,7 +40,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Ou Wanjun</b><br>Ms Juliet Huang<br>Ms Juliana Grahan</td></tr>
+<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
@@ -52,10 +52,10 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Avrielle Charlotte Ho</td><td>Sec 4U</td><td> 'B' Division Captain</td></tr>
-<tr><td>Shanice Yeo Yingxuan </td><td>Sec 4P</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>Katie Khoo Pei Yun </td><td>Sec 2D</td><td>'C' Division Captain</td></tr>
-<tr><td>Rachel Tan Yi Ting</td><td>Sec 2U</td><td> 'C' Division Vice-Captain</td></tr>
+<tr><td>Erin Neo Yu En</td><td>Sec 4C</td><td> 'B' Division Captain</td></tr>
+<tr><td>Chan Jian Ning Ashlyn </td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>Soh Joasta </td><td>Sec 2P</td><td>'C' Division Captain</td></tr>
+<tr><td>Clara Lim Shijin</td><td>Sec 2G</td><td> 'C' Division Vice-Captain</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
