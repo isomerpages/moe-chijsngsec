@@ -78,8 +78,9 @@ We are immensely grateful for the opportunity to bring glory to our school. We w
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| NSG National<br>Netball Championships 2023     | 'B' Division     | Top 16     |
-| Nationals 2022     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
-| North Zone 2022     | 'B' Division<br>'C' Division     | 4th<br>4th     |
-| Nationals 2019     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
-| North Zone 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
+| Nationals 2024     | B Division    | Top 16     |
+| North Zone 2024     | B Division     | 2nd     |
+| Nationals 2023     | B Division    | Top 16     |
+| North Zone 2023     | B Division| 4th     |
+| Nationals 2023    | C Division     | Top 8     |
+| North Zone 2023     | C Division     | 2nd     |
