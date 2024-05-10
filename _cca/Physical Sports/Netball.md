@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Netball**
 
-<img src="/images/06%20CCA/PS%20Netball/Netball%20Photo%20for%20school%20website.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Netball/Picture9.jpg" style="width:100%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
@@ -40,7 +40,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Ou Wanjun</b><br>Ms Juliet Huang<br>Ms Juliana Grahan</td></tr>
+<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
@@ -52,22 +52,24 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Avrielle Charlotte Ho</td><td>Sec 4U</td><td> 'B' Division Captain</td></tr>
-<tr><td>Shanice Yeo Yingxuan </td><td>Sec 4P</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>Katie Khoo Pei Yun </td><td>Sec 2D</td><td>'C' Division Captain</td></tr>
-<tr><td>Rachel Tan Yi Ting</td><td>Sec 2U</td><td> 'C' Division Vice-Captain</td></tr>
+<tr><td>Erin Neo Yu En</td><td>Sec 4C</td><td> 'B' Division Captain</td></tr>
+<tr><td>Chan Jian Ning Ashlyn </td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>Soh Joasta </td><td>Sec 2P</td><td>'C' Division Captain</td></tr>
+<tr><td>Clara Lim Shijin</td><td>Sec 2G</td><td> 'C' Division Vice-Captain</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>‘B’ Division 2022</b><br><br>After 2 years of not being able to compete, our ‘B’ Division Netball team was finally able to do so this year! We were extremely blessed and fortunate to have the opportunity to compete against various schools, allowing us to improve both physically and mentally. The competitions were a platform for us to gain experience and bond with our teammates alike, making the experience immensely fulfilling and unique.<br><br>SNNB is a close-knit CCA where we are all able to express ourselves confidently and forge strong bonds with our teammates. Training may be tough, but our never-ending support and encouragement for each other push us to do our best, to grow individually and as a team.<br><br>Leading SNNB has been an enriching experience for us and we are grateful for our teachers, coach and teammates for guiding us throughout this fruitful journey. SNNB will always have a special place in our hearts!</td>
-<td><img src="/images/06%20CCA/PS%20Netball/Netball1.png">
-<br><img src="/images/06%20CCA/PS%20Netball/Netball2.png"></td></tr>
+<tr><td style="width:50%"><b>B Division 2024</b><br><br>Passion. Grit. Strength. These are the qualities that we uphold as we work as one to achieve our common goal. No matter how gruelling training gets, overcoming it is just a matter of time for our close-knit family. The positive learning environment enables each and every one of our members to offer and receive constructive feedback to constantly improve and strive for the best. These are the experiences that have enabled us to grow physically and mentally as a team.<br><br>
+It has been an enriching experience for us captains to have led the team. These achievements would not have been possible without the unwavering support of our coach, teachers and teammates. We are confident that SNNB will continue to grow as a team, a family and into the beasts we envision it to be.</td>
+<td><img src="/images/06%20CCA/PS%20Netball/Picture10.jpg">
+<br><img src="/images/06%20CCA/PS%20Netball/Picture11.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>‘C’ Division 2022</b><br><br>SNNB ‘C’ Division is family, We reply, support and encourage one another unconditionally, performing to the best of our ability during training. As a lively bunch, training has brought much laughter and values. It also provides an environment where we can learn without fear of making mistakes and receive constructive feedback from our peers, teachers and coach.<br><br>When it was announced that the National School Games (NSG) would resume after two years, many of us were excited but there was still anxiety amongst us. We had to train hard, three times a week, three hours every training session during the holidays. Although it was mentally, physically and emotionally draining, all of us managed to push through, train diligently, encourage and support one another through it all.<br><br>We are immensely grateful for this experience which allowed us to forge closer and lasting bonds and create unforgettable memories. Through this opportunity, we truly have understood the saying "Process is more important than outcome" because the NSG experience allowed us to live up to our school vision "Girls of Grace, Women of Strength, Leaders with Heart". We are appreciative of this fruitful experience and we look forward to our future endeavours as a team and family.</td>
-<td><img src="/images/06%20CCA/PS%20Netball/Netball3.jpeg"><br><img src="/images/06%20CCA/PS%20Netball/Netball4.jpeg"></td></tr>
+<tr><td style="width:50%"><b>C Division 2023</b><br><br>As a whole SNNB, we strive to embody the spirit of the ‘SNNB Beast’, where we resiliently bounce back after every setback. Through the constant guidance and support from our coach and teachers, we continuously grow to become stronger versions of ourselves. Although training during the NSG season may be tiring, we look forward to them as it is a chance for us to come up with strategies to play in our next competition.<br><br>
+We are immensely grateful for the opportunity to bring glory to our school. We will continue to work hard in preparation for the next round of NSG. We are extremely thankful to our coach and teachers, as well as the whole SNNB family, for their constant support and encouragement. Truly, SNNB is a family to us, and will continue to hold a special place in our hearts.</td>
+<td><img src="/images/06%20CCA/PS%20Netball/Picture12.jpg"><br><img src="/images/06%20CCA/PS%20Netball/Picture13.jpg"><br><img src="/images/06%20CCA/PS%20Netball/Picture14.jpg"></td></tr>
 
 </tbody></table>
 
@@ -76,8 +78,9 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| NSG National<br>Netball Championships 2023     | 'B' Division     | Top 16     |
-| Nationals 2022     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
-| North Zone 2022     | 'B' Division<br>'C' Division     | 4th<br>4th     |
-| Nationals 2019     | 'B' Division<br>'C' Division     | Top 16<br>Top 16     |
-| North Zone 2019     | 'B' Division<br>'C' Division     | 2nd<br>2nd     |
+| Nationals 2024     | B Division    | Top 16     |
+| North Zone 2024     | B Division     | 2nd     |
+| Nationals 2023     | B Division    | Top 16     |
+| North Zone 2023     | B Division| 4th     |
+| Nationals 2023    | C Division     | Top 8     |
+| North Zone 2023     | C Division     | 2nd     |
