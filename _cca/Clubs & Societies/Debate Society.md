@@ -24,14 +24,14 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Computer Lab 1<br>2D Classroom</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td></tr>
-<tr><th>Instructors</th><td>Mr Ian Dylan Cha</td></tr>
+<tr><th>Instructors</th><td>Mr Ian Dylan Chai</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mrs Malarvizhi Haugen <br>Mr Mohammed Khalid Kudabar </td></tr>
+<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mr Mohammed Khalid Kudabar </td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
@@ -39,12 +39,12 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <table style="width:100%">
  <tbody>
 <tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
- <tr><td>Lee Jewelyn </td><td>Sec 4J</td><td>President (Debate Chairperson)</td></tr>
-<tr><td>Shervelle Soh En Hui</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
-<tr><td>Adeline Yap</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Arielle Ho Ming Xuan</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Ng Teng Ee</td><td>Sec 3W</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Ng Kiat Kee Rachel<br></td><td>Sec 2J</td><td>Lower Sec Debate Comm Member</td></tr>
+ <tr><td>Ng Teng Ee </td><td>Sec 4W</td><td>President (Debate Chairperson)</td></tr>
+<tr><td>Shum Yin Theng</td><td>Sec 4D</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
+<tr><td>Jassreel Lee Kumar</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Teo Yu Xin</td><td>Sec 4C</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Andrea Liu Xin En</td><td>Sec 3T</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Yew Yi Zenn<br></td><td>Sec 2D</td><td>Lower Sec Debate Comm Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
