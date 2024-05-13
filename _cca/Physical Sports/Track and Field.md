@@ -60,11 +60,10 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>National School Games Track and Field Championships 2023</b><br>
-<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture30.jpg"><br>
-<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture31.jpg"></td>
-<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture32.jpg"><br>
-<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture33.jpg"></td></tr>
+<tr><td style="width:50%"><b>National School Games Track and Field Championships 2024</b><br><br>
+<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture2.jpg"><br></td>
+<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture3.jpg"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture4.jpg"><br>
+</td></tr>
 
 <tr><td style="width:50%"><b>National School Games Cross Country Championships 2023</b></td>
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture34.jpg"></td></tr>
