@@ -10,7 +10,6 @@ variant: markdown
 #### **Track and Field**
 
 <img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture29.jpg" style="width:100%">
-
 Track and Field is a sport which consists of 4 main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
 
 Every year, we endure countless hours of gruelling training which has moulded us to the athletes we are today. Balancing training and school work had never been easy but with our teammates by our side, we know that no hurdle is too hard to overcome. Every run, jump, or throw has always been a valuable opportunity and a new learning experience for every one of us.
