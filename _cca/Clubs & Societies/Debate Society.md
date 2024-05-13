@@ -69,14 +69,12 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Singapore Secondary School<br>Debating Championships 2024     | Secondary Schools     |    Plate Finalists and Plate Finals Best Speaker    |
 | Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
-| Secondary School Debating<br>Championships 2021-22     | Secondary<br>3 &amp; 4     | Participation     |
+| Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
 | Orator's Trophy 2023     | Junior League     | Top 6     |
-| Orator's Trophy 2022     | Senior League     | Semi-Final     |
-| Orator's Trophy 2021     | Secondary 2 (Junior League)<br>Secondary 3 (Senior League)     | Semi-Finalist (Junior League)<br>Final – Top 6 (Senior League)     |
-| Debate Association<br>Debating Championships 2023     | Secondary Schools     | Top 8     |
-| Debate Association<br>Debating Championships 2022     | Secondary<br>3 &amp; 4     | Participation     |
-| Debate Association<br>Debating Championships 2021     | Secondary<br>3 &amp; 4     | Top 4     |
+| Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Semi-Finalists, 8th and 9th Best Speaker     |
+| Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Participation     |
 | Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
 | Raffles Debate Academy U-14<br>Debating Championship 2021     | Secondary<br>1 &amp; 2     | Participation     |
 | Youth Debate Open 2022     | Secondary<br>1 &amp; 2     | Participation     |
