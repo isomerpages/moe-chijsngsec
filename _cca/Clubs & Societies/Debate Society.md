@@ -51,17 +51,16 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Orator's Trophy</b><br><br>In 2022, our debaters took part in The Orator’s Trophy, a National Oratorical Competition, organised by ACJC. They did us proud by qualifying to the Semi-Finals in the competition where a member emerged as one of the top 6 semi-finalists in the Senior League.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate1.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br>   
+Organised by Anglo Chinese Junior College, the 2024 Hybrid Orator’s Trophy provides an opportunity for our debaters to refine their impromptu speaking skills and enhance their confidence in public speaking. This year, one of our debaters achieved 1st runner-up in the Junior League Finals.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture1.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Youth Debate Open</b><br><br>In 2022, our lower secondary debaters took part in this eye-opening maiden experience that exposed them to the rigours of debating, as they honed their confidence in public speaking.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate2.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Various Debating Events (Participation)</b><br><br>Our debaters participate in a variety of events, both at competitive and participation levels. These include the Malaysia International WSDC 2023, the Lasallian Debate League 2023, and the Raffles Debate Academy U-14 Debating Championship 2023.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture2.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Debate Association Debating Championships</b><br><br>In 2021, our debaters took part in the Debate Association Debating Championships competition. They emerged as Semi Finalists and clinched the Overall 11th Best Speaker Award, out of more than one hundred competitors.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Eunoia Debating Championship 2024</b><br><br>The 2024 Eunoia Debating Championship, hosted by Eunoia Junior College, serves as a vital platform for our debaters to sharpen their skills in critical thinking, improvisation, rational argumentation, persuasive speaking, and teamwork. This year, our team progressed to the Semi-Finals and achieved 8th and 9th place in the Best Speaker category.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture3.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>WR-NUS Pre-UADC Debating Championship</b><br><br>In 2020, our Secondary 3 debaters took part in this competition aimed at raising awareness of gender equality. The competition discussed concerns pertaining to women’s issues relating to “Marriage and Family Life”, “Workplace and Employment”, “Violence Against Women”, “Women in Ageing” and “Financial Literacy”.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Debate4.jpeg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
