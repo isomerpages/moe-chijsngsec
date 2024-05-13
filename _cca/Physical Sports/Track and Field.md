@@ -9,7 +9,8 @@ variant: markdown
 
 #### **Track and Field**
 
-<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture29.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture1.jpg" style="width:100%">
+
 Track and Field is a sport which consists of 4 main event groups namely, Sprints, Jumps, Throws and Middle Distance. With a total strength of close to 100 members, the St Nicks Athletics Team prides itself on being the largest CCA group.
 
 Every year, we endure countless hours of gruelling training which has moulded us to the athletes we are today. Balancing training and school work had never been easy but with our teammates by our side, we know that no hurdle is too hard to overcome. Every run, jump, or throw has always been a valuable opportunity and a new learning experience for every one of us.
@@ -34,7 +35,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Yang Peishan<br>Miss Lee Le Xin Francoise<br>Mr Koh Wen Jin, Marcus<br>Ms Kho Qi En Shermaine<br>Mr Kevin Andrew Thesman<br>Ms Audrey Chia<br><br></td></tr>
+<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Kho Qi En Shermaine<br>Ms Audrey Chia<br><br></td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
@@ -46,13 +47,13 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Goh Xu’En Hannah</td><td>Sec 3J</td><td>Captain</td></tr>
-<tr><td>Megan Koh Jeng Peck</td><td>Sec 3D</td><td>Vice - Captain</td></tr>
-<tr><td>Tay Yingxi Vincy </td><td>Sec 3U</td><td>Sprints &amp; Hurdles Leader </td></tr>
-<tr><td>Tan Zhen Ying</td><td>Sec 3D</td><td>Jumps Leader</td></tr>
-<tr><td>Aletheia Charis Lim Rae-Ern</td><td>Sec 2C</td><td>Middle Distance Leader</td></tr>
-<tr><td>Alyssa Chee Fenn</td><td>Sec 3T</td><td>Throws Leader</td></tr>
-<tr><td>Meranda Tan Eng Thiam </td><td>Sec 1G</td><td>Lower Sec Coordinator </td></tr>
+<tr><td> Goh Xu’En Hannah</td><td>Sec 4J</td><td>Captain</td></tr>
+<tr><td>Megan Koh Jeng Peck</td><td>Sec 4D</td><td>Vice - Captain</td></tr>
+<tr><td>Tay Yingxi Vincy </td><td>Sec 4U</td><td>Sprints &amp; Hurdles Leader </td></tr>
+<tr><td>Tan Zhen Ying</td><td>Sec 4D</td><td>Jumps Leader</td></tr>
+<tr><td>Aletheia Charis Lim Rae-Ern</td><td>Sec 3D</td><td>Middle Distance Leader</td></tr>
+<tr><td>Alyssa Chee Fenn</td><td>Sec 4T</td><td>Throws Leader</td></tr>
+<tr><td>Meranda Tan Eng Thiam </td><td>Sec 2G</td><td>Lower Sec Coordinator </td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
