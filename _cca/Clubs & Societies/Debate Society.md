@@ -75,9 +75,9 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Orator's Trophy 2023     | Junior League     | Top 6     |
 | Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Semi-Finalists, 8th and 9th Best Speaker     |
 | Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Participation     |
+| Dunman High Debate Open 2023   | Secondary<br>2 &amp; 3     |   Quarter-Finalist     |
+| Malaysia International WSDC 2023    | Secondary<br>2 &amp; 3     | Participation     |
+| Lasallian Debate League 2023    | Secondary<br>2 &amp; 3     | Participation     |
+| Illuminate 2023  | Secondary<br>1, 2 &amp; 3     | Participation     |
+| Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary<br>1 &amp; 2     | Participation     |
 | Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
-| Raffles Debate Academy U-14<br>Debating Championship 2021     | Secondary<br>1 &amp; 2     | Participation     |
-| Youth Debate Open 2022     | Secondary<br>1 &amp; 2     | Participation     |
-| Youth Debate Open 2021     | Secondary<br>1 &amp; 2     | Participation     |
-| Lasallian Debate League 2021     | Secondary<br>1, 2 &amp; 3     | Top 2     |
-| Hua Yi Debate<br>Championships 2021     | Secondary<br>1, 2 &amp; 3     | Participation     |
