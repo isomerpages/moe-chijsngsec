@@ -41,12 +41,12 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Mr Koh Zhi-Ti Jason</b><br>Ms Naseem Fathima<br>Ms Sharon Law</td>
+			<td><b>Mr Jason Koh</b><br>Ms Sharon Law<br>Ms Kok Choy Yoke</td>
   </tr>
   </tbody>
 </table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2023 - 2024)**
 
 <table style="width:100%">
 <tbody>
@@ -55,11 +55,11 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ashley Ang Jeng En</td><td>Sec 4U</td><td>President</td></tr>
-<tr><td>Mok Kai Yi Natalie</td><td>Sec 4J</td><td>Vice President</td></tr>
-<tr><td>Amber Phua Ke Xin</td><td>Sec 4L</td><td>Secretary</td></tr>
-<tr><td>Elisha Chan Xin Ying</td><td>Sec 4C</td><td>Stage Manager</td></tr>
- <tr><td>Goh Yu-Hsuen, Erica</td><td>Sec 4G</td><td>Level Coordinator</td></tr>
+<tr><td>Takahashi Kokone Alicia</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>Renae Chua Jin Xin</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Xu Zi Yuan</td><td>Sec 4J</td><td>Secretary</td></tr>
+<tr><td>Loke Cheuk Ying Zoe</td><td>Sec 4P</td><td>Stage Manager</td></tr>
+ <tr><td>Tan E-Shyan</td><td>Sec 4U</td><td>Level Coordinator</td></tr>
 </tbody>
 </table>
 
