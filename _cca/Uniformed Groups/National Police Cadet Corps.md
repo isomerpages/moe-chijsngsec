@@ -60,7 +60,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
   </tr>
   <tr>
     <td>See Sharmaine (Xu Shimin)<br>Yong Zi Xian Lorraine</td>
-    <td>Sec 3H<br><br>Sec 3U</td>
+    <td>Sec 3H<br>Sec 3U</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
@@ -96,6 +96,9 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| N.E.mation! 2024  | Student Category     | Team Friends of the CUHmunity: <br> 2nd runner up and People’s Choice     |
+| Unit Overall Proficiency Award 2023  | Secondary Schools     | Distinction     |
+| GOTC II Virtual Tournament 2023 | All     | Team A: Silver<br>Team B: Gold<br>Team C: Silver     |
 | NPCC Inter - Unit Crime Scene Investigation Competition  | Secondary Schools     | 10th     |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2023    | Secondary Schools     | Team 1: 4th<br>Team 2: 8th     |
 | Anti-Scam &amp; Cybersecurity Makeathon 2023     | Secondary Schools     | Champion     |
