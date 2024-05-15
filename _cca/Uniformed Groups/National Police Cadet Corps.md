@@ -49,8 +49,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
     <td>Field Instructress</td>
   </tr>
   <tr>
-    <td>Inez Claire Ho Si Yi
-    </td><td>Sec 3D<br>Sec 3W</td>
+    <td>Inez Claire Ho Si Yi</td>
+		<td>Sec 3D<br>Sec 3W</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
