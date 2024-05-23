@@ -79,7 +79,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tr><td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td></tr>
   
-<tr><td style="width:40%"><b>CSI Competition</b><br><br>Our cadets participated in the first E-CSI (Crime Scene Investigation) Competition this year.</td>
+<tr><td style="width:40%"><b>CSI Competition</b><br><br>Our cadets participated in the first CSI (Crime Scene Investigation) Competition this year.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/Picture1.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
