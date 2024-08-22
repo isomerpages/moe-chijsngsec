@@ -73,10 +73,10 @@ Organised by Anglo Chinese Junior College, the 2024 Hybrid Orator’s Trophy pro
 | Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
 | Orator's Trophy 2023     | Junior League     | Top 6     |
 | Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Semi-Finalists, 8th and 9th Best Speaker     |
-| Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Participation     |
+| Eunoia Debating Championships 2023     | Secondary 3 &amp; 4     | Participation     |
 | Dunman High Debate Open 2023   | Secondary<br>2 &amp; 3     |   Quarter-Finalist     |
 | Malaysia International WSDC 2023    | Secondary<br>2 &amp; 3     | Participation     |
 | Lasallian Debate League 2023    | Secondary<br>2 &amp; 3     | Participation     |
-| Illuminate 2023  | Secondary<br>1, 2 &amp; 3     | Participation     |
+| Illuminate 2023  | Secondary<br>1, 2 &amp; 3     | Quaterfinalists     |
 | Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary<br>1 &amp; 2     | Participation     |
 | Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
