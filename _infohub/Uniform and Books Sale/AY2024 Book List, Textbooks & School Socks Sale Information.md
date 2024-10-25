@@ -12,20 +12,20 @@ variant: markdown
 ##### **Self-Collection for Online**
 
 Time: 9am to 3pm <br>
-Nov: 29 &amp; 30 <br>
-Dec: 01, 05, 06, 07, 08, 13 &amp; 15<br><br>
+Nov: 27, 28, 29 <br>
+Dec: 03, 04, 05, 09, 10, 11, 16, 17, 18, 23, 26<br><br>
+
 Time: 9am to 12noon <br>
-Dec: 02 <br><br>
-Time: 9am to 4pm <br>
-Dec: 14
+Nov: 30
+
 
 ##### **Self-Collection for Online, Walk-In Purchase for Sec 1 Only**
 
 Time: 9am to 3pm <br>
-Dec: 21, 22, 26, 27 &amp; 28
+Dec: 27
 
 Time: 9am to 12noon <br>
-Dec: 23
+Dec: 28
 
 #### **AY2025 Book List / Textbooks &amp; School Socks Sale Information**
 
