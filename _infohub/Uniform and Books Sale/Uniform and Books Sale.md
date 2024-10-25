@@ -29,7 +29,7 @@ Dec: 28
 
 <b>Venue</b>: School Canteen  
  
-Students may also purchase their uniforms via online shop www.shanghai-uniforms.com, and are strongly encouraged to do so before 15 Dec 2023 to ensure that they receive the uniforms before school reopens.
+Students may also purchase their uniforms via online shop www.shanghai-uniforms.com, and are strongly encouraged to do so before 16 Dec 2024 to ensure that they receive the uniforms before school reopens.
 
 <u>Ubi Outlet (Tel 6747 8037)</u><br>
 Time: 10 am - 1 pm, 2 - 6 pm (Mon-Sat), LUNCH TIME 1 - 2 pm<br>
