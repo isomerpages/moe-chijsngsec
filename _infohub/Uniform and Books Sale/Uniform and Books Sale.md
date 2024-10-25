@@ -37,7 +37,7 @@ Dec: 28
 
 #### **Cardigans and Hoodies Sale**
 
-For purchase of cardigans and hoodies please kindly visit https://www.magdalene.com.sg/chijstnicholas.
+For purchase of cardigans and hoodies please [click here.]( https://www.magdalene.com.sg/chijstnicholas)
 
 
 For booklist and related information, please [click here.](https://master.d2kyho38yqhcge.amplifyapp.com/info-hub/uniform-and-books-sale/ay2023-booklist-textbooks-and-school-socks-sale-information/)
