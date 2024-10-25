@@ -31,6 +31,8 @@ Dec: 23
 
 Sec 1/Year 1  
 [S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%201%20o-level%20booklist.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%201%20ip%20booklist.pdf)
+
+[test](/files/06%20Infohub/Booklist/S1_2025.pdf)
   
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%202%20o-level%20booklist.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 2 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%202%20ip%20booklist.pdf)
