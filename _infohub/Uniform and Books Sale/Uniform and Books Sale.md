@@ -13,9 +13,23 @@ variant: markdown
 <u>School Uniform / PE T-shirts &amp; Shorts</u>  
 Sale dates in <b>Nov / Dec 2023</b>  
   
-| Time | Date |
-| -------- | -------- |
-| <u>Nov &amp; Dec</u><br>Mon - Fri: 9 am - 3 pm<br>Sat: 9 am - 12 noon<br><br><u>Jan</u><br>9 am - 2.30 pm     | <u>Nov</u><br>29 &amp; 30 (All levels)<br><br><u>Dec</u><br>1, 2, 5 to 8, 13 to 15,<br>18, 19, 26, 28 (All levels)<br><br>27 (Sec 1 only)<br><br><u>Jan</u><br>2, 15 (All levels)    |
+<u>School Uniform / PE T-shirts &amp; Shorts</u>  
+Sale dates in <b>Nov / Dec 2024</b>  
+
+Time: 9am to 3pm  
+Nov: 27, 28, 29  
+Dec: 03, 04, 05, 09, 10, 11, 16, 17, 18, 23, 26
+
+Time: 9am to 12noon  
+Nov: 30
+
+###### **Sec 1 Only**
+
+Time: 9am to 3pm  
+Dec: 27
+
+Time: 9am to 12noon  
+Dec: 28
 
 <b>Venue</b>: School Canteen  
  
@@ -28,7 +42,7 @@ Christmas Eve and New Year’s Eve: 10 am - 1 pm<br>
 Closed on Sunday, Public Holiday and Sec 1 Registration week (21 to 30 Dec 2023)
 
 <u>School Uniform / PE T-shirts &amp; Shorts</u>  
-Sale dates in <b>Jan - May 2024</b>
+Sale dates in <b>Jan - May 2025</b>
 
 | Month | Date |
 | -------- | -------- |
