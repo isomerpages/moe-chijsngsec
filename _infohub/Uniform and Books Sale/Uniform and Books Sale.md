@@ -8,10 +8,6 @@ variant: markdown
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
 #### **Uniform and Books Sale**
-
-
-<u>School Uniform / PE T-shirts &amp; Shorts</u>  
-Sale dates in <b>Nov / Dec 2023</b>  
   
 <u>School Uniform / PE T-shirts &amp; Shorts</u>  
 Sale dates in <b>Nov / Dec 2024</b>  
