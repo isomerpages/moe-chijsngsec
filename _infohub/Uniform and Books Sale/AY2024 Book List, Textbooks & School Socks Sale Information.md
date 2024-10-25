@@ -13,7 +13,7 @@ variant: markdown
 
 Time: 9am to 3pm <br>
 Nov: 27, 28, 29 <br>
-Dec: 03, 04, 05, 09, 10, 11, 16, 17, 18, 23, 26<br><br>
+Dec: 03, 04, 05, 09, 10, 11, 16, 17, 18, 23, 26
 
 Time: 9am to 12noon <br>
 Nov: 30
