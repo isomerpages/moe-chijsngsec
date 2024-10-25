@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2023**
+##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2024**
 
 ##### **Self-Collection for Online**
 
@@ -27,7 +27,7 @@ Dec: 21, 22, 26, 27 &amp; 28
 Time: 9am to 12noon <br>
 Dec: 23
 
-#### **AY2024 Book List / Textbooks &amp; School Socks Sale Information**
+#### **AY2025 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
 [S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/sec%201%20o-level%20booklist.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/year%201%20ip%20booklist.pdf)
