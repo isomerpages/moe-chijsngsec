@@ -9,11 +9,11 @@ variant: markdown
 
 #### **Infocomm Media Club**
 
-<img src="/images/06%20CCA/CS%20Infocomm%20MC/1all%20infocomm%202023.jpg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Infocomm%20MC/PictureA.jpg" style="width:100%">
 
-SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
+SNGS Infocomm Media Club offers students a dynamic and engaging platform to explore the world of technology, media, and communication. As part of the club, students gain hands-on experience in various aspects of Infocomm technology, such as coding, digital media creation, video production and graphic design. Through workshops, projects, and competitions, members can develop critical skills in problem-solving, creativity, and collaboration. The club encourages students to harness technology not only as a tool for innovation but also to create meaningful impact in their communities.
 
-Opportunities also abound for members to contribute to the school and community by providing PA, photography and videography support in regular and major school activities. Through experiential learning, the students grasp vital soft skills such as teamwork and communication and core values such as integrity and responsibility.&nbsp;
+SNGS Infocomm Media Club aims to develop students’ skills and character through service to the school community. Members take on important roles such as photography and videography for school events, ensuring moments are captured and shared. They also engage in coding projects, enhancing their technical expertise, and support school programmes through public announcement duties. By participating in these meaningful responsibilities, students not only sharpen their Infocomm skills but also contribute to the smooth running and vibrancy of school life, embodying a spirit of service and teamwork.
 
 #### **CCA Information**
 
@@ -21,7 +21,6 @@ Opportunities also abound for members to contribute to the school and community 
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Computer Labs 2 &amp; 3</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:00 pm<br>Fri: 4:00 pm - 6:00 pm<br></td></tr>
-<tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -36,13 +35,12 @@ Opportunities also abound for members to contribute to the school and community 
 <table style="width:100%">
  <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Eliana Chng Jia Xuan</td><td>Sec 4W</td><td>President</td></tr>
-<tr><td>Chua Yi Xuan Cherise</td><td>Sec 4P</td><td>Vice-President</td> </tr>
-<tr><td>Tan Lee-Ann</td><td>Sec 4L<br></td><td>Head (Admin)</td></tr>
-<tr><td>Amanda Chen Zhiyun</td><td>Sec 4P</td><td>Head (PA)</td></tr>
-<tr><td>Lee Qian Ying</td><td>Sec 4D</td><td>Head (Media)</td></tr>
-<tr><td>Clarisse Fong Jie Min</td><td>Sec 3L</td><td>Sec 2 Level Coordinator</td></tr>
-<tr><td>Choy Yumin</td><td>Sec 3L</td><td>Sec 1 Level Coordinator</td></tr>
+<tr><td>Clarisse Fong Jie Min</td><td>Sec 3L</td><td>President</td></tr>
+<tr><td>Tay Si Ju, Stephanie</td><td>Sec 3D<br></td><td>Head (Admin)</td></tr>
+<tr><td>Caitlyn Ciana Cho</td><td>Sec 3L</td><td>Head (PA)</td></tr>
+<tr><td>Tea Xin Qin Valerie</td><td>Sec 3J</td><td>Head (Media)</td></tr>
+<tr><td>Alyvia Wong Yuk Ting</td><td>Sec 2G</td><td>Sec 2 Level Coordinator</td></tr>
+<tr><td>Hoo Sue Ee</td><td>Sec 2C</td><td>Sec 1 Level Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
@@ -52,14 +50,26 @@ Opportunities also abound for members to contribute to the school and community 
 <tr><td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
 <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Photography and Videography</b><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/3photo%20and%20videography.jpg"></td></tr>
+<tr><td style="width:50%"><b>Photography and Videography</b><br><br>
+All Infocomm Media Club members underwent basic photography and videography courses and also regular photo review sessions.&nbsp;<br><br>
+These sharing and critique sessions aimed to provide the members with greater knowledge and awareness about photo composition and the story that the photos convey. This develops the students’ photo taking skill.</td>
+<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/PictureB.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Coding</b>
+<br><br> From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members.&nbsp;
+<br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years..</td>
+<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/PictureC.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
+<tr><td style="width:50%"><b>Learning Journeys</b>
+<br><br>Through various learning journeys around Singapore, Infocomm members get to learn more and deepen their understanding about the various skills.&nbsp;
+<br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about the advancing technology in today’s society. This also allows the members to forge stronger bonds with each other and get to know one another better.</td>
 <td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg"></td></tr>
+	
+<tr><td style="width:50%"><b>Projects</b>
+<br><br>During the CCA programmes, Infocomm Media Club members do projects that offer students hands-on experience in technology and media production, such as coding apps or creating digital content.
+<br><br>These projects allow students to apply their knowledge in real-world scenarios, fostering critical 21st-century skills like problem-solving, teamwork, and creativity. In these collaborative projects, students enhance their technical abilities, improve communication, and gain leadership experience.</td>
+<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/PictureD.jpg"></td></tr>
+	
 </tbody></table>
 
 #### **CCA Achievement**
