@@ -27,7 +27,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <table style="width:100%">
 <tbody>
 <tr><th style="width:40%">Officer-in-Command</th><td>Mdm Lee Keat Peng</td></tr>
-<tr><th>Teacher Officers</th><td>Mr Daniel Khor<br>Mr Chang Zheng</td></tr>
+<tr><th>Teacher Officers</th><td>Mr Chang Zheng<br>Ms Shen Lifeng</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
@@ -79,8 +79,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tr><td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td></tr>
   
-<tr><td style="width:40%"><b>CSI Competition</b><br><br>Our cadets participated in the first CSI (Crime Scene Investigation) Competition this year.</td>
-<td><img src="/images/06%20CCA/UG%20NPCC/Picture1.jpg"></td></tr>
+<tr><td style="width:40%"><b>Drill Competition</b><br><br>Our cadets participated in the first CSI (Crime Scene Investigation) Competition this year.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/PictureA.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td></tr>
@@ -96,6 +96,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NPCC Inter Unit Drills Competition 2024  | Secondary Schools     | Bronze    |
+| NPCC Inter Unit .22 Revolver Shooting Competition 2024  | Secondary Schools     | Team 1 : 4th     |
 | N.E.mation! 2024  | Student Category     | Team Friends of the CUHmunity: <br> 2nd runner up and People’s Choice     |
 | Unit Overall Proficiency Award 2023  | Secondary Schools     | Distinction     |
 | GOTC II Virtual Tournament 2023 | All     | Team A: Silver<br>Team B: Gold<br>Team C: Silver     |

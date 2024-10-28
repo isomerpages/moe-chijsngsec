@@ -33,7 +33,7 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <tr><td><b>Ms Amy Yee</b><br>Ms Mohana d/o S Sinniah<br>Mrs Theresa Chan </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -43,9 +43,9 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
-<tbody><tr><td>Alexis Chan</td><td>Sec 4C</td><td>Captain</td></tr>
-<tr><td>Ashleigh Lim Siqi</td><td>Sec 3F</td><td>Vice-Captain</td></tr>
-<tr><td>Emma Ong Yu Si</td><td>Sec 2D</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Ashleigh Lim Siqi</td><td>Sec 3F</td><td>Captain</td></tr>
+<tr><td>Emma Ong Yu Si</td><td>Sec 2D</td><td>Vice-Captain</td></tr>
+<tr><td>Kate Peh En Ya</td><td>Sec 1G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
  <table style="width:100%">
@@ -56,8 +56,9 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
-<tbody><tr><td>Ang Ying Le Gweyneth</td><td>Sec 4T</td><td>Captain</td></tr>
-<tr><td>Ang Ying Qi Vera</td><td>Sec 3W</td><td>Vice-Captain</td></tr>
+<tbody><tr><td>Ang Ying Qi Vera</td><td>Sec 3W</td><td>Captain</td></tr>
+<tr><td>Xannin Kang</td><td>Sec 2G</td><td>Vice-Captain</td></tr>
+<tr><td>Chooi Rui Shi Haley</td><td>Sec 1U</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 
@@ -84,5 +85,5 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games<br>Trampoline Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>1st |
-| National School Games<br>Artistic Gymnastics Championships 2023     | 'B' Division<br><br><br><br>'C' Division | All Round : <br>1st Danielle Fong<br>2nd  Gwyneth Ang<br>2nd Alexis Chan<br> All Round : <br>1st Hannah Lim<br>2nd  Adele Tan|
+| National School Games<br>Trampoline Championships     | 'B' Division<br>'C' Division     | 1st<br>1st |
+| National School Games<br>Artistic Gymnastics Championships     | 'B' Division<br><br><br><br>'C' Division | All Round : <br>1st Hannah Lim<br>2nd  Danielle Lim<br><br>All Round : <br>1st Adele Tan<br>3rd  Kalissa Pong|

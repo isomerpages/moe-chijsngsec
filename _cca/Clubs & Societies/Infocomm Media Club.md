@@ -3,74 +3,356 @@ title: Infocomm Media Club
 permalink: /co-curricular-activities-ccas/Clubs-and-Societies/Infocomm-Media-Club/
 description: ""
 third_nav_title: Clubs & Societies
-variant: markdown
+variant: tiptap
 ---
-![](/images/01%20Banner%20Photos/05%20subpage%20cca.jpg)
-
-#### **Infocomm Media Club**
-
-<img src="/images/06%20CCA/CS%20Infocomm%20MC/1all%20infocomm%202023.jpg" style="width:100%">
-
-SNGS Infocomm Media Club seeks to develop students with skills to be more than just consumers of technology. Opportunities abound for members to learn a variety of tech and media skills such as AI, Game Development and Immersive Media as well as delve deep into their specific areas of interest through courses, competitions, peer coaching and mentoring. Moreover, students learn to harness technology to create interesting videos, exciting games,&nbsp; improve their daily lives and serve the needs of others.&nbsp;
-
-Opportunities also abound for members to contribute to the school and community by providing PA, photography and videography support in regular and major school activities. Through experiential learning, the students grasp vital soft skills such as teamwork and communication and core values such as integrity and responsibility.&nbsp;
-
-#### **CCA Information**
-
-<table style="width:100%">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/05%20subpage%20cca.jpg">
+</div>
+<h4><strong>Infocomm Media Club</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureA.jpg">
+</div>
+<p>SNGS Infocomm Media Club offers students a dynamic and engaging platform
+to explore the world of technology, media, and communication. As part of
+the club, students gain hands-on experience in various aspects of Infocomm
+technology, such as coding, digital media creation, video production and
+graphic design. Through workshops, projects, and competitions, members
+can develop critical skills in problem-solving, creativity, and collaboration.
+The club encourages students to harness technology not only as a tool for
+innovation but also to create meaningful impact in their communities.</p>
+<p>SNGS Infocomm Media Club aims to develop students’ skills and character
+through service to the school community. Members take on important roles
+such as photography and videography for school events, ensuring moments
+are captured and shared. They also engage in coding projects, enhancing
+their technical expertise, and support school programmes through public
+announcement duties. By participating in these meaningful responsibilities,
+students not only sharpen their Infocomm skills but also contribute to
+the smooth running and vibrancy of school life, embodying a spirit of service
+and teamwork.</p>
+<h4><strong>CCA Information</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Computer Labs 2 &amp; 3</td></tr>
-<tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:00 pm<br>Fri: 4:00 pm - 6:00 pm<br></td></tr>
-<tr><th>Instructors</th><td>-</td></tr>
-</tbody></table>
-
-#### **Teachers-in-charge**
-
-<table style="width:100%">
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training / Meeting Venue</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Computer Labs 2 &amp; 3</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Day / Time</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Wed: 3:45 pm - 6:00 pm
+<br>Fri: 4:00 pm - 6:00 pm
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Teachers-in-charge</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-<tr><td><b>Mr Andy Lee</b><br>Ms Claire Cher<br>Mr Cai Jinhong </td></tr>
-</tbody></table>
-
-#### **Student Executive Committee (2023 - 2024)**
-
-<table style="width:100%">
- <tbody>
-<tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Eliana Chng Jia Xuan</td><td>Sec 4W</td><td>President</td></tr>
-<tr><td>Chua Yi Xuan Cherise</td><td>Sec 4P</td><td>Vice-President</td> </tr>
-<tr><td>Tan Lee-Ann</td><td>Sec 4L<br></td><td>Head (Admin)</td></tr>
-<tr><td>Amanda Chen Zhiyun</td><td>Sec 4P</td><td>Head (PA)</td></tr>
-<tr><td>Lee Qian Ying</td><td>Sec 4D</td><td>Head (Media)</td></tr>
-<tr><td>Clarisse Fong Jie Min</td><td>Sec 3L</td><td>Sec 2 Level Coordinator</td></tr>
-<tr><td>Choy Yumin</td><td>Sec 3L</td><td>Sec 1 Level Coordinator</td></tr>
-</tbody></table>
-
-#### **CCA Highlights**
-
-<table style="width:100%">
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Andy Lee</strong>
+<br>Ms Claire Cher
+<br>Mr Cai Jinhong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Student Executive Committee (2023 - 2024)</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr><td style="width:50%"><b>Public Announcement (PA) Duty for school events</b><br><br>All members are rostered to perform PA duties during school events. For many of the members, this eventually forms a memorable part of their school life.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>Photography and Videography</b><br><br>All members undergo basic photography and videography courses as well as regular photo review sessions. These review sessions aim to provide members with greater knowledge and awareness about photo composition and the story that the photos convey which develop their photo-taking skill.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/3photo%20and%20videography.jpg"></td></tr>
-	
-<tr><td style="width:50%"><b>Coding</b><br><br>From basic icon-based coding to almost hardcore programming, learning to code is a core skill for all members. <br><br>Students learn to code on a variety of platforms and through various courses throughout the 4 years.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club3.jpeg"></td></tr>
-	
-<tr><td style="width:50%"><b>Learning Journeys</b><br><br>Through various learning journeys, Infocomm members get to learn more and deepen their various skills. <br><br>For instance, going to the Headrock VR at Sentosa helped the members learn more about advancing technology like Virtual Reality and Augmented Reality in today’s society.</td>
-<td><img src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg"></td></tr>
-</tbody></table>
-
-#### **CCA Achievement**
-
- | Competition | Level | Achievement |
-| -------- | -------- | -------- |
-|Bebras Challenge 2023<br>|  Sec 1 - 3  |2 Gold Award,<br> 9 Silver Award,<br>11 Bronze Award,<br>4 Honorable Mention|
-|Design Thinking and Computational <br>Thinking International <br>Competition 2023 (DrCT)|  Sec 1 - 4  |4 Gold Award,<br> 12 Silver Award,<br>9 Bronze Award,<br>7 Honorable Mention|
-|Design Thinking and Computational<br> Thinking International<br> Competition 2022 (DrCT)|Sec 1 - 4|3 Gold Award,<br> 3 Silver Award,<br>11 Bronze Award,<br>2 Honorable Mention|
-|Bebras Challenge 2022|Sec 1 - 3|5 Gold Award,<br> 6 Silver Award,<br>4 Bronze Award|
-|Microsoft DigiGirlz 2021|Sec 1 - 2|Tech &amp; Creativity Award|
-|Design Thinking and Computational<br> Thinking International<br> Competition 2021 (DrCT)|Sec 1 - 4|11 Gold Award,<br> 17 Silver Award,<br>9 Bronze Award,<br>5 Honorable Mention|
-|National Software Competition 2021|Sec 1 - 4|1 Gold Award,<br> 2 Silver Award,<br>3 Bronze Award,<br>1st Place Team Award|
-|Bebras Challenge 2021|Sec 1 - 3|5 Exemplary Certificate,<br> 3 Outstanding Certificate,<br>5 Commendable Certificate,<br>4 Honorable Mention|
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Position</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Clarisse Fong Jie Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Si Ju, Stephanie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3D
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Admin)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Caitlyn Ciana Cho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (PA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tea Xin Qin Valerie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Media)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alyvia Wong Yuk Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Level Coordinator</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hoo Sue Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 Level Coordinator</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Highlights</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Public Announcement (PA) Duty for school events</strong>
+<br>
+<br>All members are rostered to perform PA duties during school events. For
+many of the members, this eventually forms a memorable part of their school
+life.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/2pa%20duty.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Photography and Videography</strong>
+<br>
+<br>All Infocomm Media Club members underwent basic photography and videography
+courses and also regular photo review sessions.&nbsp;
+<br>
+<br>These sharing and critique sessions aimed to provide the members with
+greater knowledge and awareness about photo composition and the story that
+the photos convey. This develops the students’ photo taking skill.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureB.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Coding</strong>
+<br>
+<br>From basic icon-based coding to almost hardcore programming, learning
+to code is a core skill for all members.&nbsp;
+<br>
+<br>Students learn to code on a variety of platforms and through various courses
+throughout the 4 years..</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureC.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Journeys</strong>
+<br>
+<br>Through various learning journeys around Singapore, Infocomm members get
+to learn more and deepen their understanding about the various skills.&nbsp;
+<br>
+<br>For instance, going to the Headrock VR at Sentosa helped the members learn
+more about the advancing technology in today’s society. This also allows
+the members to forge stronger bonds with each other and get to know one
+another better.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Projects</strong>
+<br>
+<br>During the CCA programmes, Infocomm Media Club members do projects that
+offer students hands-on experience in technology and media production,
+such as coding apps or creating digital content.
+<br>
+<br>These projects allow students to apply their knowledge in real-world scenarios,
+fostering critical 21st-century skills like problem-solving, teamwork,
+and creativity. In these collaborative projects, students enhance their
+technical abilities, improve communication, and gain leadership experience.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureD.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Achievement</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design Thinking and Computational
+<br>Thinking International
+<br>Competition 2024 <strong>(DrCT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Gold Award,
+<br>5 Silver Award,
+<br>8 Bronze Award,
+<br>2 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bebras Challenge 2023
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Gold Award,
+<br>9 Silver Award,
+<br>11 Bronze Award,
+<br>4 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design Thinking and Computational
+<br>Thinking International
+<br>Competition 2023 <strong>(DrCT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Gold Award,
+<br>12 Silver Award,
+<br>9 Bronze Award,
+<br>7 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Design Thinking and Computational
+<br>Thinking International
+<br>Competition 2022 <strong>(DrCT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold Award,
+<br>3 Silver Award,
+<br>11 Bronze Award,
+<br>2 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bebras Challenge 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 Gold Award,
+<br>6 Silver Award,
+<br>4 Bronze Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
