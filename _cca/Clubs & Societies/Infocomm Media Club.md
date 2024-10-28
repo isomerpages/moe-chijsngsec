@@ -12,7 +12,23 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureA.jpg">
 </div>
-<p></p>
+<p>SNGS Infocomm Media Club offers students a dynamic and engaging platform
+to explore the world of technology, media, and communication. As part of
+the club, students gain hands-on experience in various aspects of Infocomm
+technology, such as coding, digital media creation, video production and
+graphic design. Through workshops, projects, and competitions, members
+can develop critical skills in problem-solving, creativity, and collaboration.
+The club encourages students to harness technology not only as a tool for
+innovation but also to create meaningful impact in their communities.</p>
+<p>SNGS Infocomm Media Club aims to develop students’ skills and character
+through service to the school community. Members take on important roles
+such as photography and videography for school events, ensuring moments
+are captured and shared. They also engage in coding projects, enhancing
+their technical expertise, and support school programmes through public
+announcement duties. By participating in these meaningful responsibilities,
+students not only sharpen their Infocomm skills but also contribute to
+the smooth running and vibrancy of school life, embodying a spirit of service
+and teamwork.</p>
 <h4><strong>CCA Information</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
