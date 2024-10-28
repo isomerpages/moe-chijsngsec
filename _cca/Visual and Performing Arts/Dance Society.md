@@ -33,23 +33,23 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chong Bao Ling<br>Ms Chen Jiehui</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2024 - 2025)**
 
-<table style="width:100%">
+Kim Jua<table style="width:100%">
 <tbody>
 <tr>
 <th style="width:45%">Name</th>
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Erynn Toh (Du Yining)</td><td>Sec 3T</td><td>CCA Chairperson</td></tr>
-<tr><td>Kirstyn Koh Zi Rui</td><td>Sec 3T</td><td>CCA Vice-Chairperson</td></tr>
-<tr><td>Ethel Chong Shan En</td><td>Sec 3H</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Ng Xuan Na</td><td>Sec 3G</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Lim Wen Xuan</td><td>Sec 2W</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 2W</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Mikayla Seah Tian Xin</td><td>Sec1C</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Tessa Peer Enya</td><td>Sec 1F</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 3L</td><td>CCA Chairperson</td></tr>
+<tr><td>Lim Wen Xuan</td><td>Sec 3P</td><td>CCA Vice-Chairperson</td></tr>
+<tr><td>Megan Koh Rui En</td><td>Sec 3J</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Elizabeth Lim Min En</td><td>Sec 3P</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Kristen Low Pei Qi</td><td>Sec 2C</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td></td><td>Sec 2P</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Chea Jia Qian Sophia</td><td>Sec1P</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Lee Xin Ci</td><td>Sec 1U</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 
