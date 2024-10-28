@@ -163,12 +163,12 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 	 
 <tr><td style="width:40%"><b> String Orchestra School Exchange</b>
 <br><br>To hone the skills of our students and foster bonding amongst like-minded musicians through performances and games, we collaborate with other schools such as Singapore Chinese Girls’ School and Nanyang Girls High School for school exchange.</td>
-<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture16.jpg">
+<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/PictureA.jpg">
 </td></tr>
 
 <tr><td style="width:40%"><b>SNSO Concert Outing</b>
 <br><br>To provide an authentic concert experience for our students, SNSO attends concerts to broaden our students’ exposure to music and performance.</td>
-<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture16.jpg">
+<td><img src="/images/06%20CCA/VPA%20String%20Orchestra/PictureB.jpg">
 </td></tr>
 </tbody>
 </table>
