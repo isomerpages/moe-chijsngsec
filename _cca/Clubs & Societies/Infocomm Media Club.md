@@ -74,7 +74,7 @@ These sharing and critique sessions aimed to provide the members with greater kn
 
 #### **CCA Achievement**
 
- | Competition | Level | Achievement |
+| Competition | Level | Achievement |
 | -------- | -------- | -------- |
 |Design Thinking and Computational<br> Thinking International<br> Competition 2024 <b>(DrCT)|Sec 1 - 3|1 Gold Award,<br> 5 Silver Award,<br>8 Bronze Award,<br>2 Honorable Mention|
 |Bebras Challenge 2023<br>|  Sec 1 - 3  |2 Gold Award,<br> 9 Silver Award,<br>11 Bronze Award,<br>4 Honorable Mention|
