@@ -35,7 +35,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 
 #### **Student Executive Committee (2024 - 2025)**
 
-Kim Jua<table style="width:100%">
+<table style="width:100%">
 <tbody>
 <tr>
 <th style="width:45%">Name</th>
@@ -47,7 +47,7 @@ Kim Jua<table style="width:100%">
 <tr><td>Megan Koh Rui En</td><td>Sec 3J</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
 <tr><td>Elizabeth Lim Min En</td><td>Sec 3P</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
 <tr><td>Kristen Low Pei Qi</td><td>Sec 2C</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td></td><td>Sec 2P</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Kim Jua</td><td>Sec 2P</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
 <tr><td>Chea Jia Qian Sophia</td><td>Sec1P</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
 <tr><td>Lee Xin Ci</td><td>Sec 1U</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
