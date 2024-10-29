@@ -55,7 +55,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>CDS Library VIA 2023&amp;2024</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Jubilate2.jpeg"></td></tr>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture12.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>2022 启航</b><br><br>Performance Titles: <br>彩，作者和哈利的对话，假戏真做，生与死，雇佣人生 <br><br>这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg"></td></tr>
