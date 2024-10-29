@@ -85,9 +85,7 @@ On top of that, Guides are also able to attain different proficiency and interes
 </td></tr><tr><td style="width:40%"><b>Cookie Project and Public Cookie Sales</b>
 <br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
 <br><br>Each year, on top of contributing to this project, St Nicks Guides also take part in the Public Cookie Sales.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture12.jpg">
-	
-</td></tr>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture12.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
@@ -95,10 +93,10 @@ On top of that, Guides are also able to attain different proficiency and interes
 
 | Competition | Level | Achievement / Recipients |
 | -------- | -------- | -------- |
-| Puan Noor Aishah Award 2022     | Unit Award     | Gold     | 
-|Baden Powell Award 2023|Secondary Schools|Ng Tze Hwee (Sec 3L)|
-| 2023 North Division<br>Let’s Get Moving Dance Competition    | North Division     | 1st     |
-| 2023 North Division<br>Fitness Workout Competition     | North Division     | 1st     |
+| Puan Noor Aishah Award 2023     | National     | Gold     | 
+|Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (3 Grace)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)<br>Glory Faith Wong Si Syun (4 Faith)<br>Goh Claudia (4 Justice)<br>Janessa Quek Ke Xuan (4 Justice)<br>Ng Tze Hwee (4 Loyalty)<br>Mak Hor Yan, Zoe (4 Purity)|
+| North Division Day:<br>Board Game Design Competition    | Division     |<b>Merit </b><br>Faith Jaylene Cheong Huai Yin (3 Grace)<br>Chang Yu-Han Janis (3 Hope)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)     |
+| North Division Day:<br>Division Day: North Div Got Talent     | Division     | <b>2nd Place</b><br>Quek An Xuan (3 Charity)<br>Sierra Teo Rui Fen (3 Charity)<br>Wang Zixi (3 Charity)<br>Shannon Soh Hwee Ying (3 Faith)<br>Sophie Tan Zi Ning (3 Unity)    |
 | 2023 North Division<br>Innovative Ideas     | North Division     | 3rd     |
 | 2023 North Division<br>Telematch     | North Division     | Merit     |
 |2023 North Division Challenge: Innovative Gadget|North Division|2nd| 
