@@ -61,8 +61,11 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 2.  《四大天王》<br>启航是我们每两年举办一次的活动。无论是编写剧本，导戏，制作道具，化妆，音乐还是灯光，都是由会员们在老师的指导下完成的。今年，会员们为观众呈现了精彩的表演，也在准备的过程中学会了很多演戏技巧。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture14.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>2021 青年节戏剧艺术汇演 <br>2021 SYF Drama Arts Presentation</b><br><br>Performance Titles: <br>带我到巅峰 / Take Me to the Top<br><br>荣获特优奖 (Certificate of Distinction)</td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/04%20SYF%20Drama%20Arts%20Presentation.jpg"></td></tr>
+<tr><td style="width:50%"><b>JUBILATE</b><br><br>Performance Title: 银手镯 (modified)</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture15.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>JUBILATE</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
 
 </tbody></table>
 
