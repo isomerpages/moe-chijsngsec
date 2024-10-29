@@ -9,12 +9,11 @@ variant: markdown
 
 #### **Girl Guides**
 
-<img src="/images/06%20CCA/UG%20Girl%20Guides/Girl%20Guides.jpeg" style="width:100%">
+<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture9.jpg" style="width:100%">
 
-Girl Guides @ SN aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through the 5-Point Programme and various proficiency/interest badges, guides are able to develop their leadership, decision-making and team-building skills.
+The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their leadership and campcraft skills, bond with one another and demonstrate their capabilities.
 
 <b>Guide Motto:</b><br>Be Prepared  
-  
 <b>Guide Promise:</b><br>
 I promise to do my best;  
 To do my duty to God,  
@@ -37,17 +36,17 @@ To keep the Guide Law
 <tr><td><b>Ms Fadhilah Bte R. Harianto</b><br>Ms Tan Ann Nie<br>Ms Chen Yiqi<br>Mdm Xie Fuzhen</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024-2025)**
 
 <table style="width:100%">
 <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Isabel Ong Rui Xuan</td><td>Sec 4C</td><td>Company Leader</td></tr>
-<tr><td>Tricia Teh En Qi</td><td>Sec 4F</td><td>Company Leader</td></tr>
-<tr><td>Kaelyn Tay Fang Ting</td><td>Sec 4H</td><td>Company Leader</td></tr>
-<tr><td>Ong Yi Ying</td><td>Sec 4F</td><td>Assistant Company Leader</td></tr>
-<tr><td>Janessa Quek Ke Xuan</td><td>Sec 4J</td><td>Assistant Company Leader</td></tr>
-<tr><td>Zaylyn Goh</td><td>Sec 4L</td><td>Assistant Company Leader</td></tr>
+<tr><td>Quek An Xuan</td><td>Sec 3C</td><td>Company Leader</td></tr>
+<tr><td>Phua Jia Ern Reinie</td><td>Sec 3J</td><td>Company Leader</td></tr>
+<tr><td>Ally Law Jing Ning</td><td>Sec 3L</td><td>Company Leader</td></tr>
+<tr><td>Isabel Lee Jia Ying</td><td>Sec 3J</td><td>Assistant Company Leader</td></tr>
+<tr><td>Lim Tzu Yue</td><td>Sec3L</td><td>Assistant Company Leader</td></tr>
+<tr><td>Heng Rui En, Renelle (Wang Ruien)</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
 </tbody></table>
 
 
@@ -58,32 +57,35 @@ To keep the Guide Law
 <tr><td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.<br><br>This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
 <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td></tr>
 
-<tr><td style="width:40%"><b>North Division Day</b><br><br>The annual North Division Day is a day where all units, both Brownies and GIrl Guides, from the North Division, meet to learn from and share with each other their guiding practices through activities and competitions.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture18.jpg"></td></tr>
-
-<tr><td style="width:40%"><b>5-Point Programme, Proficiency and Interest Badges</b><br><br>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
+<tr><td style="width:40%"><b>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
 <ul>
   <li>Personal &amp; Social Development</li>
   <li>Home</li>
   <li>Outdoor</li>
 	<li> Community</li>
-	<li> Internationaly</li>
+	<li> International</li>
 </ul>  
 On top of that, Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides for example
 <ul>
-  <li>Personal &amp; Social Development</li>
   <li>Craft badge</li>
   <li>Entertainer badge</li>
 	<li>Friends to the Visually Impaired badge</li>
 	<li>Gardens by the Bay Ambassador badge</li>
-	<li>Pathfinder badge</li>
+	<li>Singapore Anti-Narcotics Association (SANA) badge</li>
 </ul>  
-</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td></tr>
+</b></td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"><br>
+	<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture10.jpg"></td></tr>
 	
-<tr><td style="width:40%"><b>Competitions and Other HQ Activities</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning! <br><br>This year, our Guides who were in the winning team for the North Division Dance Competition were invited to represent Girl Guides Singapore and perform in the GetActive! Heartlands National Day celebrations. <br><br>On top of that, two of our Secondary Two Guides, Jamie Tang and Gloria Liew, were selected to participate in the annual Girl Guides Singapore Gala Dinner musical performance.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture20.jpg"><br>
-<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture21.jpg"></td></tr>
+<tr><td style="width:40%"><b>Competitions and Other HQ Activities</b>
+<br><br>Guides can take part in competitions and HQ events like the annual World Thinking Day Celebrations and North Division Day.
+<br><br>Events such as these are when both Girl Guides and Brownies meet to learn from and share with each other their Guiding practices through activities and competitions.</td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture11.jpg">
+
+</td></tr><tr><td style="width:40%"><b>Cookie Project and Public Cookie Sales</b>
+<br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
+<br><br>Each year, on top of contributing to this project, St Nicks Guides also take part in the Public Cookie Sales.</td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture12.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
@@ -91,12 +93,9 @@ On top of that, Guides are also able to attain different proficiency and interes
 
 | Competition | Level | Achievement / Recipients |
 | -------- | -------- | -------- |
-| Puan Noor Aishah Award 2022     | Unit Award     | Gold     | 
-|Baden Powell Award 2023|Secondary Schools|Ng Tze Hwee (Sec 3L)|
-| 2023 North Division<br>Let’s Get Moving Dance Competition    | North Division     | 1st     |
-| 2023 North Division<br>Fitness Workout Competition     | North Division     | 1st     |
-| 2023 North Division<br>Innovative Ideas     | North Division     | 3rd     |
-| 2023 North Division<br>Telematch     | North Division     | Merit     |
-|2023 North Division Challenge: Innovative Gadget|North Division|2nd| 
-|2023 North Div Outdoor Challenge: Packing a Camping Bag|North Division|Merit| |2023 North Div Outdoor Challenge: Wide Games| North Division|Merit|
-| Baden-Powell Award 2022 |Secondary School |Zai Min Si Isabelle (Sec 3L)<br>Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
+| Puan Noor Aishah Award 2023     | National     | Gold     | 
+|Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (3 Grace)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)<br>Glory Faith Wong Si Syun (4 Faith)<br>Goh Claudia (4 Justice)<br>Janessa Quek Ke Xuan (4 Justice)<br>Ng Tze Hwee (4 Loyalty)<br>Mak Hor Yan, Zoe (4 Purity)|
+| North Division Day:<br>Board Game Design Competition    | Division     |<b>Merit </b><br>Faith Jaylene Cheong Huai Yin (3 Grace)<br>Chang Yu-Han Janis (3 Hope)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)     |
+| North Division Day:<br>Division Day: North Div Got Talent     | Division     | <b>2nd Place</b><br>Quek An Xuan (3 Charity)<br>Sierra Teo Rui Fen (3 Charity)<br>Wang Zixi (3 Charity)<br>Shannon Soh Hwee Ying (3 Faith)<br>Sophie Tan Zi Ning (3 Unity)|
+| North Division Day:<br>Innovative Ideas     | North Division     | <b>1st Place</b><br>Gloria Liew Yu Xuan (3 Faith)<br>Inez Choo Yu En (3 Hope)<br>Karissa Tham Mun Sik (3 Hope)<br>Lim Shan Qi, Rebecca (3 Wisdom)     |
+| World Thinking Day Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom)     |
