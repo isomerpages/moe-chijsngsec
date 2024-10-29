@@ -57,7 +57,8 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <tr><td style="width:50%"><b>CDS Library VIA 2023&amp;2024</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>2022 启航</b><br><br>Performance Titles: <br>彩，作者和哈利的对话，假戏真做，生与死，雇佣人生 <br><br>这是我们两年一次举办的活动。不管是编写剧本，导戏，制作道具，化妆，音乐，灯光，还是字幕，都是由会员们与老师们一起完成。</td>
+<tr><td style="width:50%"><b>QIHANG 启航 2024<br><br>Performance Titles:<br>1.  《银手镯》<br>
+2.  《四大天王》<br>启航是我们每两年举办一次的活动。无论是编写剧本，导戏，制作道具，化妆，音乐还是灯光，都是由会员们在老师的指导下完成的。今年，会员们为观众呈现了精彩的表演，也在准备的过程中学会了很多演戏技巧。</b></td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Qihang.jpeg"></td></tr>
 
 <tr><td style="width:50%"><b>2021 青年节戏剧艺术汇演 <br>2021 SYF Drama Arts Presentation</b><br><br>Performance Titles: <br>带我到巅峰 / Take Me to the Top<br><br>荣获特优奖 (Certificate of Distinction)</td>
