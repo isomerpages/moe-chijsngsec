@@ -64,8 +64,8 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <tr><td style="width:50%"><b>JUBILATE</b><br><br>Performance Title: 银手镯 (modified)</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture15.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>JUBILATE</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
+<tr><td style="width:50%"><b>2023 青年节戏剧艺术汇演 <br>2023 SYF Drama Arts Presentation </b><br><br>Performance Titles:<br>《我（不）是校工》<br>I am (not) a school worker</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture16.jpg"></td></tr>
 
 </tbody></table>
 
