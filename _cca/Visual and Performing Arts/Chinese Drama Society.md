@@ -41,12 +41,12 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Renee Foo 符芷瑜</td><td>Sec 4D</td><td>主席 President</td></tr>
-<tr><td>Lian Le En Magdalyn 连乐蒽</td><td>Sec 4U</td><td>副主席 Vice President</td></tr>
-<tr><td>Chong Hui Ning Claris 张卉甯</td><td>Sec 4T</td><td>演出组长 Head of Performance </td></tr>
-<tr><td>Lee Xinyi, Fionn 李欣怡</td><td>Sec 4U</td><td>总务 Head of Logistics</td></tr>
-<tr><td>Joelle Lim Shi Min (Lin Shimin) 林诗敏</td><td>Sec 3G</td><td> 福利组长 Head of Welfare</td></tr>
-<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 3L</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 3L</td><td>主席 President</td></tr>
+<tr><td>Tay Suyin (Zheng Shiying) 鄭诗颖</td><td>Sec 3L</td><td>副主席 Vice President</td></tr>
+<tr><td>Ngan Kwan Ying 颜光莹</td><td>Sec 3C</td><td>演出组长 Head of Performance </td></tr>
+<tr><td>Ou Xuan Ning, Trinette 侯萱嬣</td><td>Sec 3D</td><td>总务 Head of Logistics</td></tr>
+<tr><td>Lian Lifang 连俪芳</td><td>Sec 2G</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Chen Wan Ru, Felise 陈琬茹</td><td>Sec 2D</td><td> 福利组长 Head of Welfare</td></tr>
 </tbody></table>
 
 
