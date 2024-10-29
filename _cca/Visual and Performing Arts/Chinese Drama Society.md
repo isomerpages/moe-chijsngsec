@@ -58,7 +58,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>QIHANG 启航 2024 </b><br><br>Performance Titles:<br>1.  《银手镯》<br>
-2.  《四大天王》<br>启航是我们每两年举办一次的活动。无论是编写剧本，导戏，制作道具，化妆，音乐还是灯光，都是由会员们在老师的指导下完成的。今年，会员们为观众呈现了精彩的表演，也在准备的过程中学会了很多演戏技巧。</td>
+2.  《四大天王》<br><br>启航是我们每两年举办一次的活动。无论是编写剧本，导戏，制作道具，化妆，音乐还是灯光，都是由会员们在老师的指导下完成的。今年，会员们为观众呈现了精彩的表演，也在准备的过程中学会了很多演戏技巧。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture14.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>JUBILATE</b><br><br>Performance Title: 银手镯 (modified)</td>
