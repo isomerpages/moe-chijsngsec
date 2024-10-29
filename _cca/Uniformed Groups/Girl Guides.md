@@ -96,9 +96,6 @@ On top of that, Guides are also able to attain different proficiency and interes
 | Puan Noor Aishah Award 2023     | National     | Gold     | 
 |Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (3 Grace)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)<br>Glory Faith Wong Si Syun (4 Faith)<br>Goh Claudia (4 Justice)<br>Janessa Quek Ke Xuan (4 Justice)<br>Ng Tze Hwee (4 Loyalty)<br>Mak Hor Yan, Zoe (4 Purity)|
 | North Division Day:<br>Board Game Design Competition    | Division     |<b>Merit </b><br>Faith Jaylene Cheong Huai Yin (3 Grace)<br>Chang Yu-Han Janis (3 Hope)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)     |
-| North Division Day:<br>Division Day: North Div Got Talent     | Division     | <b>2nd Place</b><br>Quek An Xuan (3 Charity)<br>Sierra Teo Rui Fen (3 Charity)<br>Wang Zixi (3 Charity)<br>Shannon Soh Hwee Ying (3 Faith)<br>Sophie Tan Zi Ning (3 Unity)    |
-| 2023 North Division<br>Innovative Ideas     | North Division     | 3rd     |
-| 2023 North Division<br>Telematch     | North Division     | Merit     |
-|2023 North Division Challenge: Innovative Gadget|North Division|2nd| 
-|2023 North Div Outdoor Challenge: Packing a Camping Bag|North Division|Merit| |2023 North Div Outdoor Challenge: Wide Games| North Division|Merit|
-| Baden-Powell Award 2022 |Secondary School |Zai Min Si Isabelle (Sec 3L)<br>Poh Sher Lyn Alaena (Sec 3G)<br>Rachel Ong Jing Wen (Sec 3U)<br>Engracia See Yun En (Sec 3J)<br>See Rui Ying Rainie (Sec 3D)<br>Jaimie Chan Xin Hui (Sec 3L)<br>Yvonne Aurelia Wibowo (Sec 3P)     |
+| North Division Day:<br>Division Day: North Div Got Talent     | Division     | <b>2nd Place</b><br>Quek An Xuan (3 Charity)<br>Sierra Teo Rui Fen (3 Charity)<br>Wang Zixi (3 Charity)<br>Shannon Soh Hwee Ying (3 Faith)<br>Sophie Tan Zi Ning (3 Unity)|
+| North Division Day:<br>Innovative Ideas     | North Division     | <b>1st Place</b><br>Gloria Liew Yu Xuan (3 Faith)<br>Inez Choo Yu En (3 Hope)<br>Karissa Tham Mun Sik (3 Hope)<br>Lim Shan Qi, Rebecca (3 Wisdom)     |
+| World Thinking Day Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom)     |
