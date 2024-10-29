@@ -41,12 +41,12 @@ To keep the Guide Law
 <table style="width:100%">
 <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Isabel Ong Rui Xuan</td><td>Sec 4C</td><td>Company Leader</td></tr>
-<tr><td>Tricia Teh En Qi</td><td>Sec 4F</td><td>Company Leader</td></tr>
-<tr><td>Kaelyn Tay Fang Ting</td><td>Sec 4H</td><td>Company Leader</td></tr>
-<tr><td>Ong Yi Ying</td><td>Sec 4F</td><td>Assistant Company Leader</td></tr>
-<tr><td>Janessa Quek Ke Xuan</td><td>Sec 4J</td><td>Assistant Company Leader</td></tr>
-<tr><td>Zaylyn Goh</td><td>Sec 4L</td><td>Assistant Company Leader</td></tr>
+<tr><td>Quek An Xuan</td><td>Sec 3C</td><td>Company Leader</td></tr>
+<tr><td>Phua Jia Ern Reinie</td><td>Sec 3J</td><td>Company Leader</td></tr>
+<tr><td>Ally Law Jing Ning</td><td>Sec 3L</td><td>Company Leader</td></tr>
+<tr><td>Isabel Lee Jia Ying</td><td>Sec 3J</td><td>Assistant Company Leader</td></tr>
+<tr><td>Lim Tzu Yue</td><td>Sec3L</td><td>Assistant Company Leader</td></tr>
+<tr><td>Heng Rui En, Renelle (Wang Ruien)</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
 </tbody></table>
 
 
