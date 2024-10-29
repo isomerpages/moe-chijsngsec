@@ -9,12 +9,11 @@ variant: markdown
 
 #### **Girl Guides**
 
-<img src="/images/06%20CCA/UG%20Girl%20Guides/Girl%20Guides.jpeg" style="width:100%">
+<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture9.jpg" style="width:100%">
 
-Girl Guides @ SN aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through the 5-Point Programme and various proficiency/interest badges, guides are able to develop their leadership, decision-making and team-building skills.
+The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their leadership and campcraft skills, bond with one another and demonstrate their capabilities.
 
 <b>Guide Motto:</b><br>Be Prepared  
-  
 <b>Guide Promise:</b><br>
 I promise to do my best;  
 To do my duty to God,  
@@ -37,7 +36,7 @@ To keep the Guide Law
 <tr><td><b>Ms Fadhilah Bte R. Harianto</b><br>Ms Tan Ann Nie<br>Ms Chen Yiqi<br>Mdm Xie Fuzhen</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024-2025)**
 
 <table style="width:100%">
 <tbody>
