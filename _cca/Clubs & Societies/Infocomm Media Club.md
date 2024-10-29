@@ -72,7 +72,7 @@ and teamwork.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Student Executive Committee (2023 - 2024)</strong></h4>
+<h4><strong>Student Executive Committee (2024 - 2025)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
