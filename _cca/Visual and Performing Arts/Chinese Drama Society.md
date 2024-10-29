@@ -17,7 +17,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>MPR 1, 2, 3 (Wed)<br>Drama Studio (Fri)</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Drama Studio (Fri)</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructors</th><td>Mr Li Jia 李嘉老师<br>Ms Sun Meiling 孙美玲老师</td></tr>
 </tbody></table>
@@ -27,7 +27,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Zhao Haiping 赵海萍老师</b><br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br>Ms Phang Lee Shia 彭栎霞老师</td>
+			<td><b>Ms Phang Lee Shia 彭栎霞老师</b><br>Ms Zhao Haiping 赵海萍老师<br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br></td>
   </tr>
 </tbody>
 </table>
