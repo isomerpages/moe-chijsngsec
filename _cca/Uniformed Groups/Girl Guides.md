@@ -57,32 +57,37 @@ To keep the Guide Law
 <tr><td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.<br><br>This year we collaborated with NPCC and SJB for our first Inter-UG camp.</td>
 <td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td></tr>
 
-<tr><td style="width:40%"><b>North Division Day</b><br><br>The annual North Division Day is a day where all units, both Brownies and GIrl Guides, from the North Division, meet to learn from and share with each other their guiding practices through activities and competitions.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture18.jpg"></td></tr>
-
-<tr><td style="width:40%"><b>5-Point Programme, Proficiency and Interest Badges</b><br><br>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
+<tr><td style="width:40%"><b>The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
 <ul>
   <li>Personal &amp; Social Development</li>
   <li>Home</li>
   <li>Outdoor</li>
 	<li> Community</li>
-	<li> Internationaly</li>
+	<li> International</li>
 </ul>  
 On top of that, Guides are also able to attain different proficiency and interest badges throughout their years in Girl Guides for example
 <ul>
-  <li>Personal &amp; Social Development</li>
   <li>Craft badge</li>
   <li>Entertainer badge</li>
 	<li>Friends to the Visually Impaired badge</li>
 	<li>Gardens by the Bay Ambassador badge</li>
-	<li>Pathfinder badge</li>
+	<li>Singapore Anti-Narcotics Association (SANA) badge</li>
 </ul>  
-</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"></td></tr>
+</b></td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"><br>
+	<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture10.jpg"></td></tr>
 	
-<tr><td style="width:40%"><b>Competitions and Other HQ Activities</b><br><br>The North Division Outdoor Challenge provides Guides the opportunity to take part in competitions, collaborate with Guides and Brownies from other schools and have fun while learning! <br><br>This year, our Guides who were in the winning team for the North Division Dance Competition were invited to represent Girl Guides Singapore and perform in the GetActive! Heartlands National Day celebrations. <br><br>On top of that, two of our Secondary Two Guides, Jamie Tang and Gloria Liew, were selected to participate in the annual Girl Guides Singapore Gala Dinner musical performance.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture20.jpg"><br>
-<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture21.jpg"></td></tr>
+<tr><td style="width:40%"><b>Competitions and Other HQ Activities</b>
+<br><br>Guides can take part in competitions and HQ events like the annual World Thinking Day Celebrations and North Division Day.
+<br><br>Events such as these are when both Girl Guides and Brownies meet to learn from and share with each other their Guiding practices through activities and competitions.</td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture11.jpg">
+
+</td></tr><tr><td style="width:40%"><b>Cookie Project and Public Cookie Sales</b>
+<br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
+<br><br>Each year, on top of contributing to this project, St Nicks Guides also take part in the Public Cookie Sales.</td>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture12.jpg">
+	
+</td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
