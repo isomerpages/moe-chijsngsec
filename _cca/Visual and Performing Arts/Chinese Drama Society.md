@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Chinese Drama Society**
 
-<img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Chinese%20Drama%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture13.jpg" style="width:100%">
 
 Chinese Drama Society (CDS) is an open and welcoming family. Each and every member is unique with their own skills and talents. Through enjoyable CCA sessions, we are able to bond and learn with others, allowing us to discover the new talents we never knew existed. Moreover, we are able to gain experience in stage make-up, props-making and acting, some skills that are not taught in our daily curriculum.
 
