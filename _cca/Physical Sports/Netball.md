@@ -52,10 +52,10 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Erin Neo Yu En</td><td>Sec 4C</td><td> 'B' Division Captain</td></tr>
-<tr><td>Chan Jian Ning Ashlyn </td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>Soh Joasta </td><td>Sec 2P</td><td>'C' Division Captain</td></tr>
-<tr><td>Clara Lim Shijin</td><td>Sec 2G</td><td> 'C' Division Vice-Captain</td></tr>
+<tr><td>TAY HUI XIN CLAIRE</td><td>Sec 3L</td><td> 'B' Division Captain</td></tr>
+<tr><td>RACHEL TAN YI TING </td><td>Sec 3L</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>LIN YITING, KAIRA </td><td>Sec 1P</td><td>'C' Division Captain</td></tr>
+<tr><td>NOELLE OH TING JIA</td><td>Sec 1W</td><td> 'C' Division Vice-Captain</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
