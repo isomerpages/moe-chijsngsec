@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/06%20CCA/CS%20Publications/Publications.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Publications/Picture6.jpg" style="width:50%">
 
 SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
   
