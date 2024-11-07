@@ -29,7 +29,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 	<tr><td><b>Ms Siti Wajihah Zar'an</b><br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Terence Tan</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -38,10 +38,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Loh Xin Yee</td><td>Sec 4G</td><td> 'B' Division Captain (2024)</td></tr>
-<tr><td>Chong Xin Yun, Melanie</td><td>Sec 4F</td><td> 'B' Division Vice-Captain (2024)</td></tr>
-<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'C' Division Captain (2023)</td></tr>
-<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 3T</td><td>'C' Division Vice-Captain (2023)</td></tr>
+<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'B' Division Captain (2025)</td></tr>
+<tr><td>Chan Jia Yee Megan</td><td>Sec 3J</td><td> 'B' Division Vice-Captain (2025)</td></tr>
+<tr><td>Yang Ziyu</td><td>Sec 2T</td><td> 'C' Division Captain (2024)</td></tr>
+<tr><td>Desiree Ow</td><td>Sec 2F</td><td>'C' Division Vice-Captain (2024)</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
