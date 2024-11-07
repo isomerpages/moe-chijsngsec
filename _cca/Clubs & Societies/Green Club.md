@@ -66,8 +66,9 @@ variant: markdown
 <td><img src="/images/06%20CCA/CS%20Green%20Club/Picture25.jpg"><br>
 </td></tr>
 	
-<tr><td style="width:50%"><b>Gardening in school</b><br><br>Students tried their hand at growing vegetables in school. They even made their own makeshift pots out of scrap wood from the Design and Technology workshop. It was a learning experience for all to see the work that has to go into producing the vegetables that they eat everyday.</td>
-<td><img src="/images/06%20CCA/CS%20Green%20Club/Picture22.png"><br>
+<tr><td style="width:50%"><b>Gardening in school</b><br><br>Students tried their hand at growing vegetables in school. They even made their own makeshift pots out of scrap wood from the Design and Technology workshop. It was a learning experience for all to see the work that has to go into producing the vegetables that they eat everyday.
+<img src="/images/06%20CCA/CS%20Green%20Club/Picture26.jpg"><br></td>
+<td><img src="/images/06%20CCA/CS%20Green%20Club/Picture27.jpg">
 </td></tr>
 
 </tbody></table>
