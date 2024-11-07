@@ -43,8 +43,8 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ashley Ng Ching En</td><td>Sec 4U</td><td>President</td></tr>
-<tr><td>Marianne Neo Xin Ning</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Ng Xanafee</td><td>Sec 3U</td><td>President</td></tr>
+<tr><td>Lim Rui Xin Nicole</td><td>Sec 3L</td><td>Vice President</td></tr>
 </tbody></table>
 
 
