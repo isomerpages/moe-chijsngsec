@@ -34,7 +34,7 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
