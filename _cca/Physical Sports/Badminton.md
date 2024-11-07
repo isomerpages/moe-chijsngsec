@@ -49,12 +49,12 @@ variant: markdown
 <tr><td style="width:50%"><b>Archery Tag</b><br><br>During our 2023 Sports Camp, the team embarked on a journey to step outside of our usual comfort zones and explore different sports and activities. It allows us to gain a deeper understanding to the world of sports whilst bonding and having fun with each other.
 </td><td><img src="/images/06%20CCA/PS%20Badminton/Picture35.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.<br><img src="/images/06%20CCA/PS%20Badminton/Picture25.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture26.jpg">
-<br><img src="/images/06%20CCA/PS%20Badminton/Picture27.jpg"></td></tr>
+<tr><td style="width:50%"><b>Post Training Views</b><br><br>After training, our team will gather together to enjoy the beautiful scene of the sunset. It is truly quite a remarkable sight and a reward for training hard./td&gt;
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture36.jpg">
+</td></tr>
 	
-<tr><td style="width:50%"><b>Friendly Matches</b><br><br> As part of the programme for the team, students get to engage in friendly matches with other school teams during the off-peak season.</td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture28.jpg"></td></tr>	
+<tr><td style="width:50%"><b>Friendly Matches</b><br><br>To gain more match experience and practice the skills we have trained so hard for, the school organises friendly matches for us to turn our efforts into tangible, rewarding experiences. These matches are opportunities for players to showcase their skills in a non-stressful environment.</td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture37.jpg"></td></tr>	
 
 </tbody></table>
 
