@@ -30,7 +30,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 <tr><td><b>Mr Tan Yong Meng</b><br>Mr Wan Yew Boon<br>Mrs Lily Tan</td></tr>
 </tbody></table>
 
-##### **Student Executive Committee (2023 - 2024)**
+##### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
