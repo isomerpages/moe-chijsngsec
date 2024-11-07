@@ -54,15 +54,13 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Education Drive on “Plastic Waste in Singapore” at Tzu Chi Humanistic Youth Centre</b><br><br>We had an educational outreach at Tzu Chi Humanistic Youth Centre to educate the public about “Plastic Waste in Singapore”.<br><br>This is held in concurrent with Tzu Chi Zero Market which takes place on alternate weekends of every month.<br><br>During the outreach, students from Green Club shared with the public some of the statistics of the amount of plastic waste created in Singapore and how as an individual can do to help reduce this amount.<br><br>In addition, we also held an upcycling workshop on turn a Used Beverage Carton (UBC) into a coin pouch to gather more interest into our education drive.<br><br></td>
-<td><img src="/images/06%20CCA/CS%20Green%20Club/GreenClub2.jpeg"><br>
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenClub1.jpeg"><br>
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenClub3.jpeg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>Trail walk at Windsor Nature Park</b><br><br>Students learnt more about the secondary forest succession as well as some of the important roles of nature areas in Singapore. During the walk, students saw and heard various birds and insects, and even a colugo.</td>
+<td><img src="/images/06%20CCA/CS%20Green%20Club/Picture22.png"><br>
+</td></tr>
 
-<tr><td style="width:50%"><b>Learning Journey with Insectta</b><br><br>Students had a learning journey with Insectta to learn more about food waste in Singapore and how they use the black soldiers fly to reduce the food waste generated.<br><br><br>
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenClub4.jpeg"></td>
-<td><br>
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenClub5.jpeg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenClub6.jpeg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>VIA at MoNo SG</b><br><br>Aiming to reduce food waste, MoNo SG obtains safe to eat food that is past or close to the best before dates from suppliers to give away or sell at low prices. Students helped to arrange stocks at the shop, as well as handed out free items to the public.<br><br><br></td>
+	
+<td><br><br><img src="/images/06%20CCA/CS%20Green%20Club/Picture23.jpg">
+<img src="/images/06%20CCA/CS%20Green%20Club/Picture24.jpg" style="width:100%"></td></tr>
 
 </tbody></table>
