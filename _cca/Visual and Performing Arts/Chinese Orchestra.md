@@ -52,16 +52,15 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 <tr><td>Dou Peiqi</td><td>Sec 4G</td><td>President</td></tr>
 <tr><td>Chloe Sim</td><td>Sec 4C</td><td>Vice President</td></tr>
 <tr><td>Nina Yee</td><td>Sec 4P</td><td>Secretary</td></tr>
-<tr><td>Tanya Toh Yan Xuan</td><td>Sec 4H</td><td>Student Conductor</td></tr>
-<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
-<tr><td>Charlotte Lim Le Xuan</td><td>Sec 4D</td><td>Scores Director</td></tr>
-<tr><td>Denise Kua Yee Sim</td><td>Sec 4U</td><td>Welfare Head</td></tr>
-<tr><td>Tiong Siong Ying Kaylen</td><td>Sec 4P</td><td>Laxian Sectional Leader</td></tr>
-<tr><td>Geraldine Ong Xin Hui</td><td>Sec 4L</td><td>Tanbo Sectional Leader </td></tr>
-<tr><td>Claire Leong Hoi Ting</td><td>Sec 4P</td><td>Cello-Bass Sectional Leader</td></tr>
-<tr><td>Lee En Qi</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Dizi) </td></tr>
-<tr><td>Soh Kim Hwee Gerlene</td><td>Sec 4D</td><td>Chuiguan Sectional Leader (Suona/Sheng)</td></tr>
-<tr><td>Giselle Yap Keat Mien</td><td>Sec 4W</td><td>Daji Sectional Leader</td></tr>
+<tr><td>Ang Yi Xuan</td><td>Sec 4C</td><td>Student Conductor</td></tr>
+<tr><td>Calista Wong</td><td>Sec 4D</td><td>Publicity Director</td></tr>
+<tr><td>Cheong Ying Xuan</td><td>Sec 4D</td><td>Welfare Director</td></tr>	
+<tr><td>Kaitlyn Lee</td><td>Sec 4T</td><td>Quarter Mistress</td></tr>	
+<tr><td>Ariel Koh</td><td>Sec 4L</td><td>Laxian Sectional Leader</td></tr>
+<tr><td>Xu Chenyini</td><td>Sec 4P</td><td>Tanbo Sectional Leader </td></tr>
+<tr><td>Joy Tang</td><td>Sec 4F</td><td>Cello-Bass Sectional Leader</td></tr>
+<tr><td>Yap Zi Qi</td><td>Sec 4H</td><td>Woodwind Sectional Leader</td></tr>
+<tr><td>Christabelle Loo</td><td>Sec 4D</td><td>Daji Sectional Leader</td></tr>
 </tbody></table>
 
 
