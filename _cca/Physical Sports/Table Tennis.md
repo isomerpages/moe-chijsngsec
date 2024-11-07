@@ -27,7 +27,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Ms Chua Shi Yan</td></tr>
+<tr><td><b>Mr Tan Yong Meng</b><br>Mr Wan Yew Boon<br>Mrs Lily Tan</td></tr>
 </tbody></table>
 
 ##### **Student Executive Committee (2023 - 2024)**
@@ -39,12 +39,9 @@ In SNTT, members have a variety of opportunities to develop character and leader
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lim En Xuan, Gloria</td><td>Sec 4L</td><td>Captain</td></tr>
-<tr><td>See Hui Yui</td><td>Sec 4H</td><td>Vice Captain</td></tr>
-<tr><td>Eu Woon Ning</td><td>Sec 3J</td><td>Sec 3 Level Coordinator</td></tr>
-<tr><td>Ng Yi Xin, Giselle</td><td>Sec 3L</td><td>Sec 3 Assistant Level Coordinator</td></tr>
-<tr><td>Kimberly Gan Yuxin</td><td>Sec 2T</td><td>'C' Division Captain</td></tr>
-<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 2J</td><td>Sec 2 Level Coordinator</td></tr>
+<tr><td>Kimberly Gan Yuxin</td><td>Sec 4U</td><td>Captain</td></tr>
+<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 4G</td><td>Vice Captain</td></tr>
+<tr><td>Yang Xiao Yu</td><td>Sec 2W</td><td>'C' Division Captain</td></tr>
 </tbody></table>
 
 ##### **CCA Highlights**
