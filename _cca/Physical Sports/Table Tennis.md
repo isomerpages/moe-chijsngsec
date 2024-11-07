@@ -52,10 +52,13 @@ In SNTT, members have a variety of opportunities to develop character and leader
 <br>C Division 3rd Runner-up</td>
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture2.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>B Division Team Champion</b></td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg"></td></tr>
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2024</b><br><br>B Division Team Champion</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>C Division Team Champion</b></td>
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2023</b><br><br>B Division Team Champion<br>C Division Team 1st Runner-up</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture5.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><br>C Division Team Champion</td>
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg"></td></tr>	
 
 </tbody></table>
