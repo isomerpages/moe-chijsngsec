@@ -67,14 +67,14 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 
 <table style="width:100%">
 <tbody><tr>
-<td style="width:50%"><b>Singapore Youth Festival <br>Arts Presentation for Drama 2021</b></td>
-<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Arts%20Presentation%202.jpeg"></td></tr>
+<td style="width:50%"><b>Jubilate Performance 2024</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Picture18.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>SYF Showcase Performance</b></td>
-<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/SYF%20Showcase%20Performance.jpeg"></td></tr>
+<tr><td style="width:50%"><b>LD Showcase Performance 2024</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Picture19.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>LD Showcase Performance</b></td>
-<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/LD%20Showcase%20Performance.jpeg"></td></tr>
+<tr><td style="width:50%"><b>LD Curtain Call Performance 2024</b></td>
+<td><img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Picture20.jpg"></td></tr>
 
 </tbody></table>
 
