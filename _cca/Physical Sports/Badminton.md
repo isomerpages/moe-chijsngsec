@@ -25,7 +25,7 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Jowie Tung<br> Mdm Yan Guifang</td></tr>
+<tr><td><b>Mr Daryl Chew</b><br>Mdm Yan Guifang<br>Mr Jowie Tung </td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2023 - 2024)**
