@@ -40,7 +40,7 @@ variant: markdown
 <tr><td><b>Ms Du Jia</b><br>Ms Mok Kai Jun</td></tr>
 	</tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024-2025)**
 
 <table style="width:100%">
 <tbody><tr>
