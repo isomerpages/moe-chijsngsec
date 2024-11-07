@@ -28,7 +28,7 @@ variant: markdown
 <tr><td><b>Mr Daryl Chew</b><br>Mdm Yan Guifang<br>Mr Jowie Tung </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
@@ -37,9 +37,9 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Jessie Lua Le En </td><td>Sec 3L</td><td>Captain</td></tr>
-<tr><td> Koh Tong, Dena</td><td>Sec 3H</td><td>Vice - Captain</td></tr>
-<tr><td> Koa Sze Siew</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Koa Sze Siew </td><td>Sec 3W</td><td>Captain</td></tr>
+<tr><td>Soh Xiao Han Charis</td><td>Sec 3F</td><td>Vice - Captain</td></tr>
+<tr><td>Krisalyn Teh Hui En</td><td>Sec 2C</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
