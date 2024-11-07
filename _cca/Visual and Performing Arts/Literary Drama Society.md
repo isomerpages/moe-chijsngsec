@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Literary Drama Society**
 
-<img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Literary%20Drama%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Picture17.jpg" style="width:100%">
 
 The Literary Drama Society (LDS) provides a platform for our members to convey their thoughts and ideas through the theatrical arts, writing and performing our very own pieces of plays and poetry.  
   
@@ -22,11 +22,11 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>Drama Studio</td>
+    <td>Drama Studio/MPR</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
-    <td>Wed &amp; Fri<br>3:45 pm - 6.30 pm</td>
+    <td>Wed<br>3:45 pm - 6.30 pm<br>Fri<br>4:00 pm - 6.30 pm</td>
   </tr>
 	<tr>
     <th>Instructor</th>
