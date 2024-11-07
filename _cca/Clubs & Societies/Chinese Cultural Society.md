@@ -78,18 +78,18 @@ variant: markdown
 <tr><td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td></tr>		
 
-<tr><td style="width:40%"><b>National Chinese Short Film Competition</b><br><br><b>全国中学及初院华语短片制作比赛</b><br><br>今年我们首次参加了“全国中学及初院华语短片制作比赛”。同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本届比赛以“觉醒”为主题，包括最佳短片和最受欢迎海报奖。今年的评审是本地导演何书铭、孙立人和关锦森。我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！<br>
+<tr><td style="width:40%"><b>National Chinese Short Film Competition</b><br><br>这两年我们开始参加“全国中学及初院华语短片制作比赛”，同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023年我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！2024年我校文化学会代表获得《勇于尝试》短片的全国最佳演员奖！<br>
 <img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg">
-</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"></td></tr>
+</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture16.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award|
+|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
 |The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
-|The 30th National Youth Exhibition of Chinese Calligraphy<br>第三十届全国青少年书法展|Secondary|Exhibition in Singapore|
+|The 31rd National Youth Exhibition of Chinese Calligraphy<br>第三十一届全国青少年书法展|Secondary|Exhibition in Singapore|
 |2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp;<br> Consolation prize|
 |Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
 |The 33rd National School Chinese Calligraphy Competition<br>第三十三届全国中学书法比赛|Secondary|Third Prize|
