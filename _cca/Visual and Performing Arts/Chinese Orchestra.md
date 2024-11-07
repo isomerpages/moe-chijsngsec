@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Chinese Orchestra**
 
-<img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/01%20Group%20Photo.jpg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture28.jpg" style="width:100%">
 
 Inaugurated in 1992, St. Nicholas Chinese Orchestra (SNCO) started off with a few individuals interested in certain instruments. Initially, there were only dizi and pipa classes.
 
@@ -28,7 +28,7 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 <tr>
 <th>Training Day / Time</th><td>Monday: 3.45 pm - 6.30 pm<br>Friday: 4.00 pm - 6.30 pm</td></tr>
 <tr>
-<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Mr Chua Yew Kok<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Tan Sheng Rong</td></tr>
+<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Ms Tan Joon Chin<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Sebastian Yio</td></tr>
 </tbody>
 </table>
 
