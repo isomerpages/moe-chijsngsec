@@ -48,9 +48,9 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b>
-<img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg"></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>2024 B Division National School Games Competition</b>
+</td><td><img src="/images/06%20CCA/PS%20Hockey/Picture40.jpg" style="width:100%">
+	![](/images/06%20CCA/PS%20Hockey/Picture40.jpg)</td></tr>
 
 <tr><td style="width:50%"><b>2022 B Division National School Games Competition</b>
 <img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg"></td>
