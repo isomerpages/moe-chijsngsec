@@ -9,17 +9,14 @@ variant: markdown
 
 #### **Green Club**
 
-<img src="/images/06%20CCA/CS%20Green%20Club/GreenCLub.jpeg" style="width:100%">
-
-“I stand for what I stand on” is Green Club’s mission, striving to guide our members in becoming environmental advocates and change-makers in our society. Green Club is a safe space for like-minded individuals who are passionate about the environment to work together towards the common goal of promoting environmental awareness within and beyond the school community.&nbsp;
-
-Through organising and carrying out school-wide activities and taking part in multitudinous competitions, our members have a plethora of opportunities to learn more about environmental issues and share their knowledge with others. Meeting up once a week, our CCA sessions are comprised of 4 main aspects: gardening, upcycling, outreach, and learning journeys. Our members are able to broaden their horizons amidst the CCA sessions while connecting with their fellow 姐妹们, fostering committed, educated, and conscious environmental champions who leave everlasting impacts on our society.&nbsp;
+<img src="/images/06%20CCA/CS%20Green%20Club/Picture21.jpg" style="width:100%">
+<br>Misson: To foster environmental awareness, knowledge and action among students, promoting sustainable practices and greener school community.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Science Lab G</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Lab G</td></tr>
 <tr><th>Training Day / Time</th><td>Wed:    3.45 pm - 6.00 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
@@ -29,7 +26,7 @@ Through organising and carrying out school-wide activities and taking part in mu
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Kuah Ee Qiang</b><br>Ms Cheryl Cheong Yunling</td></tr>
+<tr><td><b>Ms Clarissa Lua</b><br>Mr Chua Sau Chuan</td></tr>
 </tbody></table>
 
 
