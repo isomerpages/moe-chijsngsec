@@ -9,7 +9,7 @@ variant: markdown
 
 ##### **Table Tennis**
 
-<img src="/images/06%20CCA/PS%20Table%20Tennis/TableTennis.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Table%20Tennis/Picture3.jpg" style="width:100%">
 
 The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
 
