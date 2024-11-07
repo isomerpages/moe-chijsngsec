@@ -67,9 +67,8 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| North Zone Inter-School Badminton Championships 2023     | 'B' Division     | 2nd    |
-| North Zone Inter-School Badminton Championships 2023     | 'C' Division     | 2nd    |
-| NSG National <br>Badminton Championships 2023     | 'B' Division     | Top 8     |
-| NSG North Zone<br>Badminton Championships 2023     | 'B' Division     | 2nd     |
-| NSG North Zone <br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
-| NSG North Zone <br>Badminton Championships 2021     | 'B' Division     | 1st     |
+| National School Games  | 2024 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals     |
+| National School Games    | 2024 'C' Division     | National League One Champions    |
+|  National School Games     | 2023 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals    |
+| National School Games | 2023 'C' Division     | 1st Runner up in North Zone<br>Top 16 in Nationals     |
+
