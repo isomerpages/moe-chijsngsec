@@ -56,6 +56,10 @@ variant: markdown
 <tr><td style="width:50%"><b>Friendly Matches</b><br><br>To gain more match experience and practice the skills we have trained so hard for, the school organises friendly matches for us to turn our efforts into tangible, rewarding experiences. These matches are opportunities for players to showcase their skills in a non-stressful environment.</td>
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture37.jpg"></td></tr>	
 
+<tr><td style="width:50%"><b>League One Champions</b><br><br>This photo was taken with our 教练 after clinching the league one champion title. Within the picture reveals our pure joy and happiness to see the hard efforts we put in be rewarded!
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture38.jpg">
+</td></tr>
+	
 </tbody></table>
 
 #### **CCA Achievements**
