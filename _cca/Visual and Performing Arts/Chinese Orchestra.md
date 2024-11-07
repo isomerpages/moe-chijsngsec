@@ -68,14 +68,14 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 
 <table style="width:100%">
 <tbody><tr>
-<td style="width:50%"><b>2022 Jubilate Online Concert</b><br><br></td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Jubilate.jpeg"></td></tr>
+<td style="width:50%"><b>August 2024 Performance at Kebun Baru CC National Day Dinner</b><br><br></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture29.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>2021 Singapore Youth Festival Arts Presentation</b><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Mixed Ensemble Category) and is proud to have achieved the Certificate of Distinction<br></td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2021%20SYF%20Arts%20Presentation%20Mixed.png"></td></tr>
+<tr><td style="width:50%"><b>August 2024 National Day Celebration performance for elderly at TOUCHPoint @ Geylang Bahru</b></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture30.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>2019 Singapore Youth Festival Arts Presentation</b><br><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br></td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/2019%20SYF%20Arts%20Presentation%20Full.jpeg"></td></tr>
+<tr><td style="width:50%"><b>May 2024 Jubilate XIV</b></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture31.jpg"></td></tr>
 
 </tbody></table>
 
