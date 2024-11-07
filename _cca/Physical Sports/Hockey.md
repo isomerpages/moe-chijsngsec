@@ -26,7 +26,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-	<tr><td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Siti Wajihah Zar'an<br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Ng Kok Kuen</td></tr>
+	<tr><td><b>Ms Siti Wajihah Zar'an</b><br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Terence Tan</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2022 - 2023)**
