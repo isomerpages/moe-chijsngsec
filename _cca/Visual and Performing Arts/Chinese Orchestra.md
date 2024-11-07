@@ -86,5 +86,4 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| 2023 Singapore Youth Festival<br>Arts Presentation     | Full Orchestra, Secondary School     | Certificate of Distinction     |
-| 2021 Singapore Youth Festival<br>Arts Presentation     | Chinese Orchestra (Mixed Ensemble)     | Certificate of Distinction     |
+| 2023 Singapore Youth Festival<br>Arts Presentation     | Chinese Orchestra (Mixed Ensemble)     | Certificate of Distinction     |
