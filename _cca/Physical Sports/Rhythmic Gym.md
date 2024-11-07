@@ -31,7 +31,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <tr><td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -40,10 +40,10 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lim Li Xuan Chloe</td><td>Sec 4H</td><td>Captain</td></tr>
-<tr><td>Lee Zi Ning Shermay</td><td>Sec 3G</td><td>Vice-Captain</td></tr>
-<tr><td>Megan Pang Rui Eun</td><td>Sec 3J</td><td>Lower Secondary Coordinator</td></tr>
-<tr><td>Chang Yun Chen</td><td>Sec 4W</td><td>Sports Leader</td></tr>
+<tr><td>Megan Pang Rui Eun</td><td>Sec 4L</td><td>Captain</td></tr>
+<tr><td>Sarah Chong Xuan Ling</td><td>Sec 4J</td><td>Vice-Captain</td></tr>
+<tr><td>Eleisha Goh Wen Min</td><td>Sec 3</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Teo Shaoen Jazzelle</td><td>Sec 4T</td><td>Sports Leader</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
