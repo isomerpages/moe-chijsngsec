@@ -66,7 +66,7 @@ variant: markdown
 <td><img src="/images/06%20CCA/CS%20Green%20Club/Picture25.jpg"><br>
 </td></tr>
 	
-<tr><td style="width:50%"><b>Trail walk at Windsor Nature Park</b><br><br>Students learnt more about the secondary forest succession as well as some of the important roles of nature areas in Singapore. During the walk, students saw and heard various birds and insects, and even a colugo.</td>
+<tr><td style="width:50%"><b>Gardening in school</b><br><br>Students tried their hand at growing vegetables in school. They even made their own makeshift pots out of scrap wood from the Design and Technology workshop. It was a learning experience for all to see the work that has to go into producing the vegetables that they eat everyday.</td>
 <td><img src="/images/06%20CCA/CS%20Green%20Club/Picture22.png"><br>
 </td></tr>
 
