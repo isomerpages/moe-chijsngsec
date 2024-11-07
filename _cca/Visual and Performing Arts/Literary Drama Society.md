@@ -46,7 +46,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
   </tbody>
 </table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -55,11 +55,11 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Takahashi Kokone Alicia</td><td>Sec 4L</td><td>President</td></tr>
-<tr><td>Renae Chua Jin Xin</td><td>Sec 4P</td><td>Vice President</td></tr>
-<tr><td>Xu Zi Yuan</td><td>Sec 4J</td><td>Secretary</td></tr>
-<tr><td>Loke Cheuk Ying Zoe</td><td>Sec 4P</td><td>Stage Manager</td></tr>
- <tr><td>Tan E-Shyan</td><td>Sec 4U</td><td>Level Coordinator</td></tr>
+<tr><td>Tan Kai Qi Glenda</td><td>Sec 4P</td><td>President</td></tr>
+<tr><td>Selynne Chew Zhi Ling</td><td>Sec 4H</td><td>Vice President</td></tr>
+<tr><td>Teo Yi Xin</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Tan Yi Xi</td><td>Sec 4U</td><td>Stage Manager</td></tr>
+ <tr><td>Yew Kai Qi, Rebekah</td><td>Sec 4G</td><td>Level Coordinator</td></tr>
 </tbody>
 </table>
 
