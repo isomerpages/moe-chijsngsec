@@ -9,22 +9,8 @@ variant: markdown
 
 #### **Badminton**
 
-<table style="width:100%">
-<tbody>
-<tr><td style="width:50%"><img src="/images/06%20CCA/PS%20Badminton/Picture20.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture21.jpg">
-</td></tr>
-</tbody></table>
-
-Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.&nbsp;&nbsp;
-
-Here at St. Nicks, we have supportive team members that encourages everyone and cheers each other on. Especially when the going gets tough as we strive onwards together.&nbsp;  
-
-Our teachers and coaches are caring and approachable and often provides us feedback and to help us improve.&nbsp;&nbsp;  
-
-Training encompasses fitness training, skills techniques and the occasional game to bond with one another. All one needs is an open mind and an ever ready-to-learn spirit to have a blast in Badminton 🏸&nbsp;  
-
-SNBT All the way!
+<img src="/images/06%20CCA/PS%20Badminton/Picture34.jpg">
+<br>Our Badminton CCA seeks to inculcate discipline, preservence, determination, sportsmanship and passion for the sport in its students. Through rigorous trainings, students are encouraged to strive for excellence and put in their best effort, fostering a growth mindset as well as continuous improvement in the sport. By instilling these values, our CCA aims to cultivate one’s values and mindsets. Achieving success both on and off court.
 
 #### **CCA Information**
 
