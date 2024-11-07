@@ -58,9 +58,9 @@ variant: markdown
 <td><img src="/images/06%20CCA/CS%20Green%20Club/Picture22.png"><br>
 </td></tr>
 
-<tr><td style="width:50%"><b>VIA at MoNo SG</b><br><br>Aiming to reduce food waste, MoNo SG obtains safe to eat food that is past or close to the best before dates from suppliers to give away or sell at low prices. Students helped to arrange stocks at the shop, as well as handed out free items to the public.<br><br><br></td>
+<tr><td style="width:50%"><b>VIA at MoNo SG</b><br><br>Aiming to reduce food waste, MoNo SG obtains safe to eat food that is past or close to the best before dates from suppliers to give away or sell at low prices. Students helped to arrange stocks at the shop, as well as handed out free items to the public.<br><br><br>
+<img src="/images/06%20CCA/CS%20Green%20Club/Picture24.jpg" style="width:100%"></td>
 	
-<td><br><br><img src="/images/06%20CCA/CS%20Green%20Club/Picture23.jpg">
-<img src="/images/06%20CCA/CS%20Green%20Club/Picture24.jpg" style="width:100%"></td></tr>
+<td><br><br><img src="/images/06%20CCA/CS%20Green%20Club/Picture23.jpg"></td></tr>
 
 </tbody></table>
