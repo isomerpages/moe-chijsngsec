@@ -40,7 +40,7 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
  </tbody>
 </table>
 
-#### **Student Executive Committee (2022-2023)**
+#### **Student Executive Committee (2025)**
 
 <table style="width:100%">
 <tbody>
@@ -49,9 +49,9 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ho Enhui, Megan</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Yap Xiaoci</td><td>Sec 4G</td><td>Vice President</td></tr>
-<tr><td>Heng Hui Xuan</td><td>Sec 4L</td><td>Secretary</td></tr>
+<tr><td>Dou Peiqi</td><td>Sec 4G</td><td>President</td></tr>
+<tr><td>Chloe Sim</td><td>Sec 4C</td><td>Vice President</td></tr>
+<tr><td>Nina Yee</td><td>Sec 4P</td><td>Secretary</td></tr>
 <tr><td>Tanya Toh Yan Xuan</td><td>Sec 4H</td><td>Student Conductor</td></tr>
 <tr><td>Lee En Qi</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
 <tr><td>Charlotte Lim Le Xuan</td><td>Sec 4D</td><td>Scores Director</td></tr>
