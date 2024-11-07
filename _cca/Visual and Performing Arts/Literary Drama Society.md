@@ -86,7 +86,3 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 | -------- | -------- | -------- |
 | 2023 National Schools Literature Festival Choral Speaking Competition &nbsp; &nbsp; | Secondary School &nbsp; &nbsp; | 2nd place&nbsp; &nbsp; |
 | 2023 National Schools Literature Festival Book Trailer Competition &nbsp; &nbsp; | Secondary School &nbsp; &nbsp; | 3rd place&nbsp; &nbsp; |
-| 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Accomplishment     |
-| Singapore Youth Festival<br>Arts Presentation for Drama     | Upper Secondary     |   Certificate of Distinction (2021, 2019, 2017, 2015)   |
-| National Schools Literature Festival<br>Choral Speaking Competition     | Lower Secondary     | 3rd place (2021)     |
-| National Schools Literature Festival<br>Choral Poetry Competition     | Lower Secondary     | 2nd place (2018)<br>3rd place (2019, 2017)     |
