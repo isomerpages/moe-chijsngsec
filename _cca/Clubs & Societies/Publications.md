@@ -11,9 +11,12 @@ variant: markdown
 
 <img src="/images/06%20CCA/CS%20Publications/Picture6.jpg" style="width:50%">
 
-SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
-  
-Our writers are also involved in journalism by gathering stories through interviews and producing news videos. As a team of dedicated writers, Publications will continue to write to touch the hearts of our readers.  
+At SN Publications, our passion for writing comes alive, inviting readers to experience stories that resonate. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
+<br>Our club fosters a welcoming environment where members gather to share their love for writing and enjoy each other’s company. Focused on creative expression and teamwork, we aim to inspire all our writers to explore and develop their unique talents.
+<br>Beyond creative writing, our members delve into journalism by interviewing, gathering stories, and producing videos. One highlight this year was our Teachers’ Day interview video, created in collaboration with the Student Council EXCO, capturing meaningful conversations with staff and students alike.
+In 2024, our team also began writing captions for the school’s Instagram page, covering school events and offering a platform for students' voices to be heard.
+<br>At SN Publications, we’re not just about competitions and journalism; we also celebrate the friendships that form along the way.
+Together, as a team of dedicated writers, we remain committed to crafting stories that inspire and connect with our readers.
 
 #### **CCA Information**
 
