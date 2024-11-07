@@ -72,3 +72,6 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Media Challenge 2021 / 2022 |Secondary Level|1st Runner-Up|
+| Media Challenge 2021 / 2022 |Secondary Level|1st Runner-Up|
+| Live On Festival 2024 |Junior| Distinction Award<br>- Zhou Yuhan (1W)<br>- Avril Lee En Xuan (2G)|
+| NIE Flash Fiction Contest |N/A|Joint Third Prize<br>- Amber Cheng Yan Yu (2P)|
