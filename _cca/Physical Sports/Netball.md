@@ -43,7 +43,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
