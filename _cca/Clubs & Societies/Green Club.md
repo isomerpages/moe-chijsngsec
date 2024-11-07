@@ -30,7 +30,7 @@ variant: markdown
 </tbody></table>
 
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
@@ -39,9 +39,10 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Tay Karlyn</td><td>Sec 4U</td><td>President</td></tr>
-<tr><td>Samantha Chua Wei Shan</td><td>Sec 4D</td><td>Vice President</td></tr>
-<tr><td>Jolene Jauw Xi Xuan</td><td>Sec 3H</td><td>Secretary</td></tr>
+<tr><td>Chan Weng Yee Gabrielle</td><td>Sec 3H</td><td>Chairperson</td></tr>
+<tr><td>Charmayne Hon</td><td>Sec 3P</td><td>Vice Chairperson</td></tr>
+<tr><td>Heng Jia Yi</td><td>Sec 3D</td><td>Secretary</td></tr>
+<tr><td>Peng Rui Yan Genevieve</td><td>Sec 2P</td><td>Head of Aesthetics</td></tr>
 <tr><td>Loh Wei Lin, Eunice</td><td>Sec 4D</td><td>Head of Welfare</td></tr>
  <tr><td>Christy Lye Ke Xin</td><td>Sec 3H</td><td>Head of Gardening</td></tr>
 </tbody></table>
