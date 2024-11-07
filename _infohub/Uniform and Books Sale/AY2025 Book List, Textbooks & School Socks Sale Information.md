@@ -30,7 +30,7 @@ Dec: 28
 #### **AY2025 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
-[S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/S1_2025.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/Y1_2025.pdf)
+[S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/S1_2025.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/Y1_REV.pdf))
   
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/S2_2025.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 2 IP Booklist.pdf](/files/06%20Infohub/Booklist/Y2_2025.pdf)
