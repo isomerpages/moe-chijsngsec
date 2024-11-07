@@ -67,6 +67,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NSG National <br>Table Tennis Championships 2024 | B Division | Top 16 |
+| NSG North Zone<br>Table Tennis Championships 2024 | B Division | Team Champion |
 | NSG National <br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
 | NSG North Zone <br>Table Tennis Championships 2023 | C Division<br>B Division | 1st Runner-up<br>Team Champion |
-| North Zone Inter-School<br>Table Tennis Championships 2022 | C Division<br>B Division | Team Champion<br>Team Champion |
