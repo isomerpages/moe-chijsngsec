@@ -87,8 +87,8 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|National Chinese Short Film Competition<br>第十五届全国中学及初院华语短片制作比赛 |Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
-|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
+|National Chinese Short Film Competition<br>全国中学及初院华语短片制作比赛|Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
+|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br> 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
 |The 31rd National Youth Exhibition of Chinese Calligraphy<br>第三十一届全国青少年书法展|Secondary|Exhibition in Singapore|
 |2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp;<br> Consolation prize|
 |Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
