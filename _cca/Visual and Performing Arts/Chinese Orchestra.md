@@ -36,7 +36,7 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Lim Hwee Chin</b><br>Mdm Goh Siew Ngoh<br>Mr David Chang</td></tr>
+<tr><td><b>Ms Lim Hwee Chin</b><br>Mr David Chang<br>Ms Elizabeth Goh</td></tr>
  </tbody>
 </table>
 
