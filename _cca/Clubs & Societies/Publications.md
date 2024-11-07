@@ -53,11 +53,11 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Workshop</b><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Workshop</b><br><br>Our members participate in a variety of enriching workshops, covering skills from mastering photography and videography to conducting effective and professional interviews. These experiences equip our students with practical abilities and confidence, preparing them for real-world applications and personal growth.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture7.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Photo Essay</b><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture8.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Journalistic Writing:</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
 <td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
