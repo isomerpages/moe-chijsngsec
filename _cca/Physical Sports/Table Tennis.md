@@ -11,9 +11,8 @@ variant: markdown
 
 <img src="/images/06%20CCA/PS%20Table%20Tennis/Picture3.jpg" style="width:100%">
 
-The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
-
-In SNTT, there are various opportunities and platforms to develop character and leadership. Through table tennis competitions, exchanges and trainings, the team develops self-discipline, resilience and confidence. Other platforms like the annual sports camp and organizing VIA activities also serve well to develop leadership skills.
+The St. Nicholas Girls' Table Tennis team (SNTT) has demonstrated remarkable success in inter-school competitions over recent years. Our team trained with commitment, even through holidays, to prepare for these events. With unwavering perseverance and spirit, they consistently showcased sportsmanship and determination, always putting in their best effort.<br><br>
+In SNTT, members have a variety of opportunities to develop character and leadership skills. Through competitions, exchanges, and rigorous training, the team builds self-discipline, resilience, and confidence. Additional platforms, such as the annual sports camp and organizing VIA activities, further support their growth in leadership abilities.
 
 ##### **CCA Information**
 
