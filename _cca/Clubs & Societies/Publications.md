@@ -59,9 +59,12 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
 <td><img src="/images/06%20CCA/CS%20Publications/Picture8.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>This year, our Secondary 3 students took on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like Chinese New Year and National Day, honing their skills in concise and impactful writing. This initiative not only enriched their learning experience but also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture11.jpg">
 	
+</td></tr><tr><td style="width:50%"><b>Competitions</b><br><br>Our students actively participate in prestigious competitions such as the Queen’s Commonwealth Essay Competition and The Media Challenge. These opportunities encourage innovative thinking and help sharpen their writing abilities and media literacy skills, fostering critical engagement with global issues.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture9.jpg"></td></tr>
+
 </tbody></table>
 
 #### **CCA Achievement**
