@@ -59,7 +59,7 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
 <td><img src="/images/06%20CCA/CS%20Publications/Picture8.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Journalistic Writing:</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
+<tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
 <td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
 	
 </tbody></table>
