@@ -46,9 +46,8 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Sports Camp</b><br><br>Sports camp is an annual event where sports CCAs come together to bond and to review the year and to plan and strategise for the upcoming year.<br><img src="/images/06%20CCA/PS%20Badminton/Picture23.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture22.jpg">
-<br><img src="/images/06%20CCA/PS%20Badminton/Picture24.jpg"></td></tr>
+<tr><td style="width:50%"><b>Archery Tag</b><br><br>During our 2023 Sports Camp, the team embarked on a journey to step outside of our usual comfort zones and explore different sports and activities. It allows us to gain a deeper understanding to the world of sports whilst bonding and having fun with each other.
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture35.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.<br><img src="/images/06%20CCA/PS%20Badminton/Picture25.jpg"><br></td>
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture26.jpg">
