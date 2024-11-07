@@ -42,9 +42,9 @@ variant: markdown
 <tr><td>Chan Weng Yee Gabrielle</td><td>Sec 3H</td><td>Chairperson</td></tr>
 <tr><td>Charmayne Hon</td><td>Sec 3P</td><td>Vice Chairperson</td></tr>
 <tr><td>Heng Jia Yi</td><td>Sec 3D</td><td>Secretary</td></tr>
-<tr><td>Peng Rui Yan Genevieve</td><td>Sec 2P</td><td>Head of Aesthetics</td></tr>
-<tr><td>Loh Wei Lin, Eunice</td><td>Sec 4D</td><td>Head of Welfare</td></tr>
- <tr><td>Christy Lye Ke Xin</td><td>Sec 3H</td><td>Head of Gardening</td></tr>
+<tr><td>Peng Rui Yan Genevieve</td><td>Sec 3T</td><td>Head of Aesthetics</td></tr>
+<tr><td>Chiam Rui Tong Isabelle</td><td>Sec 2P</td><td>Head of Welfare</td></tr>
+ <tr><td>Goh Aisa</td><td>Sec 2F</td><td>Lower Sec IC</td></tr>
 </tbody></table>
 
 
