@@ -94,7 +94,7 @@ Library Society visited Alliance Française de Singapour in March 2024, for a Fr
 </td></tr>
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
-校园超级阅读明星比赛（Super Reading Star Competition）<br><br>今年，我校图书馆学会的同学再一次与本地作家合作，共同制作线上密室逃脱游戏，推广华文阅读。本次与我们合作的是《蓝宝石号上的七天》的作者陈帅。有了去年的经验，同学们从写稿、编剧、制作道具、表演、后期制作到制作游戏都进行得相当顺利 。<br><br> 经过本次的学习体验，大家有了更多的机会了解本地作家，通过与作家的交流与讨论，也对华文阅读和写作有了更浓厚的兴趣。不仅如此，历经了九个月时间，同学们也学会了许多重要的软技能，锻炼了自己的能力，并且促进了彼此的关系，可谓收获颇丰。<br><br><b>剪贴簿工作坊（Scrapbooking Workshop)</b><br><br>     为了让同学们接触更多元的学习领域，探索并掌握更多新技能，也能有机会将自己的阅读体验更好地记录与展示出来。今年月，我校图书馆学会的同学参加了一个剪贴簿工作坊，学习了一些制作技巧，尝试使用各种材料和技巧制作自己的阅读剪贴簿。通过运用新学到的技能，她们将在卓尔书店学习之旅留下的珍贵回忆转变成了富有创意的剪贴簿页面。</td>
+校园超级阅读明星比赛（Super Reading Star Competition）<br><br> 我们图书馆学会在2023和2024年代表学校参加了全国校园超级阅读明星比赛。我们发挥创意、一起合作，在2023年分别获得漫画组和故事视频组一、二等奖。在2024年也获得了最佳视频奖。通过，这次比赛，我们能把自己阅读书籍通过不同形式传达给大家，真是一次难得的体验。</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture11.jpg"><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture13.jpg"><b>Scrapbooking Workshop</b></td></tr>
