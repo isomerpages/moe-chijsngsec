@@ -9,9 +9,9 @@ variant: markdown
 
 #### **Library Society**
 
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture3.jpg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture49.jpg" style="width:100%">
 
-<i><b>" I have always imagined that Paradise will be a kind of a Library."<br>-Argentine author, Jorge Luis Borges</b></i>
+<i><b>"There is more treasure in books than in all the pirates’ loot on Treasure Island and at the bottom of the Spanish Main…”<br>- Walt Disney</b></i>
 
 Other than being a ‘paradise’ for our librarians and students, Library Society strives to spread the joy of reading amongst our 姐妹们, and to hone our librarians’ confidence and other soft skills with various public speaking opportunities, group projects, competitions and presentations.
 
