@@ -113,21 +113,18 @@ Library Society visited Alliance Française de Singapour in March 2024, for a Fr
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling Challenge</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture60.jpg"><b>Chinese Poetry workshop</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture61.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture62.jpg"><b>Story Sharing as little-avid-volunteer</b>
 </td></tr>
-	
-	
-	
-	
-	
-
 </tbody></table>
 
 #### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+|Prove It! Contest 2024 |C Division <br>- 2 Teams   |Silver (Written Category)<br>Bronze (Video Category)|
+|HSI Challenge 2024 |C Division <br>- 2 Teams| Bronze for both teams|
+|2024 年校园超级阅读明<br>星比赛（中学组） |B Division <br>- 1 Teams| Outstanding Award|
 |Prove It! Contest 2023|C Division - 2 teams|Gold for Written category<br>(overall 2nd)<br>Gold for Video category|
 |Historical Challenge 2023 |C Division| Silver|
-| CDAC Award 2022|Library Society SNGS|Outstanding partnership award and the 5 year partnership award|
+|CDAC Award 2022|Library Society SNGS|Outstanding partnership award and the 5 year partnership award|
 |Historical Scene Investigation (HSI) Challenge 2022 |C Division| Gold|
 |Green Reads Haiku Competition 2022|B and C Division|1st, 3rd and Special Mention|
 |2021 Historical Scene Investigation Challenge|C Division| Gold Award|
