@@ -26,10 +26,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-	<tr><td><b>Ms Siti Nur'aini Abdul Rashid</b><br>Ms Siti Wajihah Zar'an<br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Ng Kok Kuen</td></tr>
+	<tr><td><b>Ms Siti Wajihah Zar'an</b><br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Terence Tan</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -38,29 +38,33 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Loh Xin Yee</td><td>Sec 4G</td><td> 'B' Division Captain (2024)</td></tr>
-<tr><td>Chong Xin Yun, Melanie</td><td>Sec 4F</td><td> 'B' Division Vice-Captain (2024)</td></tr>
-<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'C' Division Captain (2023)</td></tr>
-<tr><td>Soon Qi Shuang Charlotte</td><td>Sec 3T</td><td>'C' Division Vice-Captain (2023)</td></tr>
+<tr><td>Marabelle Lee Zhiyi</td><td>Sec 3G</td><td> 'B' Division Captain (2025)</td></tr>
+<tr><td>Chan Jia Yee Megan</td><td>Sec 3J</td><td> 'B' Division Vice-Captain (2025)</td></tr>
+<tr><td>Yang Ziyu</td><td>Sec 2T</td><td> 'C' Division Captain (2024)</td></tr>
+<tr><td>Desiree Ow</td><td>Sec 2F</td><td>'C' Division Vice-Captain (2024)</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b>
-<img src="/images/06%20CCA/PS%20Hockey/picture1%20(hockey%202023).jpg"></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/picture2%20(hockey%202023).jpg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>2024 B Division National School Games Competition</b>
+</td><td><img src="/images/06%20CCA/PS%20Hockey/Picture40.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Picture41.jpg" style="width:100%">
+</td></tr>
 
-<tr><td style="width:50%"><b>2022 B Division National School Games Competition</b>
-<img src="/images/06%20CCA/PS%20Hockey/Hockey1.jpeg"></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/Hockey2.jpeg"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Hockey3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Picture42.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Picture43.jpg" style="width:100%"></td></tr>
 
-<tr><td style="width:50%"><b>2022 C Division National School Games Competition</b>
-<img src="/images/06%20CCA/PS%20Hockey/Hockey4.jpeg"></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/Hockey5.jpeg"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Hockey6.jpeg"></td></tr>
+<tr><td style="width:50%"><b>2022 B Division National School Games Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20Hockey/Picture44.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Picture45.jpg" style="width:100%"></td></tr>
+	
+<tr><td style="width:50%"><b>2022 C Division National School Games Competition</b><br><br><img src="/images/06%20CCA/PS%20Hockey/Picture46.jpg" style="width:100%"><br></td>
+<td>
+<img src="/images/06%20CCA/PS%20Hockey/Picture47.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/PS%20Hockey/Picture48.jpg" style="width:100%"></td></tr>
 
 </tbody></table>
 
@@ -69,7 +73,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National 11-a-side 2023 | 'B' Division  | 1st
-| National 11-a-side 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
-| National 11-a-side 2019     | 'C' Division     | 2nd     |
-| National 11-a-side 2018     | 'B' Division<br>'C' Division     | 4th<br>4th     |
+| Pesta Sukan 5-a-side 2024 | Under 15  | 2nd and 4th |
+| National 11-a-side 2023 | 'C' Division  | 2nd |
+| National 11-a-side 2023 | 'B' Division  | 3rd |
+| National 11-a-side 2022     | 'C' Division | 2nd |
+| National 11-a-side 2023     | 'B' Division | 1st |
+| National 11-a-side 2022     | 'C' Division     | 2nd |
+| National 11-a-side 2022     | 'B' Division     | 3rd |

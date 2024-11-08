@@ -9,11 +9,10 @@ variant: markdown
 
 ##### **Table Tennis**
 
-<img src="/images/06%20CCA/PS%20Table%20Tennis/TableTennis.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Table%20Tennis/Picture3.jpg" style="width:100%">
 
-The St Nicholas Girls’ Table Tennis team (SNTT) has achieved excellent results at inter-school competitions in the last few years. Our team trained hard even during the holidays in preparation for the competitions and faced many challenges along the way. As a team, they demonstrated sportsmanship and determination, overcoming all challenges while putting in their best.
-
-In SNTT, there are various opportunities and platforms to develop character and leadership. Through table tennis competitions, exchanges and trainings, the team develops self-discipline, resilience and confidence. Other platforms like the annual sports camp and organizing VIA activities also serve well to develop leadership skills.
+The St. Nicholas Girls' Table Tennis team (SNTT) has demonstrated remarkable success in inter-school competitions over recent years. Our team trained with commitment, even through holidays, to prepare for these events. With unwavering perseverance and spirit, they consistently showcased sportsmanship and determination, always putting in their best effort.<br><br>
+In SNTT, members have a variety of opportunities to develop character and leadership skills. Through competitions, exchanges, and rigorous training, the team builds self-discipline, resilience, and confidence. Additional platforms, such as the annual sports camp and organizing VIA activities, further support their growth in leadership abilities.
 
 ##### **CCA Information**
 
@@ -28,10 +27,10 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Ms Chua Shi Yan</td></tr>
+<tr><td><b>Mr Tan Yong Meng</b><br>Mr Wan Yew Boon<br>Mrs Lily Tan</td></tr>
 </tbody></table>
 
-##### **Student Executive Committee (2023 - 2024)**
+##### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
@@ -40,26 +39,26 @@ In SNTT, there are various opportunities and platforms to develop character and 
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lim En Xuan, Gloria</td><td>Sec 4L</td><td>Captain</td></tr>
-<tr><td>See Hui Yui</td><td>Sec 4H</td><td>Vice Captain</td></tr>
-<tr><td>Eu Woon Ning</td><td>Sec 3J</td><td>Sec 3 Level Coordinator</td></tr>
-<tr><td>Ng Yi Xin, Giselle</td><td>Sec 3L</td><td>Sec 3 Assistant Level Coordinator</td></tr>
-<tr><td>Kimberly Gan Yuxin</td><td>Sec 2T</td><td>'C' Division Captain</td></tr>
-<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 2J</td><td>Sec 2 Level Coordinator</td></tr>
+<tr><td>Kimberly Gan Yuxin</td><td>Sec 4U</td><td>Captain</td></tr>
+<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 4G</td><td>Vice Captain</td></tr>
+<tr><td>Yang Xiao Yu</td><td>Sec 2W</td><td>'C' Division Captain</td></tr>
 </tbody></table>
 
 ##### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2023</b><br><b><br>B Division Team Champion</b>
-<b><br>C Division Team 1st Runner-up</b></td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/tt5%202023.jpg"></td></tr>
+<tr><td style="width:50%"><b>National Inter-School Table Tennis Championships 2024 (League 1)</b><br>
+<br>C Division 3rd Runner-up</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture2.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>B Division Team Champion</b></td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT1.jpeg"></td></tr>
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2024</b><br><br>B Division Team Champion</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022</b><br><b><br>C Division Team Champion</b></td>
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2023</b><br><br>B Division Team Champion<br>C Division Team 1st Runner-up</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture5.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022<br></b><br>B Division Team Champion<br>C Division Team Champion</td>
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg"></td></tr>	
 
 </tbody></table>
@@ -68,6 +67,7 @@ In SNTT, there are various opportunities and platforms to develop character and 
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NSG National <br>Table Tennis Championships 2024 | B Division | Top 16 |
+| NSG North Zone<br>Table Tennis Championships 2024 | B Division | Team Champion |
 | NSG National <br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
 | NSG North Zone <br>Table Tennis Championships 2023 | C Division<br>B Division | 1st Runner-up<br>Team Champion |
-| North Zone Inter-School<br>Table Tennis Championships 2022 | C Division<br>B Division | Team Champion<br>Team Champion |

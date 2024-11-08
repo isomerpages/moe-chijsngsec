@@ -9,11 +9,14 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/06%20CCA/CS%20Publications/Publications.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Publications/Picture6.jpg" style="width:50%">
 
-SN Publications is where our love for writing seeks to meet readers’ senses. There is no shortage of opportunities for members to hone their writing skills and contribute their thoughts through our very own blog, Ink Imprints, as well as through competitions.  
-  
-Our writers are also involved in journalism by gathering stories through interviews and producing news videos. As a team of dedicated writers, Publications will continue to write to touch the hearts of our readers.  
+At SN Publications, our passion for writing comes alive, inviting readers to experience stories that resonate. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
+<br>Our club fosters a welcoming environment where members gather to share their love for writing and enjoy each other’s company. Focused on creative expression and teamwork, we aim to inspire all our writers to explore and develop their unique talents.
+<br>Beyond creative writing, our members delve into journalism by interviewing, gathering stories, and producing videos. One highlight this year was our Teachers’ Day interview video, created in collaboration with the Student Council EXCO, capturing meaningful conversations with staff and students alike.
+In 2024, our team also began writing captions for the school’s Instagram page, covering school events and offering a platform for students' voices to be heard.
+<br>At SN Publications, we’re not just about competitions and journalism; we also celebrate the friendships that form along the way.
+Together, as a team of dedicated writers, we remain committed to crafting stories that inspire and connect with our readers.
 
 #### **CCA Information**
 
@@ -31,7 +34,7 @@ Our writers are also involved in journalism by gathering stories through intervi
 <tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
@@ -40,8 +43,8 @@ Our writers are also involved in journalism by gathering stories through intervi
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ashley Ng Ching En</td><td>Sec 4U</td><td>President</td></tr>
-<tr><td>Marianne Neo Xin Ning</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Ng Xanafee</td><td>Sec 3U</td><td>President</td></tr>
+<tr><td>Lim Rui Xin Nicole</td><td>Sec 3L</td><td>Vice President</td></tr>
 </tbody></table>
 
 
@@ -50,19 +53,25 @@ Our writers are also involved in journalism by gathering stories through intervi
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Workshop</b><br><br>To further hone our writing skills, we invite vendors to conduct workshops on various genres of writing. Mr Desmond Kon of Singlit Station recently held a workshop to give us an insightful perspective on journalism; and Mr Marc Nair broadened our horizons on the power of interplaying words and photography.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications1.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Workshop</b><br><br>Our members participate in a variety of enriching workshops, covering skills from mastering photography and videography to conducting effective and professional interviews. These experiences equip our students with practical abilities and confidence, preparing them for real-world applications and personal growth.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture7.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Photo Essay</b><br><br>To enhance our photojournalistic skills, our members embark on journeys to take inspiring photographs, capturing the nuances of school life. The final product is a photo essay with thoughtful captions.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications2.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture8.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Journalistic Writing:</b><br><br>To give us an in-depth approach to journalism, we are given the opportunity to report on major school events across the school year. Apart from writing articles for the school newsletter Connexions, we have recently ventured into more unconventional forms of journalism, namely photojournalism and video journalism.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Publications3.jpeg"></td></tr>
+<tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>This year, our Secondary 3 students took on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like Chinese New Year and National Day, honing their skills in concise and impactful writing. This initiative not only enriched their learning experience but also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture11.jpg">
 	
+</td></tr><tr><td style="width:50%"><b>Competitions</b><br><br>Our students actively participate in prestigious competitions such as the Queen’s Commonwealth Essay Competition and The Media Challenge. These opportunities encourage innovative thinking and help sharpen their writing abilities and media literacy skills, fostering critical engagement with global issues.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture9.jpg"></td></tr>
+
 </tbody></table>
 
 #### **CCA Achievement**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| Media Challenge 2021 / 2022 |Secondary Level|1st Runner-Up|
+| Media Challenge 2024 |Secondary 2 &amp; 3|1st Runner-Up<br>- Sim Yu Ting Mischa (2T)<br>- Lim Rui Xin Nicole (3L)<br>- Naomi Tan En Lea (3P)<br>- Wong Yu Xuan (3W)<br><br>2nd Runner-Up<br>- Hannah de Lang<br>-Ho (2J)<br>- Claire Kik Zhi Yu (3P)<br>- Alicia Chua Xin Jie (3T)<br>- Ng Xanafee (3U)|
+| The Queen’s Commonwealth Essay Competition 2024 |Junior|Gold <br>- Lim Rui Xian Emma (1P)<br>- Zhou Yuhan (1W)|
+| Live On Festival 2024 |Junior| Distinction Award<br>- Zhou Yuhan (1W)<br>- Avril Lee En Xuan (2G)|
+| NIE Flash Fiction Contest |N/A|Joint Third Prize<br>- Amber Cheng Yan Yu (2P)|

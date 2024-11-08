@@ -9,40 +9,26 @@ variant: markdown
 
 #### **Badminton**
 
-<table style="width:100%">
-<tbody>
-<tr><td style="width:50%"><img src="/images/06%20CCA/PS%20Badminton/Picture20.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture21.jpg">
-</td></tr>
-</tbody></table>
-
-Badminton is a fun game that everyone enjoys and has definitely played before. It helps you to build up your fitness, and helps hone and develop one’s skills to better enjoy the game.&nbsp;&nbsp;
-
-Here at St. Nicks, we have supportive team members that encourages everyone and cheers each other on. Especially when the going gets tough as we strive onwards together.&nbsp;  
-
-Our teachers and coaches are caring and approachable and often provides us feedback and to help us improve.&nbsp;&nbsp;  
-
-Training encompasses fitness training, skills techniques and the occasional game to bond with one another. All one needs is an open mind and an ever ready-to-learn spirit to have a blast in Badminton 🏸&nbsp;  
-
-SNBT All the way!
+<img src="/images/06%20CCA/PS%20Badminton/Picture34.jpg">
+<br>Our Badminton CCA seeks to inculcate discipline, preservence, determination, sportsmanship and passion for the sport in its students. Through rigorous trainings, students are encouraged to strive for excellence and put in their best effort, fostering a growth mindset as well as continuous improvement in the sport. By instilling these values, our CCA aims to cultivate one’s values and mindsets. Achieving success both on and off court.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>ISH/Hall</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Indoor Sports Hall (Secondary) or School Hall</td></tr>
 <tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.00 pm<br>Wednesday : 3.45pm - 6.30pm<br>Friday : 4.00pm - 6.30pm</td></tr>
-<tr><th>Instructors</th><td>Mr Jin XiaoBai </td></tr>
+<tr><th>Instructors</th><td> 金教练</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Chew Ren Jie, Daryl</b><br>Mr Jowie Tung<br> Mdm Yan Guifang</td></tr>
+<tr><td><b>Mr Daryl Chew</b><br>Mdm Yan Guifang<br>Mr Jowie Tung </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
@@ -51,26 +37,29 @@ SNBT All the way!
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Jessie Lua Le En </td><td>Sec 3L</td><td>Captain</td></tr>
-<tr><td> Koh Tong, Dena</td><td>Sec 3H</td><td>Vice - Captain</td></tr>
-<tr><td> Koa Sze Siew</td><td>Sec 2W</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Koa Sze Siew </td><td>Sec 3W</td><td>Captain</td></tr>
+<tr><td>Soh Xiao Han Charis</td><td>Sec 3F</td><td>Vice - Captain</td></tr>
+<tr><td>Krisalyn Teh Hui En</td><td>Sec 2C</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Sports Camp</b><br><br>Sports camp is an annual event where sports CCAs come together to bond and to review the year and to plan and strategise for the upcoming year.<br><img src="/images/06%20CCA/PS%20Badminton/Picture23.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture22.jpg">
-<br><img src="/images/06%20CCA/PS%20Badminton/Picture24.jpg"></td></tr>
+<tr><td style="width:50%"><b>Archery Tag</b><br><br>During our 2023 Sports Camp, the team embarked on a journey to step outside of our usual comfort zones and explore different sports and activities. It allows us to gain a deeper understanding to the world of sports whilst bonding and having fun with each other.
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture35.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Training Sessions</b><br><br>Students hard at work during CCA training sessions. Students work on their physical fitness and Badminton skills.<br><img src="/images/06%20CCA/PS%20Badminton/Picture25.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture26.jpg">
-<br><img src="/images/06%20CCA/PS%20Badminton/Picture27.jpg"></td></tr>
+<tr><td style="width:50%"><b>Post Training Views</b><br><br>After training, our team will gather together to enjoy the beautiful scene of the sunset. It is truly quite a remarkable sight and a reward for training hard./td&gt;
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture36.jpg">
+</td></tr>
 	
-<tr><td style="width:50%"><b>Friendly Matches</b><br><br> As part of the programme for the team, students get to engage in friendly matches with other school teams during the off-peak season.</td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture28.jpg"></td></tr>	
+<tr><td style="width:50%"><b>Friendly Matches</b><br><br>To gain more match experience and practice the skills we have trained so hard for, the school organises friendly matches for us to turn our efforts into tangible, rewarding experiences. These matches are opportunities for players to showcase their skills in a non-stressful environment.</td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture37.jpg"></td></tr>	
 
+<tr><td style="width:50%"><b>League One Champions</b><br><br>This photo was taken with our 教练 after clinching the league one champion title. Within the picture reveals our pure joy and happiness to see the hard efforts we put in be rewarded!
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture38.jpg">
+</td></tr>
+	
 </tbody></table>
 
 #### **CCA Achievements**
@@ -78,9 +67,8 @@ SNBT All the way!
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| North Zone Inter-School Badminton Championships 2023     | 'B' Division     | 2nd    |
-| North Zone Inter-School Badminton Championships 2023     | 'C' Division     | 2nd    |
-| NSG National <br>Badminton Championships 2023     | 'B' Division     | Top 8     |
-| NSG North Zone<br>Badminton Championships 2023     | 'B' Division     | 2nd     |
-| NSG North Zone <br>Badminton Championships 2022     | 'B' Division<br>'C' Division     | 3rd<br>2nd     |
-| NSG North Zone <br>Badminton Championships 2021     | 'B' Division     | 1st     |
+| National School Games  | 2024 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals     |
+| National School Games    | 2024 'C' Division     | National League One Champions    |
+|  National School Games     | 2023 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals    |
+| National School Games | 2023 'C' Division     | 1st Runner up in North Zone<br>Top 16 in Nationals     |
+
