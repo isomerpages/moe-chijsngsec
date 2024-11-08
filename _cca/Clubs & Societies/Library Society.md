@@ -78,20 +78,23 @@ Two teams took part in this annual competition organised by the National Library
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture53.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Read for Books VIA 2024</b><br><br>Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged.<br>For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.<br><br>Librarians who took part in this activity were able to give back to society while simultaneously nurturing a love for reading.<br><br>We organised 10 sessions in July where both librarians and other students could participate and have time to read amidst their busy schedule.</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture6.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture54.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
 </td></tr>
 	
 <tr><td style="width:50%"><b>Learning Journeys to Alliance Française de Singapour, Kinokuniya and Zall.</b><br><br>      
 Library Society visited Alliance Française de Singapour in March 2024, for a French lesson and tour. Led by Mr. Nikola, we practiced basic French conversation and learned about the origins of languages. The tour included La Médiathèque, a French library with over 17,000 books, a gallery honoring women athletes, and insights into cultural preservation. It was an enriching experience, fostering appreciation of the French language and culture.
 <br><br>Librarians did a trip to Kinokuniya and Zall bookstore in August to purchase books for the school library.
 <br><br>We selected a wide range of books from fiction to nonfiction and even had a delicious snack and juice session at Zall bookstore which was a small but quaint bookshop!</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture8.jpg"><b>Read for Books Charity Drive 2023</b></td></tr>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture55.jpg"><b>Learning about the French language and the origins of languages</b>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture56.jpg"><b>At the quaint Zall bookshop!</b>	
+</td></tr>
 	
-<tr><td style="width:50%"><b>Creative Writing EL Workshop- Finding Poems in Trash and Trees</b><br><br>On the 10th of February 2023, Library Society had the invaluable opportunity to invite local author and poet Dr Ann Ang to host a creative writing workshop.<br><br>Through this workshop, librarians explored concepts such as nature, trash and Anthropocene – the human effect on the environment – through Dr Ang’s insightful presentation as well as various writing activities. We did a fill-in-the-blank poem, writing a haiku inspired by trash and crafting a poem about a plant’s life, as told from its point of view. All of which truly unlocked our inner poets!</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture9.jpg"><b>Workshop by Dr Ann Ang a local writer</b><br><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture10.jpg"><b>Synergise 2023</b></td></tr>
+<tr><td style="width:50%"><b>Poetry Slam</b><br><br>In 2024, Library Society and Chinese Drama Society joined forces to organize a Poetry Slam competition. Participants crafted poems based on assigned topics and presented them verbally to an audience. Audience votes and teacher judges determined the winning group based on poem content and delivery. The competition provided students with a platform to showcase their poetry and presentation skills, fostering creativity and confidence.</td>
+	<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture57.jpg"><b>Poetry Slam 2024</b>
+</td></tr>
 
-<tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>密室逃脱线上游戏 (Online Escape Room)<br><br>今年，我校图书馆学会的同学再一次与本地作家合作，共同制作线上密室逃脱游戏，推广华文阅读。本次与我们合作的是《蓝宝石号上的七天》的作者陈帅。有了去年的经验，同学们从写稿、编剧、制作道具、表演、后期制作到制作游戏都进行得相当顺利 。<br><br> 经过本次的学习体验，大家有了更多的机会了解本地作家，通过与作家的交流与讨论，也对华文阅读和写作有了更浓厚的兴趣。不仅如此，历经了九个月时间，同学们也学会了许多重要的软技能，锻炼了自己的能力，并且促进了彼此的关系，可谓收获颇丰。<br><br><b>剪贴簿工作坊（Scrapbooking Workshop)</b><br><br>     为了让同学们接触更多元的学习领域，探索并掌握更多新技能，也能有机会将自己的阅读体验更好地记录与展示出来。今年月，我校图书馆学会的同学参加了一个剪贴簿工作坊，学习了一些制作技巧，尝试使用各种材料和技巧制作自己的阅读剪贴簿。通过运用新学到的技能，她们将在卓尔书店学习之旅留下的珍贵回忆转变成了富有创意的剪贴簿页面。</td>
+<tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
+校园超级阅读明星比赛（Super Reading Star Competition）<br><br>今年，我校图书馆学会的同学再一次与本地作家合作，共同制作线上密室逃脱游戏，推广华文阅读。本次与我们合作的是《蓝宝石号上的七天》的作者陈帅。有了去年的经验，同学们从写稿、编剧、制作道具、表演、后期制作到制作游戏都进行得相当顺利 。<br><br> 经过本次的学习体验，大家有了更多的机会了解本地作家，通过与作家的交流与讨论，也对华文阅读和写作有了更浓厚的兴趣。不仅如此，历经了九个月时间，同学们也学会了许多重要的软技能，锻炼了自己的能力，并且促进了彼此的关系，可谓收获颇丰。<br><br><b>剪贴簿工作坊（Scrapbooking Workshop)</b><br><br>     为了让同学们接触更多元的学习领域，探索并掌握更多新技能，也能有机会将自己的阅读体验更好地记录与展示出来。今年月，我校图书馆学会的同学参加了一个剪贴簿工作坊，学习了一些制作技巧，尝试使用各种材料和技巧制作自己的阅读剪贴簿。通过运用新学到的技能，她们将在卓尔书店学习之旅留下的珍贵回忆转变成了富有创意的剪贴簿页面。</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture11.jpg"><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture12.jpg"><b>Design Online Escape Room</b><br><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture13.jpg"><b>Scrapbooking Workshop</b></td></tr>
