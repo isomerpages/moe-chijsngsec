@@ -56,12 +56,12 @@ Library Society is optimistic that we will have even more interesting activities
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Seng Jia Shyuan</td><td>Sec 3C</td><td>Chairperson</td></tr>
-<tr><td>Megan Hannah Cheok</td><td>Sec 3L</td><td>Vice - Chairperson</td></tr>
-<tr><td>Janice Phang Wan Yi</td><td>Sec 2D</td><td>Secretary</td></tr>
-<tr><td>Boh Shu Ting Shannon</td><td>Sec 3T</td><td>(Welfare Head) Upper Secondary Coordinator</td></tr>
-<tr><td>Tan Zi Xin Rachal</td><td>Sec 2G</td><td>Lower Secondary Coordinator</td></tr>
-<tr><td>Tan Yi Xuan</td><td>Sec 2C</td><td>Lower Secondary Executive Committee Member</td></tr>
+<tr><td>Janice Phang Wan Yi</td><td>Sec 3D</td><td>Chairperson</td></tr>
+<tr><td>Tan Zi Xin Rachal</td><td>Sec 3G</td><td>Vice - Chairperson</td></tr>
+<tr><td>Yang Ziman Angelica</td><td>Sec 3T</td><td>Secretary</td></tr>
+<tr><td>Tan Yi Xuan</td><td>Sec 3J</td><td>(Welfare Head) Upper Secondary Coordinator</td></tr>
+<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Ho Yean Yean Grace</td><td>Sec 2T</td><td>Lower Secondary Executive Committee Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
