@@ -95,14 +95,30 @@ Library Society visited Alliance Française de Singapour in March 2024, for a Fr
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
 校园超级阅读明星比赛（Super Reading Star Competition）<br><br> 我们图书馆学会在2023和2024年代表学校参加了全国校园超级阅读明星比赛。我们发挥创意、一起合作，在2023年分别获得漫画组和故事视频组一、二等奖。在2024年也获得了最佳视频奖。通过，这次比赛，我们能把自己阅读书籍通过不同形式传达给大家，真是一次难得的体验。
-<br><br>故事擂台挑战赛 (Chinese Storytelling Challenge)<br><br>
+<br><br>故事擂台挑战赛 (Chinese Storytelling Challenge)<br><br>	
 我们图书馆学会每年都会有举办一些关于华文知识的小比赛。今年我们进行了故事擂台挑战赛 。大家四人为一组，只有两把椅子作为道具，我们要在短短 20 分钟内用到规定的词语和条件创作出一个小故事。然后，在大家面前表演前三分钟。这个游戏不仅有趣，还锻炼了我们的想象
-力、团队合作能力、表演技巧、自信心和应变能力。</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture58.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling Challenge</b></td></tr>
+力、团队合作能力、表演技巧、自信心和应变能力。
+<br><br>黄谦教授精彩的文学讲座 (Chinese Poetry Workshop)<br><br>
+今年，从中国远道而来的黄谦教授为我们带来了一场精彩的诗词讲座。他用独创的“无调唱法”和“楚调唐音唱法”为我们诠释了王安石的作品《元日》。听了他的讲解，姐妹们对中国文学更感兴趣了。通过唱歌学习古诗词比单纯背诵古诗词更有趣，也让我们对中国文化和历史有了更多的了解。
+<br><br>
+
+小书迷读书会讲故事 (little-avid-volunteer)<br>
+
+今年2月，我校六位中三的学生参与了国家图书馆和推广华文理事会公同举办绘本导读工作坊。在此次培训中，她们学习了一些导读绘本的技巧，为接下来的义工活动做好了准备。
+<br><br>她们在4月参加了&lt;小书迷和小小书迷\&gt;的义工活动。她们在活动前认真准备，并利用周末的时间去图书馆为小孩子们讲了有趣的故事，并耐心地教他们一起做手工，受到孩子和家长们的欢迎和好评。
+
+通过这次愉快和难得的经验，同学们提高了讲华语的自信心，也学会了如何与他人沟通相处，跨出自己的舒适区，不断挑战自我。最重要的是明白了应该回馈社会，为有需要的人伸出援助之手。
 	
-<tr><td style="width:50%"><b>小书迷读书会讲故事 <br>(little-avid-volunteer)</b><br><br>今年4月，我校八位中二的学生参与了国家图书馆举办的小书迷小小书迷&gt;义工讲故事活动。她们在活动前认真准备，并利用周末的空闲时间去图书馆为小孩子们讲了有趣的故事，并耐心地教他们一起做手工，受到孩子和家长们的欢迎和好评。通过这次愉快和难得的经验，同学们提高了讲华语的自信心，也学会了如何与他人沟通相处，跨出舒适区，挑战自我。最重要的是明白了我们应该回馈社会，为有需要的人伸出援助之手。</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture14.jpg"><b>Story Sharing as little-avid-volunteer</b></td></tr>
+</td><td><img src="/images/06%20CCA/CS%20Library%20Society/Picture58.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling Challenge</b><br><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture60.jpg"><b>Chinese Poetry workshop</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture61.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture62.jpg"><b>Story Sharing as little-avid-volunteer</b>
+</td></tr>
+	
+	
+	
+	
+	
+
 </tbody></table>
 
 #### **CCA Achievements**
