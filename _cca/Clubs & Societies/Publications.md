@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/06%20CCA/CS%20Publications/Picture6.jpg" style="width:50%">
+<img src="/images/06%20CCA/CS%20Publications/Picture12.jpg" style="width:50%">
 
 At SN Publications, our passion for writing comes alive, inviting readers to experience stories that resonate. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
 <br>Our club fosters a welcoming environment where members gather to share their love for writing and enjoy each other’s company. Focused on creative expression and teamwork, we aim to inspire all our writers to explore and develop their unique talents.
