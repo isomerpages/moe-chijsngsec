@@ -54,6 +54,9 @@ Serving as a platform for members to express their artistic flair and creative t
 
 <table style="width:100%">
 <tbody>
+<tr><td style="width:40%"><b>2024 Live on Festival Design Competition</b><br><br>Our students have participated in the 2024 Live on Festival Design Competition to express their thoughts on organ donation and transplantation through art. Values of responsibility, compassion and empathy are incorporated in LOF by providing insights into the delicate and emotive nature of the topic of organ donation and transplantation and are awarded Certificate of Merit.</td>
+<td>
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture64.jpg" style="width:100%"></td></tr>
 <tr><td style="width:50%"><b>2024 Live on Festival Design Competition</b><br><br>Our students have participated in the 2024 Live on Festival Design Competition to express their thoughts on organ donation and transplantation through art. Values of responsibility, compassion and empathy are incorporated in LOF by providing insights into the delicate and emotive nature of the topic of organ donation and transplantation and are awarded Certificate of Merit.</td>
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
@@ -72,9 +75,7 @@ Serving as a platform for members to express their artistic flair and creative t
 <img src="/images/06%20CCA/CS%20Art%20Club/Art9.jpeg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art10.jpeg" style="width:100%"></td></tr>
 	
-<tr><td style="width:40%"><b>2023 Live On Festival Design Competition</b><br><br>Our students have participated in the 2023 Live On Festival Design Competition organised by National Organ Transplant Unit (NOTU). Ministry of Health and are awarded High Distinction. Their artwork was exhibited at the award ceremony which encourages youths, to express their thoughts on organ donation and transplantation through art and writing.</td>
-<td>
-<img src="/images/06%20CCA/CS%20Art%20Club/Picture2.jpg" style="width:100%"></td></tr></tbody></table>
+</tbody></table>
 			
 
 
