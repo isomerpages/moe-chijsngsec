@@ -63,13 +63,13 @@ Serving as a platform for members to express their artistic flair and creative t
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:20%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Picture68.jpg" style="width:20%"><br>
-<img src="/images/06%20CCA/CS%20Art%20Club/Picture71.jpg" style="width:20%"></td><td>
-</td><td><img src="/images/06%20CCA/CS%20Art%20Club/Picture66.jpg" style="width:50%"><br>
-	<img src="/images/06%20CCA/CS%20Art%20Club/Picture69.jpg" style="width:100%"><br>
-	<img src="/images/06%20CCA/CS%20Art%20Club/Picture70.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture71.jpg" style="width:20%"></td>
+<td><img src="/images/06%20CCA/CS%20Art%20Club/Picture66.jpg" style="width:50%"><br>
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture69.jpg" style="width:100%"><br>
+	<img src="/images/06%20CCA/CS%20Art%20Club/Picture70.jpg" style="width:100%"><br></td>
 
 	
-</td></tr><tr><td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events.<br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
+</tr><tr><td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events.<br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/Picture75.jpg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Picture76.jpg" style="width:100%"></td></tr>
