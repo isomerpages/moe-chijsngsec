@@ -88,5 +88,6 @@ Serving as a platform for members to express their artistic flair and creative t
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| 2023 Live On Festival Design Competition |Secondary School| <b>High Distinction</b><br><br>- Leticia Ong Zi Xuan(Wang Zixuan) (3D)<br>       - Sahana Sengupta (3G)|
-| 2022 SYF<br>Art Exhibition |Secondary School| <b>Certificate of Recognition</b><br><br> - Ho Qian Hui (3L)<br>- Lee Wen Xin Carys (3L)<br>- Chen Le Anne (3C)<br>- Tan Lexuan (3C)<br>- Caitlyn Kwong Tschi En (3J)<br>- Heng Chloe (3T)<br>- Kyra Sim Kaixuan (3H)<br>- Wong Chinn Yi (3D)<br>- Charlotte Soh (3H)<br>- Ang Wan Xin (4G)|
+| 2024 Live On Festival Design Competition |Secondary School| <b>Certificate of Merit</b><br>- Calah Phua Hsun Hau (3 Charity)<br> - Lin Xi Yuan, Cherie (3 Loyalty)|
+|  SYF Art Exhibition 2024 |Secondary School| Certificate of Participation|
+| 2023 Live On Festival Design Competition |Secondary School| <b>High Distinction</b><br>- Leticia Ong Zi Xuan(Wang Zixuan) (3D)<br>       - Sahana Sengupta (3G)|
