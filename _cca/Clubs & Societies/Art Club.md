@@ -9,15 +9,12 @@ variant: markdown
 
 #### **Art Club**
 
-<img src="/images/06%20CCA/CS%20Art%20Club/Art%20Club.jpeg" style="width:75%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture63.jpg" style="width:75%">
 
-Serving as a platform for members to express their artistic flair, the Art Club strongly values each and every member’s artistic talent and welcomes students who are passionate about art with open arms.
-
-The Art Club oversees the maintaining of the school’s ‘Doodle Wall’. It is regularly updated to showcase upcoming events in the school and invites members to freely display their creativity.
-
-We have participated in many events, such as the Singapore Youth Festival (SYF) with artworks exhibited at the National Museum of Singapore. Not forgetting our duty of service, we also actively give back to our community and participate in community projects with Kebun Bahru Community Club and Kebun Bahru View RC. Through these projects, we have developed our technical competency to complete them efficiently and learning to collaborate with one other.
-
-The Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
+Serving as a platform for members to express their artistic flair and creative talents, Art Club strongly values each and every member and their artistic capabilities and contributions, welcoming all students who are passionate about art with open arms.
+<br><br>Art Club oversees the maintenance of our school’s ‘Doodle Wall’. It is regularly updated to welcome and showcase upcoming school events, also inviting members to freely exercise their skills and creativity.
+<br><br>We participate in many events annually, such as Singapore Youth Festival (SYF) and Live On Festival Design Competition. Moreover, not forgetting our duty to serve, we actively give back to the community through community projects with community centers and hospitals while learning about the needs and challenges faced by others. In addition, we also regularly collaborate with fellow peers in initiating community projects to inspire others through positive actions to address real world social issues and to develop empathy for the needy. Through these initiatives, we continuously develop our members’ technical competency and efficiency, while also cultivating a spirit of collaboration and teamwork.<br>
+<br>Art Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts.
 
 #### **CCA Information**
 
@@ -33,12 +30,12 @@ The Art Club will strive to continue to be a place where young artists can grow 
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Tey Poh Choo</b><br>Mr Muhammad Razali Bin Puasa</td>
+			<td><b>Ms Tey Poh Choo</b><br>Ms Cheong Yunling Cheryl</td>
   </tr>
   </tbody>
 </table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -46,10 +43,10 @@ The Art Club will strive to continue to be a place where young artists can grow 
     <th style="width:25%">Class</th> 
     <th style="width:30%">Position</th>
   </tr>
-<tr><td>Heng Chloe</td><td>Sec 4T</td><td>President</td></tr>
-<tr><td>Kyra Sim Kaixuan</td><td>Sec 4H</td><td>Vice-President</td></tr>
-<tr><td>Ho Qian Hui</td><td>Sec 4L</td><td>Secretary</td></tr>
-<tr><td>Wong Chinn Yi</td><td>Sec 4D</td><td>Head of Welfare</td></tr>
+<tr><td>Lin Xi Yuan, Cherie</td><td>Sec 3L</td><td>President</td></tr>
+<tr><td>Calah Phua Hsun Hau</td><td>Sec 3C</td><td>Vice-President</td></tr>
+<tr><td>Choo Yan Leng (Cao Enling)</td><td>Sec 3W</td><td>Secretary</td></tr>
+<tr><td>Chua Jing Yi, Abby</td><td>Sec 3H</td><td>Head of Welfare</td></tr>
 </tbody></table>
 
 
