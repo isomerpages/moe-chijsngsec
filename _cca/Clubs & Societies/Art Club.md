@@ -54,7 +54,7 @@ Serving as a platform for members to express their artistic flair and creative t
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>SINGAPORE YOUTH FESTIVAL (SYF) 2022 ART EXHIBITION</b><br><br>Our students have participated in the 2022 Singapore Youth Festival Art Exhibition and are awarded Certificate of Recognition. Their artwork was exhibited at the National Museum of Singapore.</td>
+<tr><td style="width:50%"><b>2024 Live on Festival Design Competition</b><br><br>Our students have participated in the 2024 Live on Festival Design Competition to express their thoughts on organ donation and transplantation through art. Values of responsibility, compassion and empathy are incorporated in LOF by providing insights into the delicate and emotive nature of the topic of organ donation and transplantation and are awarded Certificate of Merit.</td>
 <td>
 <img src="/images/06%20CCA/CS%20Art%20Club/art001.jpg" style="width:100%"><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Art2.jpeg" style="width:100%"><br>
