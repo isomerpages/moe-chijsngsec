@@ -22,6 +22,9 @@ deepen their learning.&nbsp;</p>
 <p>The programme prepares students for the Secondary Education Certificate
 (SEC) Higher Music Examination, which can be considered in place of a Humanities
 subject for Junior College admission.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/meppiano.jpg">
+</div>
 <ul>
 <li>
 <p>Hear our online contributions over the past few years at national platforms:</p>
@@ -38,6 +41,35 @@ Elective Programme (MEP) 2022. Click&nbsp;<a href="https://www.youtube.com/watch
 </ul>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/mep_gamelan.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/mep_fl.jpg">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/mep_guitar.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Programme Highlights</strong></h4>
 <ul>
 <li>
