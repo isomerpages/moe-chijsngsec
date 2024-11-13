@@ -89,7 +89,7 @@ websites:&nbsp;</p>
 </p>
 </li>
 <li>
-<p><a href="/files/6086_y23_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE O-Level Higher Music Syllabus</a>
+<p><a href="/files/01 Flagship Programmes/6086_y25_sy.pdf" rel="noopener nofollow" target="_blank">2025 GCE O-Level Higher Music Syllabus</a>
 </p>
 </li>
 </ul>
