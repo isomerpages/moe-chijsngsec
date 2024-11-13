@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Talent Development
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/01%20subpage%20flagship-programme.jpg">
-</div>
 <h3><strong>The Music Elective Programme (MEP)</strong></h3>
 <p>The Music Elective Programme (MEP) is a four-year programme which provides
 opportunities for musically-inclined students to pursue a deeper study
@@ -23,6 +20,15 @@ deepen their learning.&nbsp;</p>
 <p>The programme prepares students for the Secondary Education Certificate
 (SEC) Higher Music Examination, which can be considered in place of a Humanities
 subject for Junior College admission.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/Mep_Violin.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/02 Flagship Programmes/Talent Development/meppiano.jpg">
 </div>
