@@ -43,7 +43,7 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
   </tbody>
 </table>
 
-#### **Student Executive Committee (2023)**
+#### **Student Executive Committee (current year)**
 
 
 <table style="width:100%">
