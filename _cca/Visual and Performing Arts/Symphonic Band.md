@@ -72,14 +72,14 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 
 <table style="width:100%"><tbody>
 	
-<tr><td style="width:50%"><b>Singapore Youth Festival Arts Presentation 2023</b><br><br>The band serenaded the audience with an Anime Medley from Howl’s Moving Castle and Tanah di Bawah Angin.</td>
-<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture2.jpg"></td></tr>
+<tr><td style="width:50%"><b>Jubilate XIV 2024</b><br><br>The band performed Beauty and the Beast medley, as well as Phantom of the Opera in a combined performance with Strings Orchestra.</td>
+<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture78.jpg"></td></tr>
 			
 <tr><td style="width:50%"><b>School National Day Observance Ceremony</b><br><br>Working together with SN’s uniform groups, band members worked hard to create a memorable National Day performance.</td>
-<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture3.jpg"></td></tr>			
+<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture79.jpg"></td></tr>			
 
-<tr><td style="width:50%"><b>Musical Escapades National Day Spectacular! @ Changi Airport</b><br><br>Playing a rousing array of national day songs, the band showcased Singapore’s spirit through music to local and international audiences.</td>
-<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture4.jpg"></td></tr>
+<tr><td style="width:50%"><b>Schools in Concert 2024 by BDAS</b><br><br>The band performed to the public and shared their passion for music by performing 3 pieces: Adventure Tales of Neverland, Taylor Swift Medley and Kamado Tanjiro no Uta.</td>
+<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture80.jpg"></td></tr>
 	
 </tbody></table>
 
@@ -88,4 +88,4 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|Singapore Youth Festival<br>Arts Presentation 2023    | Secondary School Bands &amp; Ensembles  | Certificate of Accomplishment     |
+|NA   | NA  | NA     |
