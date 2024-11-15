@@ -53,17 +53,17 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lam Wan Ying</td><td>Sec 3D</td><td>Band Major</td></tr>
-<tr><td>Hannah Toh En Qi (Zhuo Enqi)</td><td>Sec 3C</td><td>Drum Major</td></tr>
-<tr><td>Tan Eliana</td><td>Sec 2F</td><td>Student Conductor</td></tr>
-<tr><td>Raychelle Gerardine Lim</td><td>Sec 3H</td><td>Secretary/Treasurer</td></tr>
-<tr><td>Tan Tze Xuan</td><td>Sec 3F</td><td>Quarter Mistress (Brass)</td>
-</tr><tr><td>Clarice Koh Huimin</td><td>Sec 3L</td><td>Quarter Mistress (Woodwind)</td></tr>
-<tr><td>Tan Zi Xuan, Chloe</td><td>Sec 3H</td><td>Quarter Mistress (Percussion)</td></tr>	 
-<tr><td>Arianne Lee Xin Ying</td><td>Sec 3F</td><td>Librarian</td></tr>	 
-<tr><td>Germaine Wong Kay Xin</td><td>Sec 3T</td><td>Librarian</td></tr>	 
-<tr><td>Glenda Cheng Jia Xin</td><td>Sec 3L</td><td>Welfare Officer</td></tr> 
-<tr><td>Poo Phang Yen (Fu Fang’en)</td><td>Sec 3J</td><td>Welfare Officer</td></tr>	 
+<tr><td>Chew Yu Xuan Sarah Mae</td><td>Sec 3D</td><td>Band Major</td></tr>
+<tr><td>Shenski Choo Zi Xuan</td><td>Sec 3J</td><td>Drum Major</td></tr>
+<tr><td>Tyshanna Lee Zhi En</td><td>Sec 3G</td><td>Student Conductor</td></tr>
+<tr><td>Leia Chiang Yue Xin</td><td>Sec 3W</td><td>Secretary/Treasurer</td></tr>
+<tr><td>Tiffany Toh Yu En</td><td>Sec 3J</td><td>Quarter Mistress (Brass)</td>
+</tr><tr><td>Ang Qian Hui Vivian (Hong Qianhui)</td><td>Sec 3P</td><td>Quarter Mistress (Woodwind)</td></tr>
+<tr><td>Priscilla Chew (Zhao Wenxin)</td><td>Sec 3W</td><td>Quarter Mistress (Percussion)</td></tr>	 
+<tr><td>Shanice Tan Shuan Nee</td><td>Sec 3J</td><td>Librarian</td></tr>	 
+<tr><td>Lim Shan Xi Gerrilyn</td><td>Sec 3H</td><td>Librarian</td></tr>	 
+<tr><td>Choong Zi Le</td><td>Sec 3J</td><td>Welfare Officer</td></tr> 
+<tr><td>Tai Xi En, Amelia</td><td>Sec 3C</td><td>Welfare Officer</td></tr>	 
 
 </tbody>
 </table>
