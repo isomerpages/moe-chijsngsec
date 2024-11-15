@@ -9,9 +9,9 @@ variant: markdown
 
 #### **Symphonic Band**
 
-<img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture1.jpg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture77.jpg" style="width:100%">
 
-The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In the 2023 SYF Arts Presentation, we obtained a Certificate of Accomplishment. We also serenaded the public with beloved National Day tunes at the Changi Airport’s National Day Spectacular.
+The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In the 2023 SYF Arts Presentation, we obtained a Certificate of Accomplishment. In 2024, we performed to the public in Jubilate XIV, as well as in Schools in Concert 2024 organised by the Band Directors’ Association.
 
 #### **CCA Information**
 
@@ -19,15 +19,15 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>Hall / Pri ISH / Classrooms</td>
+    <td>Family Lounge/Pri MPR/Classrooms</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
-    <td>Mon &amp; Thur*<br>3:45 pm - 6:30 pm<br><br>*Starting 2024, Band practice will be on Mondays and Wednesdays</td>
+    <td>Mon &amp; Wed<br>3:45 pm - 6:30 pm<br></td>
   </tr>
 	<tr>
     <th>Instructors</th>
-		<td>Mr Toh Yang Yang<br>Miss Doreen Tan</td>
+		<td>Mr Toh Yang Yang<br>Mr Vincent Lee</td>
   </tr>
 </tbody>
 </table>
@@ -38,7 +38,7 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Nurulhuda Arslan</b><br>Mrs Daphne Lim<br>Ms Ding Lay Yen</td>
+			<td><b>Mr Kevin Andrew Thesman</b><br>Ms Elizabeth Mosbergen<br>Ms Ding Lay Yen</td>
   </tr>
   </tbody>
 </table>
