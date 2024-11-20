@@ -18,7 +18,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Humanities Room</td></tr>
-<tr><th>Training Day / Time</th><td>Wed<br>3.45 pm - 6.15 pm</td></tr>
+<tr><th>Training Day / Time</th><td>3.45 pm - 6.15 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
@@ -27,10 +27,10 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
  <tbody>
 <tr>
-<td><b>Mrs Gloria Gurung</b><br>Ms Vilochana Veloo</td></tr>
+<td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Teo</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
 <tbody>
@@ -39,13 +39,13 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Jyzel Tok</td><td>Sec 4F</td><td>President</td></tr>
-<tr><td>Lee-Goh En, Emma Joy</td><td>Sec 4T</td><td>Vice President</td></tr>
-<tr><td>Chloe Lim</td><td>Sec 4L</td><td>Secretary</td></tr>
-<tr><td>Tey Hui Wen Ashley</td><td>Sec 4F</td><td>Committee Member (Upper Sec)</td></tr>
-<tr><td>Emma Yap Sze Tyng</td><td>Sec 4D</td><td>Committee Member (Upper Sec)</td></tr>
-<tr><td>Jillen Ng Jie En</td><td>Sec 3H</td><td>Committee Member (Lower Sec)</td></tr>
-<tr><td>Joy Ng (Wu Lewen)</td><td>Sec 3J</td><td>Committee Member (Lower Sec)</td></tr>
+<tr><td> Sophie Tan</td><td>Sec 3F</td><td>President</td></tr>
+<tr><td> Liew Jia Qi Jenna</td><td>Sec 3P</td><td>Vice President</td></tr>
+<tr><td>Mirelle Chia Ze Ann</td><td>Sec 3D</td><td>Secretary</td></tr>
+<tr><td>Tan Jing Xi Kaitlin</td><td>Sec 3U</td><td>Skills Training IC</td></tr>
+<tr><td>Tan Heng Yan</td><td>Sec 3D</td><td>Publicity IC</td></tr>
+<tr><td>Yeo Chen Xi</td><td>Sec 2U</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 2U</td><td>Lower Secondary Exco Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
