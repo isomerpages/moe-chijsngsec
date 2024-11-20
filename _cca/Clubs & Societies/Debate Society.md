@@ -74,7 +74,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Orator's Trophy 2024     | Secondary 2     | 1st Runner-up in Junior League     |
 | Singapore Secondary School<br>Debating Championships 2024     |  Secondary 3 &amp; 4     |Runners-up in Division I Plate Final<br>Best Speaker in Division I Plate Final    |
 | Raffles Debate Academy U-14 <br>Debating Championship 2024     | Secondary 1 &amp; 2     | Participation     |
+|United World College South East Asia Dover (UWCSEA Dover) U-14 Debate Competition 2024     | Secondary 2     |Silver Final Runners-up   |
 | Orator's Trophy 2024 &nbsp; &nbsp; | Junior League &nbsp; &nbsp; | 1st Runner Up &nbsp; &nbsp; |
 | Orator's Trophy 2023 &nbsp; &nbsp; | Junior League &nbsp; &nbsp; | Top 6 &nbsp; &nbsp; |
 | Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
-
