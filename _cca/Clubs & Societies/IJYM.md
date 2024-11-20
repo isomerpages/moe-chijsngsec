@@ -11,7 +11,7 @@ variant: markdown
 
 <img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg" style="width:75%">
 
-IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
+IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that address the needs of people in the community especially those who are disadvantaged in any way.
 
 #### **CCA Information**
 
