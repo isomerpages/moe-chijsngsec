@@ -80,5 +80,6 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 |Orator's Trophy 2023 | Secondary 2 | Finalist (Top 6) in Junior League |
 |Malaysia International World Schools Debating<br>Championships 2023 | Secondary 2 &amp; 3 | Participation |
 |Dunman High Debate Open 2023 | Secondary 2 &amp; 3 |Quarter-finalists |
+| Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary 1 &amp; 2     | Participation     |
 |Lasallian Debate League 2023 | Secondary 2 &amp; 3 |Participation |
 | Illuminate 2023 | Secondary 1, 2 &amp; 3 |Quarter-finalists |
