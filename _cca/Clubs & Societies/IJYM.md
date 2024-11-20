@@ -71,4 +71,5 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| IJ Youth Mission <br> Inter-school Competition 2022  |Whole CCA| Distinction Award (Gold)|
+| Annual Inter-school IJYM Competition 2024|-|  Certificate of Distinction|
+| Annual Inter-school IJYM Competition 2023  |-|  Certificate of Distinction|
