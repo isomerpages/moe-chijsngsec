@@ -59,10 +59,12 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <td><img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/Picture10.jpg" style="width:100%"></td></tr>
 
-<tr><td style="width:50%"><b>NLB KidsRead Programme</b><br><br>IJYM partners with National Library Board (NLB) in a programme to read to Primary 1 children at AMK Primary School. Every Thursday, we work with NLB volunteers and teachers at the school to support the children in learning to read simple story books and helping to inspire and encourage a love of reading. </td>
-<td><br><img src="/images/06%20CCA/CS%20IJYM/Picture11.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20IJYM/Picture12.jpg"></td></tr>
+<tr><td style="width:50%"><b>NLB KidsRead Programme</b><br><br>IJYM partners with National Library Board (NLB) in a programme to read to Primary 1 children at AMK Primary School. Every Thursday, we work with NLB volunteers and teachers at the school to support the children in learning to read simple story books and helping to inspire and encourage a love of reading. <br><img src="/images/06%20CCA/CS%20IJYM/Picture11.jpg" style="width:100%"></td>
+<td><img src="/images/06%20CCA/CS%20IJYM/Picture12.jpg"></td></tr>
 
+<tr><td style="width:50%"><b>Outreach to Lions Befrienders AAC @ Tampines 434 &amp; Lions Befrienders &amp; Onesimus Kebun Baru</b><br><br>At our visits to the Lions’ Befrienders, we aim to bring joy through conducting activity sessions with the elderly. We organise activities such as karaoke, game sessions and simple arts and crafts projects to keep them active and facilitate meaningful interaction with them. We also take turns to visit Onesimus Centre in smaller groups each Tuesday to conduct active-ageing activities for the elderly in the early stages of dementia in the hope of enriching their lives.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture13.jpg"><br></td></tr>	
+	
 </tbody></table>
 
 #### **CCA Achievements**
