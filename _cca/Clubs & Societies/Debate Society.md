@@ -57,11 +57,11 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br> The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience. This year, one of our debaters achieved 1st Runner-Up in the Junior League.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture8.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Various Debating Events (Participation)</b><br><br>Our debaters participate in a variety of events, both at competitive and participation levels. These include the Malaysia International WSDC 2023, the Lasallian Debate League 2023, and the Raffles Debate Academy U-14 Debating Championship 2023.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture2.jpg"></td></tr>
-
 <tr><td style="width:50%"><b>SyNerGiSe exhibition debate</b><br><br>During SyNerGiSe, SNGS’ hallmark end-of-year event, our debaters introduced our schoolmates to the fundamentals of debate and put up two exhibition debates to showcase the skills they had just taught; this not only served as a unique opportunity to show our peers what the activity of debating entailed, but also allowed our debaters a valuable platform to hone their debating skills outside of competitions and in doing so, work together with their seniors and juniors.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture4.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>United World College South East Asia Dover (UWCSEA Dover) U-14 Debate Competition 2024</b><br><br>This year also saw our Secondary 2 debaters participate in the UWCSEA Dover U-14 Debate Competition, in what was the majority of the team’s first competition. Over the two days of competition, our debaters grew the skills of critical thinking and communication, working together with their new teammates to achieve the title of Silver Finalists.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture5.jpg"></td></tr>
 
 </tbody></table>
 
