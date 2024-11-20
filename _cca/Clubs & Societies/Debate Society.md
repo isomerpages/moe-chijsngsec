@@ -55,13 +55,13 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture7.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br> The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience. This year, one of our debaters achieved 1st Runner-Up in the Junior League.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture1.jpg"></td></tr>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture8.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Various Debating Events (Participation)</b><br><br>Our debaters participate in a variety of events, both at competitive and participation levels. These include the Malaysia International WSDC 2023, the Lasallian Debate League 2023, and the Raffles Debate Academy U-14 Debating Championship 2023.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture2.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Eunoia Debating Championship 2024</b><br><br>The 2024 Eunoia Debating Championship, hosted by Eunoia Junior College, serves as a vital platform for our debaters to sharpen their skills in critical thinking, improvisation, rational argumentation, persuasive speaking, and teamwork. This year, our team progressed to the Semi-Finals and achieved 8th and 9th place in the Best Speaker category.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture3.jpg"></td></tr>
+<tr><td style="width:50%"><b>SyNerGiSe exhibition debate</b><br><br>During SyNerGiSe, SNGS’ hallmark end-of-year event, our debaters introduced our schoolmates to the fundamentals of debate and put up two exhibition debates to showcase the skills they had just taught; this not only served as a unique opportunity to show our peers what the activity of debating entailed, but also allowed our debaters a valuable platform to hone their debating skills outside of competitions and in doing so, work together with their seniors and juniors.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture4.jpg"></td></tr>
 
 </tbody></table>
 
