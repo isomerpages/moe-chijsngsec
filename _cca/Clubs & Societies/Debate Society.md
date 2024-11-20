@@ -51,8 +51,10 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br>   
-Organised by Anglo Chinese Junior College, the 2024 Hybrid Orator’s Trophy provides an opportunity for our debaters to refine their impromptu speaking skills and enhance their confidence in public speaking. This year, one of our debaters achieved 1st runner-up in the Junior League Finals.</td>
+<tr></tr><tr><td style="width:50%"><b>Singapore Secondary Schools Debating Championships</b><br><br>The Singapore Secondary Schools Debating Championships, organised by Julia Gabriel, is an annual tournament taking place over the course of 2 months. Through the tournament, our debaters hone their resilience, self-confidence and teamwork alongside their ability to formulate and deliver strategic arguments. This year, our team achieved the title of Plate Finalists, with one of our speakers being named the Best Speaker of the Plate Finals.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture7.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br> The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience. This year, one of our debaters achieved 1st Runner-Up in the Junior League.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture1.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Various Debating Events (Participation)</b><br><br>Our debaters participate in a variety of events, both at competitive and participation levels. These include the Malaysia International WSDC 2023, the Lasallian Debate League 2023, and the Raffles Debate Academy U-14 Debating Championship 2023.</td>
