@@ -9,7 +9,7 @@ variant: markdown
 
 #### **IJYM**
 
-<img src="/images/06%20CCA/CS%20IJYM/IJYM.jpeg" style="width:75%">
+<img src="/images/06%20CCA/Picture7.jpg" style="width:75%">
 
 IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that look into the needs of people in the community especially those who are disadvantaged in any way.  
 
@@ -71,4 +71,3 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | IJ Youth Mission <br> Inter-school Competition 2022  |Whole CCA| Distinction Award (Gold)|
-
