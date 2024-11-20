@@ -34,17 +34,17 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mr Mohammed Khalid Kudabar </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
  <tbody>
 <tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
  <tr><td>Andrea Liu Xin En </td><td>Sec 4T</td><td>President (Debate Chairperson)</td></tr>
 <tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
-<tr><td>Jassreel Lee Kumar</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Teo Yu Xin</td><td>Sec 4C</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Andrea Liu Xin En</td><td>Sec 3T</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Yew Yi Zenn<br></td><td>Sec 2D</td><td>Lower Sec Debate Comm Member</td></tr>
+<tr><td>Cao Ziyi</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Bernice Ho Gene Ya</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Yew Yi Zenn</td><td>Sec 3</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Glosotti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
