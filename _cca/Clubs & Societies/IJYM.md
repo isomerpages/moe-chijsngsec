@@ -52,8 +52,8 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Outreach at Lions Befrienders Active Ageing Center (Tampines)</b><br><br>We continued our partnership with the center to bring joy to the seniors by organising activities such as simple chair exercises, sing-a-longs, craftwork and games whilst engaging them in conversations.<br><img src="/images/06%20CCA/CS%20IJYM/IJYM1.jpeg" style="width:100%"></td>
-<td><br><img src="/images/06%20CCA/CS%20IJYM/Picture8.jpg"><br><img src="/images/06%20CCA/CS%20IJYM/IJYM3.jpeg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>IJHCC Joint IJYM Carnival</b><br><br>To celebrate the 170th anniversary of CHIJ in 2024, the 5 IJYM clubs collaborated to host children from The Infant Jesus Homes and Children’s Centres (IJHCC) at our school for a fun-packed carnival. Together with our IJYM counterparts we set up various game booths for the delighted children of IJHCC. The carnival was a huge success, and we ended the day singing ‘Hold On to Our Dreams’ together.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture8.jpg"><br></td></tr>
 
 <tr><td style="width:50%"><b>kidsRead Programme @ Ang Mo Kio Pri School</b><br><br>This year, we participated in National Library Board’s kidsRead Programme and partnered Ang Mo Kio Pri School to help identified Pri 1 students to read and instil in them a love for books and reading.<br><br>This was done by conducting story-telling sessions and engaging the students in activities such reading/spelling games to get to know them better and engage them in conversations to help improve their language skills.<br><img src="/images/06%20CCA/CS%20IJYM/IJYM4.jpeg" style="width:100%"></td>
 <td><img src="/images/06%20CCA/CS%20IJYM/IJYM5.jpeg"><br>
