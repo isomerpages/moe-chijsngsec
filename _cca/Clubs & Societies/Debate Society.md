@@ -10,7 +10,7 @@ variant: markdown
 
 #### **Debate Society**
 
-<img src="/images/06%20CCA/CS%20Debate%20Society/Debate%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Debate%20Society/Picture6.jpg" style="width:100%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
@@ -39,8 +39,8 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <table style="width:100%">
  <tbody>
 <tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
- <tr><td>Ng Teng Ee </td><td>Sec 4W</td><td>President (Debate Chairperson)</td></tr>
-<tr><td>Shum Yin Theng</td><td>Sec 4D</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
+ <tr><td>Andrea Liu Xin En </td><td>Sec 4T</td><td>President (Debate Chairperson)</td></tr>
+<tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
 <tr><td>Jassreel Lee Kumar</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
 <tr><td>Teo Yu Xin</td><td>Sec 4C</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
 <tr><td>Andrea Liu Xin En</td><td>Sec 3T</td><td>Upper Sec Debate Comm Member</td></tr>
