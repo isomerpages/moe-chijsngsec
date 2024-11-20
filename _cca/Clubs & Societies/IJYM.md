@@ -59,10 +59,9 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <td><img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/Picture10.jpg" style="width:100%"></td></tr>
 
-<tr><td style="width:50%"><b>IJYM Inter-school Competition 2022</b><br><br>After two years of no competitions due to the COVID situation, the various IJYM schools finally came together for our inter-school competition. <br><br>We shared how our school linked our understanding of the theme for this year “Walking alongside Sufferers” to our plans for our programmes for the year as well as Best Practices that we had carried out.<br><br>We are delighted to announce that we achieved a Distinction Award (Gold) for the competition. <b><br><br><img src="/images/06%20CCA/CS%20IJYM/IJYM7.jpeg" style="width:100%"></b></td>
-<td><br><img src="/images/06%20CCA/CS%20IJYM/IJYM8.jpeg" style="width:100%"><br>
-<img src="/images/06%20CCA/CS%20IJYM/IJYM9.jpeg"><br>
-<img src="/images/06%20CCA/CS%20IJYM/IJYM10.jpeg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>NLB KidsRead Programme</b><br><br>IJYM partners with National Library Board (NLB) in a programme to read to Primary 1 children at AMK Primary School. Every Thursday, we work with NLB volunteers and teachers at the school to support the children in learning to read simple story books and helping to inspire and encourage a love of reading. </td>
+<td><br><img src="/images/06%20CCA/CS%20IJYM/Picture11.jpg" style="width:100%"><br>
+<img src="/images/06%20CCA/CS%20IJYM/Picture12.jpg"></td></tr>
 
 </tbody></table>
 
