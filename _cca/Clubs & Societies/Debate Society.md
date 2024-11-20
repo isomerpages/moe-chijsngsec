@@ -73,14 +73,8 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Eunoia Debating Championship 2024     | Secondary 3 &amp; 4     | Semi-finalists, 8th and 9th Best Speakers     |
 | Orator's Trophy 2024     | Secondary 2     | 1st Runner-up in Junior League     |
 | Singapore Secondary School<br>Debating Championships 2024     |  Secondary 3 &amp; 4     |Runners-up in Division I Plate Final<br>Best Speaker in Division I Plate Final    |
+| Raffles Debate Academy U-14 <br>Debating Championship 2024     | Secondary 1 &amp; 2     | Participation     |
+| Orator's Trophy 2024 &nbsp; &nbsp; | Junior League &nbsp; &nbsp; | 1st Runner Up &nbsp; &nbsp; |
+| Orator's Trophy 2023 &nbsp; &nbsp; | Junior League &nbsp; &nbsp; | Top 6 &nbsp; &nbsp; |
 | Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
-| Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
-| Orator's Trophy 2023     | Junior League     | Top 6     |
-| Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Semi-Finalists, 8th and 9th Best Speaker     |
-| Eunoia Debating Championships 2023     | Secondary 3 &amp; 4     | Participation     |
-| Dunman High Debate Open 2023   | Secondary<br>2 &amp; 3     |   Quarter-Finalist     |
-| Malaysia International WSDC 2023    | Secondary<br>2 &amp; 3     | Participation     |
-| Lasallian Debate League 2023    | Secondary<br>2 &amp; 3     | Participation     |
-| Illuminate 2023  | Secondary<br>1, 2 &amp; 3     | Quaterfinalists     |
-| Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary<br>1 &amp; 2     | Participation     |
-| Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
+
