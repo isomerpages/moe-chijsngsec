@@ -71,8 +71,8 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Eunoia Debating Championship 2024     | Secondary 3 &amp; 4     | Semi-finalists, 8th and 9th Best Speakers     |
-| Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
-| Singapore Secondary School<br>Debating Championships 2024     | Secondary Schools     |    Plate Finalists and Plate Finals Best Speaker    |
+| Orator's Trophy 2024     | Secondary 2     | 1st Runner-up in Junior League     |
+| Singapore Secondary School<br>Debating Championships 2024     |  Secondary 3 &amp; 4     |Runners-up in Division I Plate Final<br>Best Speaker in Division I Plate Final    |
 | Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
 | Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
 | Orator's Trophy 2023     | Junior League     | Top 6     |
