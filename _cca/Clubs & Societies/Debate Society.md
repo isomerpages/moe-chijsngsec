@@ -10,7 +10,7 @@ variant: markdown
 
 #### **Debate Society**
 
-<img src="/images/06%20CCA/CS%20Debate%20Society/Debate%20Society.jpeg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Debate%20Society/Picture6.jpg" style="width:100%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
@@ -34,32 +34,34 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mr Mohammed Khalid Kudabar </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2022 - 2023)**
+#### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
  <tbody>
 <tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
- <tr><td>Ng Teng Ee </td><td>Sec 4W</td><td>President (Debate Chairperson)</td></tr>
-<tr><td>Shum Yin Theng</td><td>Sec 4D</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
-<tr><td>Jassreel Lee Kumar</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Teo Yu Xin</td><td>Sec 4C</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Andrea Liu Xin En</td><td>Sec 3T</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Yew Yi Zenn<br></td><td>Sec 2D</td><td>Lower Sec Debate Comm Member</td></tr>
+ <tr><td>Andrea Liu Xin En </td><td>Sec 4T</td><td>President (Debate Chairperson)</td></tr>
+<tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
+<tr><td>Cao Ziyi</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Bernice Ho Gene Ya</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
+<tr><td>Yew Yi Zenn</td><td>Sec 3</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Glosotti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br>   
-Organised by Anglo Chinese Junior College, the 2024 Hybrid Orator’s Trophy provides an opportunity for our debaters to refine their impromptu speaking skills and enhance their confidence in public speaking. This year, one of our debaters achieved 1st runner-up in the Junior League Finals.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture1.jpg"></td></tr>
+<tr></tr><tr><td style="width:50%"><b>Singapore Secondary Schools Debating Championships</b><br><br>The Singapore Secondary Schools Debating Championships, organised by Julia Gabriel, is an annual tournament taking place over the course of 2 months. Through the tournament, our debaters hone their resilience, self-confidence and teamwork alongside their ability to formulate and deliver strategic arguments. This year, our team achieved the title of Plate Finalists, with one of our speakers being named the Best Speaker of the Plate Finals.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture7.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br> The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience. This year, one of our debaters achieved 1st Runner-Up in the Junior League.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture8.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Various Debating Events (Participation)</b><br><br>Our debaters participate in a variety of events, both at competitive and participation levels. These include the Malaysia International WSDC 2023, the Lasallian Debate League 2023, and the Raffles Debate Academy U-14 Debating Championship 2023.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture2.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>Eunoia Debating Championship 2024</b><br><br>The 2024 Eunoia Debating Championship, hosted by Eunoia Junior College, serves as a vital platform for our debaters to sharpen their skills in critical thinking, improvisation, rational argumentation, persuasive speaking, and teamwork. This year, our team progressed to the Semi-Finals and achieved 8th and 9th place in the Best Speaker category.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture3.jpg"></td></tr>
+<tr><td style="width:50%"><b>SyNerGiSe exhibition debate</b><br><br>During SyNerGiSe, SNGS’ hallmark end-of-year event, our debaters introduced our schoolmates to the fundamentals of debate and put up two exhibition debates to showcase the skills they had just taught; this not only served as a unique opportunity to show our peers what the activity of debating entailed, but also allowed our debaters a valuable platform to hone their debating skills outside of competitions and in doing so, work together with their seniors and juniors.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture4.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>United World College South East Asia Dover (UWCSEA Dover) U-14 Debate Competition 2024</b><br><br>This year also saw our Secondary 2 debaters participate in the UWCSEA Dover U-14 Debate Competition, in what was the majority of the team’s first competition. Over the two days of competition, our debaters grew the skills of critical thinking and communication, working together with their new teammates to achieve the title of Silver Finalists.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture5.jpg"></td></tr>
 
 </tbody></table>
 
@@ -68,15 +70,16 @@ Organised by Anglo Chinese Junior College, the 2024 Hybrid Orator’s Trophy pro
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| Singapore Secondary School<br>Debating Championships 2024     | Secondary Schools     |    Plate Finalists and Plate Finals Best Speaker    |
-| Singapore Secondary School<br>Debating Championships 2023     | Secondary Schools     | Top 8 and 4th Best Speaker     |
-| Orator's Trophy 2024     | Junior League     | 1st Runner Up     |
-| Orator's Trophy 2023     | Junior League     | Top 6     |
-| Eunoia Debating Championships 2024     | Secondary 3 &amp; 4     | Semi-Finalists, 8th and 9th Best Speaker     |
-| Eunoia Debating Championships 2023     | Secondary 3 &amp; 4     | Participation     |
-| Dunman High Debate Open 2023   | Secondary<br>2 &amp; 3     |   Quarter-Finalist     |
-| Malaysia International WSDC 2023    | Secondary<br>2 &amp; 3     | Participation     |
-| Lasallian Debate League 2023    | Secondary<br>2 &amp; 3     | Participation     |
-| Illuminate 2023  | Secondary<br>1, 2 &amp; 3     | Quaterfinalists     |
-| Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary<br>1 &amp; 2     | Participation     |
-| Raffles Debate Academy U-14<br>Debating Championship 2022     | Secondary<br>1 &amp; 2     | Participation     |
+| Eunoia Debating Championship 2024     | Secondary 3 &amp; 4     | Semi-finalists, 8th and 9th Best Speakers     |
+| Orator's Trophy 2024     | Secondary 2     | 1st Runner-up in Junior League     |
+| Singapore Secondary School<br>Debating Championships 2024     |  Secondary 3 &amp; 4     |Runners-up in Division I Plate Final<br>Best Speaker in Division I Plate Final    |
+| Raffles Debate Academy U-14 <br>Debating Championship 2024     | Secondary 1 &amp; 2     | Participation     |
+|United World College South East Asia Dover<br> (UWCSEA Dover) U-14 Debate Competition 2024     | Secondary 2     |Silver Final Runners-up   |
+| Dialogic Academy Debating Championship 2024| Secondary 2 &amp; 3 | Runners-up, 2nd and 7th Best Speakers |
+| Singapore Secondary School<br>Debating Championships 2023     | Secondary 3 &amp; 4     | Quarter-finalists, 4th Best Speaker   |
+|Orator's Trophy 2023 | Secondary 2 | Finalist (Top 6) in Junior League |
+|Malaysia International World Schools Debating<br>Championships 2023 | Secondary 2 &amp; 3 | Participation |
+|Dunman High Debate Open 2023 | Secondary 2 &amp; 3 |Quarter-finalists |
+| Raffles Debate Academy U-14 <br>Debating Championship 2023     | Secondary 1 &amp; 2     | Participation     |
+|Lasallian Debate League 2023 | Secondary 2 &amp; 3 |Participation |
+| Illuminate 2023 | Secondary 1, 2 &amp; 3 |Quarter-finalists |
