@@ -66,7 +66,10 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 </td></tr>
 
 <tr><td style="width:50%"><b>National School Games Cross Country Championships 2023</b></td>
-<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture34.jpg"></td></tr>
+<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture35.jpg"></td></tr>
+	
+<tr><td style="width:50%"><b>29th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2024</b></td>
+<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture6.jpg"></td></tr>
 	
 </tbody></table>
 
