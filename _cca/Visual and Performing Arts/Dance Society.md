@@ -30,7 +30,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 
 <table style="width:100%">
 <tbody><tr>
-<td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chong Bao Ling<br>Ms Chen Jiehui</td></tr>
+<td><b>Ms Lee Ruo-Ning</b><br>Mrs Liesa Chin<br>Ms Chen Jiehui</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
