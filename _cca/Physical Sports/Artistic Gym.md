@@ -22,7 +22,7 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
-<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br>Saturday : 9.00am - 12.00pm*<br>*Only during National School Games Season (Feb - Apr only) </td></tr>
+<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br>Saturday : 9.00am - 12.00pm*<br>*Only during National School Games Season (Feb - Apr) </td></tr>
 <tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng</td></tr>
 </tbody></table>
 
