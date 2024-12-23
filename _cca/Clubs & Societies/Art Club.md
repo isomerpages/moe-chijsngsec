@@ -60,21 +60,15 @@ Serving as a platform for members to express their artistic flair and creative t
 
 <tr><td style="width:40%"><b>2024 Singapore Youth Festival Art Exhibition</b><br><br>Our students have participated in the 2024 Singapore Youth Festival Art Exhibition through showcasing of diverse artistic talents and creativity and to promote art appreciation in school. The exhibition also aims to align with the art curriculum, emphasising dialogues on ideas, inspirations, and art processes among student artists and audiences in schools and community.<br><br>
 <img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:30%"><img src="/images/06%20CCA/CS%20Art%20Club/Picture66.jpg" style="width:30%"><img src="/images/06%20CCA/CS%20Art%20Club/Picture67.jpg" style="width:30%">
-
-
-
-|  |  |  |
-| -------- | -------- | -------- |
-| <img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:30%">     | <img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:30%">    | <img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:30%">     |
-
-
 </td><td>
 
-| ![](/images/06%20CCA/CS%20Art%20Club/Picture68.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture69.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture70.jpg) |
-| -------- | -------- | -------- |
-| ![](/images/06%20CCA/CS%20Art%20Club/Picture71.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture72.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture73.jpg) |
-
-<img src="/images/06%20CCA/CS%20Art%20Club/Picture74.jpg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture68.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture69.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture70.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture71.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture72.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture73.jpg" style="width:30%">
+<img src="/images/06%20CCA/CS%20Art%20Club/Picture74.jpg" style="width:30%">
 	
 </td></tr><tr><td style="width:40%"><b>Doodle Board</b><br><br>For every major school event, Art Club designs our doodle wall to hype our peers and teachers about the upcoming events.<br><br>We have doodled for events such as Chinese New Year, ELLF, Racial Harmony Day, Fiesta etc. Every few weeks, a group of Art Club members will brainstorm for ideas and translate them into masterpieces. It gives our members a platform to contribute back to our school and hone our drawing skills.</td>
 <td>
