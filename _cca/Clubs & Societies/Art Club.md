@@ -59,9 +59,12 @@ Serving as a platform for members to express their artistic flair and creative t
 <td><img src="/images/06%20CCA/CS%20Art%20Club/Picture64.jpg" style="width:100%"></td></tr>
 
 <tr><td style="width:40%"><b>2024 Singapore Youth Festival Art Exhibition</b><br><br>Our students have participated in the 2024 Singapore Youth Festival Art Exhibition through showcasing of diverse artistic talents and creativity and to promote art appreciation in school. The exhibition also aims to align with the art curriculum, emphasising dialogues on ideas, inspirations, and art processes among student artists and audiences in schools and community.<br><br>
-	
-| ![](/images/06%20CCA/CS%20Art%20Club/Picture65.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture66.jpg) | ![](/images/06%20CCA/CS%20Art%20Club/Picture67.jpg) |
+
+
+
+| Column 1![](/images/06%20CCA/CS%20Art%20Club/Picture65.jpg) | Column 2 | Column 3 |
 | -------- | -------- | -------- |
+
 	
 </td><td>
 
