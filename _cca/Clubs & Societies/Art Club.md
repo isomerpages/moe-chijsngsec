@@ -62,7 +62,7 @@ Serving as a platform for members to express their artistic flair and creative t
 
 
 
-|<img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:100%"> | <img src="/images/06%20CCA/CS%20Art%20Club/Picture66.jpg" style="width:100%"> | <img src="/images/06%20CCA/CS%20Art%20Club/Picture67.jpg" style="width:100%"> |
+|<img src="/images/06%20CCA/CS%20Art%20Club/Picture65.jpg" style="width:50%"> | <img src="/images/06%20CCA/CS%20Art%20Club/Picture66.jpg" style="width:50%"> | <img src="/images/06%20CCA/CS%20Art%20Club/Picture67.jpg" style="width:50%"> |
 | -------- | -------- | -------- |
 
 	
