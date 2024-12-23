@@ -27,7 +27,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Tan Yong Meng</b><br>Mr Wan Yew Boon<br>Mrs Lily Tan</td></tr>
+<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Mrs Lily Tan</td></tr>
 </tbody></table>
 
 ##### **Student Executive Committee (current year)**
