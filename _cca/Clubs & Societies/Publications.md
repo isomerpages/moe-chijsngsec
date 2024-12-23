@@ -31,7 +31,7 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Victor Francis</b><br>Ms Phua Meow Noi</td></tr>
+<tr><td><b>Mr Victor Francis</b><br>Mrs Uma Jacobs<br>Ms Phua Meow Noi</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (current year)**
