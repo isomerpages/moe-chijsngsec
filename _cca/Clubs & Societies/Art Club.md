@@ -87,4 +87,4 @@ Serving as a platform for members to express their artistic flair and creative t
 | -------- | -------- | -------- |
 | 2024 Live On Festival Design Competition |Secondary School| <b>Certificate of Merit</b><br>- Calah Phua Hsun Hau (3 Charity)<br> - Lin Xi Yuan, Cherie (3 Loyalty) <br> - Choo Yan Leng (Cao Enling) (3 Wisdom) <br> - Chou Tsz Lam (1 Wisdom)|
 |  SYF Art Exhibition 2024 |Secondary School| <b>Certificate of Participation|
-| 2023 Live On Festival Design Competition |Secondary School| <b>High Distinction</b><br>- Leticia Ong Zi Xuan(Wang Zixuan) (3D)<br>       - Sahana Sengupta (3G)|</b>
+| 2023 Live On Festival Design Competition |Secondary School| High Distinction<br>- Leticia Ong Zi Xuan(Wang Zixuan) (3D)<br>       - Sahana Sengupta (3G)|</b>
