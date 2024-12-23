@@ -35,7 +35,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <table style="width:100%">
 <tbody>
 <tr>
-<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na<br>Mr Jowie Tung</td>
+<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na</td>
 </tr>
 </tbody>
 </table>
