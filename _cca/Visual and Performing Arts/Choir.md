@@ -40,7 +40,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 </tbody>
 </table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (current year)**
 
 <table style="width:100%">
 <tbody>
