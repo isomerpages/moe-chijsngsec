@@ -62,7 +62,7 @@ Serving as a platform for members to express their artistic flair and creative t
 
 
 
-| Column 1![](/images/06%20CCA/CS%20Art%20Club/Picture65.jpg) | Column 2 | Column 3 |
+| Column 1![](/images/06%20CCA/CS%20Art%20Club/Picture65.jpg) | <img src="/images/06%20CCA/CS%20Art%20Club/Picture75.jpg" style="width:100%"> | Column 3 |
 | -------- | -------- | -------- |
 
 	
