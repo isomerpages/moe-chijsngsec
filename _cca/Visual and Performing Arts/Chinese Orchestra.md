@@ -24,7 +24,8 @@ Under the guidance of our conductor, instructors, and teachers, the orchestra ha
 <table style="width:100%">
 <tbody>
 <tr>
-<th>Training / Meeting Venue</th><td>Music Room <br>Various Classrooms</td></tr>
+<th>Training / Meeting Venue</th><td> Music Room <br> Various Classrooms [S3-L1-02 (1C), S3-L1-03 (1D,)
+S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2-04 (1W)] </td></tr>
 <tr>
 <th>Training Day / Time</th><td>Monday: 3.45 pm - 6.30 pm<br>Friday: 4.00 pm - 6.30 pm</td></tr>
 <tr>
