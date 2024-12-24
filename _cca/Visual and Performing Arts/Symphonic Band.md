@@ -19,7 +19,7 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>Family Lounge/Pri MPR/Classrooms</td>
+			<td><br><b>Senior Band:</b> <br>Mon - Pri ISH <br>Wed - Family Lounge<br><b>Junior Band:</b><br> Pri MPR<br><b>Sectionals:</b><br>Classrooms (2P, 2T, 2U, 2W)<br>Band Store Room </td>
   </tr>
   <tr>
     <th>Training Day / Time</th>

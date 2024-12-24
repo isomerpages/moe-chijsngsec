@@ -31,7 +31,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Netball Courts</td></tr>
+<tr><th>Training / Meeting Venue</th><td> Mon - Sec ISH <br>Wed &amp; Fri - Pri Parade Sq / Sec Covered Court</td></tr>
 <tr><th>Training Day / Time</th><td>Monday &amp; Wednesday 3.45pm - 6.30 pm<br>Friday 4.00pm - 6.30 pm</td></tr>
 <tr><th>Coach</th><td>Ms Ong Chin Chin</td></tr>
 </tbody></table>

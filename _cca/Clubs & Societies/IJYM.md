@@ -18,7 +18,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Humanities Room</td></tr>
-<tr><th>Training Day / Time</th><td>3.45 pm - 6.15 pm</td></tr>
+<tr><th>Training Day / Time</th><td>Wed <br>3.45 pm - 6.15 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
