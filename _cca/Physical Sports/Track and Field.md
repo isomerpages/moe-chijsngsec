@@ -25,9 +25,9 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>School 400m Track and Field</td></tr>
-<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>Saturday : 8.00 - 10.30 am*<br> *(Jan-Mar, for Mid-D only)</td></tr>
-<tr><th>Coaches</th><td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms. Yang Peishan (Middle Distance)</td></tr>
+<tr><th>Training / Meeting Venue</th><td>School Track/Field<br>School Fitness Gym<br>Bishan Park</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>Saturday : 8.00 - 11.00 am*<br>Venue: Bedok Reservoir<br> *(Jan-Mar for Mid-D/ X-Ctry only )</td></tr>
+<tr><th>Coaches</th><td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms. Chua Khai Leng (Middle Distance)</td></tr>
 </tbody></table>
 
 
@@ -65,7 +65,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture3.jpg"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture2.jpg"><br>
 </td></tr>
 
-<tr><td style="width:50%"><b>National School Games Cross Country Championships 2023</b></td>
+<tr><td style="width:50%"><b>National School Games Cross Country Championships 2024</b></td>
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture35.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>29th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2024</b></td>
@@ -82,4 +82,3 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 | National School Games Cross Country Championships 2024    | 'C' Division     | 3rd     |
 | National School Games<br>Track and Field Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>3rd     |
 | National School Games<br>Cross Country Championships 2023     | 'B' Division<br>'C' Division     | 4th<br>2nd     |
-

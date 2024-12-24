@@ -25,7 +25,7 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Daryl Chew</b><br>Mdm Yan Guifang<br>Mr Jowie Tung </td></tr>
+<tr><td><b>Mr Daryl Chew</b><br>Mdm Yan Guifang<br>Mr Jowie Tung <br>Mr Peter Loke</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (current year)**
@@ -71,4 +71,3 @@ variant: markdown
 | National School Games    | 2024 'C' Division     | National League One Champions    |
 |  National School Games     | 2023 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals    |
 | National School Games | 2023 'C' Division     | 1st Runner up in North Zone<br>Top 16 in Nationals     |
-

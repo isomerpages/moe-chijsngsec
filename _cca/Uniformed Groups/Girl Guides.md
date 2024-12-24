@@ -24,8 +24,8 @@ To keep the Guide Law
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Parade Square / Field / Classroom / Guides HQ</td></tr>
-<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>4:00 pm - 6:00 pm</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Parade Square / Field / Classroom 2F, 2G, 2J, 3H/ *Guides HQ at Bishan or other venues</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>4:00 pm - 6:00 pm<br>Saturdays - Some activities and competitions organised by HQ*</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
