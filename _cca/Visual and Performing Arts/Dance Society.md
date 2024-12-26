@@ -16,7 +16,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th>
-	<td>Hall<br>[ Dance Studio - when Hall is not available]<br></td></tr>
+	<td>Hall (MPH - L2-11)<br>[Dance Studio - when Hall is not available]<br></td></tr>
   
 <tr><th>Training Day / Time</th>
 <td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
