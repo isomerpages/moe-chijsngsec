@@ -67,7 +67,7 @@ It has been an enriching experience for us captains to have led the team. These 
 <td><img src="/images/06%20CCA/PS%20Netball/Picture10.jpg">
 <br><img src="/images/06%20CCA/PS%20Netball/Picture11.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>C Division 2023</b><br><br>It has been a fruitful season for us. We, as the C division batch of SNNB 2024, strive to achieve the best results through NSG; overcoming all our tough obstacles together. Although this year's NSG format was different and unique, i.e., having to go againt the strong opponents from the get-go, we did not back down from the tough matches but pushed through with resilience and grit.<br><br>
+<tr><td style="width:50%"><b>C Division 2024</b><br><br>It has been a fruitful season for us. We, as the C division batch of SNNB 2024, strive to achieve the best results through NSG; overcoming all our tough obstacles together. Although this year's NSG format was different and unique, i.e., having to go againt the strong opponents from the get-go, we did not back down from the tough matches but pushed through with resilience and grit.<br><br>
 Although the journey was arduous, with the guidance and never-ending support, guidance and encouragements from our coach, teachers and our seniors, we have pushed through all the tough and tiring moments together. We are immensely grateful for our coach and teachers for never giving up on us and for our seniors for always having our back - being there for us always. As a SNNB family, we will always stick together and hold one another as a big part of our lives.</td>
 <td><img src="/images/06%20CCA/PS%20Netball/Picture18.jpg"><br><img src="/images/06%20CCA/PS%20Netball/Picture19.jpg"><br></td></tr>
 
