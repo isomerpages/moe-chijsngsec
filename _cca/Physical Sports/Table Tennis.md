@@ -67,6 +67,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NSG National <br>Table Tennis Championships 2024(League 1) | C Division | 3rd Runner-up |
 | NSG National <br>Table Tennis Championships 2024 | B Division | Top 16 |
 | NSG North Zone<br>Table Tennis Championships 2024 | B Division | Team Champion |
 | NSG National <br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
