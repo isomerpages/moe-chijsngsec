@@ -166,22 +166,26 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://alz.org.sg/" rel="noopener nofollow" target="_blank">Alzheimer's Disease Association</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.samhealth.org.sg/" rel="noopener nofollow" target="_blank">Singapore Association for Mental Health</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.downsyndrome-singapore.org/" rel="noopener nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>umanitarian and International Aid</strong>
+<p><strong>Humanitarian and International Aid</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.redcross.sg/" rel="noopener nofollow" target="_blank">Singapore Red Cross</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
