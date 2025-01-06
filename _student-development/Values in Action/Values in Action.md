@@ -188,10 +188,12 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.habitat.org.sg/" rel="noopener nofollow" target="_blank">Habitat for Humanity Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.mercyrelief.org/" rel="noopener nofollow" target="_blank">Mercy Relief</a>
+</p>
 </td>
 </tr>
 <tr>
