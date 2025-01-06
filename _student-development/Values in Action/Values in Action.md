@@ -71,21 +71,22 @@ values of empathy, compassion, and active citizenship.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Arts and Heritage</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Arts and Heritage</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.theartshouse.sg/" rel="noopener nofollow" target="_blank">The Arts House</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.singaporeheritage.org/" rel="noopener nofollow" target="_blank">Singapore Heritage Society</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.heritage.gov.sg/" rel="noopener nofollow" target="_blank">National Heritage Board</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -121,6 +122,21 @@ values of empathy, compassion, and active citizenship.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.sadeaf.org.sg/" rel="noopener nofollow" target="_blank">Singapore Association for the Deaf</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Elderly Care</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
