@@ -148,13 +148,16 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://acres.org.sg/" rel="noopener nofollow" target="_blank">Animal Concerns Research and Education Society (ACRES)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.nss.org.sg/" rel="noopener nofollow" target="_blank">Nature Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.sec.org.sg/" rel="noopener nofollow" target="_blank">Singapore Environment Council</a>
+</p>
 </td>
 </tr>
 </tbody>
