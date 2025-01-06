@@ -202,13 +202,16 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.beyond.org.sg/" rel="noopener nofollow" target="_blank">Beyond Social Services</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.fycs.org/" rel="noopener nofollow" target="_blank">Fei Yue Community Services</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.childrensociety.org.sg/" rel="noopener nofollow" target="_blank">Singapore Children's Society</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -217,13 +220,16 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.aware.org.sg/" rel="noopener nofollow" target="_blank">Association of Women for Action and Research (AWARE)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://daughtersoftomorrow.org/" rel="noopener nofollow" target="_blank">Daughters Of Tomorrow</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.scwo.org.sg/" rel="noopener nofollow" target="_blank">Singapore Council of Women's Organisations (SCWO)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -232,13 +238,16 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.mentoringalliancesg.org/" rel="noopener nofollow" target="_blank">Mentoring Alliance Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.care.sg/" rel="noopener nofollow" target="_blank">Children-At-Risk Empowerment Association (CARE Singapore)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.childrensociety.org.sg/" rel="noopener nofollow" target="_blank">Singapore Children's Society</a>
+</p>
 </td>
 </tr>
 </tbody>
