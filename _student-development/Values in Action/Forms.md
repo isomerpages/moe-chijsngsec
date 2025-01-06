@@ -3,16 +3,17 @@ title: Forms
 permalink: /student-development/Values-in-Action/Forms/
 description: ""
 third_nav_title: Values in Action
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
 ##### **Forms**
 
 <b>Self Registered VIA activities with external organizations</b>
+1. [Proposal Form template](https://docs.google.com/document/d/16AAq0wuoHxAyI8Y6du1bxY2WX3lwr7oLrK2zEPwAzoA/edit?tab=t.0)
+2. [VIA Project Summary Form ](https://docs.google.com/forms/d/e/1FAIpQLSdSM6B-TESv46gwAg6Kq24s40Mq_AWvRGqlVC5SnOqd-rchbg/viewform) (only for approved projects)
+3. [End of VIA Project Reflections Form ](https://docs.google.com/forms/d/e/1FAIpQLScw-Hfx8MOii-AepXVNGMk375YSaQSfoyv9VLmMB6njhS9c4g/viewform) (only for completed projects)
 
-[Please click here](/files/04%20Student%20Development/self-registered%20via%20activities%20form%20whole%20school%20-%20updated%202021.pdf)
 
 <b>Student-initiated VIA Projects</b>
-
-[Proposal Form](/files/04%20Student%20Development/student-initiated%20via%20project%20proposal%20form%20updated%202022.pdf)<br>
-[Post-project Reflection](/files/04%20Student%20Development/student-initiated%20via%20project%20-%20post-project%20reflection%20worksheet%20updated%202022.pdf)
+1. [Self-Registered VIA Activity Endorsement Form ](https://docs.google.com/document/d/1TdtC8pEaEkjNlJD8GxKsngd-bfpX36A825SkZIDT7dU/edit?tab=t.0) (to be completed by student and external organisation)

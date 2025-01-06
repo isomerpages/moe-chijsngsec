@@ -3,100 +3,253 @@ title: Values in Action
 permalink: /student-development/Values-in-Action/Values-in-Action/
 description: ""
 third_nav_title: Values in Action
-variant: markdown
+variant: tiptap
 ---
-![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
-
-### **Values in Action**
-##### **CHIJ SNGS Values-in-Action (VIA) Framework<br>Service beyond Self and School**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hovb{border-color:#ffffff;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-hovb">MOE's 21 Century Competencies and CCP Outcomes</td>
-  </tr>
-</thead>
-</table>
-
-<img src="/images/05%20Student%20Development/05%20Values%20in%20Action/VIA%201.png" style="width:70%">
-
-<b>Lower Secondary Values-in-Action (VIA) Programme</b>&nbsp;  
-Lower-Secondary students extend their services to meet community needs, specifically those of the elderly and the environment. In these two years, students will step out of the comfort zone of school to extend their services to the community through activities such as visits to Homes and Seniors Day-Care Centres, as well as helping to clean our neighbourhood and community. These activities are organised by the school in partnership with our community partners such as Christalite Methodist Home, Hospice Care Association and North-West CDC.&nbsp;  
-  
-Lower Secondary VIA continues the journey of students from their Primary schools to develop our students in character and leadership excellence. To this end, students are guided and facilitated to plan and organise their outreach activities before embarking on them. before they embark on any of their outreach activities. At the end of each activity, students will do personal reflections to enable them to deepen their understanding and appreciation of the communities that they have interacted with.  
-  
-<b>Upper Secondary Values-in-Action (VIA) Programme</b>  
-Having been involved in various types of Values-in-action programmes from P1 to Sec 2, students in the upper secondary levels will take the initiative and responsibility to source for their own VIA activities. VIA at Sec 3 and Sec 4 is self-directed. This is in line with the school vision, ‘Girls of Grace, Women of Strength, Leaders with Heart’.  
-  
-Student-initiated VIA activities for Sec 3 and Sec 4, are classified into 2 main groups, namely, Non-interactive and Interactive. The school has set a cap of 6 hours for non-interactive activities within a year. The rationale is to encourage the students to be involved in a range of activities by reaching out to the community at large as well as to give them the opportunity to develop various life skills.&nbsp;  
-  
-Secondary Three students are to be involved in VIA projects that take on a service-learning (S-L) focus and process, which will in turn help them to internalise values of empathy and compassion as they plan out meaningful projects that are designed to meet the needs of less privileged. They will go through lessons during their Character and Citizenship (CCE) lessons, which will help them to understand the concept of organising programmes that would meet the needs of the segment of society that they would choose to help out. Regular reflection sessions - at the beginning, the middle and the end of their project - also help towards consolidating their learning. Organisations that have benefitted from these S-L projects include the Singapore Children’s Society, Association for People with Special Needs (APSN), Thye Hua Kwan Seniors Activity Centre, SMRT Corporation, Waterways Watch Society, NParks, Children’s Cancer Foundation, Breast Cancer Foundation, community child-care services such as IJ Homes and Children’s Centre and various Family Service Centres.&nbsp;  
-  
-The Secondary Four students get involved in community activities such as fund-raising, through flag days for organisations such as Society for the Physically Disabled, Infant Jesus Homes and Children’s Centres and various other non-profit organisations. They also help out in activities at the various libraries, and visits to elderly centres.
-
-##### **Opportunities/Organisations**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-71s7{color:#222;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-ohq8{color:#005B9A;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ohq8"><a href="http://www.nyc.pa.gov.sg/">National Youth Council (NYC)</a><br></th>
-    <th class="tg-ohq8"><a href="http://www.nlb.gov.sg/">National Library Board</a></th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg">
+</div>
+<h3><strong>Values in Action</strong></h3>
+<h5><strong>Values in Education: Shaping Character through Community Engagement</strong></h5>
+<p>Consistent with the IJ Mission to reach and meet the needs of the less
+privileged in the community, the school’s approach to VIA is “service by
+all for all”. Through a differentiated VIA programme, students develop
+empathy and responsibility, contributing meaningfully to their communities
+in line with the school’s vision, ‘Girls of Grace, Women of Strength, Leaders
+with Heart’.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.nparks.gov.sg/">National Parks (NParks)</a><br></td>
-    <td class="tg-ohq8"><a href="http://www.kindness.sg/">Singapore Kindness movement (SKM)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.onepeople.sg/">OnePeople.sg (OPSG)</a></td>
-    <td class="tg-ohq8"><a href="http://www.nvpc.org.sg/">National Volunteer &amp; Philanthropy Centre (NVPC)</a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.ncss.org.sg/">National Council of Social Services (NCSS)</a><br></td>
-    <td class="tg-ohq8"><a href="http://app2.nea.gov.sg/home">National Environment Agency (NEA)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.nhb.gov.sg/">National Heritage Board (NHB)</a></td>
-    <td class="tg-ohq8"><a href="http://www.paym.org.sg/">People’s Association Youth Movement (PAYM)</a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.hdb.gov.sg/fi10/fi10333p.nsf/w/YOAmbassadorProg">Housing and Development Board (HDB)</a><br></td>
-    <td class="tg-71s7">North-West Community Development Council (NW CDC)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-71s7">Heartware Network<br></td>
-    <td class="tg-71s7">Rainbow Centre Singapore<br></td>
-  </tr>
-  <tr>
-    <td class="tg-71s7">Hospice Care Association<br></td>
-    <td class="tg-71s7">Infant Jesus Home and Children’s Centres (IJHCC)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://www.singaporehospice.org.sg/">Singapore Hospice Council (SHC)</a></td>
-    <td class="tg-71s7">SUN-DAC (People with Special Needs)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ohq8"><a href="http://sdsc.org.sg/">Singapore Disability Sports Council (SDSC)</a></td>
-    <td class="tg-71s7">Association for People with Special Needs</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE's 21 Century Competencies and CCP Outcomes</p>
+</td>
+</tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/05%20Student%20Development/05%20Values%20in%20Action/VIA%201.png">
+</div>
+<p><strong>Lower Secondary Values-in-Action (VIA) Programme</strong>&nbsp;
+<br>The Lower Secondary VIA programme nurtures socially responsible citizens
+through meaningful community service activities. Students will step out
+of their comfort zones to engage in initiatives that focus on the elderly
+and the environment, such as visits to Active Ageing Centres and neighborhood
+clean-up efforts. Partnering with organisations such as Christalite Methodist
+Home and Hospice Care Association.
+<br>
+<br>Building on the foundation laid during Primary School, the Lower Secondary
+VIA programme continues to develop students' character and leadership skills.
+Students actively plan and organise their outreach activities, fostering
+ownership and responsibility. Reflection sessions enable students to help
+students deepen their understanding and appreciation of the communities
+they serve.</p>
+<p><strong>Upper Secondary Values-in-Action (VIA) Programme</strong>
+<br>In Upper Secondary, students take the lead in planning and executing self-initiated
+VIA projects with a Service-Learning (SL) focus. VIA activities for Secondary
+3 and 4 students are categorised into Interactive and Non-interactive,
+with a yearly cap of six hours for non-interactive activities to encourage
+meaningful engagement.
+<br>
+<br>Drawing on the principles of Design Thinking, Catholic Social Teaching
+(CST), and relevant United Nations Sustainable Development Goals (UNSDGs),
+students apply innovative problem-solving, ethical decision-making, and
+a global perspective to address real-world community needs. Past projects
+have supported organisations such as the Singapore Children’s Society,
+Association for People with Special Needs (APSN), Thye Hua Kwan Seniors
+Activity Centre, and Children’s Cancer Foundation, among others. These
+engagements provide students with invaluable opportunities to internalise
+values of empathy, compassion, and active citizenship.</p>
+<h5><strong>Opportunities/Organisations</strong></h5>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Arts and Heritage</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.theartshouse.sg/" rel="noopener nofollow" target="_blank">The Arts House</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singaporeheritage.org/" rel="noopener nofollow" target="_blank">Singapore Heritage Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.heritage.gov.sg/" rel="noopener nofollow" target="_blank">National Heritage Board</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chronic Illness</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ccf.org.sg/" rel="noopener nofollow" target="_blank">Childhood Cancer Foundation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.diabetes.org.sg/" rel="noopener nofollow" target="_blank">Diabetes Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.singaporecancersociety.org.sg/" rel="noopener nofollow" target="_blank">Singapore Cancer Society</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Disability Support</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.spd.org.sg/" rel="noopener nofollow" target="_blank">SPD (Serving People with Disabilities)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.autism.org.sg/" rel="noopener nofollow" target="_blank">Autism Resource Centre (Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sadeaf.org.sg/" rel="noopener nofollow" target="_blank">Singapore Association for the Deaf</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Elderly Care</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.lionsbefrienders.org.sg/" rel="noopener nofollow" target="_blank">Lions Befrienders Service Association</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.slec.org.sg/" rel="noopener nofollow" target="_blank">St Luke's ElderCare</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.thkmc.org.sg/" rel="noopener nofollow" target="_blank">Thye Hua Kwan Moral Charities</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Environment and Animal Welfare</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://acres.org.sg/" rel="noopener nofollow" target="_blank">Animal Concerns Research and Education Society (ACRES)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nss.org.sg/" rel="noopener nofollow" target="_blank">Nature Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sec.org.sg/" rel="noopener nofollow" target="_blank">Singapore Environment Council</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Health and Special Needs</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://alz.org.sg/" rel="noopener nofollow" target="_blank">Alzheimer's Disease Association</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.samhealth.org.sg/" rel="noopener nofollow" target="_blank">Singapore Association for Mental Health</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.downsyndrome-singapore.org/" rel="noopener nofollow" target="_blank">Down Syndrome Association (Singapore)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanitarian and International Aid</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.redcross.sg/" rel="noopener nofollow" target="_blank">Singapore Red Cross</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.habitat.org.sg/" rel="noopener nofollow" target="_blank">Habitat for Humanity Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mercyrelief.org/" rel="noopener nofollow" target="_blank">Mercy Relief</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Social Services and Community Development</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.beyond.org.sg/" rel="noopener nofollow" target="_blank">Beyond Social Services</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.fycs.org/" rel="noopener nofollow" target="_blank">Fei Yue Community Services</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.childrensociety.org.sg/" rel="noopener nofollow" target="_blank">Singapore Children's Society</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Women's Support</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.aware.org.sg/" rel="noopener nofollow" target="_blank">Association of Women for Action and Research (AWARE)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://daughtersoftomorrow.org/" rel="noopener nofollow" target="_blank">Daughters Of Tomorrow</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.scwo.org.sg/" rel="noopener nofollow" target="_blank">Singapore Council of Women's Organisations (SCWO)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Youth Education</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mentoringalliancesg.org/" rel="noopener nofollow" target="_blank">Mentoring Alliance Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.care.sg/" rel="noopener nofollow" target="_blank">Children-At-Risk Empowerment Association (CARE Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.childrensociety.org.sg/" rel="noopener nofollow" target="_blank">Singapore Children's Society</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
