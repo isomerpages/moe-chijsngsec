@@ -130,13 +130,16 @@ values of empathy, compassion, and active citizenship.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.lionsbefrienders.org.sg/" rel="noopener nofollow" target="_blank">Lions Befrienders Service Association</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.slec.org.sg/" rel="noopener nofollow" target="_blank">St Luke's ElderCare</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.thkmc.org.sg/" rel="noopener nofollow" target="_blank">Thye Hua Kwan Moral Charities</a>
+</p>
 </td>
 </tr>
 </tbody>
