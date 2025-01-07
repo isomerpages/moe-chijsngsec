@@ -45,10 +45,10 @@ variant: markdown
 <table style="width:100%">
 <tbody><tr>
 <th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
-<tr><td>Chi Shing Yee</td><td>Sec 3P</td><td>President</td></tr>
-<tr><td>Ong En Qi</td><td>Sec 3P</td><td>Vice-President</td></tr>
-<tr><td>Ting Zixuan</td><td>Sec 3G</td><td>Team Leader</td></tr>
-<tr><td>Su Jia Jia</td><td>Sec 3L</td><td>Team Leader
+<tr><td>Chi Shing Yee</td><td>Sec 4P</td><td>President</td></tr>
+<tr><td>Ong En Qi</td><td>Sec 4P</td><td>Vice-President</td></tr>
+<tr><td>Ting Zixuan</td><td>Sec 4G</td><td>Team Leader</td></tr>
+<tr><td>Su Jia Jia</td><td>Sec 4L</td><td>Team Leader
 	</td></tr></tbody></table>
 
 #### **CCA Highlights**
