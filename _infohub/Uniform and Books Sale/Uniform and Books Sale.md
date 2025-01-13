@@ -11,18 +11,16 @@ variant: tiptap
 <h4><strong>Uniform and Books Sale</strong></h4>
 <p><u>School Uniform / PE T-shirts &amp; Shorts</u>
 <br>2025 Sale Date
-<br>
-</p>
-<p>Jan: 02, 13
+<br>Jan: 02, 13
 <br>Feb 03, 17
 <br>Mar 03, 24
 <br>Apr 07, 21
 <br>May 05, 19
-<br>Jun 05, 19
-<br>Jul 05, 19
-<br>Aug 05, 19
-<br>Sept 05, 19
-<br>Oct 05, 19
+<br>
+<br>Jul 07, 21
+<br>Aug 04, 18
+<br>Sept 15, 29
+<br>Oct 13, 27
 <br>
 </p>
 <p><strong>Time</strong>: 9am - 3pm
