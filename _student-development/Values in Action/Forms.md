@@ -10,9 +10,10 @@ variant: markdown
 ##### **Forms/Guides**
 
 <b>**Student-Initiated VIA Service-Learning Projects**</b>
-1. [VIA Project Proposal Form template](https://docs.google.com/document/d/16AAq0wuoHxAyI8Y6du1bxY2WX3lwr7oLrK2zEPwAzoA/edit?tab=t.0)
-2. [VIA Project Summary Form ](https://docs.google.com/forms/d/e/1FAIpQLSdSM6B-TESv46gwAg6Kq24s40Mq_AWvRGqlVC5SnOqd-rchbg/viewform) (only for approved projects)
-3. [End of VIA Project Reflections Form ](https://docs.google.com/forms/d/e/1FAIpQLScw-Hfx8MOii-AepXVNGMk375YSaQSfoyv9VLmMB6njhS9c4g/viewform) (only for completed projects)
+1. VIA@SNGS [Guide](https://docs.google.com/document/d/1DX4HzEkGADFw3Pd6Y-85CUXtXhzFrErQFUQTazdKZD8/edit?tab=t.0)
+2. [VIA Project Proposal Form template](https://docs.google.com/document/d/16AAq0wuoHxAyI8Y6du1bxY2WX3lwr7oLrK2zEPwAzoA/edit?tab=t.0)
+3. [VIA Project Summary Form ](https://docs.google.com/forms/d/e/1FAIpQLSdSM6B-TESv46gwAg6Kq24s40Mq_AWvRGqlVC5SnOqd-rchbg/viewform) (only for approved projects)
+4. [End of VIA Project Reflections Form ](https://docs.google.com/forms/d/e/1FAIpQLScw-Hfx8MOii-AepXVNGMk375YSaQSfoyv9VLmMB6njhS9c4g/viewform) (only for completed projects)
 
 
 <b>**Self-Registered VIA Activities with External Organisations**</b>
