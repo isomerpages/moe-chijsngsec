@@ -33,11 +33,11 @@ positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are to:
-<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
-and respect yourself as you love and respect others;
-<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build
-positive relationships based on love and respect (which are the foundation
-for strong families);
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and
+respect yourself as you love and respect others;
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive
+relationships based on love and respect (which are the foundation for strong
+families);
 <br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible
 decisions for yourself, your family and society; and
 <br>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
@@ -84,7 +84,14 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -135,7 +142,7 @@ relationships, both online and offline
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +168,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -192,14 +199,21 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 2</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -277,7 +291,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +326,14 @@ both offline and online</p>
 </table>
 <p><strong>Secondary 3</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -395,7 +416,7 @@ ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -427,14 +448,21 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 4</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -555,7 +583,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -587,20 +615,27 @@ and speak and act in alignment with our beliefs.</p>
 </table>
 <p><strong><em>eTeens</em> Programme</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em>&nbsp;is a
-programme developed by Health Promotion Board, in collaboration with the
-Ministry of Education, to provide Secondary 3 students with accurate information
-on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
-conducted in two segments – a mass talk segment and a classroom-based programme.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; StStudents are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
-beyond themselves and involves their family. Abstinence and upholding family
-values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -617,8 +652,7 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by
-<br>HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;Raise awareness and provide knowledge on:</p>
@@ -628,7 +662,7 @@ and consistent condom use).</p>
 <p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -641,7 +675,7 @@ and consistent condom use).</p>
 skills of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -654,13 +688,13 @@ sexuality education programmes by MOE-approved external providers.&nbsp;</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable<a href="/files/04 Student Development/Sexuality Education/Annex_A_SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;here</a>.
-The completed form is to be submitted by 19/04/2024.</p>
+the start of the year and is also downloadable <a href="https://go.gov.sg/sed-optout25" rel="noopener nofollow" target="_blank">here</a>. The completed form is to
+be submitted by 21/04/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/04 Student Development/Sexuality Education/Annex_B_E_Teens_Opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-&nbsp;The completed form is to be submitted by 19/04/2024.</p>
+the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-optout2025" rel="noopener nofollow" target="_blank">here</a> . &nbsp;The completed
+form is to be submitted by 21/04/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at chijsng_sec@moe.edu.sg
 for discussion or to seek clarification about the school’s sexuality education
 programme.</p>
