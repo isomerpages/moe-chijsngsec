@@ -33,11 +33,11 @@ positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
 Sexuality Education are to:
-<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love
-and respect yourself as you love and respect others;
-<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build
-positive relationships based on love and respect (which are the foundation
-for strong families);
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and
+respect yourself as you love and respect others;
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive
+relationships based on love and respect (which are the foundation for strong
+families);
 <br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible
 decisions for yourself, your family and society; and
 <br>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
@@ -84,7 +84,14 @@ which are of prime concern at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -135,7 +142,7 @@ relationships, both online and offline
 in dating vary among individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +168,7 @@ those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -192,14 +199,21 @@ when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Secondary 2</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -277,7 +291,7 @@ of exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +326,14 @@ both offline and online</p>
 </table>
 <p><strong>Secondary 3</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -434,7 +455,14 @@ alignment with our beliefs</p>
 </table>
 <p><strong>Secondary 4</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -600,7 +628,12 @@ values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em
 is that students are empowered to make wise, informed and sensible decisions.</p>
 <p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
