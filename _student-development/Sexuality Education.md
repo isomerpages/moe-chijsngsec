@@ -693,8 +693,8 @@ be submitted by 21/04/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable . &nbsp;The completed form
-is to be submitted by 21/04/2024.</p>
+the start of the year and is also downloadable <a href="https://go.gov.sg/eteens-optout2025" rel="noopener nofollow" target="_blank">here</a> . &nbsp;The completed
+form is to be submitted by 21/04/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at chijsng_sec@moe.edu.sg
 for discussion or to seek clarification about the school’s sexuality education
 programme.</p>
