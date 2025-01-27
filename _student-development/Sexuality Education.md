@@ -652,8 +652,7 @@ are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by
-<br>HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;Raise awareness and provide knowledge on:</p>
@@ -663,7 +662,7 @@ and consistent condom use).</p>
 <p>b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 7</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -676,7 +675,7 @@ and consistent condom use).</p>
 skills of assertiveness and responsible decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -689,13 +688,13 @@ sexuality education programmes by MOE-approved external providers.&nbsp;</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable<a href="/files/04 Student Development/Sexuality Education/Annex_A_SEd_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp;here</a>.
-The completed form is to be submitted by 19/04/2024.</p>
+the start of the year and is also downloadable <a href="https://go.gov.sg/sed-optout25" rel="noopener nofollow" target="_blank">here</a>. The completed form is to
+be submitted by 21/04/2025.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
 to complete an opt-out form. This form will be distributed to parents at
-the start of the year and is also downloadable&nbsp;<a href="/files/04 Student Development/Sexuality Education/Annex_B_E_Teens_Opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-&nbsp;The completed form is to be submitted by 19/04/2024.</p>
+the start of the year and is also downloadable . &nbsp;The completed form
+is to be submitted by 21/04/2024.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at chijsng_sec@moe.edu.sg
 for discussion or to seek clarification about the school’s sexuality education
 programme.</p>
