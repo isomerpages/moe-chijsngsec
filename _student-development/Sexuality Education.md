@@ -416,7 +416,7 @@ ways of coping with broken relationships, and family and friends are important
 pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4 Week 2</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 </tbody>
@@ -583,7 +583,7 @@ marriage, and the way in which a couple handles conflict is critical to
 the success of their marriage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -615,18 +615,20 @@ and speak and act in alignment with our beliefs.</p>
 </table>
 <p><strong><em>eTeens</em> Programme</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em>&nbsp;is a
-programme developed by Health Promotion Board, in collaboration with the
-Ministry of Education, to provide Secondary 3 students with accurate information
-on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is
-conducted in two segments – a mass talk segment and a classroom-based programme.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; StStudents are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
-beyond themselves and involves their family. Abstinence and upholding family
-values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em> programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At CHIJ St Nicholas Girls’ School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
