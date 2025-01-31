@@ -46,7 +46,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2023</strong>
+<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2025</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum.&nbsp;The content for
@@ -80,7 +80,7 @@ lessons, secondary students will have the opportunity to develop a positive
 self-esteem, develop their character, and expand their understanding and
 repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
-<p><strong>At CHIJ St Nicholas Girls’ School (Sec), the following Sexuality Education lessons will be taught in 2024</strong>
+<p><strong>At CHIJ St Nicholas Girls’ School (Sec), the following Sexuality Education lessons will be taught in 2025</strong>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
@@ -622,7 +622,7 @@ and protection from a health perspective. <em>eTeens</em> is conducted in
 two segments – a mass talk segment and a classroom-based programme. The
 desired outcome of the <em>eTeens</em> programme is that students are empowered
 to make wise, informed and sensible decisions.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; StStudents are taught skills such
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
 as decision-making, assertiveness and negotiation to say “no” to sex and
 negative peer pressure. They also learn that the impact of STIs/HIV extends
 beyond themselves and involves their family, and the importance of responsible
