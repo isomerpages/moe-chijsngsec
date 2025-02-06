@@ -62,6 +62,8 @@ Activity Centre, and Children’s Cancer Foundation, among others. These
 engagements provide students with invaluable opportunities to internalise
 values of empathy, compassion, and active citizenship.</p>
 <h5><strong>Opportunities/Organisations</strong></h5>
+<p><strong>List of NGOs and Charities in Singapore </strong><a href="https://ngobase.org/c/SG/singapore-ngos-charities" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
