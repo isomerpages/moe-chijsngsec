@@ -23,13 +23,13 @@ variant: tiptap
 <br>Oct 13, 27
 <br>
 </p>
-<p><strong>Time</strong>: 9am - 3pm
+<p><strong>Time</strong>: 9 am - 3 pm
 <br><strong>Venue</strong>: School Canteen</p>
-<p><strong>Parent Entry Timimh: After 2pm</strong>
+<p><strong>Parent Entry Timing: After 2 pm</strong>
 </p>
 <p><u>Our Ubi Outlet (Tel 6747 8037)</u>
-<br>Time: 10:00am-1:00pm, 2:00pm-5:45pm (Mon-Sat)
-<br>LUNCH TIME 1pm-2pm
+<br>Time: 10 am - 1 pm, 2 pm- 5:45 pm (Mon-Sat)
+<br>Lunch Time: 1 pm - 2 pm
 <br>Closed on Sunday and Public Holiday</p>
 <p><strong>Sizing Chart for:</strong>
 </p>
