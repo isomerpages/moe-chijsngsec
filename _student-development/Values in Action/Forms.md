@@ -19,5 +19,5 @@ variant: markdown
 <b>**Self-Registered VIA Activities with External Organisations**</b>
 1. [Self-Registered VIA Activity Endorsement Form ](https://docs.google.com/document/d/1TdtC8pEaEkjNlJD8GxKsngd-bfpX36A825SkZIDT7dU/edit?tab=t.0) (to be completed by student and external organisation)
 
-**Flowchart for Student-Initiated and Self-Registered VIA Projects/Activities (PDF)** [here](https://drive.google.com/file/d/1kQL7SxJdI13rW8N1ahpTnSi4_cW6lpns/view?usp=sharing)<br><br>
+**Flowchart for Student-Initiated and Self-Registered VIA Projects/Activities (PDF)** [here](https://drive.google.com/file/d/1Dr0b2QPfJQt-OMgXVWm245NwpuEnnAtm/view?usp=drive_link)<br><br>
 **VIA@SNGS FAQ** [here](https://docs.google.com/document/d/1vQaHE30hNqSZdSFScdHpoQj3Ep1Z0M33GKBYxHdrILA/edit?tab=t.0)
