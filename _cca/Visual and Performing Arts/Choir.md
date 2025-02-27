@@ -73,8 +73,16 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>SYF Arts Presentation 2023</b><br><br>SN Choir was awarded the Certificate of Distinction. We are thankful to all who supported us throughout from the preparation to the actual day of competition. With grit and determination, the students together with our choir conductor, Ms Lim Ai Hooi presented a wonderful performance during the competition!</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture2.jpg"></td></tr>
+<tr><td style="width:50%"><b>Limelight@Esplanade</b><br><br>SN Choir started the year with a public performance at one of the Limelight series at the Esplanade Concert, under our choir conductor, Ms Lim Ai Hooi.
+
+Our heartfelt thanks and appreciation for your presence at the concert.
+
+We are also grateful for the AV and technical support from school and the Limelight backstage crew and ushers for making the performance experience so authentic and meaningful to the girls. The students truly had a good time and will be enriched and touched in many ways by this performance opportunity.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Choir Workshop with Mr André van der Merwe</b><br><br>Mr André van der Merwe is a conductor and composer from Cape Town, South Africa. His choirs won many awards gobally. With his exuberant personality, Mr André has shared on singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and benefitted much from the workshop.</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture3.jpg"><br></td></tr>
