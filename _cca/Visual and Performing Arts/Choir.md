@@ -9,7 +9,8 @@ variant: markdown
 
 #### **Choir**
 
-![Choir 230527](/images/06%20CCA/VPA%20Choir/choir%20230527.jpeg)
+
+![](/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg)
 
 CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging from 13 to 16 years old. The choristers take immense pride in representing their school in performances and competitions, singing an extensive choral repertoire ranging from traditional Asian folk songs, English madrigals to Eastern European songs. Our members are motivated and bonded by their passion for music and singing. To share their joy of singing, SN Choir has performed in many concerts, competitions and community events over the years.
 
@@ -24,7 +25,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <tr><th>Training / Meeting Venue</th>
 <td>AVA Room</td></tr>
 <tr><th>Training Day / Time</th>
-<td>From 2024, choir practices will be on Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
+<td>Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
 <td>Miss Lim Ai Hooi (Conductor)</td></tr>
 </tbody>
@@ -49,21 +50,21 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Shania Pan Rui Lin</td><td>Sec 3L/4L</td><td>President</td></tr>
-<tr><td>Koh Wan Ting</td><td>Sec 3P/4P</td><td>Vice President</td></tr>
-<tr><td>Chloe Wong Jing Ning</td><td>Sec 3H/4H</td><td>Secretary</td></tr>
-<tr><td>Kwong Tschi-Xuan, Kayla</td><td>Sec 3C/4C</td><td>Resource Manager</td></tr>
-<tr><td>Tan Yu Tong</td><td>Sec 3J/4J</td><td>Welfare Manager</td></tr>
-<tr><td>Charmaine Ng Kit Min</td><td>Sec 3G/4G</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Crystal Moe</td><td>Sec 3W/4W</td><td>Sectional Leader (Sop 2)</td></tr>
-<tr><td>Seah Jingyi Shuanne</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 1)</td></tr>
-<tr><td>Zhu Mingqi</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 2)</td></tr>
-<tr><td>Yeo Caitlyn</td><td>Sec 2D</td><td>Assistant Resource Manager</td></tr>
-<tr><td>Ooi Chien Wen</td><td>Sec 2C</td><td>Assistant Secretary</td></tr>
-<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 2P</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
-<tr><td>Eshley Zhang Yiting</td><td>Sec 2G</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
-<tr><td>Rachel Tiew</td><td>Sec 2C</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
-<tr><td>Scarlett Wan Ying</td><td>Sec 2D</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
+<tr><td> Shania Pan Rui Lin</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>Koh Wan Ting</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Chloe Wong Jing Ning</td><td>Sec 4H</td><td>Secretary</td></tr>
+<tr><td>Kwong Tschi-Xuan, Kayla</td><td>Sec 4C</td><td>Resource Manager</td></tr>
+<tr><td>Tan Yu Tong</td><td>Sec 4J</td><td>Welfare Manager</td></tr>
+<tr><td>Charmaine Ng Kit Min</td><td>Sec 4G</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Crystal Moe</td><td>Sec 4W</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Seah Jingyi Shuanne</td><td>Sec 4L</td><td>Sectional Leader (Alto 1)</td></tr>
+<tr><td>Zhu Mingqi</td><td>Sec 4L</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Yeo Caitlyn</td><td>Sec 3C</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Ooi Chien Wen</td><td>Sec 3C</td><td>Assistant Secretary</td></tr>
+<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 3P</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Eshley Zhang Yiting</td><td>Sec 3D</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Rachel Tiew</td><td>Sec 3G</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Scarlett Wan Ying</td><td>Sec 3J</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
 
