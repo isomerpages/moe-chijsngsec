@@ -74,13 +74,11 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>Limelight@Esplanade</b><br><br>SN Choir started the year with a public performance at one of the Limelight series at the Esplanade Concert, under our choir conductor, Ms Lim Ai Hooi.
-
 Our heartfelt thanks and appreciation for your presence at the concert.
-
-We are also grateful for the AV and technical support from school and the Limelight backstage crew and ushers for making the performance experience so authentic and meaningful to the girls. The students truly had a good time and will be enriched and touched in many ways by this performance opportunity.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
+We are also grateful for the AV and technical support from school and the Limelight backstage crew and ushers for making the performance experience so authentic and meaningful to the girls. The students truly had a good time and will be enriched and touched in many ways by this performance opportunity.<br><br>
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
 
@@ -99,9 +97,21 @@ We are also grateful for the AV and technical support from school and the Limeli
 <tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br>
 </td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
 </td></tr>
-
 	
-	</tbody></table>
+<tr><td style="width:50%"><b>TGIF Music Station</b><br><br>To SNChoir, we had an exciting experience performing to the public outdoors and live-streamed at the Singapore Chinese Cultural Centre for the TGIF Music Station. Many thanks to yes933 and the Cross Ratio Entertainment for this opportunity! It surely has been an enriching experience, creating wonderful dreams and memories for them.
+
+**Photos with courtesy from**<br>
+@singaporechineseculturalcentre, tag and hashtag the below, when posting.
+Tags: @crossratio @yes933 @8world.entlife @kkboxsg
+Hashtags: #周5音乐站 #TGIFMusicStation<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__13_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__14_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg">
+</td></tr>
+<tr><td style="width:50%"><b>VIA at Tan Tock Seng Art of Healing Programme</b><br><br>SNChoir performed at the lunchtime performance at TTSH bringing joy and comfort to visitors, patients and staff at the hospital.<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
+</td></tr>
+</tbody></table>
 
 
 #### **CCA Achievement**
