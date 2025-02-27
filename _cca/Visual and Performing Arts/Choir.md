@@ -9,7 +9,8 @@ variant: markdown
 
 #### **Choir**
 
-![Choir 230527](/images/06%20CCA/VPA%20Choir/choir%20230527.jpeg)
+
+![](/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg)
 
 CHIJ St. Nicholas Girls’ Secondary Choir consists of girls of ages ranging from 13 to 16 years old. The choristers take immense pride in representing their school in performances and competitions, singing an extensive choral repertoire ranging from traditional Asian folk songs, English madrigals to Eastern European songs. Our members are motivated and bonded by their passion for music and singing. To share their joy of singing, SN Choir has performed in many concerts, competitions and community events over the years.
 
@@ -24,7 +25,7 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <tr><th>Training / Meeting Venue</th>
 <td>AVA Room</td></tr>
 <tr><th>Training Day / Time</th>
-<td>From 2024, choir practices will be on Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
+<td>Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
 <td>Miss Lim Ai Hooi (Conductor)</td></tr>
 </tbody>
@@ -49,21 +50,21 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Shania Pan Rui Lin</td><td>Sec 3L/4L</td><td>President</td></tr>
-<tr><td>Koh Wan Ting</td><td>Sec 3P/4P</td><td>Vice President</td></tr>
-<tr><td>Chloe Wong Jing Ning</td><td>Sec 3H/4H</td><td>Secretary</td></tr>
-<tr><td>Kwong Tschi-Xuan, Kayla</td><td>Sec 3C/4C</td><td>Resource Manager</td></tr>
-<tr><td>Tan Yu Tong</td><td>Sec 3J/4J</td><td>Welfare Manager</td></tr>
-<tr><td>Charmaine Ng Kit Min</td><td>Sec 3G/4G</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Crystal Moe</td><td>Sec 3W/4W</td><td>Sectional Leader (Sop 2)</td></tr>
-<tr><td>Seah Jingyi Shuanne</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 1)</td></tr>
-<tr><td>Zhu Mingqi</td><td>Sec 3L/4L</td><td>Sectional Leader (Alto 2)</td></tr>
-<tr><td>Yeo Caitlyn</td><td>Sec 2D</td><td>Assistant Resource Manager</td></tr>
-<tr><td>Ooi Chien Wen</td><td>Sec 2C</td><td>Assistant Secretary</td></tr>
-<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 2P</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
-<tr><td>Eshley Zhang Yiting</td><td>Sec 2G</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
-<tr><td>Rachel Tiew</td><td>Sec 2C</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
-<tr><td>Scarlett Wan Ying</td><td>Sec 2D</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
+<tr><td> Ooi Chien Wen</td><td>Sec 4C</td><td>President</td></tr>
+<tr><td>Rachel Tiew</td><td>Sec 4G</td><td>Vice President</td></tr>
+<tr><td>Natalie Tan Shi Qi</td><td>Sec 4J</td><td>Secretary</td></tr>
+<tr><td>Ella Phipatanasuphorn</td><td>Sec 4P</td><td>Resource Manager</td></tr>
+<tr><td>Scarlett Wan Ying</td><td>Sec 4J</td><td>Welfare Manager</td></tr>
+<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 4G</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Chin Rue Xing</td><td>Sec 4C</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Lai Qian Rong</td><td>Sec 4W</td><td>Sectional Leader (Alto 1)</td></tr>
+	<tr><td>Charisse Chua Xin Yi</td><td>Sec 3L</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Chan Qinn Ann</td><td>Sec 3G</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Chan Yin Kay</td><td>Sec 3W</td><td>Assistant Secretary</td></tr>
+<tr><td>Tara Chua Kai Ting</td><td>Sec 3L</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Tuang Ruihan</td><td>Sec 3P</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Tan Qi Xuan, Estee</td><td>Sec 3P</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Woo Zhi-Rui Emma</td><td>Sec 3W</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
 
@@ -72,30 +73,46 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>SYF Arts Presentation 2023</b><br><br>SN Choir was awarded the Certificate of Distinction. We are thankful to all who supported us throughout from the preparation to the actual day of competition. With grit and determination, the students together with our choir conductor, Ms Lim Ai Hooi presented a wonderful performance during the competition!</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture2.jpg"></td></tr>
+<tr><td style="width:50%"><b>Limelight@Esplanade</b><br><br>SN Choir started the year with a public performance at one of the Limelight series at the Esplanade Concert, under our choir conductor, Ms Lim Ai Hooi.
+Our heartfelt thanks and appreciation for your presence at the concert.
+We are also grateful for the AV and technical support from school and the Limelight backstage crew and ushers for making the performance experience so authentic and meaningful to the girls. The students truly had a good time and will be enriched and touched in many ways by this performance opportunity.<br><br>
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Choir Workshop with Mr André van der Merwe</b><br><br>Mr André van der Merwe is a conductor and composer from Cape Town, South Africa. His choirs won many awards gobally. With his exuberant personality, Mr André has shared on singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and benefitted much from the workshop.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture3.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr TJ Harper R is an Associate Professor of Music, Director of Choral Activities, and Chair of the Department of Music at Loyola Marymount University in Los Angeles, CA. With his cheerful personality, Dr Harper taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__8_.jpg"><br></td></tr>
 
-<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br><br><img src="/images/06%20CCA/VPA%20Choir/Picture5.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture4.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture6.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture7.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture8.jpg"></td></tr>
+<tr><td style="width:50%"><b>J 170 Anniversary Combined Choir at the National Stadium</b><br><br>SN Choir joined the other IJ school choirs at the IJ 170 Anniversary. It was a memorable and exciting occasion to praise God and be a part of the IJ family!</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__1_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
+</td></tr>
 
-<tr><td style="width:50%"><b>90th Anniversary AA Concert at EJC</b><br><br>SN Choir participated at the concert for the Alumnae. It was an exciting occasion to see the many generations of the SNG family!<br>
-</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>Jubilate 15</b><br><br>The choir girls truly had a good time performing 我们这一班 , singing their hearts out at our Jubilate 15 in the school hall!<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__10_.jpg">
+		<img src="/images/06%20CCA/VPA%20Choir/PictureA__11_.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Choir Exchange at SNG and NYGH</b><br><br>The 2-day exchange was a gathering of 3 girls’ choirs, namely St. Nicholas, Tanjong Katong Girls’ School and Nanyang Girls’ High School. We had the privilege to host the exchange on the first day, where the students learn how to be a good host and gain organisational skills. <br><br>The students from the 3 schools perform, observe, listen and learn together. The students make friends and had fun in the activities. The exchange climaxed to a performance at the NYGH auditorium where parents were invited to watch their daughters perform. All in all, the exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture10.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture17.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture11.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture12.jpg"></td>
+<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
+</td></tr>
+	
+<tr><td style="width:50%"><b>TGIF Music Station</b><br><br>To SNChoir, we had an exciting experience performing to the public outdoors and live-streamed at the Singapore Chinese Cultural Centre for the TGIF Music Station. Many thanks to yes933 and the Cross Ratio Entertainment for this opportunity! It surely has been an enriching experience, creating wonderful dreams and memories for them.
 
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture13.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture14.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture15.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture16.jpg"></td></tr>
+**Photos with courtesy from**<br>
+@singaporechineseculturalcentre, tag and hashtag the below, when posting.
+Tags: @crossratio @yes933 @8world.entlife @kkboxsg
+Hashtags: #周5音乐站 #TGIFMusicStation<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__13_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__14_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg">
+</td></tr>
+<tr><td style="width:50%"><b>VIA at Tan Tock Seng Art of Healing Programme</b><br><br>SNChoir performed at the lunchtime performance at TTSH bringing joy and comfort to visitors, patients and staff at the hospital.<br>	
+<img src="/images/06%20CCA/VPA%20Choir/PictureA__16_.jpg">
+</td><td><br><img src="/images/06%20CCA/VPA%20Choir/PictureA__17_.jpg">
+		<img src="/images/06%20CCA/VPA%20Choir/PictureA__18_.jpg">
+</td></tr>
 </tbody></table>
 
 
@@ -104,7 +121,9 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Distinction     |
+| Performed at TGIF Music Station organized by the Singapore Chinese Cultural Centre, Yes933 and Cross Ratio Entertainment |
+| Performed at Limelight@Esplanade Concert |
+| Singapore Youth Festival 2023     | Secondary School     | Distinction     |
 | Singapore Youth Festival 2019     | Secondary School     | Distinction     |
 | Singapore Youth Festival 2017     | Secondary School     | Distinction     |
 | Singapore International Chinese Choral Festival     | Secondary School     | Gold Award     |
