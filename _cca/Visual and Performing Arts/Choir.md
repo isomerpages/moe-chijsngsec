@@ -109,7 +109,7 @@ Hashtags: #周5音乐站 #TGIFMusicStation<br>
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg">
 </td></tr>
 <tr><td style="width:50%"><b>VIA at Tan Tock Seng Art of Healing Programme</b><br><br>SNChoir performed at the lunchtime performance at TTSH bringing joy and comfort to visitors, patients and staff at the hospital.<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__16_.jpg">
 </td></tr>
 </tbody></table>
 
