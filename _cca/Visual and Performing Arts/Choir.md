@@ -92,19 +92,16 @@ We are also grateful for the AV and technical support from school and the Limeli
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
 </td></tr>
 
-<tr><td style="width:50%"><b>90th Anniversary AA Concert at EJC</b><br><br>SN Choir participated at the concert for the Alumnae. It was an exciting occasion to see the many generations of the SNG family!<br>
-</td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>Jubilate 15</b><br><br>The choir girls truly had a good time performing 我们这一班 , singing their hearts out at our Jubilate 15 in the school hall!<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__10_.jpg">
+		<img src="/images/06%20CCA/VPA%20Choir/PictureA__11_.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Choir Exchange at SNG and NYGH</b><br><br>The 2-day exchange was a gathering of 3 girls’ choirs, namely St. Nicholas, Tanjong Katong Girls’ School and Nanyang Girls’ High School. We had the privilege to host the exchange on the first day, where the students learn how to be a good host and gain organisational skills. <br><br>The students from the 3 schools perform, observe, listen and learn together. The students make friends and had fun in the activities. The exchange climaxed to a performance at the NYGH auditorium where parents were invited to watch their daughters perform. All in all, the exchange allowed our students to grow, make mistakes, affirm their strengths, cheer and support each other.<br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture10.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture17.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture11.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture12.jpg"></td>
+<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
+</td></tr>
 
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture13.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture14.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture15.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture16.jpg"></td></tr>
-</tbody></table>
+	
+	</tbody></table>
 
 
 #### **CCA Achievement**
