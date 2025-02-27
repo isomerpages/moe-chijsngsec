@@ -121,6 +121,8 @@ Hashtags: #周5音乐站 #TGIFMusicStation<br>
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Performed at TGIF Music Station organized by the Singapore Chinese Cultural Centre, Yes933 and Cross Ratio Entertainment |
+| Performed at Limelight@Esplanade Concert |
 | 2023 Singapore Youth Festival<br>Arts Presentation     | Secondary School     | Certificate of Distinction     |
 | Singapore Youth Festival 2019     | Secondary School     | Distinction     |
 | Singapore Youth Festival 2017     | Secondary School     | Distinction     |
