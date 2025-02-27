@@ -84,14 +84,13 @@ We are also grateful for the AV and technical support from school and the Limeli
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Choir Workshop with Mr André van der Merwe</b><br><br>Mr André van der Merwe is a conductor and composer from Cape Town, South Africa. His choirs won many awards gobally. With his exuberant personality, Mr André has shared on singing techniques and expressions. The choir students enjoyed and learnt new ways to express themselves and benefitted much from the workshop.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture3.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr TJ Harper R is an Associate Professor of Music, Director of Choral Activities, and Chair of the Department of Music at Loyola Marymount University in Los Angeles, CA. With his cheerful personality, Dr Harper taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__8_.jpg"><br></td></tr>
 
-<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br><br><img src="/images/06%20CCA/VPA%20Choir/Picture5.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture4.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Choir/Picture6.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture7.jpg"><br>
-<img src="/images/06%20CCA/VPA%20Choir/Picture8.jpg"></td></tr>
+<tr><td style="width:50%"><b>J 170 Anniversary Combined Choir at the National Stadium</b><br><br>SN Choir joined the other IJ school choirs at the IJ 170 Anniversary. It was a memorable and exciting occasion to praise God and be a part of the IJ family!</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__1_.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
+</td></tr>
 
 <tr><td style="width:50%"><b>90th Anniversary AA Concert at EJC</b><br><br>SN Choir participated at the concert for the Alumnae. It was an exciting occasion to see the many generations of the SNG family!<br>
 </td><td><img src="/images/06%20CCA/VPA%20Choir/Picture9.jpg"><br></td></tr>
