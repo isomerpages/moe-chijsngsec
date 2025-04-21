@@ -13,9 +13,9 @@ variant: tiptap
 <br>2025 Sale Date
 <br>Jan: 02, 13
 <br>Feb 17
-<br>Mar 03, 24
+<br>Mar 10, 24
 <br>Apr 07, 21
-<br>May 05, 19
+<br>May 06 (Tue), 19
 <br>
 <br>Jul 07, 21
 <br>Aug 04, 18
