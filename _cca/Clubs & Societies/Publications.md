@@ -55,9 +55,9 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 <td><img src="/images/06%20CCA/CS%20Publications/picture7(d).jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture2.jpg"></td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture3.jpg"></td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture3.jpg"></td></tr>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture2.jpg">
+<img src="/images/06%20CCA/CS%20Publications/Picture3.jpg">
+<img src="/images/06%20CCA/CS%20Publications/Picture4.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>This year, our Secondary 3 students took on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like Chinese New Year and National Day, honing their skills in concise and impactful writing. This initiative not only enriched their learning experience but also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
 <td><img src="/images/06%20CCA/CS%20Publications/Picture11.jpg">
