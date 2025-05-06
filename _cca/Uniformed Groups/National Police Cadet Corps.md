@@ -9,17 +9,17 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/06%20CCA/UG%20NPCC/NPCC.jpeg" style="width:100%">
+<img src="/images/06%20CCA/UG%20NPCC/Picture1.jpg" style="width:100%">
 
-Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
+Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventure in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Sec Parade Square<br>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
 <tr><th>Training Day / Time</th><td>Friday: 4:00 pm - 6:30 pm<br>Saturday: 8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br>* Once a month, in place of weekday's training sessions</td></tr>
-<tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td></tr>
+<tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia<br>Miss Chin Xin Xuan, Gwen<br>Miss Chung Min Yee, Claire</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
