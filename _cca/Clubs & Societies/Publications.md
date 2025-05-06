@@ -9,14 +9,12 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/06%20CCA/CS%20Publications/Picture12.jpg" style="width:50%">
+<img src="/images/06%20CCA/CS%20Publications/Picture1.jpg" style="width:50%">
 
-At SN Publications, our passion for writing comes alive, inviting readers to experience stories that resonate. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
+At SN Publications, **_writing meets passion_**! We invite readers to experience stories that resonate with them and capture slices of student life in St Nicks. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
 <br>Our club fosters a welcoming environment where members gather to share their love for writing and enjoy each other’s company. Focused on creative expression and teamwork, we aim to inspire all our writers to explore and develop their unique talents.
-<br>Beyond creative writing, our members delve into journalism by interviewing, gathering stories, and producing videos. One highlight this year was our Teachers’ Day interview video, created in collaboration with the Student Council EXCO, capturing meaningful conversations with staff and students alike.
-In 2024, our team also began writing captions for the school’s Instagram page, covering school events and offering a platform for students' voices to be heard.
-<br>At SN Publications, we’re not just about competitions and journalism; we also celebrate the friendships that form along the way.
-Together, as a team of dedicated writers, we remain committed to crafting stories that inspire and connect with our readers.
+<br>Beyond creative writing, our members delve into journalism by interviewing members of the school community, gathering stories, and producing videos. One highlight this year has been our _After School Stories_ series where we capture meaningful exchanges with staff and students alike. Our series kicked off with a feature on our Principal, Ms Tan who shared with us many of her insights. In 2024, our team also began writing captions for the school’s Instagram page as a channel for students’ voices to be heard by covering various school events.
+<br>Beyond our journalistic pursuit, we also celebrate the long lasting friendships we form along the way. Together, as a team of dedicated writers, we remain committed to crafting stories that inspire and connect with our readers
 
 #### **CCA Information**
 
@@ -34,7 +32,7 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <tr><td><b>Mr Victor Francis</b><br>Mrs Uma Jacobs<br>Ms Phua Meow Noi</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (current year)**
+#### **Student Executive Committee (2025)**
 
 <table style="width:100%">
 <tbody>
@@ -43,8 +41,8 @@ Together, as a team of dedicated writers, we remain committed to crafting storie
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ng Xanafee</td><td>Sec 3U</td><td>President</td></tr>
-<tr><td>Lim Rui Xin Nicole</td><td>Sec 3L</td><td>Vice President</td></tr>
+<tr><td>Hannah Li-Wen De Lang-Ho</td><td>Sec 3C</td><td>President</td></tr>
+<tr><td>Darissa Ong</td><td>Sec 3L</td><td>Vice President</td></tr>
 </tbody></table>
 
 
