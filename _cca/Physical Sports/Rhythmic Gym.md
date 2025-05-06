@@ -53,15 +53,15 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>FIG gymnast</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture2.png"></td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture2.jpg"></td>
 
-</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 5 gymnasts</td>
+</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 group event</td>
 <td><img src="/images/06%20CCA/PS%20RGym/Picture3.jpg"></td>
 	
-</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 gymnasts</td>
+</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 5 gymnasts</td>
 <td><img src="/images/06%20CCA/PS%20RGym/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Sports Camp 2023</b><br><br>Bonding Games</td>
+<tr><td style="width:50%"><b>Sports Camp 2024</b><br><br>Bonding Games</td>
 <td><img src="/images/06%20CCA/PS%20RGym/Picture5.jpg"></td></tr>	
 
 </tbody></table>
@@ -71,6 +71,6 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| National Inter-school Competition 2025   | 'C' Division<br>'B' Division     | Champion<br>Champion     |
 | National Inter-school Competition 2024   | 'C' Division<br>'B' Division     | Second<br>Champion     |
 | National Inter-School Competition 2023     | 'C' Division<br>'B' Division     |Champion<br>Champion     |
-| National Inter-School Competition 2022     | 'C' Division<br>'B' Division      | Second<br>Second   |
