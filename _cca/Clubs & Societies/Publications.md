@@ -59,11 +59,12 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 <img src="/images/06%20CCA/CS%20Publications/Picture3.jpg">
 <img src="/images/06%20CCA/CS%20Publications/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Writing school’s Instagram posts’ captions</b><br><br>This year, our Secondary 3 students took on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like Chinese New Year and National Day, honing their skills in concise and impactful writing. This initiative not only enriched their learning experience but also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture11.jpg">
+<tr><td style="width:50%"><b>Social Media Engagement</b><br><br>Since last year, our students have taken&nbsp; on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like this year’s Community Engagement at the An-Nahdhah Mosque during Ramadan and Total Defence Day Celebrations, honing their skills in concise and impactful writing. This initiative has not only enriched their learning experience but has also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture5.jpg">
 	
 </td></tr><tr><td style="width:50%"><b>Competitions</b><br><br>Our students actively participate in prestigious competitions such as the Queen’s Commonwealth Essay Competition and The Media Challenge. These opportunities encourage innovative thinking and help sharpen their writing abilities and media literacy skills, fostering critical engagement with global issues.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture9.jpg"></td></tr>
+<td><img src="/images/06%20CCA/CS%20Publications/Picture6.jpg">
+<img src="/images/06%20CCA/CS%20Publications/Picture7.jpg"></td></tr>
 
 </tbody></table>
 
