@@ -155,10 +155,10 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 --------------
 <table style="width:100%">
  <tbody>
-<tr><td style="width:40%"><b>Singapore Youth Festival Arts Presentation for Instrumental Ensembles</b><br><br>In the Singapore Youth Festival Arts Presentation 2023, we presented Serenade for Strings in E minor and Pantomime. SO is proud to be awarded the Certificate of Distinction.</td>
+<tr><td style="width:40%"><b>Singapore Youth Festival Arts Presentation for Instrumental Ensembles</b><br><br>In the Singapore Youth Festival Arts Presentation 2025, we presented Serenade for Strings and Simple Symphony. SO is proud to be awarded the Certificate of Distinction.</td>
 <td><img src="/images/06%20CCA/VPA%20String%20Orchestra/Picture14.jpg"></td></tr>
 
-<tr><td style="width:40%"><b>SNSO Year End Concert – <i>Senzationale</i></b><br><br>In our annual student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with classical pieces such as the Vivaldi’s ‘Four Seasons’ and Osborne’s ‘Suite and Light’, as well as light-hearted pieces such as the Super Mario medley.</td>
+<tr><td style="width:40%"><b>SNSO Year End Concert – <i>Senzationale</i></b><br><br>In our student-run concert, both our training and main orchestras had the opportunity to take the audience on a journey through time with classical pieces such as the Vivaldi’s ‘Four Seasons’ and Osborne’s ‘Suite and Light’, as well as light-hearted pieces such as the Super Mario medley.</td>
 <td><img src="/images/06%20CCA/VPA%20String%20Orchestra/picture15.jpg"></td></tr>
 	 
 <tr><td style="width:40%"><b> String Orchestra School Exchange</b>
@@ -179,5 +179,5 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| 2023 Singapore Youth Festival<br>Arts Presentation     | -    | Certificate of Distinction     |
+| Singapore Youth Festival 2025 Arts Presentation for Instrumental Ensembles| -    | Certificate of Distinction     |
 | 4th Singapore Raffles International Music Festival (SRIMF) Competition     | -     | Gold with Honours     |
