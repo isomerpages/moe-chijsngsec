@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Rhythmic Gym**
 
-<img src="/images/06%20CCA/PS%20RGym/Picture1.png" style="width:100%">
+<img src="/images/06%20CCA/PS%20RGym/Picture1.jpg" style="width:100%">
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
@@ -20,7 +20,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>School Gymnasium</td></tr>
-<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>Saturday : 08.30 am - 11.30 am* <br>*Only during National School Games Season (Mar - Apr)</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>*Sat : 8.30 am - 11.30 am <br>*Competition Season</td></tr>
 <tr><th>Coaches</th><td>Ms Cherrie Kwek<br>Ms Robbie Kyler Tay<br>刘老师</td></tr>
 </tbody></table>
 
@@ -44,6 +44,8 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <tr><td>Sarah Chong Xuan Ling</td><td>Sec 4J</td><td>Vice-Captain</td></tr>
 <tr><td>Eleisha Goh Wen Min</td><td>Sec 3</td><td>Lower Secondary Coordinator</td></tr>
 <tr><td>Teo Shaoen Jazzelle</td><td>Sec 4T</td><td>Sports Leader</td></tr>
+<tr><td>Natalie Claire Lim</td><td>Sec 3T</td><td>Sports Leader</td></tr>
+<tr><td>Sarah Lily Tan Yi En</td><td>Sec 3G</td><td>Sports Leader</td></tr>	
 </tbody></table>
 
 #### **CCA Highlights**
