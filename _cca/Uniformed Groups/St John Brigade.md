@@ -33,7 +33,7 @@ To be courteous and honest in all my words and actions</i>
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>St John Nursing Room<br>Sec Parade Square<br>Classroom 3P (S3-L2-02)</td></tr>
+<tr><th>Training / Meeting Venue</th><td>St John Room<br>Parade Square<br>Classrooms 3P</td></tr>
 <tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
 <tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
 </tbody></table>
@@ -44,7 +44,7 @@ To be courteous and honest in all my words and actions</i>
 <tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024-2025)**
 
 <table style="width:100%">
 <tbody>
@@ -53,12 +53,12 @@ To be courteous and honest in all my words and actions</i>
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Athena Peh</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
-<tr><td>Carol Chai Ke Rou</td><td>Sec 4P</td><td>Assistant-in-charge</td></tr>
-<tr><td>Chong Le Xuan</td><td>Sec 4H</td><td>Secretary</td></tr>
-<tr><td>Chen Si Yi</td><td>Sec 4U</td><td>CPBS (Head)</td></tr>
-<tr><td>Toh Kai Rong</td><td>Sec 4H</td><td>Discipline Mistress</td></tr>
-<tr><td>Neo Cze En</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Ding Yeng Ning</td><td>Sec 4L</td><td>Overall-in-charge</td></tr>
+<tr><td>Marie Lum</td><td>Sec 4L</td><td>Assistant-in-charge</td></tr>
+<tr><td>Sophie Toh</td><td>Sec 4C</td><td>Secretary</td></tr>
+<tr><td>Desiree Ng<br>Rachel Ong</td><td>Sec 4G<br>4L</td><td>CPBS (Head)</td></tr>
+<tr><td>Kenisha Ang</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
+<tr><td>Megan Ang</td><td>Sec 4F</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
