@@ -96,6 +96,8 @@ Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leader
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Unit Overall Proficiency Award 2024  | Secondary Schools     | Distinction    |
+| GOTC II Virtual Tournament 2024  | Secondary Schools     |  Team A: Gold<br>Team B: Bronze<br> Individual: Silver    |
 | NPCC Inter Unit Drills Competition 2024  | Secondary Schools     | Bronze    |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2024  | Secondary Schools     | Team 1 : 4th     |
 | N.E.mation! 2024  | Student Category     | Team Friends of the CUHmunity: <br> 2nd runner up and People’s Choice     |
