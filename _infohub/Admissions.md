@@ -64,12 +64,8 @@ website for details:
 <br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 <br>
 <br><strong>SNGS DSA-Sec Exercise</strong>
-<br>New! Please <a href="https://chijstnicholasgirls.moe.edu.sg/news-and-spotlight/spotlight/sngsdsa2023/" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-more information on DSA 2023.
-<br>
-<br><strong>St Nicks Open House</strong>
-<br>New! Please <a href="https://chijstnicholasgirls.moe.edu.sg/news-and-spotlight/spotlight/sn-open-house-2023/" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
-more information on St Nicks Open House.</p>
+<br>New! Please <a href="https://chijstnicholasgirls.moe.edu.sg/news-and-spotlight/spotlight/sngsdsa2025/" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+more information on DSA 2025.</p>
 </td>
 </tr>
 </tbody>
