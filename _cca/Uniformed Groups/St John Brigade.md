@@ -56,7 +56,7 @@ To be courteous and honest in all my words and actions</i>
 <tr><td>Ding Yeng Ning</td><td>Sec 4L</td><td>Overall-in-charge</td></tr>
 <tr><td>Marie Lum</td><td>Sec 4L</td><td>Assistant-in-charge</td></tr>
 <tr><td>Sophie Toh</td><td>Sec 4C</td><td>Secretary</td></tr>
-<tr><td>Desiree Ng<br>Rachel Ong</td><td>Sec 4G<br>4L</td><td>CPBS (Head)</td></tr>
+<tr><td>Desiree Ng<br>Rachel Ong</td><td>Sec 4G<br>Sec 4L</td><td>CPBS (Head)</td></tr>
 <tr><td>Kenisha Ang</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
 <tr><td>Megan Ang</td><td>Sec 4F</td><td>Quarter Mistress</td></tr>
 </tbody></table>
