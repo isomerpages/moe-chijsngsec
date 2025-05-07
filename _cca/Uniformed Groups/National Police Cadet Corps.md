@@ -30,7 +30,7 @@ Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leader
 <tr><th>Teacher Officers</th><td>Mr Chang Zheng<br>Ms Shen Lifeng</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -39,32 +39,32 @@ Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leader
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Rachel Seah Wei Xin</td>
-    <td>Sec 3F</td>
+    <td>Tham Jing Yun</td>
+    <td>Sec 3P</td>
     <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
-    <td>Judith Seow</td>
-    <td>Sec 3D</td>
+    <td>Sng Yew En Shevonne</td>
+    <td>Sec 3F</td>
     <td>Field Instructress</td>
   </tr>
   <tr>
-    <td>Inez Claire Ho Si Yi</td>
-		<td>Sec 3D<br>Sec 3W</td>
+    <td>Ng Ze Ting Brenda<br> Ng Jing Qi, Verilyn</td>
+		<td>Sec 3F<br>Sec 3G</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Yolanda Zhao Jingyao<br>Chervel Yeo Yi Hui</td>
-    <td>Sec 3P<br>Sec 3U</td>
+    <td>Li Zi'en, Janelle<br>Jovana Huang</td>
+    <td>Sec 3C<br>Sec 3L</td>
     <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>See Sharmaine (Xu Shimin)<br>Yong Zi Xian Lorraine</td>
-    <td>Sec 3H<br>Sec 3U</td>
+    <td>Chen Jing Xi<br>Shannon Wong Yi Shyan</td>
+    <td>Sec 3L<br>Sec 3L</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Zoe Teo En Teng (Zhang Enting)<br>Boey Ting Xuan Cancis</td>
+    <td>Ho Wan Leum (He Wanlin), Isabelle<br>Lim Jia Ning Ashlyn</td>
     <td>Sec 3J<br>Sec 3U</td>
     <td>Sec 1 Squad-in-charge</td>
   </tr>
