@@ -90,5 +90,5 @@ To be courteous and honest in all my words and actions</i>
 | -------- | -------- | -------- |
 | Corps Achievement Award || Gold |
 | Chief Commissioner Badge||Caitlyn Chua Yee Xuan (4C)<br> Carol Chai Ke Rou (4P)<br>Chen Si Yi (4U)<br> Chloe Low Huiyi (4J)<br>Chong Le Xuan(4H)<br>Koh Xin Hui (4D)<br>Lim Jia Hui (4L)<br>Loh Zhi Ray(4F)<br>Neo Cze En (4D)<br>Ong Shi Xuan Caelyn(4C)<br> Peh Xue Ting Athena(4W)<br>Tan Xuan Ting (4J)<br> Tan Yu En(4C)<br>Toh Kai Rong (4H)<br> Touw Xuan Lin (4L)<br> Touw Xuan Rong (4W)<br> Yunn Nandy Tun (4L) |
-| District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place<br>3rd Place<br>2nd Place<br>3rd Place|
-| National First Aid &amp;<br>Home Nursing Competition|<b> Nursing Adult</b><br>Overall<br>Footdrill Category     | <br>3rd Place<br>1st Place     |
+| District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place, Best in Home Nursing<br>2nd Place<br>2nd Place, Best in First Aid<br>Best in Footdrill|
+| National First Aid &amp;<br>Home Nursing Competition (2025)|<b> TBA</b>| <b>TBA</b>    |
