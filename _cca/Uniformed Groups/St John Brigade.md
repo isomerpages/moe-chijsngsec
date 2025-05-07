@@ -10,7 +10,7 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/picture1a.jpg" style="width:75%">
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
@@ -33,7 +33,7 @@ To be courteous and honest in all my words and actions</i>
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>St John Nursing Room<br>Sec Parade Square<br>Classroom 3P (S3-L2-02)</td></tr>
+<tr><th>Training / Meeting Venue</th><td>St John Room<br>Parade Square<br>Classrooms 3P</td></tr>
 <tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
 <tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
 </tbody></table>
@@ -44,7 +44,7 @@ To be courteous and honest in all my words and actions</i>
 <tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023-2024)**
+#### **Student Executive Committee (2024-2025)**
 
 <table style="width:100%">
 <tbody>
@@ -53,12 +53,12 @@ To be courteous and honest in all my words and actions</i>
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Athena Peh</td><td>Sec 4W</td><td>Overall-in-charge</td></tr>
-<tr><td>Carol Chai Ke Rou</td><td>Sec 4P</td><td>Assistant-in-charge</td></tr>
-<tr><td>Chong Le Xuan</td><td>Sec 4H</td><td>Secretary</td></tr>
-<tr><td>Chen Si Yi</td><td>Sec 4U</td><td>CPBS (Head)</td></tr>
-<tr><td>Toh Kai Rong</td><td>Sec 4H</td><td>Discipline Mistress</td></tr>
-<tr><td>Neo Cze En</td><td>Sec 4D</td><td>Quarter Mistress</td></tr>
+<tr><td>Ding Yeng Ning</td><td>Sec 4L</td><td>Overall-in-charge</td></tr>
+<tr><td>Marie Lum</td><td>Sec 4L</td><td>Assistant-in-charge</td></tr>
+<tr><td>Sophie Toh</td><td>Sec 4C</td><td>Secretary</td></tr>
+<tr><td>Desiree Ng<br>Rachel Ong</td><td>Sec 4G<br>Sec 4L</td><td>CPBS (Head)</td></tr>
+<tr><td>Kenisha Ang</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
+<tr><td>Megan Ang</td><td>Sec 4F</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
@@ -70,7 +70,7 @@ To be courteous and honest in all my words and actions</i>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
 <tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>Our cadets performed well in 2023. At the District level, our Nursing Adult team were crowned District champions and went on to clinch Overall 3rd place at the National level.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB4.jpeg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.<br><br>Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
@@ -89,6 +89,6 @@ To be courteous and honest in all my words and actions</i>
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Corps Achievement Award || Gold |
-| Chief Commissioner Badge||Natalie Lim Rui Si (4 Diligence)<br>Leah Tan Rui En (4 Diligence)<br>Sophie Fong Shih-Ann (4 Diligence)<br>Lee Yu Wei (4 Faith)<br>Charlotte Elena Tan Xuan Ning (4 Hope)<br>Wong Ein Yeu (4 Hope)<br>Chloe Sin Kaye (4 Purity)<br>He Le (4 Purity)<br>Koh Jing Si (4 Purity)<br>Yee Yi Xin Kristen (4 Purity)<br>Oh Jing Xin (4 Unity)<br>Ow Yang Ying Jie (4 Unity)<br>Ng Yu Le (4 Wisdom) |
-| District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place<br>3rd Place<br>2nd Place<br>3rd Place|
-| National First Aid &amp;<br>Home Nursing Competition|<b> Nursing Adult</b><br>Overall<br>Footdrill Category     | <br>3rd Place<br>1st Place     |
+| Chief Commissioner Badge||Caitlyn Chua Yee Xuan (4C)<br> Carol Chai Ke Rou (4P)<br>Chen Si Yi (4U)<br> Chloe Low Huiyi (4J)<br>Chong Le Xuan(4H)<br>Koh Xin Hui (4D)<br>Lim Jia Hui (4L)<br>Loh Zhi Ray(4F)<br>Neo Cze En (4D)<br>Ong Shi Xuan Caelyn(4C)<br> Peh Xue Ting Athena(4W)<br>Tan Xuan Ting (4J)<br> Tan Yu En(4C)<br>Toh Kai Rong (4H)<br> Touw Xuan Lin (4L)<br> Touw Xuan Rong (4W)<br> Yunn Nandy Tun (4L) |
+| District First Aid &amp;<br>Home Nursing Competition|<b>Overall Placing:</b><br> Nursing Adult Team 1<br>Nursing Adult Team 2<br>Nursing Cadet Team 1<br>Nursing Cadet Team 2     |<br> 1st Place, Best in Home Nursing<br>2nd Place<br>2nd Place, Best in First Aid<br>Best in Footdrill|
+| National First Aid &amp;<br>Home Nursing Competition (2025)|<b> TBA</b>| <b>TBA</b>    |

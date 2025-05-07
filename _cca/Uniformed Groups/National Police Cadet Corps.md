@@ -9,17 +9,17 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/06%20CCA/UG%20NPCC/NPCC.jpeg" style="width:100%">
+<img src="/images/06%20CCA/UG%20NPCC/Picture1.jpg" style="width:100%">
 
-Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventures in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
+Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventure in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Sec Parade Square<br>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
 <tr><th>Training Day / Time</th><td>Friday: 4:00 pm - 6:30 pm<br>Saturday: 8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br>* Once a month, in place of weekday's training sessions</td></tr>
-<tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lui Ting Mun, Sharlyn <br>Miss Faustina Anne Francisco<br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia</td></tr>
+<tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Ng Min Hui<br>Miss Savannah Chan<br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zheng @ Sophia<br>Miss Chin Xin Xuan, Gwen<br>Miss Chung Min Yee, Claire</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -30,7 +30,7 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 <tr><th>Teacher Officers</th><td>Mr Chang Zheng<br>Ms Shen Lifeng</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -39,32 +39,32 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Rachel Seah Wei Xin</td>
-    <td>Sec 3F</td>
+    <td>Tham Jing Yun</td>
+    <td>Sec 3P</td>
     <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
-    <td>Judith Seow</td>
-    <td>Sec 3D</td>
+    <td>Sng Yew En Shevonne</td>
+    <td>Sec 3F</td>
     <td>Field Instructress</td>
   </tr>
   <tr>
-    <td>Inez Claire Ho Si Yi</td>
-		<td>Sec 3D<br>Sec 3W</td>
+    <td>Ng Ze Ting Brenda<br> Ng Jing Qi, Verilyn</td>
+		<td>Sec 3F<br>Sec 3G</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Yolanda Zhao Jingyao<br>Chervel Yeo Yi Hui</td>
-    <td>Sec 3P<br>Sec 3U</td>
+    <td>Li Zi'en, Janelle<br>Jovana Huang</td>
+    <td>Sec 3C<br>Sec 3L</td>
     <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>See Sharmaine (Xu Shimin)<br>Yong Zi Xian Lorraine</td>
-    <td>Sec 3H<br>Sec 3U</td>
+    <td>Chen Jing Xi<br>Shannon Wong Yi Shyan</td>
+    <td>Sec 3L<br>Sec 3L</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Zoe Teo En Teng (Zhang Enting)<br>Boey Ting Xuan Cancis</td>
+    <td>Ho Wan Leum (He Wanlin), Isabelle<br>Lim Jia Ning Ashlyn</td>
     <td>Sec 3J<br>Sec 3U</td>
     <td>Sec 1 Squad-in-charge</td>
   </tr>
@@ -96,6 +96,8 @@ Our school's National Police Cadet Corps (NPCC) unit seeks to inculcate leadersh
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Unit Overall Proficiency Award 2024  | Secondary Schools     | Distinction    |
+| GOTC II Virtual Tournament 2024  | Secondary Schools     |  Team A: Gold<br>Team B: Bronze<br> Individual: Silver    |
 | NPCC Inter Unit Drills Competition 2024  | Secondary Schools     | Bronze    |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2024  | Secondary Schools     | Team 1 : 4th     |
 | N.E.mation! 2024  | Student Category     | Team Friends of the CUHmunity: <br> 2nd runner up and People’s Choice     |
