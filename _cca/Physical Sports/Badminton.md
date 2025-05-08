@@ -67,7 +67,9 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games  | 2024 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals     |
-| National School Games    | 2024 'C' Division     | National League One Champions    |
-|  National School Games     | 2023 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals    |
-| National School Games | 2023 'C' Division     | 1st Runner up in North Zone<br>Top 16 in Nationals     |
+| NSG North Zone Table Tennis<br>Championships 2025 (League 1) | C Division | 2nd Runner-up |
+| NSG North Zone Table Tennis<br>Championships 2025 | B Division | Top 8 |
+| NSG North Zone Table Tennis<br>Championships 2025 | B Division | Team Champion |
+| NSG North Zone Table Tennis<br>Championships 2024 (League 1) | C Division | 3rd Runner-up |
+| NSG North Zone Table Tennis<br>Championships 2024 | B Division | Top 16 |
+| NSG North Zone Table Tennis<br>Championships 2024 | B Division | Team Champion |
