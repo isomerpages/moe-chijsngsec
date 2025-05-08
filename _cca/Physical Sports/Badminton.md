@@ -10,14 +10,15 @@ variant: markdown
 #### **Badminton**
 
 <img src="/images/06%20CCA/PS%20Badminton/Picture34.jpg">
-<br>Our Badminton CCA seeks to inculcate discipline, preservence, determination, sportsmanship and passion for the sport in its students. Through rigorous trainings, students are encouraged to strive for excellence and put in their best effort, fostering a growth mindset as well as continuous improvement in the sport. By instilling these values, our CCA aims to cultivate one’s values and mindsets. Achieving success both on and off court.
+
+<br> Our Badminton CCA seeks to inculcate discipline, preservence, determination, sportsmanship and passion for the sport in its students. Through rigorous trainings, students are encouraged to strive for excellence and put in their best effort, fostering a growth mindset as well as continuous improvement in the sport. By instilling these values, our CCA aims to cultivate one’s values and mindsets. Achieving success both on and off court.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td> Mon - School Hall <br>Wed &amp; Fri - Sec ISH</td></tr>
-<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.00 pm<br>Wednesday : 3.45pm - 6.30pm<br>Friday : 4.00pm - 6.30pm</td></tr>
+<tr><th>Training / Meeting Venue</th><td> Indoor Sports Hall (Secondary) or School Hall</td></tr>
+<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.30 pm <br> Wednesday : 3.45 pm - 6.30 pm<br>Friday : 4.00pm - 6.30pm</td></tr>
 <tr><th>Instructors</th><td> 金教练</td></tr>
 </tbody></table>
 
@@ -67,7 +68,7 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games  | 2024 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals     |
-| National School Games    | 2024 'C' Division     | National League One Champions    |
-|  National School Games     | 2023 'B' Division     | 1st Runner up in North Zone<br>Top 8 in Nationals    |
-| National School Games | 2023 'C' Division     | 1st Runner up in North Zone<br>Top 16 in Nationals     |
+| National School Games | 2024 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
+| National School Games | 2024 C Div | National League One Champions |
+| National School Games | 2023 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
+| National School Games | 2023 C Div | 1st Runner up in North Zone, Top 16 in Nationals |
