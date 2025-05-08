@@ -25,8 +25,8 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>School Track/Field<br>School Fitness Gym<br>Bishan Park</td></tr>
-<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>Saturday : 8.00 - 11.00 am*<br>Venue: Bedok Reservoir<br> *(Jan-Mar for Mid-D/ X-Ctry only )</td></tr>
+<tr><th>Training / Meeting Venue</th><td>School 400m Track and Field</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>Saturday : 8.00 - 10.30 am*<br> *(Jan-Mar for Mid-D only )</td></tr>
 <tr><th>Coaches</th><td>Mr Remy Gan Chwee Chuan (Sprint &amp; Hurdles)<br>Ms Yu Long Nyu (Jumps)<br>Ms Wan Lay Chi (Throws)<br>Ms Susan Lim (Middle Distance)<br>Ms. Chua Khai Leng (Middle Distance)</td></tr>
 </tbody></table>
 
@@ -35,7 +35,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Kho Qi En Shermaine<br>Ms Audrey Chia<br>Mr Tan Chin Guan<br><br></td></tr>
+<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Kho Qi En Shermaine<br>Ms Chia Yan Qi Audrey<br>Mr Tan Chin Guan<br>Mr Kwan Hoi Soon<br></td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (current year)**
