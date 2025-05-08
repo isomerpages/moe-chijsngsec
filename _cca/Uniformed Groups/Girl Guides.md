@@ -24,8 +24,8 @@ To keep the Guide Law
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Parade Square / Field <br>4 Classroom (2F, 2G, 2J, spare classroom next to 4C)<br>*Guides HQ at Bishan or other venues</td></tr>
-<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>4:00 pm - 6:00 pm<br>*Saturdays - Some activities and competitions organised by HQ</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Parade Square / Field/ Classrooms/ Girls Guides Singapore HQ</td></tr>
+<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>4:00 pm - 6:00 pm<br></td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
@@ -36,17 +36,17 @@ To keep the Guide Law
 <tr><td><b>Ms Fadhilah Bte R. Harianto</b><br>Ms Tan Ann Nie<br>Ms Chen Yiqi<br>Mdm Xie Fuzhen</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024-2025)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Quek An Xuan</td><td>Sec 3C</td><td>Company Leader</td></tr>
-<tr><td>Phua Jia Ern Reinie</td><td>Sec 3J</td><td>Company Leader</td></tr>
-<tr><td>Ally Law Jing Ning</td><td>Sec 3L</td><td>Company Leader</td></tr>
-<tr><td>Isabel Lee Jia Ying</td><td>Sec 3J</td><td>Assistant Company Leader</td></tr>
-<tr><td>Lim Tzu Yue</td><td>Sec3L</td><td>Assistant Company Leader</td></tr>
-<tr><td>Heng Rui En, Renelle (Wang Ruien)</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
+<tr><td>Lim Rui En</td><td>Sec 3C</td><td>Company Leader</td></tr>
+<tr><td>Aw Zhe Min Zara</td><td>Sec 3D</td><td>Company Leader</td></tr>
+<tr><td> Lee Yi Xuan Marien</td><td>Sec 3P</td><td>Company Leader</td></tr>
+<tr><td> Tiah Yu-Ann</td><td>Sec 3C</td><td>Assistant Company Leader</td></tr>
+<tr><td> Tiara Thng Jia En</td><td>Sec3D</td><td>Assistant Company Leader</td></tr>
+<tr><td> Kelly Bey Jia Ning</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
 </tbody></table>
 
 
@@ -93,9 +93,10 @@ On top of that, Guides are also able to attain different proficiency and interes
 
 | Competition | Level | Achievement / Recipients |
 | -------- | -------- | -------- |
+| Puan Noor Aishah Award 2024     | National     | Gold     | 
 | Puan Noor Aishah Award 2023     | National     | Gold     | 
-|Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (3 Grace)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)<br>Glory Faith Wong Si Syun (4 Faith)<br>Goh Claudia (4 Justice)<br>Janessa Quek Ke Xuan (4 Justice)<br>Ng Tze Hwee (4 Loyalty)<br>Mak Hor Yan, Zoe (4 Purity)|
-| North Division Day:<br>Board Game Design Competition    | Division     |<b>Merit </b><br>Faith Jaylene Cheong Huai Yin (3 Grace)<br>Chang Yu-Han Janis (3 Hope)<br>Christine Grace Sofyan (3 Justice)<br>Joylene Linggajaya (3 Purity)     |
-| North Division Day:<br>Division Day: North Div Got Talent     | Division     | <b>2nd Place</b><br>Quek An Xuan (3 Charity)<br>Sierra Teo Rui Fen (3 Charity)<br>Wang Zixi (3 Charity)<br>Shannon Soh Hwee Ying (3 Faith)<br>Sophie Tan Zi Ning (3 Unity)|
+|Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (4 Grace)<br>Christine Grace Sofyan (4 Justice)<br>Joylene Linggajaya (4 Purity)|
+| North Division Fest 2025 <br>Poster Competition    | Division     |<b>Merit </b><br> Tiah Yu-Ann (3 Charity)<br> Aw Zhe Min Zara (3 Diligence)<br> Lim Jie Xi (3 Faith)<br> Ng Hui Yun (3 Grace)     |
+| North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
 | North Division Day:<br>Innovative Ideas     | North Division     | <b>1st Place</b><br>Gloria Liew Yu Xuan (3 Faith)<br>Inez Choo Yu En (3 Hope)<br>Karissa Tham Mun Sik (3 Hope)<br>Lim Shan Qi, Rebecca (3 Wisdom)     |
 | World Thinking Day Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom)     |
