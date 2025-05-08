@@ -48,27 +48,29 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 <table style="width:100%">
 <tbody>
+<tr><td style="width:50%"><b>National Inter-School Table Tennis Championships 2025 (League 1)</b><br>
+<br>C Division 2nd Runner-up</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture4A.jpg"></td></tr>	
+
+<tr><td style="width:50%"><b> North Zone Inter-School Table Tennis Championships 2025</b><br>
+<br>B Division Team Champion</td>
+<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture5A.jpg"></td></tr>		
+	
 <tr><td style="width:50%"><b>National Inter-School Table Tennis Championships 2024 (League 1)</b><br>
 <br>C Division 3rd Runner-up</td>
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture2.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2024</b><br><br>B Division Team Champion</td>
 <td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture4.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2023</b><br><br>B Division Team Champion<br>C Division Team 1st Runner-up</td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/Picture5.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>North Zone Inter-School Table Tennis Championships 2022<br></b><br>B Division Team Champion<br>C Division Team Champion</td>
-<td><img src="/images/06%20CCA/PS%20Table%20Tennis/TT2.jpeg"></td></tr>	
-
 </tbody></table>
 
 ##### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| NSG National <br>Table Tennis Championships 2025 (League 1) | C Division | 2nd Runner-up |
+| NSG National <br>Table Tennis Championships 2025 | B Division | Top 8 |
+| NSG North Zone<br>Table Tennis Championships 2025 | B Division | Team Champion |
 | NSG National <br>Table Tennis Championships 2024(League 1) | C Division | 3rd Runner-up |
 | NSG National <br>Table Tennis Championships 2024 | B Division | Top 16 |
 | NSG North Zone<br>Table Tennis Championships 2024 | B Division | Team Champion |
-| NSG National <br>Table Tennis Championships 2023 | C Division<br>B Division | Top 8<br>Top 8 |
-| NSG North Zone <br>Table Tennis Championships 2023 | C Division<br>B Division | 1st Runner-up<br>Team Champion |
