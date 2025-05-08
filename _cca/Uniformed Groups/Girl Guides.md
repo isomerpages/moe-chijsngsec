@@ -100,4 +100,5 @@ On top of that, Guides are also able to attain different proficiency and interes
 | North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
 | North Division Fest 2025<br>Cooking Competition     | Division     | <b>Merit</b><br> Guo Yuxuan Erica (2 Unity)<br> Phua Shi En Yvette (2 Wisdom)     |
 |North Division Fest 2025<br>Dream CCA Room Competition     | Division     | <b>1st Place</b><br> Chua Xing Rong Nicole (2 Diligence)<br> Khloe Tiow Shee Wen (2 Diligence)     |
-| World Thinking Day Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom)     |
+| World Thinking Day 2024<br>Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom) |
+|North Division Fest 2024<br> Board Game Design Competition| Division| <b>Merit</b><br> Faith Jaylene Cheong Huai Yin (3 Grace)<br> Chang Yu-Han Janis (3 Hope)<br>Christine Grace Sofyan (3 Justice)<br> Joylene Linggajaya (3 Purity)|
