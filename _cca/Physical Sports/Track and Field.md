@@ -60,16 +60,15 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>National School Games Track and Field Championships 2024</b><br><br>
-<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture4.jpg"><br></td>
-<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture3.jpg"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture2.jpg"><br>
+<tr><td style="width:50%"><b>National School Games Track and Field Championships 2025</b><br><br>
+</td><td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture5A.jpg"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture3A.jpg"><br><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture4A.jpg"><br>
 </td></tr>
 
 <tr><td style="width:50%"><b>National School Games Cross Country Championships 2024</b></td>
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture35.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>29th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2024</b></td>
-<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture6.jpg"></td></tr>
+<tr><td style="width:50%"><b>30th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2024</b></td>
+<td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture1A.jpg"></td></tr>
 	
 </tbody></table>
 
