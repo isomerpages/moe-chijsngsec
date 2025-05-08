@@ -77,7 +77,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School GamesTrack and Field Championships 2024 &nbsp; &nbsp; | 'B' Division<br>'C' Division &nbsp; &nbsp; | 3rd<br>1st |
+| National School Games<br>Track and Field Championships 2025 &nbsp; &nbsp; | 'B' Division<br>'C' Division &nbsp; &nbsp; | 2nd<br>1st |
+| National School Games<br>Track and Field Championships 2024     | 'B' Division <br>'C' Division     | 3rd<br>1st     |
 | National School Games Cross Country Championships 2024    | 'C' Division     | 3rd     |
-| National School Games<br>Track and Field Championships 2023     | 'B' Division<br>'C' Division     | 1st<br>3rd     |
 | National School Games<br>Cross Country Championships 2023     | 'B' Division<br>'C' Division     | 4th<br>2nd     |
