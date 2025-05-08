@@ -98,5 +98,6 @@ On top of that, Guides are also able to attain different proficiency and interes
 |Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (4 Grace)<br>Christine Grace Sofyan (4 Justice)<br>Joylene Linggajaya (4 Purity)|
 | North Division Fest 2025 <br>Poster Competition    | Division     |<b>Merit </b><br> Tiah Yu-Ann (3 Charity)<br> Aw Zhe Min Zara (3 Diligence)<br> Lim Jie Xi (3 Faith)<br> Ng Hui Yun (3 Grace)     |
 | North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
-| North Division Day:<br>Innovative Ideas     | North Division     | <b>1st Place</b><br>Gloria Liew Yu Xuan (3 Faith)<br>Inez Choo Yu En (3 Hope)<br>Karissa Tham Mun Sik (3 Hope)<br>Lim Shan Qi, Rebecca (3 Wisdom)     |
+| North Division Fest 2025<br>Cooking Competition     | Division     | <b>Merit</b><br> Guo Yuxuan Erica (2 Unity)<br> Phua Shi En Yvette (2 Wisdom)     |
+|North Division Fest 2025<br>Dream CCA Room Competition     | Division     | <b>Merit</b><br> Guo Yuxuan Erica (2 Unity)<br> Phua Shi En Yvette (2 Wisdom)     |
 | World Thinking Day Wide Games Competition  | National     | <b>3rd Place</b><br>Ally Law Jing Ning (3 Loyalty)<br>Deng Tin Chun (3 Loyalty)<br>Lim Tzu Yue (3 Loyalty)<br>Joylene Linggajaya (3 Purity)<br>Heng Rui En, Renelle (3 Wisdom)     |
