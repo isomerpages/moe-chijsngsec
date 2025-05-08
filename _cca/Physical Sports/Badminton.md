@@ -9,18 +9,17 @@ variant: markdown
 
 #### **Badminton**
 
-<img src="/images/06%20CCA/PS%20Badminton/Picture3A.jpg">
-<br>The St. Nicholas Girls' Table Tennis team (SNTT) has demonstrated remarkable success in inter-school competitions over recent years. Our team trained with commitment, even through holidays, to prepare for these events. With unwavering perseverance and spirit, they consistently showcased sportsmanship and determination, always putting in their best effort.
+<img src="/images/06%20CCA/PS%20Badminton/Picture34.jpg">
 
-In SNTT, members have a variety of opportunities to develop character and leadership skills. Through competitions, exchanges, and rigorous training, the team builds self-discipline, resilience, and confidence. Additional platforms, such as the annual sports camp and organizing VIA activities, further support their growth in leadership abilities.
+<br> Our Badminton CCA seeks to inculcate discipline, preservence, determination, sportsmanship and passion for the sport in its students. Through rigorous trainings, students are encouraged to strive for excellence and put in their best effort, fostering a growth mindset as well as continuous improvement in the sport. By instilling these values, our CCA aims to cultivate one’s values and mindsets. Achieving success both on and off court.
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td> Primary ISH</td></tr>
-<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday : 3.45 pm - 6.30 pm<br>Friday : 4.00pm - 6.30pm</td></tr>
-<tr><th>Instructors</th><td> Mr Tang Hua</td></tr>
+<tr><th>Training / Meeting Venue</th><td> Indoor Sports Hall (Secondary) or School Hall</td></tr>
+<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.30 pm <br> Wednesday : 3.45 pm - 6.30 pm<br>Friday : 4.00pm - 6.30pm</td></tr>
+<tr><th>Instructors</th><td> 金教练</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -69,9 +68,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| NSG North Zone Table Tennis<br>Championships 2025 (League 1) | C Division | 2nd Runner-up |
-| NSG North Zone Table Tennis<br>Championships 2025 | B Division | Top 8 |
-| NSG North Zone Table Tennis<br>Championships 2025 | B Division | Team Champion |
-| NSG North Zone Table Tennis<br>Championships 2024 (League 1) | C Division | 3rd Runner-up |
-| NSG North Zone Table Tennis<br>Championships 2024 | B Division | Top 16 |
-| NSG North Zone Table Tennis<br>Championships 2024 | B Division | Team Champion |
+| National School Games | 2024 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
+| National School Games | 2024 C Div | National League One Champions |
+| National School Games | 2023 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
+| National School Games | 2023 C Div | 1st Runner up in North Zone, Top 16 in Nationals |
