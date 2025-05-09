@@ -166,6 +166,7 @@ Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
     </tr>
 <tr><td>Adelia Ong Yun Rui</td><td>Sec 4J</td><td>President</td></tr>
 <tr><td>Janice Phang Wan Yi<br>Celine Choo Yan Leng</td><td>Sec 4D<br>Sec 4W</td><td>Vice-President</td></tr>
-<tr><td>Choo Yan Leng (Cao Enling)</td><td>Sec 3W</td><td>Secretary</td></tr>
+<tr><td>Kimberly Gan Yuxin<br>Chloe Tan Li En</td><td>Sec 4U<br>Sec 4W</td><td>Heads (Logistics Wing)</td></tr>
+		
 <tr><td>Chua Jing Yi, Abby</td><td>Sec 3H</td><td>Head of Welfare</td></tr>
 </tbody></table>
