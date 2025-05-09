@@ -196,6 +196,7 @@ The Student Council seizes valuable networking opportunities to work with studen
 <td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture15.jpg" style="width:80%"></td></tr>
 	
 <tr><td style="width:50%"><b>18th Student Council Leading Teacher’s Day Celebrations</b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture16.jpg" style="width:80%"></td></tr>
+<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture16.jpg" style="width:80%">
+	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture17.jpg" style="width:80%"></td></tr>
 	
 </tbody></table>
