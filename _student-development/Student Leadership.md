@@ -21,3 +21,95 @@ As a Catholic-Mission school, SNGS aims to nurture our girls to be **_Leaders wi
 <center>SNGS Student Leadership Framework</center>
  
 ##### **OUR PROGRAMME**
+Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is based on two principal provisions, the provision of ‘**Trainings**’ and ‘**Opportunities**’. The five Practices of ‘The Leadership Challenge © is mapped out as focus areas for the respective cohorts. This ensures that there is a differentiated and progressive leadership development programme for our students throughout their four year journey in our school. Such an approach focuses on equipping and honing leadership skills while inculcating the school’s values for students to pursue leadership excellence. Apart from building conceptual knowledge on the principles of The Leadership Challenge, hands-on training sessions are integral in giving student leaders the necessary support and skills to become effective leaders. These sessions also ensure that students develop their individual leadership aptitude, formulate personal goals to attain and learn to be a good team player.
+
+<center> **The Leadership Challenge**
+<br>Five Practices of Exemplary Leadership
+<br>(differentiated for each level)</center>
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="668" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.25pt"><td style="width:123.0pt;border:solid black 1.0pt;
+  background:#F9AA19;padding:7.0pt 7.0pt 7.0pt 7.0pt;height:35.25pt" valign="top" width="164"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;;color:white" lang="EN">Sec 1</span></b></p></td><td style="width:118.5pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#F9AA19;
+  padding:7.0pt 7.0pt 7.0pt 7.0pt;height:35.25pt" valign="top" width="158"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;;color:white" lang="EN">Sec 2</span></b></p></td><td style="width:132.75pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#F9AA19;
+  padding:7.0pt 7.0pt 7.0pt 7.0pt;height:35.25pt" valign="top" width="177"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;;color:white" lang="EN">Sec 3</span></b></p></td><td style="width:126.55pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;background:#F9AA19;
+  padding:7.0pt 7.0pt 7.0pt 7.0pt;height:35.25pt" valign="top" width="169"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;;color:white" lang="EN">Sec 4</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:88.5pt"><td style="width:123.0pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;background:#E6B8AF;
+  padding:7.0pt 7.0pt 7.0pt 7.0pt;height:88.5pt" valign="top" width="164"><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-17.95pt;line-height:normal;mso-pagination:none;
+  mso-list:l2 level1 lfo3" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Model the Way</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-17.95pt;line-height:normal;mso-pagination:none;
+  mso-list:l2 level1 lfo3" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Inspiring a Shared Vision</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td><td style="width:118.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  background:#E6B8AF;padding:7.0pt 7.0pt 7.0pt 7.0pt;height:88.5pt" valign="top" width="158"><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo1" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Enable Others to Act</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l0 level1 lfo1" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Inspiring a Shared Vision</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td><td style="width:132.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  background:#E6B8AF;padding:7.0pt 7.0pt 7.0pt 7.0pt;height:88.5pt" valign="top" width="177"><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l3 level1 lfo4" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Encourage the Heart</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l3 level1 lfo4" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Challenge the Process</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td><td style="width:126.55pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  background:#E6B8AF;padding:7.0pt 7.0pt 7.0pt 7.0pt;height:88.5pt" valign="top" width="169"><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l1 level1 lfo2" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Inspiring a Shared Vision</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p><p style="margin-left:26.95pt;text-indent:-26.95pt;
+  mso-text-indent-alt:-18.0pt;line-height:normal;mso-pagination:none;
+  mso-list:l1 level1 lfo2" class="MsoNormal"><span style="font-size:
+  12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;
+  mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span></span>●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;
+  font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
+  &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Challenge the Process</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
+  &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td></tr></tbody></table>
+
