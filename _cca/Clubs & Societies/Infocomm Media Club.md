@@ -96,7 +96,7 @@ and teamwork.</p>
 <p>Clarisse Fong Jie Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3L</p>
+<p>Sec 4L</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -107,9 +107,7 @@ and teamwork.</p>
 <p>Tay Si Ju, Stephanie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3D
-<br>
-</p>
+<p>Sec 4D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (Admin)</p>
@@ -120,7 +118,7 @@ and teamwork.</p>
 <p>Caitlyn Ciana Cho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3L</p>
+<p>Sec 4L</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (PA)</p>
@@ -131,7 +129,7 @@ and teamwork.</p>
 <p>Tea Xin Qin Valerie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3J</p>
+<p>Sec 4J</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (Media)</p>
@@ -139,10 +137,21 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tay Wan Tian, Phylicia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4U</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head (Project)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Alyvia Wong Yuk Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2G</p>
+<p>Sec 3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Level Coordinator</p>
@@ -153,7 +162,7 @@ and teamwork.</p>
 <p>Hoo Sue Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 2C</p>
+<p>Sec 3D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 Level Coordinator</p>
