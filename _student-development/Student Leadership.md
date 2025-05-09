@@ -156,16 +156,5 @@ The Student Council comprises Councillors from Secondary 2 to 4, led by a Presid
 ##### **Teachers-in-charge**
 Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 
-##### **Student Executive Committee (2024/2025)**
+##### **Student Executive Committee (2024/2025)
 
-<table style="width:100%">
-  <tbody><tr>
-    <th style="width:45%">Name</th>
-    <th style="width:25%">Class</th> 
-    <th style="width:30%">Position</th>
-  </tr>
-<tr><td>Lin Xi Yuan, Cherie</td><td>Sec 3L</td><td>President</td></tr>
-<tr><td>Calah Phua Hsun Hau</td><td>Sec 3C</td><td>Vice-President</td></tr>
-<tr><td>Choo Yan Leng (Cao Enling)</td><td>Sec 3W</td><td>Secretary</td></tr>
-<tr><td>Chua Jing Yi, Abby</td><td>Sec 3H</td><td>Head of Welfare</td></tr>
-</tbody></table>
