@@ -125,10 +125,9 @@ All St Nicholas students go through leadership workshops which provide different
 Our school believes in empowering students and developing important 21 Century Competencies (21CCs) through an array of platforms, as outlined in the table below. Students are invited to actively participate as members of the St Nicholas family.<br> <br> **Leadership Development at CHIJ St Nicholas Girls’ School (Sec)**<br> **Future Readiness (21 CC Skills)** 
 <br>Civic-Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; Communication, Collaboration and Information
 
-
-
-
-
+| **Positional Leadership** | **School Project Appointments (examples)** |
+| -------- | -------- | 
+|* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
 
@@ -136,15 +135,3 @@ Our school believes in empowering students and developing important 21 Century C
 | -------- | -------- | 
 |* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
 
-
-
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:239.4pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;color:#323232">Positional Leadership</span></b></p></td><td style="width:239.4pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;color:#323232">School Project Appointments (examples)</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes"><td style="width:239.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Student Councillor</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* CCA Committee</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Class Management Committee</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* House Committee</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Sports Leaders</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* SyNerGiSe Committee</span></p></td><td style="width:239.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* JIP Student Leaders’ Exchange</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Sports Carnival</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Open House</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Department Programmes, e.g. English</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Language and Literature Festival, Mother</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Tongue Fortnight</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* National Education Programmes</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Cyber Wellness Week</span></p></td></tr></tbody></table>
