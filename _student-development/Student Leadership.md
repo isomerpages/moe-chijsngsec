@@ -134,3 +134,7 @@ Our school believes in empowering students and developing important 21 Century C
 | **Positional Leadership** | **School Project Appointments (examples)** |
 | -------- | -------- | 
 |* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    |
+
+**Non-positional Leadership**
+<br>Being a good influence and a contributing and involved member of the school community.
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture6.jpg" style="width:70%">
