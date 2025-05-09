@@ -220,7 +220,7 @@ Candidates should have:
 
 **Leadership Development at SNGS for DSA (Leadership) Students**
 
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture18.jpg" style="width:80%">
-
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture21.jpg" style="width:80%">
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture20.jpg" style="width:80%">
 
 
