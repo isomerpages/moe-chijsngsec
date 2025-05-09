@@ -142,3 +142,13 @@ Our school believes in empowering students and developing important 21 Century C
 Our Student Leaders at the An-Nahdhah Mosque, understanding the importance of cross-cultural skills and engaging with the community.
 
 ##### **SNGS Student Council**
+
+Established in 2008, the Student Council strives to serve the student body and forge stronger bonds among students so as to bring the school to greater heights. The Student Council also aspires to promote the school values and be exemplary role models to their peers in the school.
+
+Key events organised by the Student Council include the Secondary One Orientation, and Teachers’ Day Celebration. In addition, the Student Council also supports school events such as Chinese New Year Celebrations, Moonlight Party, Open House, Primary Five Camp, Jubilate, JIP Leadership Symposiums, Meet-the-Parent sessions and Parent-Teacher Conferences.
+
+As a bridge between the student body and staff, the Student Council acts on feedback from the student population and consults with the Council teachers. Thereafter, they discuss, propose and co-plan ideas for the student population. Some initiatives that have been implemented are Colourful Friday, Welfare Baskets and Canteen DJ which aim to improve the general welfare of the students.
+
+The Student Council comprises Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their schoolmates while striving for the betterment of the student body.
+
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture7.jpg">
