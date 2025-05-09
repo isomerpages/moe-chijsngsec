@@ -126,8 +126,8 @@ Our school believes in empowering students and developing important 21 Century C
 <br>Civic-Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; Communication, Collaboration and Information
 
 | **Our Workshops** | **Leadership Appointments** | **Working with others &amp; Student Voice and Choice**** |  **External Opportunities (selected students only)** |
-| -------- | -------- |  -------- | -------- | 
-| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops| 
+| -------- | -------- |  -------- | --------| 
+| * Mass Student Leadership Workshops <br>* Class Management Committee - Subject Leader Training<br>* Design Thinking Workshop|  * Student Council<br>* Class Management Committee<br>* CCA Leaders<br>* Sports Leaders<br> SyNerGiSe Committee| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops|
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
 
