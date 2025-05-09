@@ -23,7 +23,7 @@ As a Catholic-Mission school, SNGS aims to nurture our girls to be **_Leaders wi
 ##### **OUR PROGRAMME**
 Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is based on two principal provisions, the provision of ‘**Trainings**’ and ‘**Opportunities**’. The five Practices of ‘The Leadership Challenge © is mapped out as focus areas for the respective cohorts. This ensures that there is a differentiated and progressive leadership development programme for our students throughout their four year journey in our school. Such an approach focuses on equipping and honing leadership skills while inculcating the school’s values for students to pursue leadership excellence. Apart from building conceptual knowledge on the principles of The Leadership Challenge, hands-on training sessions are integral in giving student leaders the necessary support and skills to become effective leaders. These sessions also ensure that students develop their individual leadership aptitude, formulate personal goals to attain and learn to be a good team player.
 
-<center> **The Leadership Challenge**
+<center> The Leadership Challenge
 <br>Five Practices of Exemplary Leadership
 <br>(differentiated for each level)</center>
 
@@ -112,3 +112,4 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
   font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
   &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Challenge the Process</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
   &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td></tr></tbody></table>
+	
