@@ -182,10 +182,12 @@ The Student Council seizes valuable networking opportunities to work with studen
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>2024 Student Council Presidential Elections<br></b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture10.jpg" style="width:80%"><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture11.jpg" style="width:80%"><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture12.jpg" style="width:80%"></td></tr>
+<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture10.jpg" style="width:80%">
+	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture11.jpg" style="width:80%">
+	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture12.jpg" style="width:80%"></td></tr>
 
-<tr><td style="width:50%"><b>Gymnasts in action during CCA Fair</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture4.jpg"></td></tr>
+<tr><td style="width:50%"><b>Serving the Community at the Kebun Baru Community Club Digital Family Day</b></td>
+<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture13.png" style="width:80%"></td></tr>
 
 <tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
 <td><img src="/images/06%20CCA/PS%20AGym/Picture5.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture6.jpg"></td></tr>
