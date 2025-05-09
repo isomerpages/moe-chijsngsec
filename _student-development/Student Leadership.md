@@ -112,4 +112,3 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
   font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:&quot;Lexend Deca&quot;;mso-bidi-font-family:
   &quot;Lexend Deca&quot;;color:black;mso-color-alt:windowtext" lang="EN">Challenge the Process</span><span style="font-size:12.0pt;font-family:&quot;Lexend Deca&quot;;mso-fareast-font-family:
   &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td></tr></tbody></table>
-
