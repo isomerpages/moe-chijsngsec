@@ -127,7 +127,11 @@ Our school believes in empowering students and developing important 21 Century C
 
 | **Our Workshops** | **Leadership Appointments** | **Working with others &amp; Student Voice and Choice**** |  **External Opportunities (selected students only)** |
 | -------- | -------- |  -------- | --------| 
-| * Mass Student Leadership Workshops <br>* Class Management Committee - Subject Leader Training<br>* Design Thinking Workshop|  * Student Council<br>* Class Management Committee<br>* CCA Leaders<br>* Sports Leaders<br> SyNerGiSe Committee| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops|
+| * Mass Student Leadership Workshops <br>* Class Management Committee - Subject Leader Training<br>* Design Thinking Workshop|  * Student Council<br>* Class Management Committee<br>* CCA Leaders<br>* Sports Leaders<br> SyNerGiSe Committee| Level Camps<br>* Sec 1 Orientation Camp
+
+\* Sec 2 Alumni Camp
+
+\* Sec 3 OBS Camp<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops|
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
 
