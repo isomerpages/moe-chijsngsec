@@ -121,5 +121,8 @@ All St Nicholas students go through leadership workshops which provide different
 |  -------- | -------- | -------- |
 | **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
 
+##### (2) **Opportunities** 
+Our school believes in empowering students and developing important 21 Century Competencies (21CCs) through an array of platforms, as outlined in the table below. Students are invited to actively participate as members of the St Nicholas family.
 
+###### **Leadership Development at CHIJ St Nicholas Girls’ School (Sec)**<br> **Future Readiness (21 CC Skills)** <br>Civic-Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; Communication, Collaboration and Information
 
