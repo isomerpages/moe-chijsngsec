@@ -125,13 +125,12 @@ All St Nicholas students go through leadership workshops which provide different
 Our school believes in empowering students and developing important 21 Century Competencies (21CCs) through an array of platforms, as outlined in the table below. Students are invited to actively participate as members of the St Nicholas family.<br> <br> **Leadership Development at CHIJ St Nicholas Girls’ School (Sec)**<br> **Future Readiness (21 CC Skills)** 
 <br>Civic-Literacy, Global Awareness and Cross-Cultural Skills; Critical and Inventive Thinking; Communication, Collaboration and Information
 
-| **Positional Leadership** | **School Project Appointments (examples)** |
-| -------- | -------- | 
+| **Our Workshops** | **Leadership Appointments** | **Working with others &amp; Student Voice and Choice**** |  **External Opportunities (selected students only)** |
+| -------- | -------- |  -------- | -------- | 
 |* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
 
 | **Positional Leadership** | **School Project Appointments (examples)** |
 | -------- | -------- | 
-|* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
-
+|* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    |
