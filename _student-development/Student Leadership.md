@@ -152,3 +152,20 @@ As a bridge between the student body and staff, the Student Council acts on feed
 The Student Council comprises Councillors from Secondary 2 to 4, led by a President, two Vice-Presidents and the Executive Committee (EXCO). The Student Council is divided into three wings, namely the Logistics Wing, Events Wing and Welfare Wing, each helmed by two Wing Heads. Being in charge of the different aspects of the school allows the Student Council to maintain discipline and lead their schoolmates while striving for the betterment of the student body.
 
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture7.jpg">
+
+##### **Teachers-in-charge**
+Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
+
+##### **Student Executive Committee (2024/2025)**
+
+<table style="width:100%">
+  <tbody><tr>
+    <th style="width:45%">Name</th>
+    <th style="width:25%">Class</th> 
+    <th style="width:30%">Position</th>
+  </tr>
+<tr><td>Lin Xi Yuan, Cherie</td><td>Sec 3L</td><td>President</td></tr>
+<tr><td>Calah Phua Hsun Hau</td><td>Sec 3C</td><td>Vice-President</td></tr>
+<tr><td>Choo Yan Leng (Cao Enling)</td><td>Sec 3W</td><td>Secretary</td></tr>
+<tr><td>Chua Jing Yi, Abby</td><td>Sec 3H</td><td>Head of Welfare</td></tr>
+</tbody></table>
