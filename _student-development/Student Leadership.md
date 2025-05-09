@@ -16,3 +16,6 @@ variant: markdown
 Guided by our school values of **Truth**, **Justice**, **Freedom** and **Love**, it is our belief that every St Nicholas student will maximise her leadership potential and be nurtured to become a leader who has integrity, resilience and compassion. In line with the IJ mission, students will be committed to **serving the needs of the disadvantaged and underprivileged.** In doing so, they will strive to uphold the school motto, **Simple in Virtue, Steadfast in Duty.**
 
 As a Catholic-Mission school, SNGS aims to nurture our girls to be **_Leaders with Heart_** who embody the IJ Ethos and develop our girls to be **_Principled Leaders of Tomorrow_**. Additionally, we hope for our girls to be ready and able to serve and impact their communities.
+
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture2.jpg" style="width:70%">
+ <center>SNGS Student Leadership Framework</center>
