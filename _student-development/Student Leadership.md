@@ -177,3 +177,20 @@ The Student Council seizes valuable networking opportunities to work with studen
 
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture9.jpg" style="width:80%"><center>2025 JIP Student Leadership Exchange</center>
 
+##### **Student Council  Highlights (2023/2024)**
+
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%"><b>2024 Student Council Presidential Elections<br></b></td>
+<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture10.jpg" style="width:80%"><br><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture11.jpg" style="width:80%"><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture12.jpg" style="width:80%"></td></tr>
+
+<tr><td style="width:50%"><b>Gymnasts in action during CCA Fair</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture4.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture5.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture6.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>NSG Artistic Gymnastics Competition</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture7.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture8.jpg"></td></tr>
+	
+</tbody></table>
