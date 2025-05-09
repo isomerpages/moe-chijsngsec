@@ -68,6 +68,7 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| National School Games | 2025 B Div | 1st Runner up in North Zone, Top 16 in Nationals |
 | National School Games | 2024 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
 | National School Games | 2024 C Div | National League One Champions |
 | National School Games | 2023 B Div | 1st Runner up in North Zone, Top 8 in Nationals |
