@@ -57,6 +57,10 @@ variant: markdown
 </td><td><img src="/images/06%20CCA/PS%20Badminton/Picture42.jpg">
 </td></tr>
 	
+<tr><td style="width:50%"><b>SNBT VIA with IJHCC students</b><br><br>During the end of year holidays of 2024, our team had conducted a Values In Action (VIA) event with Infant Jesus Homes and Children’s Centre (IJHCC).
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture43.jpg">
+</td></tr>
+	
 </tbody></table>
 
 #### **CCA Achievements**
