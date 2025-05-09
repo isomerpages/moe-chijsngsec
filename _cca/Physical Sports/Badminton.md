@@ -53,8 +53,8 @@ variant: markdown
 <tr><td style="width:50%"><b>Friendly Matches</b><br><br>SNBT has the opportunity to have a sparring session with Badminton teams from other schools. This allows the team to gain more experience and exposure to players of different caliber and play styles.</td>
 <td><img src="/images/06%20CCA/PS%20Badminton/Picture41.jpg"></td></tr>	
 
-<tr><td style="width:50%"><b>League One Champions</b><br><br>This photo was taken with our 教练 after clinching the league one champion title. Within the picture reveals our pure joy and happiness to see the hard efforts we put in be rewarded!
-</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture38.jpg">
+<tr><td style="width:50%"><b>C Division League One Champions 2024</b><br><br>Culminating the 2024 season at OCBC arena and achieving the title, the smiles on everyone’s face highlights their happiness and satisfaction to see their hard work pay off!
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture42.jpg">
 </td></tr>
 	
 </tbody></table>
