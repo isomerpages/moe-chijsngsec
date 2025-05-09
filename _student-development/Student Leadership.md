@@ -127,7 +127,7 @@ Our school believes in empowering students and developing important 21 Century C
 
 | **Our Workshops** | **Leadership Appointments** | **Working with others &amp; Student Voice and Choice**** |  **External Opportunities (selected students only)** |
 | -------- | -------- |  -------- | -------- | 
-|* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
+| * Mass Student Leadership Workshops<br>* Class Management Committee<br>* Subject Leader Training<br>* Design Thinking Workshops| 
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
 
