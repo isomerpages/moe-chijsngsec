@@ -134,7 +134,7 @@ Our school believes in empowering students and developing important 21 Century C
 
 | **Positional Leadership** | **School Project Appointments (examples)** |
 | -------- | -------- | 
-| Text     | JIP Student Leaders’ Exchange<br>Sports Carnival<br>Open House<br>Department Programmes, e.g. English Language and Literature Festival, Mother Tongue Fortnight<br>National Education Programmes<br>Cyber Wellness Week    | 
+|* Student Councillor<br>* CCA Committee<br>* Class Management Committee<br>* House Committee<br>* Sports Leaders<br>* SyNerGiSe Committee| * JIP Student Leaders’ Exchange<br>* Sports Carnival<br>* Open House<br>* Department Programmes, <br> - eg. English Language and Literature Festival, Mother Tongue Fortnight<br>* National Education Programmes<br>* Cyber Wellness Week    | 
 
 
 
