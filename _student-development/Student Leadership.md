@@ -198,5 +198,29 @@ The Student Council seizes valuable networking opportunities to work with studen
 <tr><td style="width:50%"><b>18th Student Council Leading Teacher’s Day Celebrations</b></td>
 <td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture16.jpg" style="width:80%">
 	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture17.jpg" style="width:80%"></td></tr>
-	
 </tbody></table>
+
+**Through our DSA (Leadership) programme, we aim to develop leaders who:**
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are passionate and committed to the service of others and the community
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; possess and demonstrate the qualities of ‘leaders with heart’
+
+**Criteria**
+
+Candidates should have:
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; attained leadership positions in primary school (e.g. Head/Vice-Head Prefect, CCA heads etc.) or;
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; led in community/service projects (e.g. Value-in-Action projects with school/community wide impact) or;
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; been recognised by the school/community/external organisation(s) for their contribution (e.g. EAGLES (Leadership) award, ECHA, Brownies Chief Commissioner’s Award etc.)
+
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; have demonstrated overall readiness to benefit from our JIP or ‘O’ level programme (Candidates are encouraged to indicate their preference for JIP or ‘O’ levels)
+
+**Leadership Development at SNGS for DSA (Leadership) Students**
+
+<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture18.jpg" style="width:80%">
+
+
+
