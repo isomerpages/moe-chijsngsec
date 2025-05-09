@@ -7,3 +7,6 @@ variant: markdown
 ![](/images/01%20Banner%20Photos/04%20subpage%20student%20development.jpg)
 
 ### **Student Leadership**
+
+##### **Girls of Grace • Women of Strength • Leaders with Heart**
+
