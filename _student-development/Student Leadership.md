@@ -117,4 +117,4 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
 
 |<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture3.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture4.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
 |  -------- | -------- | -------- |
-| **2025 S1 Mass Leadership Training**| **2025 S3 and S4 Mass Leadership Training**|**2025 Student Council Workshop**     |
+| **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**     |
