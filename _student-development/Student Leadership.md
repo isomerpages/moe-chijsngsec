@@ -114,7 +114,12 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
   &quot;Lexend Deca&quot;;mso-bidi-font-family:&quot;Lexend Deca&quot;" lang="EN"></span></p></td></tr></tbody></table>
 	
 
+##### (1) Trainings  
+All St Nicholas students go through leadership workshops which provide differentiated and structured developmental training. This includes leadership milestone training sessions, which identifies specific leadership skills to be taught at each level. These training sessions include Mass Leadership Training, Level Specific Training and Positional Leadership Specific Training.
 
 |<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture3.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture4.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
 |  -------- | -------- | -------- |
-| **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**     |
+| **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
+
+
+
