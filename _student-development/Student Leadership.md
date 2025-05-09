@@ -131,6 +131,13 @@ Our school believes in empowering students and developing important 21 Century C
 
 
 **Leadership Opportunities at CHIJ St Nicholas Girls’ School (Sec)**
+
+| **Positional Leadership** | **School Project Appointments (examples)** |
+| -------- | -------- | 
+| Text     | JIP Student Leaders’ Exchange<br>Sports Carnival<br>Open House<br>Department Programmes, e.g. English Language and Literature Festival, Mother Tongue Fortnight<br>National Education Programmes<br>Cyber Wellness Week    | 
+
+
+
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:239.4pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt;color:#323232">Positional Leadership</span></b></p></td><td style="width:239.4pt;border:solid windowtext 1.0pt;
@@ -141,8 +148,3 @@ Our school believes in empowering students and developing important 21 Century C
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="319"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* JIP Student Leaders’ Exchange</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Sports Carnival</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Open House</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Department Programmes, e.g. English</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Language and Literature Festival, Mother</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Tongue Fortnight</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* National Education Programmes</span></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#484848">* Cyber Wellness Week</span></p></td></tr></tbody></table>
-
-
-
-
-
