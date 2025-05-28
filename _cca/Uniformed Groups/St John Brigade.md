@@ -70,8 +70,12 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <tr><td style="width:50%"><b>Annual Camps</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as outdoor cooking and Amazing Races that allow our cadets to bond with their squadmates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
-<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br>Our cadets participate in first aid and home nursing competitions organised by St John HQ.<br><br>Our cadets performed well in 2023. At the District level, our Nursing Adult team were crowned District champions and went on to clinch Overall 3rd place at the National level.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg"></td></tr>
+<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br> Our cadets participate in the 2025 First Aid and Home Nursing Competitions organised by St John HQ.
+
+At the District level, our Nursing Adult teams were crowned District champions and first runner up; our Nursing Cadet obtained first runner up. </td>
+	
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg"><br>
+	<img src="/images/06%20CCA/UG%20St%20John/Picture6B.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.<br><br>Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
