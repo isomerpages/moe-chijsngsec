@@ -72,7 +72,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture3B.jpg"><br>
 	<img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture4B.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>30th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2024</b></td>
+<tr><td style="width:50%"><b>30th AW-MSSM-SSSC U14 &amp; U15 International Athletics Championship 2025</b></td>
 <td><img src="/images/06%20CCA/PS%20Track%20and%20Field/Picture1A.jpg"></td></tr>
 	
 </tbody></table>
