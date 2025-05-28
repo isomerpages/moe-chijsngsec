@@ -35,8 +35,8 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>St John Room / Parade Square / Classrooms</td></tr>
-<tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
-<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
+<tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br> * Selected Wednesdays: 3:30 pm – 5.30 pm (only for selected school team cadets during competition period)<br>* Selected Weekends: HQ courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
+<tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Chloe Sin</td></tr>
 </tbody></table>
 
 #### **Teachers-in-Charge :**
@@ -45,7 +45,7 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024-2025)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody>
@@ -54,12 +54,12 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Ding Yeng Ning</td><td>Sec 4L</td><td>Overall-in-charge</td></tr>
-<tr><td>Marie Lum</td><td>Sec 4L</td><td>Assistant-in-charge</td></tr>
-<tr><td>Sophie Toh</td><td>Sec 4C</td><td>Secretary</td></tr>
-<tr><td>Desiree Ng<br>Rachel Ong</td><td>Sec 4G<br>Sec 4L</td><td>CPBS (Head)</td></tr>
-<tr><td>Kenisha Ang</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
-<tr><td>Megan Ang</td><td>Sec 4F</td><td>Quarter Mistress</td></tr>
+<tr><td> Ang Hui Ya Keona</td><td>Sec 3D</td><td>Overall-in-charge</td></tr>
+<tr><td> Tanya Koh</td><td>Sec 3W</td><td>Assistant-in-charge</td></tr>
+<tr><td> Angelina Chai Xiang Hui</td><td>Sec 3L</td><td>Secretary</td></tr>
+<tr><td> Teh En Theng<br>Tan Jing Ning Stacie</td><td>Sec 3G<br>Sec 3P</td><td> Head of Cadet Proficiency Badge Scheme</td></tr>
+<tr><td> Huang Xianglin Jade</td><td>Sec 3F</td><td>Discipline Mistress</td></tr>
+<tr><td> Megon Lek Yu Yan</td><td>Sec 3W</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
