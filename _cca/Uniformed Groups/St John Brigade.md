@@ -10,7 +10,8 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/06%20CCA/UG%20St%20John/picture1a.jpg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/Picture5B.jpg" style="width:75%">
+
 
 St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
   
@@ -20,20 +21,20 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
   
 <b>The St John Pledge</b>:  
   
-<i>To be loyal to Singapore and the President of the Republic&nbsp;  
-To upkeep the honour and dignity of the Brigade and my Country&nbsp;  
-To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind&nbsp;  
-To be loyal to the Chief Commissioner and all my Officers&nbsp;  
-To read the Brigade Regulations and to comply with them in all respects&nbsp;  
-To carry out all orders received from time to time from seniors&nbsp;  
-To carry out my duties with zeal and efficiency to the best of my ability&nbsp;  
-To be courteous and honest in all my words and actions</i>  
+<i>1. To be loyal to Singapore and the President of the Republic&nbsp;  
+2. To upkeep the honour and dignity of the Brigade and my Country&nbsp;  
+3. To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind&nbsp;  
+4. To be loyal to the Chief Commissioner and all my Officers&nbsp;  
+5. To read the Brigade Regulations and to comply with them in all respects&nbsp;  
+6. To carry out all orders received from time to time from seniors&nbsp;  
+7. To carry out my duties with zeal and efficiency to the best of my ability&nbsp;  
+8. To be courteous and honest in all my words and actions</i>  
 
 #### **CCA Information :**
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>St John Room<br>Parade Square<br>Classrooms 3P</td></tr>
+<tr><th>Training / Meeting Venue</th><td>St John Room / Parade Square / Classrooms</td></tr>
 <tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br>*Selected Tuesday and/or Wednesday : 3.30pm - 6.00pm (only for selected school team cadets during competition period)<br>*Selected weekends : HQ Courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
 <tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Ashley Chong<br>Ms Hannah Lim</td></tr>
 </tbody></table>
