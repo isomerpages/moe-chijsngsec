@@ -156,7 +156,7 @@ The Student Council comprises Councillors from Secondary 2 to 4, led by a Presid
 ##### **Teachers-in-charge**
 Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 
-##### **Student Executive Committee (2024/2025)**
+##### **Student Executive Committee (2025/2026)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -164,11 +164,11 @@ Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 		<th style="width:25%">Class</th>
 		<th style="width:25%">Position</th> 
     </tr>
-<tr><td>Adelia Ong Yun Rui</td><td>Sec 4J</td><td>President</td></tr>
-<tr><td>Janice Phang Wan Yi<br>Celine Choo Yan Leng</td><td>Sec 4D<br>Sec 4W</td><td>Vice-President</td></tr>
-<tr><td>Kimberly Gan Yuxin<br>Chloe Tan Li En</td><td>Sec 4U<br>Sec 4W</td><td>Heads (Logistics Wing)</td></tr>
-<tr><td>Ang Hui Qi Kenisha<br>Lim Wen Xuan</td><td>Sec 4F<br>Sec 4P</td><td>Heads (Events Wing)</td></tr>		
-<tr><td>Aletheia Charis Lim Rae-Ern<br>Sherrie Chan Mei Yan</td><td>Sec 4D<br>Sec 4P</td><td>Head (Welfare Wing)</td></tr>
+<tr><td>Hannah Li-Wen de Lang-Ho</td><td>Sec 3C</td><td>President</td></tr>
+<tr><td>Yew Yi Zenn<br>Krisshana Kannan</td><td>Sec 3J<br>Sec 3T</td><td>Vice-President</td></tr>
+<tr><td>Kim Jua<br>Chan Yin Kay</td><td>Sec 3L<br>Sec 3W</td><td>Heads (Logistics Wing)</td></tr>
+<tr><td>Phua Hui Yu Ashleigh<br>Yeo Chen Xi</td><td>Sec 3T<br>Sec 3W</td><td>Heads (Events Wing)</td></tr>		
+<tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 3F<br>Sec 3T</td><td>Head (Welfare Wing)</td></tr>
 </tbody></table>
 
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture8.jpg" style="width:80%"><center>The 18th Student Council (2024 - 2025)</center>
