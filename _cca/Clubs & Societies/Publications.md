@@ -41,8 +41,8 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Hannah Li-Wen De Lang-Ho</td><td>Sec 3C</td><td>President</td></tr>
-<tr><td>Darissa Ong</td><td>Sec 3L</td><td>Vice President</td></tr>
+<tr><td>Darissa Ong</td><td>Sec 3L</td><td>President</td></tr>
+<tr><td>Hannah Li-Wen De Lang-Ho</td><td>Sec 3C</td><td>Vice President</td></tr>
 </tbody></table>
 
 
