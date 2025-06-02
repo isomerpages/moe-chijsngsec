@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Symphonic Band**
 
-<img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture77.jpg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture1B.jpg" style="width:100%">
 
 The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In 2024, we performed to the public in Jubilate XIV, as well as in Schools in Concert 2024 organised by the Band Directors’ Association. In the 2025 SYF Arts Presentation, we clinched the Certificate of Distinction!
 
