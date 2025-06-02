@@ -71,7 +71,9 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 #### **CCA Highlights**
 
 <table style="width:100%"><tbody>
-	
+
+<tr><td style="width:50%"><b>Singapore Youth Festival Arts Presentation 2025</b><br><br>The band performed the set piece Overture I by Dr. Kelly Tang, as well as our choice piece Adventure Tale of Neverland by Daisuke Shimizu.</td>
+<td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture2B.jpg"></td></tr>
 <tr><td style="width:50%"><b>Jubilate XIV 2024</b><br><br>The band performed Beauty and the Beast medley, as well as Phantom of the Opera in a combined performance with Strings Orchestra.</td>
 <td><img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture78.jpg"></td></tr>
 			
