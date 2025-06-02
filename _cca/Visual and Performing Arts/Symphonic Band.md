@@ -11,7 +11,7 @@ variant: markdown
 
 <img src="/images/06%20CCA/VPA%20Symphonic%20Band/Picture77.jpg" style="width:100%">
 
-The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In the 2023 SYF Arts Presentation, we obtained a Certificate of Accomplishment. In 2024, we performed to the public in Jubilate XIV, as well as in Schools in Concert 2024 organised by the Band Directors’ Association.
+The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It has since evolved from a regimental marching band to a versatile performance band. We are an 80-member strong band under the baton of Mr. Toh Yang Yang, our band conductor, and perform a wide variety of pieces ranging from pop music to classical music. The band performs in school and in public and participates in national competitions, obtaining many awards and enriching experiences in the process. In 2024, we performed to the public in Jubilate XIV, as well as in Schools in Concert 2024 organised by the Band Directors’ Association. In the 2025 SYF Arts Presentation, we clinched the Certificate of Distinction!
 
 #### **CCA Information**
 
@@ -19,7 +19,7 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-			<td><br><b>Senior Band:</b> <br>Mon - Pri ISH <br>Wed - Family Lounge<br><b>Junior Band:</b><br> Pri MPR<br><b>Sectionals:</b><br>Classrooms (2P, 2T, 2U, 2W)<br>Band Store Room </td>
+			<td><br>Family Lounge/Pri MPR/Classrooms </td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
@@ -53,17 +53,17 @@ The CHIJ St Nicholas Girls' School symphonic band was established in 1972. It ha
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Chew Yu Xuan Sarah Mae</td><td>Sec 3D</td><td>Band Major</td></tr>
-<tr><td>Shenski Choo Zi Xuan</td><td>Sec 3J</td><td>Drum Major</td></tr>
-<tr><td>Tyshanna Lee Zhi En</td><td>Sec 3G</td><td>Student Conductor</td></tr>
-<tr><td>Leia Chiang Yue Xin</td><td>Sec 3W</td><td>Secretary/Treasurer</td></tr>
-<tr><td>Tiffany Toh Yu En</td><td>Sec 3J</td><td>Quarter Mistress (Brass)</td>
-</tr><tr><td>Ang Qian Hui Vivian (Hong Qianhui)</td><td>Sec 3P</td><td>Quarter Mistress (Woodwind)</td></tr>
-<tr><td>Priscilla Chew (Zhao Wenxin)</td><td>Sec 3W</td><td>Quarter Mistress (Percussion)</td></tr>	 
-<tr><td>Shanice Tan Shuan Nee</td><td>Sec 3J</td><td>Librarian</td></tr>	 
-<tr><td>Lim Shan Xi Gerrilyn</td><td>Sec 3H</td><td>Librarian</td></tr>	 
-<tr><td>Choong Zi Le</td><td>Sec 3J</td><td>Welfare Officer</td></tr> 
-<tr><td>Tai Xi En, Amelia</td><td>Sec 3C</td><td>Welfare Officer</td></tr>	 
+<tr><td>Chew Yu Xuan Sarah Mae</td><td>Sec 4D</td><td>Band Major</td></tr>
+<tr><td>Shenski Choo Zi Xuan</td><td>Sec 4J</td><td>Drum Major</td></tr>
+<tr><td>Tyshanna Lee Zhi En</td><td>Sec 4G</td><td>Student Conductor</td></tr>
+<tr><td>Leia Chiang Yue Xin</td><td>Sec 4W</td><td>Secretary/Treasurer</td></tr>
+<tr><td>Tiffany Toh Yu En</td><td>Sec 4J</td><td>Quarter Mistress (Brass)</td>
+</tr><tr><td>Ang Qian Hui Vivian (Hong Qianhui)</td><td>Sec 4P</td><td>Quarter Mistress (Woodwind)</td></tr>
+<tr><td>Priscilla Chew (Zhao Wenxin)</td><td>Sec 4G</td><td>Quarter Mistress (Percussion)</td></tr>	 
+<tr><td>Shanice Tan Shuan Nee</td><td>Sec 4J</td><td>Librarian</td></tr>	 
+<tr><td>Lim Shan Xi Gerrilyn</td><td>Sec 4H</td><td>Librarian</td></tr>	 
+<tr><td>Choong Zi Le</td><td>Sec 4J</td><td>Welfare Officer</td></tr> 
+<tr><td>Tai Xi En, Amelia</td><td>Sec 4C</td><td>Welfare Officer</td></tr>	 
 
 </tbody>
 </table>
