@@ -64,26 +64,13 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <tr><td style="width:50%"><b>2024 C Division National School Games Competition</b>
 </td><td><img src="/images/06%20CCA/PS%20Hockey/Picture5B.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Picture6B.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Hockey/Picture8B.jpg" style="width:100%">
 </td></tr>
 	
 <tr><td style="width:50%"><b>2024 B Division National School Games Competition</b>
 </td><td><img src="/images/06%20CCA/PS%20Hockey/Picture40.jpg" style="width:100%"><br>
 <img src="/images/06%20CCA/PS%20Hockey/Picture41.jpg" style="width:100%">
 </td></tr>
-
-<tr><td style="width:50%"><b>2023 B Division National School Games Competition</b></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/Picture42.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Picture43.jpg" style="width:100%"></td></tr>
-
-<tr><td style="width:50%"><b>2022 B Division National School Games Competition</b></td>
-<td><img src="/images/06%20CCA/PS%20Hockey/Picture44.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Picture45.jpg" style="width:100%"></td></tr>
-	
-<tr><td style="width:50%"><b>2022 C Division National School Games Competition</b><br><br><img src="/images/06%20CCA/PS%20Hockey/Picture46.jpg" style="width:100%"><br></td>
-<td>
-<img src="/images/06%20CCA/PS%20Hockey/Picture47.jpg" style="width:100%"><br>
-<img src="/images/06%20CCA/PS%20Hockey/Picture48.jpg" style="width:100%"></td></tr>
 
 </tbody></table>
 
