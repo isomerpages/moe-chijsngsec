@@ -9,21 +9,19 @@ variant: markdown
 
 #### **Artistic Gym**
 
-<img src="/images/06%20CCA/PS%20AGym/Picture1.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20AGym/Picture1B.jpg" style="width:100%">
 
-Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports known for their artistry and grace, require gymnasts to display exceptional balance, strength and flexibility.
-
-Besides training for competitions, our gymnasts are exposed to a wide range of activities that allow them to develop holistically; such as the annual sports camp, VIA project, CCA fair, Open House etc. Through such activities, our gymnasts are able to develop and display team-work and creativity, as well as demonstrate compassion and empathy for others. Our gymnasts demonstrate the virtues of Good Sportsmanship at competitions and are trained to show resilience and a positive attitude that will empower them to achieve success in their lives. This is exemplified through their willingness to devote long hours to physical training in order to hone their skills to perfection and to strive to achieve their personal best.
-
-In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.  
+Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
+  
+Besides training for competitions, our gymnasts are exposed to a wide range of activities that allow them to interact socially to develop holistically. These activities include an annual sports camp, VIA activities, CCA fair and the School Open House. Through such activities, our gymnasts develop and display teamwork and creativity, as well as compassion and empathy. Gymnastics is not all about winning but displaying good sportsmanship. It is about developing resilience and a positive attitude that will empower our gymnasts in the future. This is exemplified through their willingness to devote long training hours to hone their skills to perfection.  
 
 #### **CCA Information**
 
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
-<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br>Saturday : 9.00am - 12.00pm*<br>*Only during National School Games Season (Feb - Apr) </td></tr>
-<tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xianfeng</td></tr>
+<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br></td></tr>
+<tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xian Feng</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -33,7 +31,7 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <tr><td><b>Ms Amy Yee</b><br>Ms Mohana d/o S Sinniah<br>Mrs Theresa Chan </td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
@@ -43,9 +41,9 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
-<tbody><tr><td>Ashleigh Lim Siqi</td><td>Sec 3F</td><td>Captain</td></tr>
-<tr><td>Emma Ong Yu Si</td><td>Sec 2D</td><td>Vice-Captain</td></tr>
-<tr><td>Kate Peh En Ya</td><td>Sec 1G</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Ashleigh Lim Siqi</td><td>Sec 4F</td><td>Captain</td></tr>
+<tr><td>Emma Ong Yu Si</td><td>Sec 3G</td><td>Vice-Captain</td></tr>
+<tr><td>Kate Peh En Ya</td><td>Sec 2G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
  <table style="width:100%">
@@ -56,9 +54,9 @@ In short, St. Nicholas gymnasts embody strength and grace, dedication and heart.
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
-<tbody><tr><td>Ang Ying Qi Vera</td><td>Sec 3W</td><td>Captain</td></tr>
-<tr><td>Xannin Kang</td><td>Sec 2G</td><td>Vice-Captain</td></tr>
-<tr><td>Chooi Rui Shi Haley</td><td>Sec 1U</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Ang Ying Qi Vera</td><td>Sec 4W</td><td>Captain</td></tr>
+<tr><td>Xannin Kang</td><td>Sec 3F</td><td>Vice-Captain</td></tr>
+<tr><td>Chooi Rui Shi Haley</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 
