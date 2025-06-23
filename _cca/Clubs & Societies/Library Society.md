@@ -47,7 +47,7 @@ Library Society is optimistic that we will have even more interesting activities
 <tr><td><b>Mdm Niu Sheng Kai</b><br>Mrs Annie Panthradil<br>Miss Choo Teck Chan</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2023 - 2024)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
@@ -56,12 +56,12 @@ Library Society is optimistic that we will have even more interesting activities
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Janice Phang Wan Yi</td><td>Sec 3D</td><td>Chairperson</td></tr>
-<tr><td>Tan Zi Xin Rachal</td><td>Sec 3G</td><td>Vice - Chairperson</td></tr>
-<tr><td>Yang Ziman Angelica</td><td>Sec 3T</td><td>Secretary</td></tr>
-<tr><td>Tan Yi Xuan</td><td>Sec 3J</td><td>(Welfare Head) Upper Secondary Coordinator</td></tr>
-<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
-<tr><td>Ho Yean Yean Grace</td><td>Sec 2T</td><td>Lower Secondary Executive Committee Member</td></tr>
+<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 3L</td><td>Library Society&nbsp;President</td></tr>
+<tr><td>Ho Yean Yean Grace</td><td>Sec 3P</td><td>Library Society&nbsp;Vice-&nbsp;President</td></tr>
+<tr><td>Wee Heong Ru Gabrielle</td><td>Sec 3U</td><td>Library Society&nbsp;Welfare Head</td></tr>
+<tr><td>Ng Si Hui</td><td>Sec 3C</td><td>Library Society&nbsp;Upper Sec Exe Member</td></tr>
+<tr><td>Lucia Wu</td><td>Sec 2U</td><td>Library Society&nbsp;Secretary</td></tr>
+<tr><td>Imelda Marianne Wee</td><td>Sec 2G</td><td>Library Society Lower Sec Exe Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
