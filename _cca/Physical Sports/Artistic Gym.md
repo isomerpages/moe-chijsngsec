@@ -86,5 +86,7 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| National School Games<br>Trampoline Championships     | 'B' Division<br>'C' Division     | 1st<br>1st |
-| National School Games<br>Artistic Gymnastics Championships     | 'B' Division<br><br><br><br>'C' Division | All Round : <br>1st Hannah Lim<br>2nd  Danielle Lim<br><br>All Round : <br>1st Adele Tan<br>3rd  Kalissa Pong|
+| NSG Artistic Gymnastics Competition 2025     | 'B' Division    | Champions (1st Place) |Champions (1st Place) |
+| NSG Artistic Gymnastics Competition 2025 &nbsp; &nbsp; | 'C' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
+| NSG Artistic Trampoline Competition 2025 &nbsp; &nbsp;  | 'B' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
+| NSG Artistic Trampoline Competition 2025 &nbsp; &nbsp;  | 'C' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
