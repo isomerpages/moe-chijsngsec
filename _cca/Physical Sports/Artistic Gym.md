@@ -62,19 +62,22 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 #### **CCA Highlights**
 
-<table style="width:100%">
+
+
+**Both B &amp; C Division achieved 1st place (Champions)**<table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Gymnasts in action during sports camp</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture2.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture3.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Gymnasts in action during CCA Fair</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture4.jpg"></td></tr>
+<tr><td style="width:50%"><b>Open House 2024</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture2B.jpg"><br></td></tr>
+	
+<tr><td style="width:50%"><b>NSG Competition - Beam</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture3B.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>NSG Trampoline Competition</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture5.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture6.jpg"></td></tr>
+<tr><td style="width:50%"><b>NSG Competition - Vault</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture4B.jpg"><br></td></tr>
 
-<tr><td style="width:50%"><b>NSG Artistic Gymnastics Competition</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture7.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture8.jpg"></td></tr>
+<tr><td style="width:50%"><b>NSG Trampoline competition 2025</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture5B.jpg"><br></td></tr>
 	
 </tbody></table>
 
