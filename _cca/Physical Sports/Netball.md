@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Netball**
 
-<img src="/images/06%20CCA/PS%20Netball/Picture9.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Netball/Picture1B.jpg" style="width:100%">
 
 <b>Motto</b>  
 No Guts, No Glory!  
@@ -78,9 +78,8 @@ Although the journey was arduous, with the guidance and never-ending support, gu
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Nationals 2025    | B Division     | Top 16     |
+| North Zone 2025     | B Division     | 2nd     |
 | Nationals 2024     | B Division    | Top 16     |
 | North Zone 2024     | B Division     | 2nd     |
-| Nationals 2023     | B Division    | Top 16     |
-| North Zone 2023     | B Division| 4th     |
-| Nationals 2023    | C Division     | Top 8     |
-| North Zone 2023     | C Division     | 2nd     |
+| Nationals 2024     | C Division    | Top 8     |
