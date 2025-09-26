@@ -40,7 +40,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang</td></tr>
+<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang<br>Mrs Hema Khaira</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
@@ -79,6 +79,7 @@ Although the journey was arduous, with the guidance and never-ending support, gu
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Nationals 2025    | B Division     | Top 16     |
+| Nationals 2025     | C Division     | Top 4     |
 | North Zone 2025     | B Division     | 2nd     |
 | Nationals 2024     | B Division    | Top 16     |
 | North Zone 2024     | B Division     | 2nd     |
