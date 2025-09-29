@@ -40,7 +40,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang</td></tr>
+<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang<br>Mrs Hema Khaira</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
@@ -66,10 +66,13 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 As captains of 2025 B Division, we are extremely grateful for the opportunity to lead this team and represent our school. We are also extremely thankful to our teachers and teammates for their immense support and encouragement. To us, SNNB is more than just a "CCA", it is a place where we find lifelong friends while cultivating our passion for netball, develop ourselves holistically and a place that will forever hold a special place in our hearts.</td>
 <td><img src="/images/06%20CCA/PS%20Netball/Picture2B.jpg"></td></tr>
-	
-<tr><td style="width:50%"><b>C Division 2024</b><br><br>It has been a fruitful season for us. We, as the C division batch of SNNB 2024, strive to achieve the best results through NSG; overcoming all our tough obstacles together. Although this year's NSG format was different and unique, i.e., having to go againt the strong opponents from the get-go, we did not back down from the tough matches but pushed through with resilience and grit.<br><br>
-Although the journey was arduous, with the guidance and never-ending support, guidance and encouragements from our coach, teachers and our seniors, we have pushed through all the tough and tiring moments together. We are immensely grateful for our coach and teachers for never giving up on us and for our seniors for always having our back - being there for us always. As a SNNB family, we will always stick together and hold one another as a big part of our lives.</td>
-<td><img src="/images/06%20CCA/PS%20Netball/Picture3B.jpg"><br><img src="/images/06%20CCA/PS%20Netball/Picture4B.jpg"><br></td></tr>
+
+<tr><td style="width:50%"><b>C Division 2024</b><br><br>This year’s National School Games was truly eventful and memorable for all of us. Despite facing challenges such as injuries during the season, we stood strong, persevered, and supported one another both on and off the court. We are deeply grateful to our coach for her invaluable guidance, and to our teachers for their unwavering encouragement. A special thanks also goes to our SNNB family and parent supporters, whose cheers lifted us through every match.
+
+We are immensely proud of our team for fighting from the first whistle to the last. Even in the face of tough competition, our spirits remained unbroken as we played with pride for the glory of SN. The journey of 2025 was not only fulfilling but also deeply meaningful, reminding us of the values we hold dear—perseverance, self-belief, unity, and our unyielding “beast” spirit. These will forever remain an enduring part of our identity.</td>
+<td><img src="/images/06%20CCA/PS%20Netball/Picture1A.jpg"><br>
+	<img src="/images/06%20CCA/PS%20Netball/Picture2A.jpg"><br>
+	<img src="/images/06%20CCA/PS%20Netball/Picture3A.jpg"><br></td></tr>
 
 </tbody></table>
 
@@ -79,6 +82,7 @@ Although the journey was arduous, with the guidance and never-ending support, gu
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
 | Nationals 2025    | B Division     | Top 16     |
+| Nationals 2025     | C Division     | Top 4     |
 | North Zone 2025     | B Division     | 2nd     |
 | Nationals 2024     | B Division    | Top 16     |
 | North Zone 2024     | B Division     | 2nd     |
