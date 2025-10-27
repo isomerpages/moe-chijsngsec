@@ -9,9 +9,10 @@ variant: markdown
 
 #### **Library Society**
 
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture49.jpg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture1C.jpg" style="width:100%">
 
-<i><b>"There is more treasure in books than in all the pirates’ loot on Treasure Island and at the bottom of the Spanish Main…”<br>- Walt Disney</b></i>
+<i><b>**Library Society Website Report 2025**
+"The more that you read, the more things you will know. The more that you learn, the more places you’ll go." <br>- Dr. Seuss</b></i>
 
 In 2024, Library Society embarked on a journey of new experiences - we had various highlights such as creating ‘BookTok’ videos to publicise recommendations for the English Language and Literature Festival (ELLF 2024) on Instagram and also a translation workshop by The Little Entrepreneur to discover the wonders of language. Librarians explored books related to French culture and translation at the Alliance Française, where we learnt about the beauty of the French language and culture. We also had a workshop called BAMM Imagination, ‘Books and Mind Meet Imagination’ by CIVICA which focused on reading and creative expression, which we thoroughly enjoyed.
 
