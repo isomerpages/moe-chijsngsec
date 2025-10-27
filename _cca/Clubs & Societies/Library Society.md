@@ -96,9 +96,10 @@ On 21st February, Mr. David Balch from Civica came over to our library to conduc
 </td></tr>
 	
 <tr><td style="width:50%"><b>Exchange Visit to the Embassy of Portugal</b><br><br>
-On 21st February, Mr. David Balch from Civica came over to our library to conduct a BAMM ( Books And Minds Meet- ‘Books to Screen’ and ‘Empathy’ themes) Workshop.<br><br>Prior to the workshop, librarians were required to read the books ‘Fahrenheit 451’ by Ray Bradbury and ‘What You Are Looking For is in the Library 'by Michiko Aoyama. Our librarians adapted a scene from the latter book, and crafted a film script, complete with dialogues and descriptions for actors. This prerequisite activity was fun and the workshop was packed with interesting activities.<br><br>The librarians had fun showcasing their work and seeing each others’ ideas come to life, as we used different objects around the library as props for our scenes. Inspired by our ‘empathy’ theme, the ‘_Just for you’ activity_ challenged us to select a book for a fellow student based upon the latter’s selection of 8 words/phrases from a multi-genre word cloud. We also had a debrief session, where librarians shared their thoughts on the books they were given.</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture8C.png"><b>Workshop by Mr David Balch from CIVICA</b>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture9C.jpg"><b>Sharing our favourite genres and choosing suitable books for our friends</b>
+In March 2025, Mr. José from the Embassy of Portugal in Singapore visited our library and shared fascinating insights about Portugal and its various districts. From delectable egg tarts to the stunning Azulejo tiles, our librarians thoroughly enjoyed the informative workshop and are looking forward to more sessions like this in the future.<br><br>
+Building on this experience, each of our small groups designed their own mini board games inspired by different cities in Portugal. It was a truly enjoyable experience to try out everyone’s creations and appreciate their creativity.<br><br>In July, representatives from our two groups brought these board games to the Embassy of Portugal for an exchange visit. We listened to the embassy staff’s presentations, demonstrated the games we had created, and gave the games to the embassy as mementos. This rare and valuable experience deepened our interest in Portugal and left us eager to explore more about the country.</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture10C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture11C.jpg">
 </td></tr>
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
