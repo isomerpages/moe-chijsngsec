@@ -99,7 +99,8 @@ On 21st February, Mr. David Balch from Civica came over to our library to conduc
 In March 2025, Mr. José from the Embassy of Portugal in Singapore visited our library and shared fascinating insights about Portugal and its various districts. From delectable egg tarts to the stunning Azulejo tiles, our librarians thoroughly enjoyed the informative workshop and are looking forward to more sessions like this in the future.<br><br>
 Building on this experience, each of our small groups designed their own mini board games inspired by different cities in Portugal. It was a truly enjoyable experience to try out everyone’s creations and appreciate their creativity.<br><br>In July, representatives from our two groups brought these board games to the Embassy of Portugal for an exchange visit. We listened to the embassy staff’s presentations, demonstrated the games we had created, and gave the games to the embassy as mementos. This rare and valuable experience deepened our interest in Portugal and left us eager to explore more about the country.</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture10C.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture11C.jpg">
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture11C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture12C.jpg">
 </td></tr>
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
