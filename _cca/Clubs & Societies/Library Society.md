@@ -74,10 +74,12 @@ The first group chose the topic “Think Before You Click: How Teens Can Protect
 <tr><td style="width:50%"><b>For HSI 2025</b><br><br>
 Two sec 1 teams took part in this annual competition organised by the National Library Board.<br><br>
 Our teams won Bronze Awards for their videos and reports on Singapore’s heritage and urban development story. The two teams explored changes in two neighbourhoods over the years.</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture2C.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture3C.jpg"><b>2 teams - HSI -  Bronze Awards </b></td></tr>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture4C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture5C.jpg"><b>2 teams - HSI -  Bronze Awards </b></td></tr>
 
-<tr><td style="width:50%"><b>Read for Books VIA 2024</b><br><br>Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged.<br>For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.<br><br>Librarians who took part in this activity were able to give back to society while simultaneously nurturing a love for reading.<br><br>We organised 10 sessions in July where both librarians and other students could participate and have time to read amidst their busy schedule.</td>
+<tr><td style="width:50%"><b>Read for Books VIA 2025</b><br><br>‘Read for Books’ is a charity book drive to encourage reading and to share the joy of reading with the less privileged.<br><br>
+For every 10 people who read for 15 minutes, one book or the equivalent would be donated to selected beneficiaries by National Library Board.<br><br>Librarians who took part in this activity were able to give back to society while simultaneously nurturing a love for reading. We organised 15 sessions in July in our library so that staff, librarians and other students could participate in this meaningful activity and have the time to read amidst their busy schedule.</td>
+	
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture54.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
 </td></tr>
 	
