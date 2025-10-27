@@ -14,21 +14,17 @@ variant: markdown
 <i><b>**Library Society Website Report 2025**
 "The more that you read, the more things you will know. The more that you learn, the more places you’ll go." <br>- Dr. Seuss</b></i>
 
-In 2024, Library Society embarked on a journey of new experiences - we had various highlights such as creating ‘BookTok’ videos to publicise recommendations for the English Language and Literature Festival (ELLF 2024) on Instagram and also a translation workshop by The Little Entrepreneur to discover the wonders of language. Librarians explored books related to French culture and translation at the Alliance Française, where we learnt about the beauty of the French language and culture. We also had a workshop called BAMM Imagination, ‘Books and Mind Meet Imagination’ by CIVICA which focused on reading and creative expression, which we thoroughly enjoyed.
+In 2025, Library Society embarked on a journey of new experiences. We had various highlights such as creating ‘BookTok’ videos (on the theme ‘Ink and Intrigue’) to publicise recommendations for the annual English Language and Literature Festival (_ELLF 2025_) on Instagram, as well as a workshop conducted by Mr José from the Embassy of Portugal in Singapore to discover the wonders of the culture of Portugal. Library Society also had the opportunity to take part in a workshop conducted by CIVICA called BAMM Imagination, ‘Books and Mind Meet Imagination’, with a focus on reading and fostering creative expression, which we thoroughly enjoyed.&nbsp; This was in addition to the EL and CL book presentations which we regularly carried out to foster a love of reading and publicise our selection of books with the school community.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Library Society was also given the opportunity to attend a poetry workshop by a professor from China, where we learnt innovative ways to understand Chinese poems. To deepen our appreciation for Chinese culture, we subsequently watched the globally renowned Chinese movie ‘Hi, Mom’ which was sentimental, warm and showed a glimpse of what China was like in the 1960s.
+Two lower secondary teams took part in the Prove It! Contest 2025 organised by National Library Board. The teams were tasked with publicising their content so as to educate others on media literacy and topics related to Cybersecurity and Green technology. We are proud to announce that both teams were awarded Silver at National level for their articles and videos.
 
-One of our learning journeys this year was to the Alliance Française de Singapour, a cultural organization. We immersed ourselves in French culture and explored a gallery honouring French women athletes as well as a French Library. It was an enriching experience, fostering our appreciation for French language and culture.
+Library Society offers a wide range of enriching VIA opportunities from Secondary 1 to 4. One key opportunity includes participating in the NLB’s annual Read for Books VIA, where books are donated to underprivileged communities through partner organisations. Librarians also take part in NLB storytelling sessions for children, where we engage young audiences through lively stories and encourage them to nurture a deeper appreciation for reading. In addition, librarians can also volunteer with NLB as ambassadors to educate the public about digital literacy during road shows.
 
-Four lower secondary teams took part in English competitions organised by NLB in 2024. Our two teams did well in Prove It! Contest 2024 and were awarded Silver for Written and Bronze for the Video categories- they also had to publicise their content to the school as part of educating others on media literacy. The two HSI Challenge 2024 teams were awarded Bronze for their submissions.
+We actively initiate collaborations with other CCAs to enrich our members’ experiences and foster stronger inter-CCA ties. We hosted a bonding session with Publications this year, where members from both CCAs had the opportunity to interact and learn more about each other’s CCA. We had a Blind Book Wrapping and Contexticles sharing which enhanced our learning and provided us the opportunity to form meaningful inter- CCA friendships.
 
-Library Society provides us with many fruitful and enriching VIA opportunities from the secondary one to secondary four levels. Every year, we read newspapers to the elderly community at CDAC@Ang Mo Kio, and actively interact with them to bring them joy. We also did the NLB Read for Books 2024 in July, which was a VIA activity that enabled books to be donated to the less fortunate through various organisations. Librarians often participate in NLB storytelling events for kids, where we engage with children through lively stories and nurture a love for reading, making it a fulfilling experience for both parties. Some of us signed up with NLB on a voluntary basis for a VIA stint as VIA ambassadors to educate the public during road shows about information literacy.
+This year we also had book presentations on the theme “_If I could end the story differently_…” where we shared our creative ideas as budding writers. Library Society is optimistic about the years ahead, and looks forward to organising even more engaging activities for our members. Who knows if a budding Nobel laureate writer may someday arise from among us….
 
-We had collaborations across CCAs, such as organising a Poetry Slam competition, which was a CCA collaboration event with Chinese Drama Society, as well as an inter-CCA exchange bonding session with Publications. Students in our school had the chance to participate in the Poetry Slam competition and hone their CL poetry and drama skills. We also had a collaboration with Green Club and were able to create bookmarks together, as well as have an enjoyable bonding session with Publications in February this year where members from both CCAs interacted and learned about each other’s CCA. These activities helped us further enrich our CCA sessions and enabled us to make new friends across several CCAs.
-
-Lastly, we went on a learning journey to two different bookstores in August. We learned about interesting places in Singapore, picked up new books for ourselves and the school library, and had a whale of a time. We visited Kinokuniya at Takashimaya and Zall, the Chinese bookstore where we had a workshop to strengthen our bilingualism and encourage a love for Chinese books.
-
-Library Society is optimistic that we will have even more interesting activities next year, and looks forward to creating bright memories, with all our members growing to be well-read, erudite girls of grace.
+As a CCA, we aim to create lasting memories as our members strive to grow to be well-read, gracious women of character.
 
 <i><b>"Books and doors are the same thing. You open them, and you go through into another world."<br>~ Jeanette Winterson</b></i>
 
@@ -57,12 +53,12 @@ Library Society is optimistic that we will have even more interesting activities
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 3L</td><td>Library Society&nbsp;President</td></tr>
-<tr><td>Ho Yean Yean Grace</td><td>Sec 3P</td><td>Library Society&nbsp;Vice-&nbsp;President</td></tr>
-<tr><td>Wee Heong Ru Gabrielle</td><td>Sec 3U</td><td>Library Society&nbsp;Welfare Head</td></tr>
-<tr><td>Ng Si Hui</td><td>Sec 3C</td><td>Library Society&nbsp;Upper Sec Exe Member</td></tr>
-<tr><td>Lucia Wu</td><td>Sec 2U</td><td>Library Society&nbsp;Secretary</td></tr>
-<tr><td>Imelda Marianne Wee</td><td>Sec 2G</td><td>Library Society Lower Sec Exe Member</td></tr>
+<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 3L</td><td>President</td></tr>
+<tr><td>Ho Yean Yean Grace</td><td>Sec 3P</td><td>Vice-President</td></tr>
+<tr><td>Wee Heong Ru Gabrielle</td><td>Sec 3U</td><td>Welfare Head</td></tr>
+<tr><td>Ng Si Hui</td><td>Sec 3C</td><td>Upper Secondry Executive Member</td></tr>
+<tr><td>Lucia Wu</td><td>Sec 2U</td><td>Secretary</td></tr>
+<tr><td>Imelda Marianne Wee</td><td>Sec 2G</td><td>Lower Secondry Executive Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
