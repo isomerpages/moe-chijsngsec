@@ -83,12 +83,10 @@ For every 10 people who read for 15 minutes, one book or the equivalent would be
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture54.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
 </td></tr>
 	
-<tr><td style="width:50%"><b>Learning Journeys to Alliance Française de Singapour, Kinokuniya and Zall.</b><br><br>      
-Library Society visited Alliance Française de Singapour in March 2024, for a French lesson and tour. Led by Mr. Nikola, we practiced basic French conversation and learned about the origins of languages. The tour included La Médiathèque, a French library with over 17,000 books, a gallery honoring women athletes, and insights into cultural preservation. It was an enriching experience, fostering appreciation of the French language and culture.
-<br><br>Librarians did a trip to Kinokuniya and Zall bookstore in August to purchase books for the school library.
-<br><br>We selected a wide range of books from fiction to nonfiction and even had a delicious snack and juice session at Zall bookstore which was a small but quaint bookshop!</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture55.jpg"><b>Learning about the French language and the origins of languages</b>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture56.jpg"><b>At the quaint Zall bookshop!</b>	
+<tr><td style="width:50%"><b>Learning Journey to Kinokuniya and&nbsp; National Library (Central) STEAM Lab Festival</b><br><br>      
+On 15th August, the Sec1 and 2 librarians visited the National Library (Central) for the STEAM Lab Festival, which was organised by NLB for children and teens. This year’s theme was ‘Enter the Unknown’, and it invited us to step beyond the familiar and discover new insights about the world around us through a wide range of interactive booths, hands-on programmes, and fringe activities.<br><br>Librarians also made a trip to Kinokuniya in September to purchase both English and Chinese books for the school library.<br><br>We carefully selected a wide range of books with our teachers and librarian Ms Ellenca. Both fiction and non-fiction books were selected as requested by our student body and our librarians.
+</td><td><img src="/images/06%20CCA/CS%20Library%20Society/Picture6C.jpg"><b>STEAM Lab Festival LJ 2025</b>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture7C.jpg"><b>Trip to Kinokuniya (at Takashimaya) 2025</b>	
 </td></tr>
 	
 <tr><td style="width:50%"><b>Poetry Slam</b><br><br>In 2024, Library Society and Chinese Drama Society joined forces to organize a Poetry Slam competition. Participants crafted poems based on assigned topics and presented them verbally to an audience. Audience votes and teacher judges determined the winning group based on poem content and delivery. The competition provided students with a platform to showcase their poetry and presentation skills, fostering creativity and confidence.</td>
