@@ -65,7 +65,7 @@ As a CCA, we aim to create lasting memories as our members strive to grow to be 
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Prove It! Contest 2024 and HSI Challenge 2024 (EL NLB Competitions)</b><br><br>
+<tr><td style="width:50%"><b>Prove It! Contest 2025 and Historical Scene Investigation (HSI) Challenge 2025 (EL NLB Competitions)</b><br><br>
 Our two Lower Secondary teams were awarded Silver (Written Category) and Bronze (Video Category) in this contest organised by National Library Board. The Written Category team were required to write an article on their chosen topic of “Influencers and celebrities: “Are they a positive influence on teenagers?”. The team did extensive research, careful citations of sources, and meticulously crafted survey questions for data collection. The team had to present their article and research to the school as part of the competition’s requirements.<br><br>The Video Category team chose to create an engaging video regarding the same topic as the written category team, which garnered a Bronze award. The video was shared school-wide to create awareness of information literacy skills.
 <br><br>Historical Scene Investigation (HSI) Challenge 2024 (EL NLB Competition)<br><br>
 Two teams took part in this annual competition organised by the National Library Board - our teams won Bronze Awards for their videos and reports on Singapore’s post-independence policies and their impact on people then and now.</td>
