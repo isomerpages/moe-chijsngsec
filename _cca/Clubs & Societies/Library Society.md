@@ -83,14 +83,15 @@ For every 10 people who read for 15 minutes, one book or the equivalent would be
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture54.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
 </td></tr>
 	
-<tr><td style="width:50%"><b>Learning Journey to Kinokuniya and&nbsp; National Library (Central) STEAM Lab Festival</b><br><br>      
+<tr><td style="width:50%"><b>Learning Journey to Kinokuniya and National Library (Central) STEAM Lab Festival</b><br><br>      
 On 15th August, the Sec1 and 2 librarians visited the National Library (Central) for the STEAM Lab Festival, which was organised by NLB for children and teens. This year’s theme was ‘Enter the Unknown’, and it invited us to step beyond the familiar and discover new insights about the world around us through a wide range of interactive booths, hands-on programmes, and fringe activities.<br><br>Librarians also made a trip to Kinokuniya in September to purchase both English and Chinese books for the school library.<br><br>We carefully selected a wide range of books with our teachers and librarian Ms Ellenca. Both fiction and non-fiction books were selected as requested by our student body and our librarians.
 </td><td><img src="/images/06%20CCA/CS%20Library%20Society/Picture6C.jpg"><b>STEAM Lab Festival LJ 2025</b>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture7C.jpg"><b>Trip to Kinokuniya (at Takashimaya) 2025</b>	
 </td></tr>
 	
-<tr><td style="width:50%"><b>Poetry Slam</b><br><br>In 2024, Library Society and Chinese Drama Society joined forces to organize a Poetry Slam competition. Participants crafted poems based on assigned topics and presented them verbally to an audience. Audience votes and teacher judges determined the winning group based on poem content and delivery. The competition provided students with a platform to showcase their poetry and presentation skills, fostering creativity and confidence.</td>
-	<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture57.jpg"><b>Poetry Slam 2024</b>
+<tr><td style="width:50%"><b>Civica Workshop 2025 BAMM</b><br><br>
+On 21st February, Mr. David Balch from Civica came over to our library to conduct a BAMM ( Books And Minds Meet- ‘Books to Screen’ and ‘Empathy’ themes) Workshop.<br><br>Prior to the workshop, librarians were required to read the books ‘Fahrenheit 451’ by Ray Bradbury and ‘What You Are Looking For is in the Library 'by Michiko Aoyama. Our librarians adapted a scene from the latter book, and crafted a film script, complete with dialogues and descriptions for actors. This prerequisite activity was fun and the workshop was packed with interesting activities.<br><br>The librarians had fun showcasing their work and seeing each others’ ideas come to life, as we used different objects around the library as props for our scenes. Inspired by our ‘empathy’ theme, the ‘_Just for you’ activity_ challenged us to select a book for a fellow student based upon the latter’s selection of 8 words/phrases from a multi-genre word cloud. We also had a debrief session, where librarians shared their thoughts on the books they were given.</td>
+	<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture8C.png"><b>Workshop by Mr David Balch from CIVICA</b>
 </td></tr>
 
 <tr><td style="width:50%"><b>CL activities（华文活动)</b><br><br>与本地作家合作设计《蓝宝石号上的七天》<br><br>
