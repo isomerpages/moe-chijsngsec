@@ -125,6 +125,8 @@ Building on this experience, each of our small groups designed their own mini bo
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+|Historical Scene Investigation (HSI) Challenge 2025 |C Division <br>- 2 Teams| Bronze for both teams|
+|Prove It! Contest 2025 |C Division <br>- 2 Teams   |Silver (Written Category)<br>Bronze (Video Category)|
 |Prove It! Contest 2024 |C Division <br>- 2 Teams   |Silver (Written Category)<br>Bronze (Video Category)|
 |HSI Challenge 2024 |C Division <br>- 2 Teams| Bronze for both teams|
 |2024 年校园超级阅读明<br>星比赛（中学组） |B Division <br>- 1 Teams| Outstanding Award|
