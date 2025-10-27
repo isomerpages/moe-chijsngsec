@@ -116,8 +116,8 @@ Building on this experience, each of our small groups designed their own mini bo
 尽管制作过程并不容易，但大家始终保持热情与耐心。当看到自己辛勤付出的成果化作一段段温馨的故事视频，能够带给小朋友欢乐与启发时，同学们都感到无比的满足与自豪。通过这项活动，大家不仅锻炼了合作与沟通能力，也体会到阅读与分享故事的力量，更深刻地感受到图书馆义工工作的意义。
 	
 </td><td><img src="/images/06%20CCA/CS%20Library%20Society/Picture13C.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture14C.jpg"><b>Chinese Storytelling Challenge</b><br><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture60.jpg"><b>Chinese Poetry workshop</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture61.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture62.jpg"><b>Story Sharing as little-avid-volunteer</b>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture14C.jpg"><br><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling challenge</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture61.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture62.jpg"><b>Story Sharing as little-avid-volunteer</b>
 </td></tr>
 </tbody></table>
 
