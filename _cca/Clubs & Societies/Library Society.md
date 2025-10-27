@@ -117,7 +117,7 @@ Building on this experience, each of our small groups designed their own mini bo
 	
 </td><td><img src="/images/06%20CCA/CS%20Library%20Society/Picture13C.jpg"><br>
 <img src="/images/06%20CCA/CS%20Library%20Society/Picture14C.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling challenge</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture61.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture62.jpg"><b>Story Sharing as little-avid-volunteer</b>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture59.jpg"><b>Chinese Storytelling challenge</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture16C.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture17C.jpg"><b>Story Sharing as little-avid-volunteer</b><img src="/images/06%20CCA/CS%20Library%20Society/Picture16C.jpg"><br><img src="/images/06%20CCA/CS%20Library%20Society/Picture18C.jpg">
 </td></tr>
 </tbody></table>
 
