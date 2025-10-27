@@ -66,13 +66,16 @@ As a CCA, we aim to create lasting memories as our members strive to grow to be 
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>Prove It! Contest 2025 and Historical Scene Investigation (HSI) Challenge 2025 (EL NLB Competitions)</b><br><br>
-Our two Lower Secondary teams were awarded Silver (Written Category) and Bronze (Video Category) in this contest organised by National Library Board. The Written Category team were required to write an article on their chosen topic of “Influencers and celebrities: “Are they a positive influence on teenagers?”. The team did extensive research, careful citations of sources, and meticulously crafted survey questions for data collection. The team had to present their article and research to the school as part of the competition’s requirements.<br><br>The Video Category team chose to create an engaging video regarding the same topic as the written category team, which garnered a Bronze award. The video was shared school-wide to create awareness of information literacy skills.
-<br><br>Historical Scene Investigation (HSI) Challenge 2024 (EL NLB Competition)<br><br>
-Two teams took part in this annual competition organised by the National Library Board - our teams won Bronze Awards for their videos and reports on Singapore’s post-independence policies and their impact on people then and now.</td>
-<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture50.jpg"><b>Prove It! Contest 2024 Silver Award Winners<br><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture51.jpg"><b>Prove It! Contest 2024 Bronze Award Winners</b></b>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture52.jpg"><br>
-<img src="/images/06%20CCA/CS%20Library%20Society/Picture53.jpg"></td></tr>
+Our two Lower Secondary teams were awarded Silver in this contest organised by the National Library Board. They were required to write an article as well as produce an engaging and informative video on their chosen topic. Both the article and video were shared school-wide as part of the competition’s advocacy requirements. The team did extensive research, careful citations of sources, and conducted a survey to collect data for their topics.<br><br>
+The first group chose the topic “Think Before You Click: How Teens Can Protect Singapore’s Cyberspace”, while the second team chose “Digital Green Warriors: Can Singapore’s Teenagers Alter Our Future?”</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture2C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture3C.jpg"><b>2 teams - Prove It! Silver Awards </b></td></tr>
+
+<tr><td style="width:50%"><b>For HSI 2025</b><br><br>
+Two sec 1 teams took part in this annual competition organised by the National Library Board.<br><br>
+Our teams won Bronze Awards for their videos and reports on Singapore’s heritage and urban development story. The two teams explored changes in two neighbourhoods over the years.</td>
+<td><img src="/images/06%20CCA/CS%20Library%20Society/Picture2C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Library%20Society/Picture3C.jpg"><b>2 teams - HSI -  Bronze Awards </b></td></tr>
 
 <tr><td style="width:50%"><b>Read for Books VIA 2024</b><br><br>Read for Books is a charity book drive to raise awareness and share the gift of reading with the less privileged.<br>For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries.<br><br>Librarians who took part in this activity were able to give back to society while simultaneously nurturing a love for reading.<br><br>We organised 10 sessions in July where both librarians and other students could participate and have time to read amidst their busy schedule.</td>
 <td><img src="/images/06%20CCA/CS%20Library%20Society/Picture54.jpg"><b>Read for Books Charity Drive 2024</b><br><br>
