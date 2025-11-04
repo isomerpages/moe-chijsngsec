@@ -20,7 +20,16 @@ variant: tiptap
 <br><strong>Sale Location</strong>: School Canteen</p>
 <p><strong>2026 Sales Date</strong>
 </p>
-<p>Jan 2, 15</p>
+<p>Jan 2, 15
+<br>Feb 13
+<br>Mar 6, 27
+<br>Apr 10, 24
+<br>May
+<br>Nov 21 (P1 ONLY)
+<br>Nov 21 (P1 ONLY)
+<br>Nov 21 (P1 ONLY)
+<br>Nov 21 (P1 ONLY)</p>
+<p></p>
 <p><u>Our Ubi Outlet (Tel 6747 8037)</u>
 </p>
 <p>Strictly by appointment only: Book at <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a>
