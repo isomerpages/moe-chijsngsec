@@ -18,9 +18,8 @@ variant: tiptap
 (9am - 12pm)</p>
 <p><strong>Operating Hours</strong>: 9 am - 3 pm (9am - 12pm on 30 Dec 2025)
 <br><strong>Sale Location</strong>: School Canteen</p>
-<p><strong>2026 Sales Date</strong>
-</p>
-<p>Jan 2, 15
+<p><strong>2026 Sale Date </strong>
+<br>Jan 2, 15
 <br>Feb 13
 <br>Mar 6, 27
 <br>Apr 10, 24
