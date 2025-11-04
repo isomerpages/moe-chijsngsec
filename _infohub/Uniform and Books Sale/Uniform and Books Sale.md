@@ -8,26 +8,32 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg">
 </div>
-<h4><strong>Uniform and Books Sale</strong></h4>
+<p><strong>Uniform and Books Sale</strong>
+</p>
 <p><u>School Uniform / PE T-shirts &amp; Shorts</u>
-<br>2025 Sale Date
-<br>Jan: 02, 13
-<br>Feb 17
-<br>Mar 10, 24
-<br>Apr 07, 21
-<br>May 06 (Tue), 19
-<br>
-<br>Jul 08, 21
-<br>Aug 04, 18
-<br>Sept 15, 29
+<br><strong>2025 Sale Date </strong>
 <br>Oct 13, 27
-<br>
-</p>
-<p><strong>Time</strong>: 9 am - 3 pm
-<br><strong>Venue</strong>: School Canteen</p>
-<p><strong>Parent Entry Timing: After 2 pm</strong>
-</p>
+<br>Nov 21 (P1 ONLY)
+<br>Dec 2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels), 30 (All Levels)
+(9am - 12pm)</p>
+<p><strong>Operating Hours</strong>: 9 am - 3 pm (9am - 12pm on 30 Dec 2025)
+<br><strong>Sale Location</strong>: School Canteen</p>
+<p><strong>2026 Sale Date </strong>
+<br>Jan 2, 15
+<br>Feb 13
+<br>Mar 6, 27
+<br>Apr 10, 24
+<br>May 8, 29
+<br>Jul 3, 24
+<br>Aug 7, 21
+<br>Sept 3, 25
+<br>Oct 9, 23</p>
+<p><strong>Operating Hours</strong>: 9 am - 3 pm
+<br><strong>Walk-in purchase / Parent Entry Timing</strong>: After 2pm
+<br><strong>Sale Location</strong>: School Canteen</p>
 <p><u>Our Ubi Outlet (Tel 6747 8037)</u>
+</p>
+<p>Strictly by appointment only: Book at <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a>
 <br>Time: 10 am - 1 pm, 2 pm- 5:45 pm (Mon-Sat)
 <br>Lunch Time: 1 pm - 2 pm
 <br>Closed on Sunday and Public Holiday</p>

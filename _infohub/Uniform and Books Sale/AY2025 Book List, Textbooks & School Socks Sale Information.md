@@ -7,27 +7,19 @@ variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2024**
+#### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in   Dec 2025** 
 
-##### **Self-Collection for Online**
+<b>Home Delivery<b> <br> Delivery Charge of $14.90 applies<br>
+ 
+<b>Self-Collection for Online<b><br> Dec 2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23, 29 (Sec 1 Only), 30
 
-Time: 9am to 3pm <br>
-Nov: 27, 28, 29 <br>
-Dec: 03, 04, 05, 09, 10, 11, 16, 17, 18, 23, 26
-
-Time: 9am to 12noon <br>
-Nov: 30
+Operating Hours: Mon-Fri: 9am to 3pm, Sat: Close<br>
+**A one-time packaging fee will applied to all orders ($0.10 for plastic, $0.90 for reusable) unless the customer opts to Bring Their Own Bag (BYOD).*<br>
+Please avoid Lunch time (12pm to 1pm)<br>
+Books supplied by Pacific Bookstores Ptd Ltd. Tel: 69298012 Email: sales@pacificbookstores.com
 
 
-##### **Self-Collection for Online, Walk-In Purchase for Sec 1 Only**
-
-Time: 9am to 3pm <br>
-Dec: 27
-
-Time: 9am to 12noon <br>
-Dec: 28
-
-#### **AY2025 Book List / Textbooks &amp; School Socks Sale Information**
+#### **AY2026 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
 [S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/s1_2026.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/y1_2026.pdf)
@@ -62,4 +54,4 @@ Tel: 64569943 Tel: 64599860
 
 <b>Operating Hours :</b><br>
 Mon - Fri (within school term),<br>
-7.30am - 3.00pm<br>Payment by cash and cheque only
+7.30am - 3.00pm<br>Payment by cash and cheque only</b></b></b></b>
