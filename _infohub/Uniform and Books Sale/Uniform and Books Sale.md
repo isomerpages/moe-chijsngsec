@@ -11,17 +11,16 @@ variant: tiptap
 <p><strong>Uniform and Books Sale</strong>
 </p>
 <p><u>School Uniform / PE T-shirts &amp; Shorts</u>
-<br>2025 Sale Date
+<br><strong>2025 Sale Date </strong>
 <br>Oct 13, 27
 <br>Nov 21 (P1 ONLY)
 <br>Dec 2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels), 30 (All Levels)
-(9am - 12pm)
-<br>
-</p>
+(9am - 12pm)</p>
 <p><strong>Operating Hours</strong>: 9 am - 3 pm (9am - 12pm on 30 Dec 2025)
 <br><strong>Sale Location</strong>: School Canteen</p>
-<p><strong>Parent Entry Timing: After 2 pm</strong>
+<p><strong>2026 Sales Date</strong>
 </p>
+<p>Jan 2, 15</p>
 <p><u>Our Ubi Outlet (Tel 6747 8037)</u>
 </p>
 <p>Strictly by appointment only: Book at <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a>
