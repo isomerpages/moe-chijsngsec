@@ -24,12 +24,14 @@ variant: tiptap
 <br>Feb 13
 <br>Mar 6, 27
 <br>Apr 10, 24
-<br>May
-<br>Nov 21 (P1 ONLY)
-<br>Nov 21 (P1 ONLY)
-<br>Nov 21 (P1 ONLY)
-<br>Nov 21 (P1 ONLY)</p>
-<p></p>
+<br>May 8, 29
+<br>Jul 3, 24
+<br>Aug 7, 21
+<br>Sept 3, 25
+<br>Oct 9, 23</p>
+<p><strong>Operating Hours</strong>: 9 am - 3 pm
+<br><strong>Walk-in purchase / Parent Entry Timing</strong>: After 2pm
+<br><strong>Sale Location</strong>: School Canteen</p>
 <p><u>Our Ubi Outlet (Tel 6747 8037)</u>
 </p>
 <p>Strictly by appointment only: Book at <a href="https://shanghai-uniforms.sg/appointment-booking" rel="noopener nofollow" target="_blank">https://shanghai-uniforms.sg/appointment-booking</a>
