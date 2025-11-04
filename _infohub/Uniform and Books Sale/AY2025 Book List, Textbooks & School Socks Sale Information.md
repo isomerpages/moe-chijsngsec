@@ -7,7 +7,8 @@ variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2024**
+##### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Nov / Dec 2024** 
+<b>[Proposed Selling Dates and Time for Nov/Dec 2025 to be CONFIRMED.]<b>
 
 ##### **Self-Collection for Online**
 
@@ -27,7 +28,7 @@ Dec: 27
 Time: 9am to 12noon <br>
 Dec: 28
 
-#### **AY2025 Book List / Textbooks &amp; School Socks Sale Information**
+#### **AY2026 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
 [S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/s1_2026.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/y1_2026.pdf)
@@ -62,4 +63,4 @@ Tel: 64569943 Tel: 64599860
 
 <b>Operating Hours :</b><br>
 Mon - Fri (within school term),<br>
-7.30am - 3.00pm<br>Payment by cash and cheque only
+7.30am - 3.00pm<br>Payment by cash and cheque only</b></b>
