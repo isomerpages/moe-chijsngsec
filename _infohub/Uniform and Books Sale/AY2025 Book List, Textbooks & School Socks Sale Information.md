@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in   Dec 2025** 
 
-<b>Home Delivery<b> <br> Delivery Charge of $14.90 applies
+<b>Home Delivery<b> <br> Delivery Charge of $14.90 applies<br>
  
 <b>Self-Collection for Online<b><br> Dec 2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23, 29 (Sec 1 Only), 30
 
@@ -17,9 +17,6 @@ Operating Hours: Mon-Fri: 9am to 3pm, Sat: Close<br>
 **A one-time packaging fee will applied to all orders ($0.10 for plastic, $0.90 for reusable) unless the customer opts to Bring Their Own Bag (BYOD).*<br>
 Please avoid Lunch time (12pm to 1pm)<br>
 Books supplied by Pacific Bookstores Ptd Ltd. Tel: 69298012 Email: sales@pacificbookstores.com
-
-
-
 
 
 #### **AY2026 Book List / Textbooks &amp; School Socks Sale Information**
