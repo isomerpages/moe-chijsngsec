@@ -7,7 +7,7 @@ variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/06%20subpage%20infohub.jpg)
 
-#### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in   Dec 2025** 
+#### **Proposed Selling Dates &amp; Time for Textbooks and Stationery in Dec 2025** 
 
 <b>Home Delivery<b> <br> Delivery Charge of $14.90 applies<br>
  
