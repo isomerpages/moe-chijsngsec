@@ -22,7 +22,7 @@ Books supplied by Pacific Bookstores Ptd Ltd. Tel: 69298012 Email: sales@pacific
 #### **AY2026 Book List / Textbooks &amp; School Socks Sale Information**
 
 Sec 1/Year 1  
-[S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/s1_2026.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/y1_2026.pdf)
+[S1 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/s1__2026__rev.pdf)&nbsp; &nbsp;|&nbsp;&nbsp; [Year 1 IP Booklist.pdf](/files/06%20Infohub/Booklist/y1_2026.pdf)
 
 Sec 2/Year 2  
 [S2 O-Level Booklist.pdf](/files/06%20Infohub/Booklist/s2_2026.pdf)&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp; [Year 2 IP Booklist.pdf](/files/06%20Infohub/Booklist/y2_2026.pdf)
