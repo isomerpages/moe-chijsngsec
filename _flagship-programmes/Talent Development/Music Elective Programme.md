@@ -112,14 +112,17 @@ Arts Education Branch.</p>
 </li>
 </ul>
 <h4><strong>Admission Criteria</strong></h4>
-<p>Upon admission into the school, interested students are required to go
-through a Selection Exercise comprising listening and aural tests, an audition
-and an interview. The Selection Exercise will be held at the end of December
-for the new Sec 1 intake.</p>
+<p>Upon admission into the school, interested students are required to apply
+for the MEP and through a Selection Exercise.</p>
 <p>Application for S1 MEP will be open on the day of the release of the S1
-Posting Results. Click on <a href="https://sites.google.com/moe.edu.sg/sngs-s1-mep-admission" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
-information about the selection exercise and to submit your application.</p>
-<h4><strong>Additonal Resources</strong></h4>
+Posting Results. Click on <a href="https://go.gov.sg/sngs-s1mep-application" rel="noopener noreferrer nofollow" target="_blank">this link</a> to submit
+your application. Applicants are encouraged to submit their applications
+before Christmas Eve (24 Dec) to facilitate S1 Orientation groupings.</p>
+<p>The Selection Exercise for the new Sec 1 intake will be conducted in January
+during the MEP trial period (approximately three weeks). During this trial
+period, students will attend MEP lessons and engage in live music activities
+which include listening and aural tests, and an audition (video submission).</p>
+<h4><strong>Additional Resources</strong></h4>
 <p>For more information and resources on the MEP, please visit the following
 websites:&nbsp;</p>
 <ul>
