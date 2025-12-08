@@ -43,8 +43,8 @@ variant: markdown
 <tr><td>Charmayne Hon</td><td>Sec 3P</td><td>Vice Chairperson</td></tr>
 <tr><td>Heng Jia Yi</td><td>Sec 3D</td><td>Secretary</td></tr>
 <tr><td>Peng Rui Yan Genevieve</td><td>Sec 3T</td><td>Head of Aesthetics</td></tr>
-<tr><td>Chiam Rui Tong Isabelle</td><td>Sec 2P</td><td>Head of Welfare</td></tr>
- <tr><td>Goh Aisa</td><td>Sec 2F</td><td>Lower Sec IC</td></tr>
+<tr><td>Chiam Rui Tong Isabelle</td><td>Sec 3U</td><td>Head of Welfare</td></tr>
+ <tr><td>Goh Aisa</td><td>Sec 3G</td><td>Lower Sec IC</td></tr>
 </tbody></table>
 
 
