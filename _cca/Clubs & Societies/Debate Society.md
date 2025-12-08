@@ -31,7 +31,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mr Mohammed Khalid Kudabar </td></tr>
+<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br></td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
