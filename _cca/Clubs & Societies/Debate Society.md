@@ -43,8 +43,8 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
 <tr><td>Cao Ziyi</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
 <tr><td>Bernice Ho Gene Ya</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Yew Yi Zenn</td><td>Sec 3</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Glosotti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
+<tr><td>Yew Yi Zenn</td><td>Sec 3J</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Glossoti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
