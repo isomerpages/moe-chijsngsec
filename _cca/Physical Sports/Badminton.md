@@ -18,7 +18,7 @@ variant: markdown
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td> Indoor Sports Hall (Secondary) or School Hall</td></tr>
-<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.30 pm <br> Wednesday : 3.45 pm - 6.30 pm<br>Friday : 4.00pm - 6.30pm</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3.45 pm - 6.30 pm<br>Friday<br> 4.00pm - 6.30pm</td></tr>
 <tr><th>Instructors</th><td> 金教练</td></tr>
 </tbody></table>
 
