@@ -22,7 +22,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Wed - 2C &amp; 2D Classrooms<br>Fri - Computer Lab 1</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Wed - 2C &amp; Spare Classroom 1 (S4-L3-02 &amp; 03)<br>Fri - Computer Lab 1</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td></tr>
 <tr><th>Instructors</th><td>Mr Ian Dylan Chai</td></tr>
 </tbody></table>
