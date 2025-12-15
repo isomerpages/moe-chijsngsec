@@ -33,7 +33,7 @@ As a CCA, we aim to create lasting memories as our members strive to grow to be 
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Library</td></tr>
-<tr><th>Training Day / Time</th><td>Wednesday &amp; Friday<br>3.45 pm - 5.45 pm</td></tr><tr>
+<tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm<br>Friday<br>4.00 pm - 6.00pm</td></tr><tr>
 <th>Instructors</th><td>-</td></tr>
 </tbody></table>
 
