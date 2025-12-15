@@ -29,7 +29,7 @@ variant: markdown
 
 <table><tbody>
 <tr><th>Training / Meeting Venue</th><td>Language Room 1,2,3</td></tr> 
-<tr><th>Training Day / Time</th><td>Monday<br>3:45 pm – 6:00 pm<br>Wednesday<br>3:45 pm – 6:00 pm</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3:45 pm – 6:00 pm</td></tr>
 <tr><th>Instructors</th><td>An Chun Lai<br>Cao Lin<br>Wu Yixing<br></td></tr>
 </tbody></table>
 
