@@ -21,7 +21,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>MEP Room 1<br>MEP Practice Room<br>Selected Classrooms</td>
+    <td>MEP Room 1<br>MEP Practice Room<br>Classrooms (3J, 3L, 3T) (Wed)<br>Classrooms (3C, 3D, 3F, 4C, 4J, 4G, 4L) (odd Wed)</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
