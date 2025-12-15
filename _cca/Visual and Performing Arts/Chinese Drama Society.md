@@ -17,7 +17,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Drama Studio</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Drama Studio (S5-L3-25)</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructors</th><td>Mr Li Jia 李嘉老师<br>Ms Sun Meiling 孙美玲老师</td></tr>
 </tbody></table>
