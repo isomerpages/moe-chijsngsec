@@ -19,8 +19,8 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
-<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br></td></tr>
+<tr><th>Training / Meeting Venue</th><td>Mon, Wed, Fri<br>School Gynasium, School Fitness Gym, Bishan Park<br>Saturday<br>Bedok Reservoir (for Mid-D/ X-Ctry only)</td></tr>
+<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br>Saturday (Jan - Mar Only)<br>8.00 am - 11.00 am<br></td></tr>
 <tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xian Feng</td></tr>
 </tbody></table>
 
