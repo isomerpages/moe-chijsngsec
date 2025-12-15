@@ -20,7 +20,7 @@ Serving as a platform for members to express their artistic flair and creative t
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Art Room</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Art Room 1 &amp; 2 (S5-L1-08 &amp; 09)</td></tr>
 <tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
