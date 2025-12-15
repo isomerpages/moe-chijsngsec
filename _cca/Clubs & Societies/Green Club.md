@@ -16,7 +16,7 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Lab G</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Lab H</td></tr>
 <tr><th>Training Day / Time</th><td>Wed:    3.45 pm - 6.00 pm</td></tr>
 <tr><th>Instructors</th><td>-</td></tr>
 </tbody></table>
