@@ -35,7 +35,7 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>St John Nursing Room / Sec Parade Square / Classrooms 3L (S3-L2-01), 3P (S3-L2-02), 3T (S3-L2-03)</td></tr>
-<tr><th>Training Day / Time</th><td>Friday : 4.00 pm - 6.30 pm<br> * Selected Tuesday and/or Wednesdays: 4:00 pm – 5.30 pm (only cadets involved in District and National Competition)<br>* Selected Weekends (Typically on Saturdays): HQ courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
+<tr><th>Training Day / Time</th><td>Friday<br>4.00 pm - 6.30 pm<br>Selected Tuesday and/or Wednesdays<br>4:00 pm – 5.30 pm<br>(only cadets involved in District and National Competition)<br>Selected Weekends (Typically on Saturdays)<br>HQ courses, activities and competitions may be conducted. Based on HQ schedule.<br></td></tr>
 <tr><th>Instructors</th><td>Ms Cherilyn Lee<br>Ms Cheryl Wong<br>Ms Kimberly Lim<br>Ms Glenda Ho<br>Ms Ong Jia Yi<br>Ms Belinda Lian<br>Ms Charmaine Tan<br>Ms Laurna Sim<br>Ms Sim Khok Yin<br>Ms Chloe Sin</td></tr>
 </tbody></table>
 
