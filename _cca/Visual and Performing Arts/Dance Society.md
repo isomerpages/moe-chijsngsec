@@ -19,7 +19,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 	<td>Hall (MPH - L2-11)<br>[Dance Studio - when Hall is not available]<br></td></tr>
   
 <tr><th>Training Day / Time</th>
-<td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<td>Wed &amp; Fri<br>4.00 pm - 6.30 pm</td></tr>
 
 <tr><th>Instructors</th>
 <td>Ms Li Yingying <br>Ms Shi Yun<br>Ms Yu Liqun</td></tr>
