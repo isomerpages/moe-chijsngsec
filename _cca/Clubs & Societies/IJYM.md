@@ -39,11 +39,11 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Sophie Tan</td><td>Sec 3F</td><td>President</td></tr>
-<tr><td> Liew Jia Qi Jenna</td><td>Sec 3P</td><td>Vice President</td></tr>
-<tr><td>Mirelle Chia Ze Ann</td><td>Sec 3D</td><td>Secretary</td></tr>
-<tr><td>Tan Jing Xi Kaitlin</td><td>Sec 3U</td><td>Skills Training IC</td></tr>
-<tr><td>Tan Heng Yan</td><td>Sec 3D</td><td>Publicity IC</td></tr>
+<tr><td> Sophie Tan</td><td>Sec 4F</td><td>President</td></tr>
+<tr><td> Liew Jia Qi Jenna</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Mirelle Chia Ze Ann</td><td>Sec 4D</td><td>Secretary</td></tr>
+<tr><td>Tan Jing Xi Kaitlin</td><td>Sec 4U</td><td>Skills Training IC</td></tr>
+<tr><td>Tan Heng Yan</td><td>Sec 4D</td><td>Publicity IC</td></tr>
 <tr><td>Yeo Chen Xi</td><td>Sec 3W</td><td>Lower Secondary Exco Member</td></tr>
 <tr><td>Phua Hui Yu Ashleigh</td><td>Sec 3T</td><td>Lower Secondary Exco Member</td></tr>
 </tbody></table>
