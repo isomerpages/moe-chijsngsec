@@ -38,9 +38,9 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Koa Sze Siew </td><td>Sec 3W</td><td>Captain</td></tr>
-<tr><td>Soh Xiao Han Charis</td><td>Sec 3F</td><td>Vice - Captain</td></tr>
-<tr><td>Krisalyn Teh Hui En</td><td>Sec 2C</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Koa Sze Siew </td><td>Sec 4W</td><td>Captain</td></tr>
+<tr><td>Soh Xiao Han Charis</td><td>Sec 4F</td><td>Vice - Captain</td></tr>
+<tr><td>Krisalyn Teh Hui En</td><td>Sec 3G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
