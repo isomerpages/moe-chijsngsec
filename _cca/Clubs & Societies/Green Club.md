@@ -39,10 +39,10 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Chan Weng Yee Gabrielle</td><td>Sec 3H</td><td>Chairperson</td></tr>
-<tr><td>Charmayne Hon</td><td>Sec 3P</td><td>Vice Chairperson</td></tr>
-<tr><td>Heng Jia Yi</td><td>Sec 3D</td><td>Secretary</td></tr>
-<tr><td>Peng Rui Yan Genevieve</td><td>Sec 3T</td><td>Head of Aesthetics</td></tr>
+<tr><td>Chan Weng Yee Gabrielle</td><td>Sec 4H</td><td>Chairperson</td></tr>
+<tr><td>Charmayne Hon</td><td>Sec 4P</td><td>Vice Chairperson</td></tr>
+<tr><td>Heng Jia Yi</td><td>Sec 4D</td><td>Secretary</td></tr>
+<tr><td>Peng Rui Yan Genevieve</td><td>Sec 4T</td><td>Head of Aesthetics</td></tr>
 <tr><td>Chiam Rui Tong Isabelle</td><td>Sec 3U</td><td>Head of Welfare</td></tr>
  <tr><td>Goh Aisa</td><td>Sec 3G</td><td>Lower Sec IC</td></tr>
 </tbody></table>
