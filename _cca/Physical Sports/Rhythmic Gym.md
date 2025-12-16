@@ -40,9 +40,9 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Megan Pang Rui Eun</td><td>Sec 4L</td><td>Captain</td></tr>
+<tr><td>Megan Pang Rui Eun</td><td>Sec 4J</td><td>Captain</td></tr>
 <tr><td>Sarah Chong Xuan Ling</td><td>Sec 4J</td><td>Vice-Captain</td></tr>
-<tr><td>Eleisha Goh Wen Min</td><td>Sec 3</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Eleisha Goh Wen Min</td><td>Sec 3W</td><td>Lower Secondary Coordinator</td></tr>
 <tr><td>Teo Shaoen Jazzelle</td><td>Sec 4T</td><td>Sports Leader</td></tr>
 <tr><td>Natalie Claire Lim</td><td>Sec 3T</td><td>Sports Leader</td></tr>
 <tr><td>Sarah Lily Tan Yi En</td><td>Sec 3G</td><td>Sports Leader</td></tr>	
