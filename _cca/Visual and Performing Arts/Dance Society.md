@@ -19,7 +19,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 	<td>Hall (MPH - L2-11)<br>[Dance Studio - when Hall is not available]<br></td></tr>
   
 <tr><th>Training Day / Time</th>
-<td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
+<td>Wed &amp; Fri<br>4.00 pm - 6.30 pm</td></tr>
 
 <tr><th>Instructors</th>
 <td>Ms Li Yingying <br>Ms Shi Yun<br>Ms Yu Liqun</td></tr>
@@ -42,14 +42,14 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 3L</td><td>CCA Chairperson</td></tr>
-<tr><td>Lim Wen Xuan</td><td>Sec 3P</td><td>CCA Vice-Chairperson</td></tr>
-<tr><td>Megan Koh Rui En</td><td>Sec 3J</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Elizabeth Lim Min En</td><td>Sec 3P</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Kristen Low Pei Qi</td><td>Sec 2C</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Kim Jua</td><td>Sec 2P</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Chea Jia Qian Sophia</td><td>Sec1P</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Lee Xin Ci</td><td>Sec 1U</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 4L</td><td>CCA Chairperson</td></tr>
+<tr><td>Lim Wen Xuan</td><td>Sec 4P</td><td>CCA Vice-Chairperson</td></tr>
+<tr><td>Megan Koh Rui En</td><td>Sec 4J</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Elizabeth Lim Min En</td><td>Sec 4P</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Kristen Low Pei Qi</td><td>Sec 3F</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Kim Jua</td><td>Sec 3L</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Chea Jia Qian Sophia</td><td>Sec2P</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Lee Xin Ci</td><td>Sec 2U</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 

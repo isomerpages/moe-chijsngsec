@@ -21,7 +21,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>MEP Room 1<br>MEP Practice Room<br>Selected Classrooms</td>
+    <td>MEP Room 1<br>MEP Practice Room<br>Classrooms (3J, 3L, 3T) (Wed)<br>Classrooms (3C, 3D, 3F, 4C, 4J, 4G, 4L) (odd Wed)</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
@@ -56,97 +56,97 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   </tr>
   <tr>
     <td>Chloe Tan Li En</td>
-    <td>Sec 3W</td>
+    <td>Sec 4W</td>
     <td>President</td>
   </tr>
   <tr>
     <td>Chia Choy Ann</td>
-    <td>Sec 3P</td>
+    <td>Sec 4P</td>
     <td>Vice President/Discipline</td>
   </tr>
   <tr>
     <td>Kate Lee Yu Fei</td>
-    <td>Sec 3T</td>
+    <td>Sec 4T</td>
     <td>Secretary</td>
   </tr>
   <tr>
     <td>Lui Jia Xi, Karis</td>
-    <td>Sec 3P</td>
+    <td>Sec 4P</td>
     <td>Librarian</td>
   </tr>
   <tr>
     <td>Koh Chi Chin</td>
-    <td>Sec 3F</td>
+    <td>Sec 4F</td>
     <td>Quater Mistress</td>
   </tr>
   <tr>
     <td>Shayanne Lee Rui Xuan</td>
-    <td>Sec 3J</td>
+    <td>Sec 4J</td>
     <td>Welfare Officer/Communication Officer</td>
   </tr>
 	<tr>
     <td>Chuah Christine Natalie</td>
-    <td>Sec 2L</td>
+    <td>Sec 3P</td>
     <td>Assistant Secretary</td>
   </tr>
   <tr>
     <td>Zhang Ruiying</td>
-    <td>Sec 2C</td>
+    <td>Sec 3F</td>
     <td>Assistant Welfare Officer</td>
   </tr>
   <tr>
     <td>Loh Tze Xuan, Janine</td>
-    <td>Sec 2L</td>
+    <td>Sec 3W</td>
     <td>Assistant Quater Mistress</td>
   </tr>
   <tr>
     <td>Victoria Heidi Hartanto</td>
-    <td>Sec 2F</td>
+    <td>Sec 3D</td>
     <td>Assistant Librarian</td>
   </tr>
   <tr>
     <td>Tan Shi En Grace</td>
-    <td>Sec 3L</td>
+    <td>Sec 4L</td>
     <td>Concert Mistress/Violin 1 Section Leader</td>
 		</tr>
   <tr>
     <td>Celeste Faith Wong Ji Syun</td>
-    <td>Sec 3F</td>
+    <td>Sec 4F</td>
     <td>Student Conductor</td>
   </tr>
   <tr>
     <td>Lim Ying Xuan, Anabelle</td>
-    <td>Sec 3T</td>
+    <td>Sec 4T</td>
     <td>Section Leader: Violin 2</td>
   </tr>
  <tr>
     <td>Isabella Seet Jing Ying</td>
-    <td>Sec 3T</td>
+    <td>Sec 4T</td>
     <td>Section Leader: Viola</td>
   </tr>
   <tr>
     <td>Chia Choy Ann</td>
-    <td>Sec 3P</td>
+    <td>Sec 4P</td>
     <td>Section Leader : Cello</td>
   </tr>
  <tr>
     <td>Celeste Faith Wong Ji Syun</td>
-    <td>Sec 3F</td>
+    <td>Sec 4F</td>
     <td>Section Leader : Double Bass</td>
   </tr>
  <tr>
     <td>Chan Qian Ru Jade</td>
-    <td>Sec 3T</td>
+    <td>Sec 4T</td>
     <td>Level Coordinator: Sec 4</td>
   </tr>
  <tr>
     <td>Chong Yong Qing</td>
-    <td>Sec 2F</td>
+    <td>Sec 3C</td>
     <td>Level Coordinator: Sec 3</td>
   </tr>
  <tr>
     <td>Yip Ching Sue, Megan Elyse</td>
-    <td>Sec 1U</td>
+    <td>Sec 2U</td>
     <td>Level Coordinator: Sec 2</td>
   </tr>
 </tbody></table>

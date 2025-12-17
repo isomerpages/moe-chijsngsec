@@ -22,7 +22,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>MPR 1, 2, 3</td>
+    <td>MPR 1, 2, Dance Studio</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>

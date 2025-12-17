@@ -22,7 +22,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Wed - 2C &amp; 2D Classrooms<br>Fri - Computer Lab 1</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Wed - 2C &amp; Spare Classroom 1 (S4-L3-02 &amp; 03)<br>Fri - Computer Lab 1</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td></tr>
 <tr><th>Instructors</th><td>Mr Ian Dylan Chai</td></tr>
 </tbody></table>
@@ -31,7 +31,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br>Mr Mohammed Khalid Kudabar </td></tr>
+<tr><td><b>Mrs Chong Mei Ling</b><br>Ms Tan Chork Meng<br></td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
@@ -43,8 +43,8 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
 <tr><td>Cao Ziyi</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
 <tr><td>Bernice Ho Gene Ya</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Yew Yi Zenn</td><td>Sec 3</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Glosotti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
+<tr><td>Yew Yi Zenn</td><td>Sec 3J</td><td>Upper Sec Debate Comm Member</td></tr>
+<tr><td>Glossoti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**

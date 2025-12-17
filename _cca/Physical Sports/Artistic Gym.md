@@ -19,8 +19,8 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>School Gynasium</td></tr>
-<tr><th>Training Day / Time</th><td> Monday &amp; Wednesday: 3.45 - 6.30 pm<br>Friday: 4.00 - 6.30 pm<br></td></tr>
+<tr><th>Training / Meeting Venue</th><td>School Gymnasium</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3.45 - 6.30 pm<br>Friday : 4.00 - 6.30 pm<br>*Sat : 8.30 am - 11.30 am <br>*Only during National School Games Season (Feb - Apr only)</td></tr>
 <tr><th>Coaches</th><td>Ms Yuan Kexia<br>Mr Zhao Sheng<br>Mr He Xian Feng</td></tr>
 </tbody></table>
 

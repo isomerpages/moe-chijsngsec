@@ -17,7 +17,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>Drama Studio</td></tr>
+<tr><th>Training / Meeting Venue</th><td>Drama Studio (S5-L3-25)</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3.45 pm - 6.30 pm<br>Fri: 4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructors</th><td>Mr Li Jia 李嘉老师<br>Ms Sun Meiling 孙美玲老师</td></tr>
 </tbody></table>
@@ -41,12 +41,12 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 3L</td><td>主席 President</td></tr>
-<tr><td>Tay Suyin (Zheng Shiying) 鄭诗颖</td><td>Sec 3L</td><td>副主席 Vice President</td></tr>
-<tr><td>Ngan Kwan Ying 颜光莹</td><td>Sec 3C</td><td>演出组长 Head of Performance </td></tr>
-<tr><td>Ou Xuan Ning, Trinette 侯萱嬣</td><td>Sec 3D</td><td>总务 Head of Logistics</td></tr>
-<tr><td>Lian Lifang 连俪芳</td><td>Sec 2G</td><td> 活动组长 Head of Events</td></tr>
-<tr><td>Chen Wan Ru, Felise 陈琬茹</td><td>Sec 2D</td><td> 福利组长 Head of Welfare</td></tr>
+<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 4L</td><td>主席 President</td></tr>
+<tr><td>Tay Suyin (Zheng Shiying) 鄭诗颖</td><td>Sec 4L</td><td>副主席 Vice President</td></tr>
+<tr><td>Ngan Kwan Ying 颜光莹</td><td>Sec 4C</td><td>演出组长 Head of Performance </td></tr>
+<tr><td>Ou Xuan Ning, Trinette 侯萱嬣</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
+<tr><td>Lian Lifang 连俪芳</td><td>Sec 3F</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Chen Wan Ru, Felise 陈琬茹</td><td>Sec 3F</td><td> 福利组长 Head of Welfare</td></tr>
 </tbody></table>
 
 

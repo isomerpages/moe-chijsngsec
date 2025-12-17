@@ -23,9 +23,9 @@ We strive to do our best in all our performances. We are blessed to have a dedic
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th>
-<td>AVA Room</td></tr>
+<td>AVA Room (S5-L3-07)<br>Lang Rooms 1, 2 &amp; 3</td></tr>
 <tr><th>Training Day / Time</th>
-<td>Wednesday  3.45 pm - 6.15 pm and Friday 4.00 pm - 6.30 pm</td></tr>
+<td>Wednesday<br>3.45 pm - 6.15 pm<br>Friday<br>4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
 <td>Miss Lim Ai Hooi (Conductor)</td></tr>
 </tbody>

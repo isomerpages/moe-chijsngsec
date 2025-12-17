@@ -17,8 +17,8 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td> Indoor Sports Hall (Secondary) or School Hall</td></tr>
-<tr><th>Training Day / Time</th><td>Monday : 3.45 pm - 6.30 pm <br> Wednesday : 3.45 pm - 6.30 pm<br>Friday : 4.00pm - 6.30pm</td></tr>
+<tr><th>Training / Meeting Venue</th><td> Indoor Sports Hall (Sec) (Wed, Fri) or School Hall (Mon)</td></tr>
+<tr><th>Training Day / Time</th><td>Monday &amp; Wednesday<br>3.45 pm - 6.30 pm<br>Friday<br> 4.00pm - 6.30pm</td></tr>
 <tr><th>Instructors</th><td> 金教练</td></tr>
 </tbody></table>
 
@@ -38,9 +38,9 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Koa Sze Siew </td><td>Sec 3W</td><td>Captain</td></tr>
-<tr><td>Soh Xiao Han Charis</td><td>Sec 3F</td><td>Vice - Captain</td></tr>
-<tr><td>Krisalyn Teh Hui En</td><td>Sec 2C</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Koa Sze Siew </td><td>Sec 4W</td><td>Captain</td></tr>
+<tr><td>Soh Xiao Han Charis</td><td>Sec 4F</td><td>Vice - Captain</td></tr>
+<tr><td>Krisalyn Teh Hui En</td><td>Sec 3G</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
