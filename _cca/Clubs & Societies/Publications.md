@@ -29,7 +29,7 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Victor Francis</b><br>Mrs Uma Jacob<br>Ms Phua Meow Noi</td></tr>
+<tr><td>Mrs Uma Jacob</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2025)**
