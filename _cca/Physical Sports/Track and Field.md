@@ -35,7 +35,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Kho Qi En Shermaine<br>Ms Chia Yan Qi Audrey<br>Mr Tan Chin Guan<br>Mr Kwan Hoi Soon<br></td></tr>
+<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Chia Yan Qi Audrey<br>Mr Tan Chin Guan<br>Mr Kwan Hoi Soon<br>Ms Cai Shu Jia</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (current year)**
@@ -47,13 +47,13 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Aletheia Charis Lim Rae-Er</td><td>Sec 4D</td><td>Captain</td></tr>
-<tr><td>Guok Xue Qian</td><td>Sec 4F</td><td>Vice - Captain</td></tr>
-<tr><td>Jayna Seah Si En</td><td>Sec 4D</td><td>Sprints &amp; Hurdles Leader </td></tr>
-<tr><td>Seah Jia Xin Isabelle</td><td>Sec 4P</td><td>Jumps Leader</td></tr>
-<tr><td>Kara Teng Ke Xuan</td><td>Sec 4J</td><td>Middle Distance Leader</td></tr>
-<tr><td>Lee Xing Hui, Rachel</td><td>Sec 4C</td><td>Throws Leader</td></tr>
-<tr><td>Wang Minqi </td><td>Sec 2P</td><td>Lower Sec Coordinator </td></tr>
+<tr><td>Ally Patt Yu Tian</td><td>Sec 4T</td><td>Captain</td></tr>
+<tr><td>Chan Le Xuan Faith</td><td>Sec 4G</td><td>Vice - Captain</td></tr>
+<tr><td>Trinity Faith Leong Xinzhen</td><td>Sec 3U</td><td>Sprints &amp; Hurdles Leader </td></tr>
+<tr><td>Og Hui En</td><td>Sec 4G</td><td>Jumps Leader</td></tr>
+<tr><td>Magdalene Lin Minhui</td><td>Sec 4T</td><td>Middle Distance Leader</td></tr>
+<tr><td>Tham Sze Kei, Jazelle</td><td>Sec 4W</td><td>Throws Leader</td></tr>
+<tr><td>Kimberly</td><td>Sec 2C</td><td>Lower Sec Coordinator </td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
