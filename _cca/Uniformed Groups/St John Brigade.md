@@ -67,19 +67,12 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Annual Camps</b><br><br>        
+<tr><td style="width:50%"><b>Annual Camps</b><br><br>Annual camps provide cadets with opportunities to demonstrate resilience and perseverance. Cadets deepen their first aid and home nursing knowledge and skills through structured activities during camp.<br><br>Camps also include activities such as outdoor cooking and Amazing Races. These shared experiences allow cadets to bond with their squadmates and strengthen teamwork. A strong sense of camaraderie is developed in line with the motto: One for all, all for one!</td>
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture1C.jpg" style="width:100%"></td></tr>
 
-Annual camps provide cadets with opportunities to demonstrate resilience and perseverance. Cadets deepen their first aid and home nursing knowledge and skills through structured activities during camp.
-
-Camps also include activities such as outdoor cooking and Amazing Races. These shared experiences allow cadets to bond with their squadmates and strengthen teamwork. A strong sense of camaraderie is developed in line with the motto: One for all, all for one!</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
-
-<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br> Our cadets participate in the 2025 First Aid and Home Nursing Competitions organised by St John HQ.
-
-At the District level, our Nursing Adult teams were crowned District champions and first runner up; our Nursing Cadet obtained first runner up. </td>
+<tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br> Our cadets participate in the 2025 First Aid and Home Nursing Competitions organised by St John HQ.<br><br>At the District level, our Nursing Adult teams were crowned District champions and first runner up; our Nursing Cadet obtained first runner up. </td>
 	
-<td><img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg"><br>
-	<img src="/images/06%20CCA/UG%20St%20John/Picture6B.jpg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture6B.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.
 
