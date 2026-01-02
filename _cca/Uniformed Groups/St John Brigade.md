@@ -42,7 +42,7 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 #### **Teachers-in-Charge :**
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Fatmah Talib</b><br>Ms Melanie Chee<br>Mdm Haslinda Bte Safiee</td></tr>
+<tr><td><b>Ms Fatmah Talib</b><br>Mr Tan Chin Guan<br>Mr Damien Lee Ming Xuan</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2025-2026)**
@@ -54,12 +54,12 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Ang Hui Ya Keona</td><td>Sec 3D</td><td>Overall-in-charge</td></tr>
-<tr><td> Tanya Koh</td><td>Sec 3W</td><td>Assistant-in-charge</td></tr>
-<tr><td> Angelina Chai Xiang Hui</td><td>Sec 3L</td><td>Secretary</td></tr>
-<tr><td> Teh En Theng<br>Tan Jing Ning Stacie</td><td>Sec 3G<br>Sec 3P</td><td> Head of Cadet Proficiency Badge Scheme</td></tr>
-<tr><td> Huang Xianglin Jade</td><td>Sec 3F</td><td>Discipline Mistress</td></tr>
-<tr><td> Megon Lek Yu Yan</td><td>Sec 3W</td><td>Quarter Mistress</td></tr>
+<tr><td> Ang Hui Ya Keona</td><td>Sec 4D</td><td>Overall-in-charge</td></tr>
+<tr><td> Tanya Koh</td><td>Sec 4W</td><td>Assistant-in-charge</td></tr>
+<tr><td> Angelina Chai Xiang Hui</td><td>Sec 4L</td><td>Secretary</td></tr>
+<tr><td> Teh En Theng<br>Tan Jing Ning Stacie</td><td>Sec 4G<br>Sec 4P</td><td> Head of Cadet Proficiency Badge Scheme</td></tr>
+<tr><td> Huang Xianglin Jade</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
+<tr><td> Megon Lek Yu Yan</td><td>Sec 4W</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 
@@ -67,7 +67,11 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Annual Camps</b><br><br>Our annual camps allow our cadets to demonstrate resilience and perseverance. Cadets also acquire essential first aid and home nursing knowledge and skills.<br><br>Our camps also include engaging activities such as outdoor cooking and Amazing Races that allow our cadets to bond with their squadmates. This develops a strong sense of camaraderie within through our unfaltering motto - One for All, All for One!</td>
+<tr><td style="width:50%"><b>Annual Camps</b><br><br>        
+
+Annual camps provide cadets with opportunities to demonstrate resilience and perseverance. Cadets deepen their first aid and home nursing knowledge and skills through structured activities during camp.
+
+Camps also include activities such as outdoor cooking and Amazing Races. These shared experiences allow cadets to bond with their squadmates and strengthen teamwork. A strong sense of camaraderie is developed in line with the motto: One for all, all for one!</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB1.jpeg"></td></tr>
 
 <tr><td style="width:50%"><b>First Aid and Home Nursing Competitions</b><br><br> Our cadets participate in the 2025 First Aid and Home Nursing Competitions organised by St John HQ.
@@ -77,7 +81,9 @@ At the District level, our Nursing Adult teams were crowned District champions a
 <td><img src="/images/06%20CCA/UG%20St%20John/Picture1.jpg"><br>
 	<img src="/images/06%20CCA/UG%20St%20John/Picture6B.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.<br><br>Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
+<tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.
+
+Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
 
 <tr><td style="width:50%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. While performing public duties at community events, cadets are attached to experienced officers and medical professionals. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
