@@ -77,7 +77,7 @@ Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and 
 <tr><td style="width:50%"><b>National Day Celebrations</b><br><br>Our cadets regularly participate in our school’s annual National Day Celebrations. Through events such as this, cadets learn how to work together as a contingent and build resilience as they brave the elements.
 
 Some of our cadets have also been invited to be part of the St John Brigade contingent at the National Day Parade.</td>
-<td><img src="/images/06%20CCA/UG%20St%20John/SJB5.jpeg"></td></tr>	
+<td><img src="/images/06%20CCA/UG%20St%20John/Picture2C.jpg"></td></tr>	
 
 <tr><td style="width:50%"><b>Public Duty</b><br><br>Our cadets perform voluntary first aid duties during various school and community events. While performing public duties at community events, cadets are attached to experienced officers and medical professionals. Such duties also provide cadets an opportunity to practice their first aid skills.</td>
 <td><img src="/images/06%20CCA/UG%20St%20John/SJB6.jpeg"></td></tr>	
