@@ -35,7 +35,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Chia Yan Qi Audrey<br>Mr Tan Chin Guan<br>Mr Kwan Hoi Soon<br>Ms Cai Shu Jia</td></tr>
+<tr><td><b>Miss Susan Lim (HOD / PE &amp; CCA)</b><br>Ms Lee Le Xin Francoise (Overall I/C)<br>Mr Koh Wen Jin, Marcus (2nd I/C)<br>Ms Chia Yan Qi Audrey<br>Mr Ng Jun Kiat<br>Ms Cai Shu Jia</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (current year)**
