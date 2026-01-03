@@ -67,5 +67,5 @@ find a list of charities and NGOs in Singapore.</p>
 <p>
 <br>
 </p>
-<p><strong>Click </strong>
+<p><strong>Click</strong>
 </p>
