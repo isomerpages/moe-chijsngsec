@@ -64,8 +64,3 @@ values of empathy, compassion, and active citizenship.</p>
 <h5><strong>Opportunities/Organisations</strong></h5>
 <p>Click <a href="https://sngs-via-directory.base44.app/Home" rel="noopener nofollow" target="_blank">here</a> to
 find a list of charities and NGOs in Singapore.</p>
-<p>
-<br>
-</p>
-<p><strong>Click</strong>
-</p>
