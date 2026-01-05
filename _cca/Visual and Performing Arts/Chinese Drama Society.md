@@ -54,7 +54,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>CDS Library VIA 2023&amp;2024</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
+<tr><td style="width:50%"><b>CDS Library VIA 2024</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>QIHANG 启航 2024 </b><br><br>Performance Titles:<br>1.  《银手镯》<br>
