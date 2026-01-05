@@ -41,9 +41,9 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Artistic Gymnastics Committee</u></b><br><br></caption>
-<tbody><tr><td>Ashleigh Lim Siqi</td><td>Sec 4F</td><td>Captain</td></tr>
-<tr><td>Emma Ong Yu Si</td><td>Sec 3G</td><td>Vice-Captain</td></tr>
-<tr><td>Kate Peh En Ya</td><td>Sec 2G</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Emma Ong Yu Si</td><td>Sec 4D</td><td>Captain</td></tr>
+<tr><td>Ada Tan Yunqi</td><td>Sec 3C</td><td>Vice-Captain</td></tr>
+<tr><td>Cheng Min Lok Clara</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
  <table style="width:100%">
@@ -54,9 +54,9 @@ Besides training for competitions, our gymnasts are exposed to a wide range of a
 <th style="width:30%">Position</th>
 </tr>
 </tbody><caption><b><u>Trampoline Committee</u></b><br><br></caption>
-<tbody><tr><td>Ang Ying Qi Vera</td><td>Sec 4W</td><td>Captain</td></tr>
-<tr><td>Xannin Kang</td><td>Sec 3F</td><td>Vice-Captain</td></tr>
-<tr><td>Chooi Rui Shi Haley</td><td>Sec 2U</td><td>Lower Secondary Coordinator</td></tr>
+<tbody><tr><td>Xaninn Kang</td><td>Sec 4F</td><td>Captain</td></tr>
+<tr><td>Chooi Rui Shi Haley</td><td>Sec 3P</td><td>Vice-Captain</td></tr>
+<tr><td>Ng Kai Qi Caris</td><td>Sec 2P</td><td>Lower Secondary Coordinator</td></tr>
 </tbody></table>
 
 

@@ -27,7 +27,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Phang Lee Shia 彭栎霞老师</b><br>Ms Zhao Haiping 赵海萍老师<br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br></td>
+			<td><b>Ms Zhao Haiping 赵海萍老师</b><br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br>Ms Toh Shiow Ling 卓秀玲老师</td>
   </tr>
 </tbody>
 </table>
@@ -41,12 +41,12 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 4L</td><td>主席 President</td></tr>
-<tr><td>Tay Suyin (Zheng Shiying) 鄭诗颖</td><td>Sec 4L</td><td>副主席 Vice President</td></tr>
-<tr><td>Ngan Kwan Ying 颜光莹</td><td>Sec 4C</td><td>演出组长 Head of Performance </td></tr>
-<tr><td>Ou Xuan Ning, Trinette 侯萱嬣</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
-<tr><td>Lian Lifang 连俪芳</td><td>Sec 3F</td><td> 活动组长 Head of Events</td></tr>
-<tr><td>Chen Wan Ru, Felise 陈琬茹</td><td>Sec 3F</td><td> 福利组长 Head of Welfare</td></tr>
+<tr><td>Li Zhuoran 李卓燃</td><td>Sec 4L</td><td>主席 President</td></tr>
+<tr><td>Chen Wan Ru,Felise 陈婉茹</td><td>Sec 4F</td><td>副主席 Vice President</td></tr>
+<tr><td>Lu Yutong 卢禹彤</td><td>Sec 4F</td><td>演出组长 Head of Performance </td></tr>
+<tr><td>Chua Xin Yue Alison 蔡心悦</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
+<tr><td>Ong Yi Xin 王忆芯</td><td>Sec 3J</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Zhao Yuner 赵允儿</td><td>Sec 3C</td><td> 福利组长 Head of Welfare</td></tr>
 </tbody></table>
 
 
@@ -54,7 +54,11 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>CDS Library VIA 2023&amp;2024</b><br><br>华会在宏茂桥图书馆为孩子们演出了精彩的故事。这些故事是改编后的故事，包含着人生中的一些大道理，很好地教育了孩子如何踏上人生道路。</td>
+<tr><td style="width:50%"><b>新加坡青少年艺术节 2025 Singapore Youth Festival Arts Presentation for Drama</b><br><br>新加坡青少年艺术节是两年一次的大型比赛，华会今年参与其中，呈现了精彩的表演《残缺的美》。在准备过程中，会员们与老师们和教练合作，积极参与剧本创作、道具制作与演出排练。这不仅是一次成功的演出，更是推动会员们成长的重要一环。</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/picture1c.jpg"><br><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/picture2c.jpg"></td></tr>
+
+
+<tr><td style="width:50%"><b>CDS Library VIA 2024</b><br><br>华会在宏茂桥图书馆通过表演与互动，为孩子们呈现了精彩的故事。这些演出由童话改编，包含着人生中的一些美德和道理，带领孩子们成长与进步。</td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>QIHANG 启航 2024 </b><br><br>Performance Titles:<br>1.  《银手镯》<br>
@@ -74,6 +78,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| 2025 Singapore Youth Festival<br>Arts Presentation for Drama    | Secondary School     | Certificate of Accomplishment     |
 | 2023 Singapore Youth Festival<br>Arts Presentation for Drama    | Secondary School     | Certificate of Accomplishment     |
 | 2021 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Distinction     |
 | 2019 Singapore Youth Festival<br>Arts Presentation for Drama     | Secondary School     | Certificate of Accomplishment     |

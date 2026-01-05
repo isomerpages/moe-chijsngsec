@@ -40,7 +40,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Juliet Huang<br>Mrs Hema Khaira</td></tr>
+<tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Vilochana D/O Veloo<br>Ms Haslinda Bte Shafiee</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2024 - 2025)**
