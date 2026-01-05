@@ -54,8 +54,8 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>CDS Library VIA 2024</b><br><br>华会在宏茂桥图书馆通过表演与互动，为孩子们呈现了精彩的故事。这些演出由童话改编，包含着人生中的一些美德和道理，带领孩子们成长与进步。</td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/Picture17.jpg"></td></tr>
+<tr><td style="width:50%"><b>新加坡青少年艺术节 2025 Singapore Youth Festival Arts Presentation for Drama</b><br><br>新加坡青少年艺术节是两年一次的大型比赛，华会今年参与其中，呈现了精彩的表演《残缺的美》。在准备过程中，会员们与老师们和教练合作，积极参与剧本创作、道具制作与演出排练。这不仅是一次成功的演出，更是推动会员们成长的重要一环。</td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/picture1c.jpg"><br><img src="/images/06%20CCA/VPA%20Chinese%20Drama%20Society/picture2c.jpg"></td></tr>
 
 
 <tr><td style="width:50%"><b>CDS Library VIA 2024</b><br><br>华会在宏茂桥图书馆通过表演与互动，为孩子们呈现了精彩的故事。这些演出由童话改编，包含着人生中的一些美德和道理，带领孩子们成长与进步。</td>
