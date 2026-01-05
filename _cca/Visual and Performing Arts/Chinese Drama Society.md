@@ -41,12 +41,12 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Zhang Haowen, Wendy 张昊雯</td><td>Sec 4L</td><td>主席 President</td></tr>
-<tr><td>Tay Suyin (Zheng Shiying) 鄭诗颖</td><td>Sec 4L</td><td>副主席 Vice President</td></tr>
-<tr><td>Ngan Kwan Ying 颜光莹</td><td>Sec 4C</td><td>演出组长 Head of Performance </td></tr>
-<tr><td>Ou Xuan Ning, Trinette 侯萱嬣</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
-<tr><td>Lian Lifang 连俪芳</td><td>Sec 3F</td><td> 活动组长 Head of Events</td></tr>
-<tr><td>Chen Wan Ru, Felise 陈琬茹</td><td>Sec 3F</td><td> 福利组长 Head of Welfare</td></tr>
+<tr><td>Li Zhuoran 李卓燃</td><td>Sec 4L</td><td>主席 President</td></tr>
+<tr><td>Chen Wan Ru,Felise 陈婉茹</td><td>Sec 4F</td><td>副主席 Vice President</td></tr>
+<tr><td>Lu Yutong 卢禹彤</td><td>Sec 4F</td><td>演出组长 Head of Performance </td></tr>
+<tr><td>Chua Xin Yue Alison 蔡心悦</td><td>Sec 4D</td><td>总务 Head of Logistics</td></tr>
+<tr><td>Ong Yi Xin 王忆芯</td><td>Sec 3J</td><td> 活动组长 Head of Events</td></tr>
+<tr><td>Zhao Yuner 赵允儿</td><td>Sec 3C</td><td> 福利组长 Head of Welfare</td></tr>
 </tbody></table>
 
 
