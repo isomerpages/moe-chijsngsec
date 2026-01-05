@@ -12,23 +12,25 @@ variant: markdown
 
 <img src="/images/06%20CCA/UG%20St%20John/Picture5B.jpg" style="width:75%">
 
+St John Brigade Singapore (SJB) seeks to instill self-discipline and to promote teamwork among students.<br><br>Students will learn basic first aid knowledge, which includes Home Nursing and Basic/Advanced CPR techniques. They will also engage in vigorous foot-drill and physical training sessions to build up their stamina. Students may then apply the skills learnt at the annual District and National Competitions . Our motto is Pro _Utilitate Hominum_ (For The Service of Mankind) and this is instilled in the cadets as they engage in Public Duty services, where they apply their practical skills into real-world context. Our cadets have provided first aid and relief efforts at numerous school events as well as various national platforms.
 
-St John Brigade (SJB) Singapore seeks to instil self-discipline in students and to promote teamwork among students.&nbsp;  
-  
-Students will learn basic first aid knowledge, which includes Home Nursing and Basic/Advanced CPR techniques. They will also engage in vigorous foot-drill and physical training sessions to build up their stamina. Students then apply the skills learnt in Zonal and National Competitions, which are held every year.  
-  
-Our motto is&nbsp;_Pro Utilitate Hominum_&nbsp;(For The Service of Mankind) and this is instilled in the cadets as they engage in Public Duty services, where they apply their practical skills into real-world context. Our cadets have provided first aid and relief efforts at numerous school events as well as various national platforms.&nbsp;  
-  
-<b>The St John Pledge</b>:  
-  
-<i>1. To be loyal to Singapore and the President of the Republic&nbsp;  
-2. To upkeep the honour and dignity of the Brigade and my Country&nbsp;  
-3. To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind&nbsp;  
-4. To be loyal to the Chief Commissioner and all my Officers&nbsp;  
-5. To read the Brigade Regulations and to comply with them in all respects&nbsp;  
-6. To carry out all orders received from time to time from seniors&nbsp;  
-7. To carry out my duties with zeal and efficiency to the best of my ability&nbsp;  
-8. To be courteous and honest in all my words and actions</i>  
+**The St John Pledge:**
+
+_1._&nbsp;&nbsp;&nbsp;&nbsp; _To be loyal to Singapore and the President of the Republic_
+
+_2._&nbsp;&nbsp;&nbsp;&nbsp; _To upkeep the honour and dignity of the Brigade and my Country_
+
+_3._&nbsp;&nbsp;&nbsp;&nbsp; _To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind_
+
+_4._&nbsp;&nbsp;&nbsp;&nbsp; _To be loyal to the Chief Commissioner and all my Officers_
+
+_5._&nbsp;&nbsp;&nbsp;&nbsp; _To read the Brigade Regulations and to comply with them in all respects_
+
+_6._&nbsp;&nbsp;&nbsp;&nbsp; _To carry out all orders received from time to time from seniors_
+
+_7._&nbsp;&nbsp;&nbsp;&nbsp; _To carry out my duties with zeal and efficiency to the best of my ability_
+
+_8._&nbsp;&nbsp;&nbsp;&nbsp; _To be courteous and honest in all my words and actions_
 
 #### **CCA Information :**
 
