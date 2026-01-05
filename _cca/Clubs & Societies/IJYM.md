@@ -30,7 +30,7 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Teo</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025/2026)**
 
 <table style="width:100%">
 <tbody>
@@ -39,13 +39,13 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Sophie Tan</td><td>Sec 4F</td><td>President</td></tr>
-<tr><td> Liew Jia Qi Jenna</td><td>Sec 4P</td><td>Vice President</td></tr>
-<tr><td>Mirelle Chia Ze Ann</td><td>Sec 4D</td><td>Secretary</td></tr>
-<tr><td>Tan Jing Xi Kaitlin</td><td>Sec 4U</td><td>Skills Training IC</td></tr>
-<tr><td>Tan Heng Yan</td><td>Sec 4D</td><td>Publicity IC</td></tr>
-<tr><td>Yeo Chen Xi</td><td>Sec 3W</td><td>Lower Secondary Exco Member</td></tr>
-<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 3T</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Yeo Chen Xi</td><td>Sec 3W</td><td>President</td></tr>
+<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 3T</td><td>Vice President</td></tr>
+<tr><td>Lim Huai Rou</td><td>Sec 3P</td><td>Secretary</td></tr>
+<tr><td>Thong Yu Hang</td><td>Sec 3D</td><td>Skills Training IC</td></tr>
+<tr><td>Joy Teo Xin Yu</td><td>Sec 3T</td><td>Publicity IC</td></tr>
+<tr><td>Adelia Lee Yi Suan</td><td>Sec 2C</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Chua Jing Yi Jaime</td><td>Sec 2U</td><td>Lower Secondary Exco Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
