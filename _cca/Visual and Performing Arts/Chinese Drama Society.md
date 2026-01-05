@@ -27,7 +27,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Phang Lee Shia 彭栎霞老师</b><br>Ms Zhao Haiping 赵海萍老师<br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br></td>
+			<td><b>Ms Zhao Haiping 赵海萍老师</b><br>Ms Jacqueline Lim Xin Yi 林欣仪老师<br>Ms Toh Shiow Ling 卓秀玲老师</td>
   </tr>
 </tbody>
 </table>
