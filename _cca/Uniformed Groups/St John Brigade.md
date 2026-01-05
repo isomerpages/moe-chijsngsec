@@ -12,18 +12,16 @@ variant: markdown
 
 <img src="/images/06%20CCA/UG%20St%20John/Picture5B.jpg" style="width:75%">
 
-St John Brigade Singapore (SJB) seeks to instill self-discipline and to promote teamwork among students.<br>Students will learn basic first aid knowledge, which includes Home Nursing and Basic/Advanced CPR techniques. They will also engage in vigorous foot-drill and physical training sessions to build up their stamina. Students may then apply the skills learnt at the annual District and National Competitions . Our motto is Pro _Utilitate Hominum_ (For The Service of Mankind) and this is instilled in the cadets as they engage in Public Duty services, where they apply their practical skills into real-world context. Our cadets have provided first aid and relief efforts at numerous school events as well as various national platforms.
+**St John Brigade (SJB)** seeks to develop disciplined and responsible cadets who are committed to serving the public and the wider school community.<br><br>Our programme is built on three key pillars:<br>
+1.&nbsp;&nbsp;&nbsp;&nbsp; First Aid Knowledge<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp; Home Nursing Skills<br>
+3.&nbsp;&nbsp;&nbsp;&nbsp; Foot Drills
+<br><br>Through structured training, cadets develop essential life-saving and caregiving skills. First aid and home nursing training equip cadets with the confidence to respond calmly and effectively in emergency situations. These skills are reinforced through regular practice and application during public duty events in school and in the wider community. Cadets are attached to first aid posts where they apply their training in real world contexts.
+<br><br>Foot drill training also forms an integral part of the programme. These sessions build discipline, resilience, coordination and teamwork.
+<br><br>Our programme also enhances leadership skills and character development. Cadets are given progressive opportunities to take on responsibilities and grow in confidence over their four years in SJB Through training and leadership development, cadets learn to serve others competently and with integrity. This commitment is guided by our motto:
 
-**The St John Pledge:**
-
-1. To be loyal to Singapore and the President of the Republic
-2. To upkeep the honour and dignity of the Brigade and my Country
-3. To observe the mottoes of the Order, which are "Pro Fide" – For the Faith, "Pro Utilitate Hominum" – For the Service of Mankind
-4. To be loyal to the Chief Commissioner and all my Officers
-5. To read the Brigade Regulations and to comply with them in all respects
-6. To carry out all orders received from time to time from seniors
-7. To carry out my duties with zeal and efficiency to the best of my ability
-8. To be courteous and honest in all my words and actions_
+**Pro Fide, Pro Utilitate Hominum**
+<br>For the Faith, For the service of mankind
 
 #### **CCA Information :**
 
