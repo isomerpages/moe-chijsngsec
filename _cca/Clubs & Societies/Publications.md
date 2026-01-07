@@ -29,7 +29,7 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 
 <table style="width:100%">
 <tbody>
-<tr><td>Mrs Uma Jacob</td></tr>
+<tr><td>Mdm Hema Latha d/o Sahadevan<br>Ms Lau Siew Min Rachel</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2025)**
