@@ -15,7 +15,5 @@ variant: markdown
 3. [VIA Proposal Self-Assessment Tool](https://sngs-via-proposal-checker.base44.app)<br>(for students to check their proposal drafts before submitting)
     
 <b>**Self-Registered VIA Activities with External Organisations**</b>
-1.  [2026 Self-Registered VIA Activity Endorsement Form](https://docs.google.com/forms/d/e/1FAIpQLSfO7J0teiijYT9kzXGMmVMclPKSaRHuHqPR0PxVxgSt3Ft0-w/viewform) (to be completed by student after volunteer activity)
-2. Flowchart for Student-Initiated and Self-Registered VIA Projects/Activities (PDF) [here](https://drive.google.com/file/d/1kQL7SxJdI13rW8N1ahpTnSi4_cW6lpns/view?usp=sharing)
-
-**VIA@SNGS FAQ** [here](https://docs.google.com/document/d/1vQaHE30hNqSZdSFScdHpoQj3Ep1Z0M33GKBYxHdrILA/edit?tab=t.0)
+<br>[2026 Self-Registered VIA Activity Endorsement Form](https://docs.google.com/forms/d/e/1FAIpQLSfO7J0teiijYT9kzXGMmVMclPKSaRHuHqPR0PxVxgSt3Ft0-w/viewform)<br>(to be completed by student after volunteer activity) 
+<br><br>**VIA@SNGS FAQ** [here](https://docs.google.com/document/d/1vQaHE30hNqSZdSFScdHpoQj3Ep1Z0M33GKBYxHdrILA/edit?tab=t.0)
