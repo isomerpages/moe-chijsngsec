@@ -40,13 +40,13 @@ relationships based on love and respect (which are the foundation for strong
 families);
 <br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible
 decisions for yourself, your family and society; and
-<br>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a
 holistic manner through the school curriculum.&nbsp;The content for Sexuality
