@@ -158,7 +158,8 @@ in dating vary among individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.
+of self.</p>
+<p><em>[For Co-ed Schools] </em>
 <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -185,8 +186,9 @@ on matters related to sexuality – masturbation and pornography. Students
 will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions._</em>
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p><em>[For Co-ed Schools] </em>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,6 +284,7 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.
+<br><em>[For Co-ed Schools] </em>
 <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
