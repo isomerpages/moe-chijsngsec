@@ -40,13 +40,13 @@ relationships based on love and respect (which are the foundation for strong
 families);
 <br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible
 decisions for yourself, your family and society; and
-<br>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.
 <br>
 <br>You may&nbsp;click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
 on MOE Sexuality Education.</p>
-<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2025</strong>
+<p><strong>Overview of CHIJ St Nicholas Girls’ School (Sec) Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a
 holistic manner through the school curriculum.&nbsp;The content for Sexuality
@@ -158,7 +158,8 @@ in dating vary among individuals</p>
 sexual grooming and on respecting one’s right to safety. Students will
 also learn about the legal provisions against sexual abuse, and the impact
 of sexual abuse on victims, including the psychological impact on the sense
-of self.
+of self.</p>
+<p><em>[For Co-ed Schools] </em>
 <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -185,8 +186,9 @@ on matters related to sexuality – masturbation and pornography. Students
 will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions._</em>
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p><em>[For Co-ed Schools] </em>
+<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,6 +284,7 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.
+<br><em>[For Co-ed Schools] </em>
 <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
@@ -505,9 +508,7 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· understand that the value of a person is not tied to one’s gender and
-not conforming to gender stereotypes does not negate one’s gender identity.
-<br>· understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>· understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations.
 <br>· know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
