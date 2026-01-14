@@ -508,9 +508,7 @@ to reframe their perspectives and not judge others based on their own or
 others’ values and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>· understand that the value of a person is not tied to one’s gender and
-not conforming to gender stereotypes does not negate one’s gender identity.
-<br>· understand what gender stereotypes comprise, e.g. notions of masculinity
+<p>· understand what gender stereotypes comprise, e.g. notions of masculinity
 and femininity vary over time and space, and are shaped by societal expectations.
 <br>· know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
