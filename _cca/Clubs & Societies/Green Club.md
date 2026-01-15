@@ -45,7 +45,7 @@ variant: markdown
 <tr><td>Zhou Peicen Rebecca</td><td>Sec 4P</td><td>Head of Aesthetics</td></tr>
 <tr><td>Ang Zi Yan Kayla</td><td>Sec 4U</td><td>Head of Welfare</td></tr>
  <tr><td>Loh Zi Wei Joylyn</td><td>Sec 3F</td><td>Lower Sec IC</td>
-	<td>Au Yong Ning</td><td>Sec 3T</td><td>Lower Sec IC</td></tr>
+	</tr><tr><td>Au Yong Ning</td><td>Sec 3T</td><td>Lower Sec IC</td></tr>
 </tbody></table>
 
 
