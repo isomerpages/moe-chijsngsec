@@ -27,7 +27,7 @@ In SNTT, members have a variety of opportunities to develop character and leader
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Mrs Lily Tan</td></tr>
+<tr><td><b>Mr Wan Yew Boon</b><br>Mr Tan Yong Meng<br>Ms Phang Lee Shia</td></tr>
 </tbody></table>
 
 ##### **Student Executive Committee (current year)**
@@ -39,9 +39,9 @@ In SNTT, members have a variety of opportunities to develop character and leader
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Kimberly Gan Yuxin</td><td>Sec 4U</td><td>Captain</td></tr>
-<tr><td>Lim Heng Xuan, Chavelle</td><td>Sec 4G</td><td>Vice Captain</td></tr>
-<tr><td>Yang Xiao Yu</td><td>Sec 2W</td><td>'C' Division Captain</td></tr>
+<tr><td>Ong Yu Han Geraldine</td><td>Sec 4W</td><td>Captain</td></tr>
+<tr><td>Yeo Zi Luck</td><td>Sec 4D</td><td>Vice Captain</td></tr>
+<tr><td>Tang Wen Yi</td><td>Sec 2T</td><td>'C' Division Captain</td></tr>
 </tbody></table>
 
 ##### **CCA Highlights**
