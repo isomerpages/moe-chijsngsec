@@ -92,4 +92,5 @@ S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| 2025 Singapore Youth Festival<br>Arts Presentation     | Chinese Orchestra (Full Orchestra)     | Certificate of Distinction     |
 | 2023 Singapore Youth Festival<br>Arts Presentation     | Chinese Orchestra (Full Orchestra)     | Certificate of Distinction     |
