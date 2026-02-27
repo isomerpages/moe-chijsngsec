@@ -40,12 +40,12 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Megan Pang Rui Eun</td><td>Sec 4J</td><td>Captain</td></tr>
-<tr><td>Sarah Chong Xuan Ling</td><td>Sec 4J</td><td>Vice-Captain</td></tr>
-<tr><td>Eleisha Goh Wen Min</td><td>Sec 3W</td><td>Lower Secondary Coordinator</td></tr>
-<tr><td>Teo Shaoen Jazzelle</td><td>Sec 4T</td><td>Sports Leader</td></tr>
-<tr><td>Natalie Claire Lim</td><td>Sec 3T</td><td>Sports Leader</td></tr>
-<tr><td>Sarah Lily Tan Yi En</td><td>Sec 3G</td><td>Sports Leader</td></tr>	
+<tr><td>Eleisha Goh Wen Min</td><td>Sec 4W</td><td>Captain</td></tr>
+<tr><td>Sarah Lily Tan Yi En</td><td>Sec 4G</td><td>Vice-Captain</td></tr>
+<tr><td>Zhou Shuhui</td><td>Sec 3D</td><td>Lower Secondary Coordinator</td></tr>
+<tr><td>Natalie Claire Lim</td><td>Sec 4T</td><td>Sports Leader</td></tr>
+<tr><td>Teo Rui Han</td><td>Sec 3C</td><td>Sports Leader</td></tr>
+<tr><td>Guwe Jia Jing Kyra</td><td>Sec 3F</td><td>Sports Leader</td></tr>	
 </tbody></table>
 
 #### **CCA Highlights**
