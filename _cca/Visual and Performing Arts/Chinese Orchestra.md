@@ -11,7 +11,7 @@ variant: markdown
 
 <img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture28.jpg" style="width:100%">
 
-Inaugurated in 1992, St. Nicholas Chinese Orchestra (SNCO) started off with a few individuals interested in certain instruments. Initially, there were only dizi and pipa classes.
+Inaugurated in 1992, St. Nicholas Chinese Orchestra (SNCO) started off with a few individuals interested in certain instruments. Initially, there were only dizi and pipa classes.<p></p>
 
 Gradually, interest spread and a few enthusiastic girls sent a proposal to the principal Mrs Hwang-Lee Poh See to start a Chinese Orchestra as a Co-Curricular Activity, backing their plan up with the reason that St Nicholas was a Chinese school. From the small handful of students, our orchestra has expanded to its current 70 odd members.
 
@@ -29,7 +29,7 @@ S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2
 <tr>
 <th>Training Day / Time</th><td>Monday: 3.45 pm - 6.30 pm<br>Friday: 4.00 pm - 6.30 pm</td></tr>
 <tr>
-<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Ms Tan Joon Chin<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Sebastian Yio</td></tr>
+<th>Instructors</th><td>Mr Chin Yen Choong (Conductor)<br>Mr Tony Ang Ting Leong<br>Ms Zhang Yin<br>Mr Danny Ng<br>Ms Cheng Tzu Ting<br>Ms Guo Xiaojin<br>Mr Jacky Ng<br>Mr Sebastian Yio</td></tr>
 </tbody>
 </table>
 
@@ -37,7 +37,7 @@ S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Lim Hwee Chin</b><br>Mr David Chang<br>Ms Elizabeth Goh</td></tr>
+<tr><td><b>Ms Lim Hwee Chin</b><br>Mr David Chang<br>Ms Elizabeth Goh<br>Mr Terence Tan<br>Mdm Wong Wei Ling</td></tr>
  </tbody>
 </table>
 
@@ -50,18 +50,18 @@ S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Dou Peiqi</td><td>Sec 4G</td><td>President</td></tr>
-<tr><td>Chloe Sim</td><td>Sec 4C</td><td>Vice President</td></tr>
-<tr><td>Nina Yee</td><td>Sec 4P</td><td>Secretary</td></tr>
-<tr><td>Ang Yi Xuan</td><td>Sec 4C</td><td>Student Conductor</td></tr>
-<tr><td>Calista Wong</td><td>Sec 4D</td><td>Publicity Director</td></tr>
-<tr><td>Cheong Ying Xuan</td><td>Sec 4D</td><td>Welfare Director</td></tr>	
-<tr><td>Kaitlyn Lee</td><td>Sec 4T</td><td>Quarter Mistress</td></tr>	
-<tr><td>Ariel Koh</td><td>Sec 4L</td><td>Laxian Sectional Leader</td></tr>
-<tr><td>Xu Chenyini</td><td>Sec 4P</td><td>Tanbo Sectional Leader </td></tr>
-<tr><td>Joy Tang</td><td>Sec 4F</td><td>Cello-Bass Sectional Leader</td></tr>
-<tr><td>Yap Zi Qi</td><td>Sec 4H</td><td>Woodwind Sectional Leader</td></tr>
-<tr><td>Christabelle Loo</td><td>Sec 4D</td><td>Daji Sectional Leader</td></tr>
+<tr><td>Koh Ler Yi</td><td>Sec 4T</td><td>President</td></tr>
+<tr><td>Lau Geng Swee Alivia</td><td>Sec 4P</td><td>Vice President</td></tr>
+<tr><td>Low Zhi Qing</td><td>Sec 4W</td><td>Secretary</td></tr>
+<tr><td>Lim Xiu En</td><td>Sec 4P</td><td>Student Conductor</td></tr>
+<tr><td>Shona Koh Yi Ping</td><td>Sec 4D</td><td>Resource Director</td></tr>
+	<tr><td>Hu Congqi</td><td>Sec 3P</td><td>Publicity Director</td></tr>
+<tr><td>Seraphina Wijaya</td><td>Sec 4C</td><td>Welfare Director</td></tr>	
+<tr><td>Lu Yijin Jelena</td><td>Sec 4P</td><td>Laxian Sectional Leader</td></tr>
+<tr><td>Ashley Chan Pei Xuan</td><td>Sec 4J</td><td>Tanbo Sectional Leader </td></tr>
+<tr><td>Soh En Qi Phoebe</td><td>Sec 4J</td><td>Cello-Bass Sectional Leader</td></tr>
+<tr><td>Leanne Sim</td><td>Sec 4U</td><td>Woodwind Sectional Leader</td></tr>
+<tr><td>Kaitlynn Teo Ting Rui</td><td>Sec 4C</td><td>Daji Sectional Leader</td></tr>
 </tbody></table>
 
 
