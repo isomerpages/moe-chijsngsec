@@ -33,12 +33,13 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <td><b>Ms Lee Ruo-Ning</b><br>Mrs Ow-Kok Choy Yoke<br>Mrs Liesa Chin<br>Ms Chen Jiehui<br>Mdm Yeo Buay Kee</td></tr>
 </tbody></table>
 
-##### **Instructors**
+#### **Instructors**
 
 <table style="width:100%">
 <tbody><tr>
 <td><b>Ms Li Yingying</b><br>Ms HaoNa</td></tr>
 </tbody></table>
+
 #### **Student Executive Committee (2024 - 2025)**
 
 <table style="width:100%">
@@ -48,14 +49,14 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Arieanna Lozano Zoei Rodriguez</td><td>Sec 4L</td><td>CCA Chairperson</td></tr>
-<tr><td>Lim Wen Xuan</td><td>Sec 4P</td><td>CCA Vice-Chairperson</td></tr>
-<tr><td>Megan Koh Rui En</td><td>Sec 4J</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Elizabeth Lim Min En</td><td>Sec 4P</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Kristen Low Pei Qi</td><td>Sec 3F</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Kim Jua</td><td>Sec 3L</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
-<tr><td>Chea Jia Qian Sophia</td><td>Sec2P</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
-<tr><td>Lee Xin Ci</td><td>Sec 2U</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Kim Jua</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>⁠Mikayla Seah Tian Xin</td><td>Sec 4C</td><td>Vice President</td></tr>
+<tr><td>⁠Lau Dianne</td><td>Sec 4P</td><td>Sec 4 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Soh Yu Xin</td><td>Sec 4U</td><td>Sec 4 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Ang Ning Xuan Paige (Hong Ningxuan)</td><td>Sec 3W</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Chye Yu Tong Lyvia</td><td>Sec 3F</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Lim Rui Ying Jenessa</td><td>Sec2T</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Ethel Soh Rui Ci</td><td>Sec 2F</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 
