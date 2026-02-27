@@ -9,9 +9,9 @@ variant: markdown
 
 #### **IJYM**
 
-<img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg" style="width:75%">
+<img src="/images/06%20CCA/CS%20IJYM/Picture2C.jpg" style="width:75%">
 
-IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that address the needs of people in the community especially those who are disadvantaged in any way.
+The CHIJ Youth Mission provides an enabling environment for students to recognize and promote the dignity of human beings, especially the disadvantaged. SN IJYM is one out of the 5 IJ Secondary Schools and we engage in collaborative activities to further our mission.
 
 #### **CCA Information**
 
@@ -27,10 +27,10 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
  <tbody>
 <tr>
-<td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Teo</td></tr>
+<td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025/2026)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody>
@@ -39,13 +39,13 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Yeo Chen Xi</td><td>Sec 3W</td><td>President</td></tr>
-<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 3T</td><td>Vice President</td></tr>
-<tr><td>Lim Huai Rou</td><td>Sec 3P</td><td>Secretary</td></tr>
-<tr><td>Thong Yu Hang</td><td>Sec 3D</td><td>Skills Training IC</td></tr>
-<tr><td>Joy Teo Xin Yu</td><td>Sec 3T</td><td>Publicity IC</td></tr>
-<tr><td>Adelia Lee Yi Suan</td><td>Sec 2C</td><td>Lower Secondary Exco Member</td></tr>
-<tr><td>Chua Jing Yi Jaime</td><td>Sec 2U</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Yeo Chen Xi</td><td>Sec 4W</td><td>President</td></tr>
+<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 4T</td><td>Vice President</td></tr>
+<tr><td>Lim Huai Rou</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Thong Yu Hang</td><td>Sec 4D</td><td>Skills Training IC</td></tr>
+<tr><td>Joy Teo Xin Yu</td><td>Sec 4T</td><td>Publicity IC</td></tr>
+<tr><td>Adelia Lee Yi Suan</td><td>Sec 3C</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Chua Jing Yi Jaime</td><td>Sec 3U</td><td>Lower Secondary Exco Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
