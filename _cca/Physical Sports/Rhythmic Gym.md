@@ -61,8 +61,8 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 </tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 5 gymnasts</td>
 <td><img src="/images/06%20CCA/PS%20RGym/Picture4.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Sports Camp 2024</b><br><br>Bonding Games</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture5.jpg"></td></tr>	
+<tr><td style="width:50%"><b>Sports Camp</b><br><br>Kayaking</td>
+<td><img src="/images/06%20CCA/PS%20RGym/Picture1C.jpg"></td></tr>	
 
 </tbody></table>
 
