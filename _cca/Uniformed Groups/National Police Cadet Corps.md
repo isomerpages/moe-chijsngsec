@@ -82,14 +82,14 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 <tr><td style="width:40%"><b>Camps</b><br><br>Cadets are involved in various camps throughout their 4 years with NPCC. Activities will include outdoor survival training skills, adventure training and campfires.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/NPCC1.jpeg"></td></tr>
   
-<tr><td style="width:40%"><b>Drill Competition</b><br><br>Our cadets participated in the first CSI (Crime Scene Investigation) Competition this year.</td>
-<td><img src="/images/06%20CCA/UG%20NPCC/PictureA.jpg"></td></tr>
+<tr><td style="width:40%"><b>CC and CSI Competitions</b><br><br>Our cadets participated in the CC (Camp Craft) and CSI (Crime Scene Investigation) Competitions.</td>
+<td><img src="/images/06%20CCA/UG%20NPCC/Picture9C.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>Outdoor Cooking</b><br><br>Cadets whipping up a feast using traditional outdoor cooking methods.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/NPCC3.jpeg"></td></tr>
 
 <tr><td style="width:40%"><b>Parades</b><br><br>Cadets representing the unit at various parades including the NPCC Annual Parade, National Day parade as well as the school very own National Day Observance Ceremony.</td>
-<td><img src="/images/06%20CCA/UG%20NPCC/Picture2.jpg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20NPCC/Picture10C.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>Police Youth Ambassador</b><br><br>Our cadets sharing SGSecure and Cybercrime information with residents that stay near the school as part of the Police Youth Ambassador program.</td>
 <td><img src="/images/06%20CCA/UG%20NPCC/Picture3.jpg"></td></tr>
@@ -99,8 +99,11 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| GOTC II Virtual Tournament 2025  | All     |Team: Second Runner-Up   |
+| NPCC Inter Unit Camp Craft Competition 2025  | Secondary Schools     | Bronze    |
+| NPCC Inter Unit .22 Revolver Shooting Competition 2025  | Secondary Schools     | Team 1: 2nd<br>Team 2: 5th<br>Individual: 2nd and 5th    |
 | Unit Overall Proficiency Award 2024  | Secondary Schools     | Distinction    |
-| GOTC II Virtual Tournament 2024  | Secondary Schools     |  Team A: Gold<br>Team B: Bronze<br> Individual: Silver    |
+| GOTC II Virtual Tournament 2024  | All     |  Team A: Gold<br>Team B: Bronze<br> Individual: Silver    |
 | NPCC Inter Unit Drills Competition 2024  | Secondary Schools     | Bronze    |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2024  | Secondary Schools     | Team 1 : 4th     |
 | N.E.mation! 2024  | Student Category     | Team Friends of the CUHmunity: <br> 2nd runner up and People’s Choice     |
