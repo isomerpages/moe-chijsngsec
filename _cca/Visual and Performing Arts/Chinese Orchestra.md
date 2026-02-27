@@ -73,8 +73,8 @@ S3-L1-04 (1F), S3-L1-05 (1G), S4-L2-01 (1P), S4-L2-02 (1T), S4-L2-03 (1U), S4-L2
 <td style="width:50%"><b>April 2025 SYF Arts Presentation</b><br>Chinese Orchestra participated in the biennale SYF Arts Presentation (Full Orchestra Category) and is proud to have achieved the Certificate of Distinction<br></td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture11C.png"></td></tr>
 
-<tr><td style="width:50%"><b>April 2025 SYF Arts Presentation</b><br><br></td>
-<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture11C.png"></td></tr>
+<tr><td style="width:50%"><b>March 2025 SCO Concert-in-Progress</b><br><br></td>
+<td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture12C.png"></td></tr>
 	
 <tr><td style="width:50%"><b>August 2024 Performance at Kebun Baru CC National Day Dinner</b><br><br></td>
 <td><img src="/images/06%20CCA/VPA%20Chinese%20Orchestra/Picture29.jpg"></td></tr>
