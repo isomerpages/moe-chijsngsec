@@ -71,5 +71,6 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| Annual Inter-school IJYM Competition 2024|-|  Certificate of Distinction|
+| Annual Inter-school IJYM Competition 2025|-|  Certificate of Distinction|
+| Annual Inter-school IJYM Competition 2024  |-|  Certificate of Distinction|
 | Annual Inter-school IJYM Competition 2023  |-|  Certificate of Distinction|
