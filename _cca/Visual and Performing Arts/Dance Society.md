@@ -57,6 +57,8 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <tr><td>Chye Yu Tong Lyvia</td><td>Sec 3F</td><td>Sec 3 Level-Coordinator (International Dance)</td></tr>
 <tr><td>Lim Rui Ying Jenessa</td><td>Sec2T</td><td>Sec 2 Level-Coordinator (Chinese Dance)</td></tr>
 <tr><td>Ethel Soh Rui Ci</td><td>Sec 2F</td><td>Sec 2 Level-Coordinator (International Dance)</td></tr>
+<tr><td>Charlotte Yap Jia Yu</td><td>Sec 1G</td><td>Sec 1 Level-Coordinator (Chinese Dance)</td></tr>
+<tr><td>Oh Jia Xuan</td><td>Sec 1G</td><td>Sec 1 Level-Coordinator (International Dance)</td></tr>
 </tbody>
 </table>
 
