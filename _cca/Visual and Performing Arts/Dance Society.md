@@ -66,12 +66,21 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 
 <table style="width:100%">
 <tbody><tr>
-</tr><tr><td style="width:50%"><b>2026 Chinese New Year School Performance</b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance_.jpg"><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance.jpg"></td></tr>	
+</tr><tr><td style="width:50%"><b>2026 Chinese New Year School Performance</b><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance_.jpg"></td>
+<td><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance.jpg"></td></tr>	
 
-<tr><td style="width:50%"><b>2026 Chinese New Year School Performance</b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2025_ndp_performance.jpg"></td></tr>		
+<tr><td style="width:50%"><b>2025 Dance Camp</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2025_dance_camp.jpg"></td></tr>		
 
+<tr><td style="width:50%"><b>2025 National Day Parade</b><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2025_ndp_performance.jpg"></td>
+<td><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2025_national_day_parade.jpg"><br><img src="/images/06%20CCA/VPA%20Dance%20Society/2025_national_day_parade_.jpg"></td></tr>	
+
+<tr><td style="width:50%"><b>2024 Jubilate XIV (International Dance)</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2024_jubilate_XIV__modern_dance_.jpg"></td></tr>		
+
+<tr><td style="width:50%"><b>2024 Jubilate XIV (Chinese Dance)</b></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2024_jubilate_XIV__chinese_dance_.jpg"></td></tr>			
+	
 </tbody></table>
 
 
