@@ -27,9 +27,10 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 </tbody></table>
 
 #### **Teachers-in-charge**
-Teacher Officers<table style="width:100%">
+<table style="width:100%">
 <tbody>
-<tr><th style="width:40%">Officer-in-Command</th><td>Mdm Lee Keat Peng</td></tr><tr><td>Mr Chang Zhang</td></tr>
+<tr><td><b>Officer-in-Command<br>Mdm Lee Keat Peng</b><br><br>Teacher Officers<br>
+	Mr Chang Zheng</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2025 - 2026)**
@@ -42,32 +43,32 @@ Teacher Officers<table style="width:100%">
   </tr>
   <tr>
     <td>Tham Jing Yun</td>
-    <td>Sec 3P</td>
+    <td>Sec 4P</td>
     <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
     <td>Sng Yew En Shevonne</td>
-    <td>Sec 3F</td>
+    <td>Sec 4F</td>
     <td>Field Instructress</td>
   </tr>
   <tr>
     <td>Ng Ze Ting Brenda<br> Ng Jing Qi, Verilyn</td>
-		<td>Sec 3F<br>Sec 3G</td>
+		<td>Sec 4F<br>Sec 4G</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
     <td>Li Zi'en, Janelle<br>Jovana Huang</td>
-    <td>Sec 3C<br>Sec 3L</td>
+    <td>Sec 4C<br>Sec 4L</td>
     <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
     <td>Chen Jing Xi<br>Shannon Wong Yi Shyan</td>
-    <td>Sec 3L<br>Sec 3L</td>
+    <td>Sec 4L<br>Sec 4L</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
     <td>Ho Wan Leum (He Wanlin), Isabelle<br>Lim Jia Ning Ashlyn</td>
-    <td>Sec 3J<br>Sec 3U</td>
+    <td>Sec 4J<br>Sec 4U</td>
     <td>Sec 1 Squad-in-charge</td>
   </tr>
 </tbody></table>
