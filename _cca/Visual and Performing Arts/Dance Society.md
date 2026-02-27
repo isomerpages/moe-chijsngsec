@@ -67,39 +67,8 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <table style="width:100%">
 <tbody><tr>
 
-<td style="width:50%"><b>2023 &nbsp;Singapore Youth Festival Arts Presentation (Chinese Dance)</b><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture7.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture8.jpg"></td></tr>	
-
-<tr><td style="width:50%"><b>2023 Singapore Youth Festival Arts Presentation (International Dance)</b>
-<img src="/images/06%20CCA/VPA%20Dance%20Society/Picture6.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture5.jpg">
-<img src="/images/06%20CCA/VPA%20Dance%20Society/Picture4.jpg"></td></tr>	
-
-<tr><td style="width:50%"><b>2023 Dance Camp</b><br>
-<img src="/images/06%20CCA/VPA%20Dance%20Society/Picture1.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture2.jpg"></td></tr>	
-
-
-<tr><td style="width:50%"><b>2023 &nbsp;Singapore Youth Festival Arts Presentation (Chinese Dance)</b><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture7.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Picture8.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>2022 Jubilate XIII (Chinese Dance)</b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%201%202022%20Jubilate%20XIII%20Chinese%20Dance.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>2022 Jubilate XIII (International Dance)</b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%202%202022%20Jubilate%20XIII%20International%20Dance.jpg"></td></tr>
-
-<tr>
-<td style="width:50%"><b>2021 Singapore Youth Festival<br>Arts Presentation (Chinese Dance) </b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%203%202021%20SYF%20Arts%20Presentation%20Chinese%20Dance.png"></td></tr>
- 
-<tr>
-<td style="width:50%"><b>2021 Singapore Youth Festival<br>Arts Presentation (International Dance) </b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%204%202021%20SYF%20Arts%20Presentation%20International%20Dance.png"></td></tr>
-	
-<tr>
-<td style="width:50%"><b>Chinese Dance Performance at Huayi Festival 2020</b></td>
-<td><img src="/images/06%20CCA/VPA%20Dance%20Society/Photo%205%202020%20Chinese%20Dance%20Performance%20at%20Huayi%20Festival.png"></td></tr>
+<td style="width:50%"><b>2026 Chinese New Year School Performance</b><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance_.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Dance%20Society/2026_cny_performance.jpg"></td></tr>
 
 </tbody></table>
 
