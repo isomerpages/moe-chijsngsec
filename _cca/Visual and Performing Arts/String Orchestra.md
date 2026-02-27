@@ -29,7 +29,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   </tr>
 	<tr>
     <th>Instructors</th>
-		<td><b>Conductors</b><br>Mr Edward Tan<br>Mr Koh Kai Jie<br><br><b>Viola</b><br>Ms Jolene Goh<br><br><b>Cello</b><br>Ms Ophelia Toh<br><br><b>Double Bass</b><br>Ms Tan Si Pei</td>
+		<td><b>Conductors</b><br>Mr Edward Tan<br>Ms Farah Wu<br><br><b>Viola</b><br>Ms Jolene Goh<br><br><b>Cello</b><br>Ms Ophelia Toh<br><br><b>Double Bass</b><br>Ms Tizane Koh</td>
   </tr>
 </tbody>
 </table>
