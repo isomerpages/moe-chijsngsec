@@ -9,9 +9,9 @@ variant: markdown
 
 #### **IJYM**
 
-<img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg" style="width:75%">
+<img src="/images/06%20CCA/CS%20IJYM/Picture2C.jpg" style="width:75%">
 
-IJ Youth Mission seeks to develop our students who live out the school values and mission through organising and carrying out outreach projects that address the needs of people in the community especially those who are disadvantaged in any way.
+The CHIJ Youth Mission provides an enabling environment for students to recognize and promote the dignity of human beings, especially the disadvantaged. SN IJYM is one out of the 5 IJ Secondary Schools and we engage in collaborative activities to further our mission.
 
 #### **CCA Information**
 
@@ -27,10 +27,10 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <table style="width:100%">
  <tbody>
 <tr>
-<td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Teo</td></tr>
+<td><b>Ms Aster Goh I-Mei</b><br>Mrs Daphne Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025/2026)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody>
@@ -39,31 +39,31 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Yeo Chen Xi</td><td>Sec 3W</td><td>President</td></tr>
-<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 3T</td><td>Vice President</td></tr>
-<tr><td>Lim Huai Rou</td><td>Sec 3P</td><td>Secretary</td></tr>
-<tr><td>Thong Yu Hang</td><td>Sec 3D</td><td>Skills Training IC</td></tr>
-<tr><td>Joy Teo Xin Yu</td><td>Sec 3T</td><td>Publicity IC</td></tr>
-<tr><td>Adelia Lee Yi Suan</td><td>Sec 2C</td><td>Lower Secondary Exco Member</td></tr>
-<tr><td>Chua Jing Yi Jaime</td><td>Sec 2U</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Yeo Chen Xi</td><td>Sec 4W</td><td>President</td></tr>
+<tr><td>Phua Hui Yu Ashleigh</td><td>Sec 4T</td><td>Vice President</td></tr>
+<tr><td>Lim Huai Rou</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Thong Yu Hang</td><td>Sec 4D</td><td>Skills Training IC</td></tr>
+<tr><td>Joy Teo Xin Yu</td><td>Sec 4T</td><td>Publicity IC</td></tr>
+<tr><td>Adelia Lee Yi Suan</td><td>Sec 3C</td><td>Lower Secondary Exco Member</td></tr>
+<tr><td>Chua Jing Yi Jaime</td><td>Sec 3U</td><td>Lower Secondary Exco Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>IJHCC Joint IJYM Carnival</b><br><br>To celebrate the 170th anniversary of CHIJ in 2024, the 5 IJYM clubs collaborated to host children from The Infant Jesus Homes and Children’s Centres (IJHCC) at our school for a fun-packed carnival. Together with our IJYM counterparts we set up various game booths for the delighted children of IJHCC. The carnival was a huge success, and we ended the day singing ‘Hold On to Our Dreams’ together.<br>
-</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture8.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>NLB Kidsread Programme</b><br><br>IJYM partners with the National Library Board (NLB) in the KidsRead Programme, where we go down to Ang Mo Kio Primary on Thursdays to read to Primary One children. Through this programme, we aim to help them cultivate a love for reading and support the development of their reading skills.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture3C.jpg"><br></td></tr>
 
-<tr><td style="width:50%"><b>Annual Inter-school IJYM Competition</b><br><br>The inter-school IJYM competition is held annually to showcase the work of each IJ school through a static display and a performance. It is a meaningful culmination that every member looks forward to as everyone works effortlessly together to reflect on our journey as a CCA for the year and creatively capture the various ways we have tried to live out our mission. We are pleased to announce that we have achieved the Distinction Award again as we presented on the theme of Light in Darkness.<br></td>
-<td><img src="/images/06%20CCA/CS%20IJYM/Picture7.jpg"><br>
-<img src="/images/06%20CCA/CS%20IJYM/Picture10.jpg" style="width:100%"></td></tr>
+<tr><td style="width:50%"><b>Teck Ghee CC Carnival</b><br><br>Together with IJSC, IJYM held the Teck Ghee CC Carnival for all children from Ang Mo Kio. We facilitated games and crafts booths at the carnival for the children to enjoy. Through this event, we hope they had fun and made many happy memories.<br></td>
+<td><img src="/images/06%20CCA/CS%20IJYM/Picture5C.jpg"><br>
+<img src="/images/06%20CCA/CS%20IJYM/Picture6C.jpg" style="width:100%"></td></tr>
 
-<tr><td style="width:50%"><b>NLB KidsRead Programme</b><br><br>IJYM partners with National Library Board (NLB) in a programme to read to Primary 1 children at AMK Primary School. Every Thursday, we work with NLB volunteers and teachers at the school to support the children in learning to read simple story books and helping to inspire and encourage a love of reading. <br><img src="/images/06%20CCA/CS%20IJYM/Picture11.jpg" style="width:100%"></td>
-<td><img src="/images/06%20CCA/CS%20IJYM/Picture12.jpg"></td></tr>
-
-<tr><td style="width:50%"><b>Outreach to Lions Befrienders AAC @ Tampines 434 &amp; Lions Befrienders &amp; Onesimus Kebun Baru</b><br><br>At our visits to the Lions’ Befrienders, we aim to bring joy through conducting activity sessions with the elderly. We organise activities such as karaoke, game sessions and simple arts and crafts projects to keep them active and facilitate meaningful interaction with them. We also take turns to visit Onesimus Centre in smaller groups each Tuesday to conduct active-ageing activities for the elderly in the early stages of dementia in the hope of enriching their lives.<br>
-</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture13.jpg"><br></td></tr>	
+<tr><td style="width:50%"><b>IJSC outreach</b><br><br>IJYM partners with Infant Jesus Sanctuary for Children (IJSC), a student care for St Nicks Primary students, to interact with the children, from helping them with their homework to organising activities for them such as games and arts and crafts. We aim to bring joy to the children and exercise our sisterly love through these IJSC outreach sessions.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture4C.jpg"><br></td></tr>	
+	
+<tr><td style="width:50%"><b>Homework Buddies (Beekind)</b><br><br>IJYM started this initiative to facilitate tutoring collaboration between St.Nicks Secondary and Primary sections. Our goal is to guide our meimei with their homework and tutor them on the subjects they find challenging. Through this, we also aim to foster an encouraging and nurturing environment for our meimei and strengthen our 姐妹同心 spirit in school.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture8C.jpg"><br></td></tr>	
 	
 </tbody></table>
 
@@ -71,5 +71,6 @@ IJ Youth Mission seeks to develop our students who live out the school values an
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| Annual Inter-school IJYM Competition 2024|-|  Certificate of Distinction|
+| Annual Inter-school IJYM Competition 2025|-|  Certificate of Distinction|
+| Annual Inter-school IJYM Competition 2024  |-|  Certificate of Distinction|
 | Annual Inter-school IJYM Competition 2023  |-|  Certificate of Distinction|

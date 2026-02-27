@@ -29,7 +29,7 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
   </tr>
 	<tr>
     <th>Instructors</th>
-		<td><b>Conductors</b><br>Mr Edward Tan<br>Mr Koh Kai Jie<br><br><b>Viola</b><br>Ms Jolene Goh<br><br><b>Cello</b><br>Ms Ophelia Toh<br><br><b>Double Bass</b><br>Ms Tan Si Pei</td>
+		<td><b>Conductors</b><br>Mr Edward Tan<br>Ms Farah Wu<br><br><b>Viola</b><br>Ms Jolene Goh<br><br><b>Cello</b><br>Ms Ophelia Toh<br><br><b>Double Bass</b><br>Ms Tizane Koh</td>
   </tr>
 </tbody>
 </table>
@@ -40,12 +40,12 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Ms Michelle Chan</b><br>Ms Quek Soo Hiang<br>Ms Regina Tan</td>
+			<td><b>Ms Michelle Chan</b><br>Mr Michael Chow<br>Ms Regina Tan</td>
   </tr>
 </tbody>
 </table>
   
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 ----------------------------------------------
 
 <table style="width:100%">
@@ -55,98 +55,98 @@ Under the baton of Mr Edward Tan, we strive to spread the passion of music to al
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Chloe Tan Li En</td>
+    <td>Loh Tze Xuan, Janine</td>
     <td>Sec 4W</td>
     <td>President</td>
   </tr>
   <tr>
-    <td>Chia Choy Ann</td>
-    <td>Sec 4P</td>
+    <td>Lin Jiayuxin</td>
+    <td>Sec 4W</td>
     <td>Vice President/Discipline</td>
   </tr>
   <tr>
-    <td>Kate Lee Yu Fei</td>
-    <td>Sec 4T</td>
+    <td>Chuah Christine Natalie</td>
+    <td>Sec 4P</td>
     <td>Secretary</td>
   </tr>
   <tr>
-    <td>Lui Jia Xi, Karis</td>
-    <td>Sec 4P</td>
+    <td>Victoria Heidi Hartanto</td>
+    <td>Sec 4D</td>
     <td>Librarian</td>
   </tr>
   <tr>
-    <td>Koh Chi Chin</td>
+    <td>Mirabelle Teo Woon Han</td>
     <td>Sec 4F</td>
     <td>Quater Mistress</td>
   </tr>
   <tr>
-    <td>Shayanne Lee Rui Xuan</td>
-    <td>Sec 4J</td>
+    <td>Michelle Loh Yan Yee</td>
+    <td>Sec 4F</td>
     <td>Welfare Officer/Communication Officer</td>
   </tr>
 	<tr>
-    <td>Chuah Christine Natalie</td>
-    <td>Sec 3P</td>
+    <td>Chan Lin</td>
+    <td>Sec 3T</td>
     <td>Assistant Secretary</td>
   </tr>
   <tr>
-    <td>Zhang Ruiying</td>
-    <td>Sec 3F</td>
+    <td> Yip Ching Sue<br>Megan Elyse</td>
+    <td>Sec 3P</td>
     <td>Assistant Welfare Officer</td>
   </tr>
   <tr>
-    <td>Loh Tze Xuan, Janine</td>
-    <td>Sec 3W</td>
+    <td>Ng Joo Jin</td>
+    <td>Sec 3D</td>
     <td>Assistant Quater Mistress</td>
   </tr>
   <tr>
-    <td>Victoria Heidi Hartanto</td>
-    <td>Sec 3D</td>
+    <td>Caitlin Adelie Kwok</td>
+    <td>Sec 3U</td>
     <td>Assistant Librarian</td>
   </tr>
   <tr>
-    <td>Tan Shi En Grace</td>
-    <td>Sec 4L</td>
+    <td>Zhang Ruiying</td>
+    <td>Sec 4F</td>
     <td>Concert Mistress/Violin 1 Section Leader</td>
 		</tr>
   <tr>
-    <td>Celeste Faith Wong Ji Syun</td>
+    <td>Nicola Erin Huiying Hogan</td>
     <td>Sec 4F</td>
     <td>Student Conductor</td>
   </tr>
   <tr>
-    <td>Lim Ying Xuan, Anabelle</td>
-    <td>Sec 4T</td>
+    <td>Nicola Erin Huiying Hogan</td>
+    <td>Sec 4F</td>
     <td>Section Leader: Violin 2</td>
   </tr>
  <tr>
-    <td>Isabella Seet Jing Ying</td>
-    <td>Sec 4T</td>
+    <td>Michelle Loh Yan Yee</td>
+    <td>Sec 4F</td>
     <td>Section Leader: Viola</td>
   </tr>
   <tr>
-    <td>Chia Choy Ann</td>
-    <td>Sec 4P</td>
+    <td>Mirabelle Teo Woon Han</td>
+    <td>Sec 4F</td>
     <td>Section Leader : Cello</td>
   </tr>
  <tr>
-    <td>Celeste Faith Wong Ji Syun</td>
-    <td>Sec 4F</td>
+    <td>Loh Tze Xuan, Janine</td>
+    <td>Sec 4W</td>
     <td>Section Leader : Double Bass</td>
   </tr>
  <tr>
-    <td>Chan Qian Ru Jade</td>
-    <td>Sec 4T</td>
+    <td>Chong Yong Qing</td>
+    <td>Sec 4C</td>
     <td>Level Coordinator: Sec 4</td>
   </tr>
  <tr>
-    <td>Chong Yong Qing</td>
-    <td>Sec 3C</td>
+    <td>Song Wen Xin Hannah</td>
+    <td>Sec 3J</td>
     <td>Level Coordinator: Sec 3</td>
   </tr>
  <tr>
-    <td>Yip Ching Sue, Megan Elyse</td>
-    <td>Sec 2U</td>
+    <td>Pang Xiang Ning Charlene</td>
+    <td>Sec 2C</td>
     <td>Level Coordinator: Sec 2</td>
   </tr>
 </tbody></table>
