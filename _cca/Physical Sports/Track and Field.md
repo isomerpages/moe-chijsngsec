@@ -50,7 +50,7 @@ SNTF has taught us many invaluable life lessons: perseverance, determination, di
 <tr><td>Ally Patt Yu Tian</td><td>Sec 4T</td><td>Captain</td></tr>
 <tr><td>Chan Le Xuan Faith</td><td>Sec 4G</td><td>Vice - Captain</td></tr>
 <tr><td>Trinity Faith Leong Xinzhen</td><td>Sec 3U</td><td>Sprints &amp; Hurdles Leader </td></tr>
-<tr><td>Og Hui En</td><td>Sec 4G</td><td>Jumps Leader</td></tr>
+<tr><td>Ong Hui En</td><td>Sec 4G</td><td>Jumps Leader</td></tr>
 <tr><td>Magdalene Lin Minhui</td><td>Sec 4T</td><td>Middle Distance Leader</td></tr>
 <tr><td>Tham Sze Kei, Jazelle</td><td>Sec 4W</td><td>Throws Leader</td></tr>
 <tr><td>Kimberly Tan Ke'En</td><td>Sec 2C</td><td>Lower Sec Coordinator </td></tr>
