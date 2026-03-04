@@ -77,16 +77,17 @@ variant: markdown
 <img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11C.jpg"><br>
 <img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12C.jpg"></td></tr>			
 
-<tr><td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
+<tr><td style="width:40%"><b>VIA</b><br><br>华文文化学会每年都会积极参与各类VIA活动，让会员们在学习与传承华文文化的同时，也能回馈社会，培养同理心与社会责任感。通过这些活动，会员不仅深化了对传统文化的理解，也能在服务他人的过程中陶冶性情、提升个人素养。以下是我们在2023年至2025年所参与的部分VIA活动：
+
+**2023****年**6月24日，我们走进社区，为长者介绍端午节的由来与历史背景，并与他们一同进行手工制作活动。在交流与互动中，会员们不仅传播了中华传统文化，也拉近了与长者之间的距离，促进代际之间的理解与关怀。
+
+**2024****年**我们与图书馆学会合作，前往幼儿园，与小朋友一起进行手工活动，并通过讲故事的方式向他们介绍华文文化。这项合作不仅为学生提供了实践与服务学习的机会，培养社会责任感，也促进了两个课程辅助活动之间的协作与交流，让会员在筹备与带领活动的过程中提升沟通与组织能力。此外，我们也参与了IJYM VIA活动，进一步拓展服务对象与社会参与的层面，让会员在更广泛的社区平台上发挥所学。
+
+**2025****年**我们参与了Project Lavande所举办的VIA活动，通过书法展示与手工制作，为患有疾病的长者带来陪伴与欢乐，帮助他们舒缓情绪与压力。在活动过程中，会员们深刻体会到文化艺术不仅是学习内容，更是一种能够温暖人心、传递关爱的媒介。通过这些VIA活动，华文文化学会不仅推广与传承中华文化，也在实践中培养会员的责任感、同理心与团队合作精神，实现文化学习与社会服务的双重意义。<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
 	<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td></tr>
 
-<tr><td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td></tr>		
 
-<tr><td style="width:40%"><b>National Chinese Short Film Competition</b><br><br>这两年我们开始参加“全国中学及初院华语短片制作比赛”，同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023年我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！2024年我校文化学会代表获得《勇于尝试》短片的全国最佳演员奖！<br>
-<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg">
-</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture16.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
