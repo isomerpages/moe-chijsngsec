@@ -87,6 +87,7 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+|2024 義安全国学生书法现场比赛<br>Ngee Ann National Students’ Calligraphy Competition | Secondary School | Participation|
 |National Chinese Short Film Competition<br>全国中学及初院华语短片制作比赛|Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
 |The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br> 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
 |The 31rd National Youth Exhibition of Chinese Calligraphy<br>第三十一届全国青少年书法展|Secondary|Exhibition in Singapore|
