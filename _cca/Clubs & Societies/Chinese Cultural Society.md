@@ -67,8 +67,10 @@ variant: markdown
 本活动的一大特色是加入NPC（角色扮演人员）。NPC在游戏中扮演关键角色，推动剧情发展，与参与者互动并提供线索或制造挑战，增强沉浸感与紧张感。会员不仅参与解谜，也有机会担任NPC，训练表达能力与临场反应能力。
 
 在活动结束后，我们带领参与者进行总结与反思，分享解题思路与合作经验。通过此次活动，会员不仅提升了团队合作、沟通协调及临场应变能力，也增强了彼此之间的信任与整体凝聚力。</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture14.jpg"><br>
-<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture15.jpg"></td></tr>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9C.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>Learning Journey to Peranakan Museum</b><br><br><b>土生文化馆学习之旅</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！</td>
 <td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td></tr>			
