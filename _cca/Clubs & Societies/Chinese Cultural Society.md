@@ -87,12 +87,7 @@ variant: markdown
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|2024 義安全国学生书法现场比赛<br>Ngee Ann National Students’ Calligraphy Competition | Secondary School | Participation|
-|National Chinese Short Film Competition<br>全国中学及初院华语短片制作比赛|Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
-|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br> 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
-|The 31rd National Youth Exhibition of Chinese Calligraphy<br>第三十一届全国青少年书法展|Secondary|Exhibition in Singapore|
-|2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp;<br> Consolation prize|
-|Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
-|The 33rd National School Chinese Calligraphy Competition<br>第三十三届全国中学书法比赛|Secondary|Third Prize|
-|Fo Guang Shan National Chinese Calligraphy Competition<br>威德智海全国硬笔书法比赛|Secondary|Harmony Award<br>Merit Award|
-|The 5th Sing Chu National Student Chinese Calligraphy Competition<br>第五届“星衢墨艺”全国中小学书法比赛|Secondary|Achievement Award|
+| 2025 義安全国学生书法现场比赛 <br>Ngee Ann National Students' Calligraphy <br>Competition 2025 | Secondary School | Participation|
+| 2025年威德智海全国硬笔书法比赛<br>(新加坡佛光山） | Secondary School | Got into Finals|
+| 2024 義安全国学生书法现场比赛<br>Ngee Ann National Students’ Calligraphy Competition | Secondary School | Participation|
+| 第十六届全国中学及初院华语短片制作赛 | Secondary School | Participation|
