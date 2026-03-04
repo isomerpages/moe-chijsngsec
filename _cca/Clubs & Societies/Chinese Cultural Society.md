@@ -37,7 +37,7 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Mok Kai Jun</b></td></tr>
+<tr><td><b>Ms Mok Kai Jun 莫凯君老师</b><br>Ms Shen Lifeng 沈黎丰老师</td></tr>
 	</tbody></table>
 
 #### **Student Executive Committee (2024-2025)**
