@@ -40,15 +40,15 @@ variant: markdown
 <tr><td><b>Ms Mok Kai Jun 莫凯君老师</b><br>Ms Shen Lifeng 沈黎丰老师</td></tr>
 	</tbody></table>
 
-#### **Student Executive Committee (2024-2025)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody><tr>
 <th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
-<tr><td>Chi Shing Yee</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Ong En Qi</td><td>Sec 4P</td><td>Vice-President</td></tr>
-<tr><td>Ting Zixuan</td><td>Sec 4G</td><td>Team Leader</td></tr>
-<tr><td>Su Jia Jia</td><td>Sec 4L</td><td>Team Leader
+<tr><td>骆妍洁 Lok Yan Jie</td><td>Sec 4P</td><td>主席 President</td></tr>
+<tr><td>王譞 Wong Xuan, Emma</td><td>Sec 4C</td><td>副主席 Vice-President</td></tr>
+<tr><td>李祉萱 Ada Lee Zhi Xuan</td><td>Sec 4F</td><td>组长 Head of Group</td></tr>
+<tr><td>宗可人 Zong Keren</td><td>Sec 4P</td><td>组长 Head of Group
 	</td></tr></tbody></table>
 
 #### **CCA Highlights**
