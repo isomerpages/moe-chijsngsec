@@ -37,61 +37,65 @@ variant: markdown
 
 <table style="width:100%">
 <tbody>
-<tr><td><b>Ms Mok Kai Jun</b></td></tr>
+<tr><td><b>Ms Mok Kai Jun 莫凯君老师</b><br>Ms Shen Lifeng 沈黎丰老师</td></tr>
 	</tbody></table>
 
-#### **Student Executive Committee (2024-2025)**
+#### **Student Executive Committee (2025-2026)**
 
 <table style="width:100%">
 <tbody><tr>
 <th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
-<tr><td>Chi Shing Yee</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Ong En Qi</td><td>Sec 4P</td><td>Vice-President</td></tr>
-<tr><td>Ting Zixuan</td><td>Sec 4G</td><td>Team Leader</td></tr>
-<tr><td>Su Jia Jia</td><td>Sec 4L</td><td>Team Leader
+<tr><td>骆妍洁 Lok Yan Jie</td><td>Sec 4P</td><td>主席 President</td></tr>
+<tr><td>王譞 Wong Xuan, Emma</td><td>Sec 4C</td><td>副主席 Vice-President</td></tr>
+<tr><td>李祉萱 Ada Lee Zhi Xuan</td><td>Sec 4F</td><td>组长 Head of Group</td></tr>
+<tr><td>宗可人 Zong Keren</td><td>Sec 4P</td><td>组长 Head of Group
 	</td></tr></tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:40%"><b>一针一线诉衷肠<br>一丝一缕寄锦绣<br>——逢此九十华诞 绣姐妹同心桥</b><br><br>为了庆祝我校建校九十周年，我们华文文化学会的学生以圣尼各拉女校的标志性景点——姐妹同心桥为创作素材，亲手缝制了一幅作品献给学校，以一针一线镌刻对母校的绵绵感恩情，希望用一颗颗年轻的心对传统文化的精髓加以诠释和传承！</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture1.jpg"></td></tr>
+	<tr><td style="width:40%"><b>华文无极限</b><br><br>华文无极限是一年一度全校性的华文知识类问答比赛，涵盖文学、历史地理、常识、科学等九大主题，内容丰富多元。比赛旨在让学生们接触更广泛的华文知识与文化内涵，从而提升他们对华文的兴趣与热爱。
 
-<tr><td style="width:40%"><b>Chinese Challenge</b><br><br><b>华文无极限知识竞答比赛</b><br><br>我们举办这场比赛的目的是为了让同学们以轻松、有趣的方式学习华文，并逐渐爱上这门语言。华文文化学会每年历时将近半年来筹备这场比赛。
+经过初赛的层层选拔，共有12位来自不同班级的选手脱颖而出，晋级决赛，并齐聚舞台同场竞技，尽情展现扎实的华文知识储备与临场应变能力。所有赛题均由华文文化学会成员精心设计，并经指导老师严格审核后方投入使用，确保比赛内容兼具趣味性与学术性。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture4C.jpg"><br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5C.jpg"></td></tr>
 
-从设题、宣传，到策划流程，会员们都全情投入。由于是知识竞答比赛，我们花了很多时间搜集资料，集思广益，最后设计了一套丰富有趣的问答题。
+<tr><td style="width:40%"><b>Synergise 密室逃脱</b><br><br>Synergise 密室逃脱是由华文文化学会自主策划与执行的年度团队建设活动，旨在通过沉浸式任务体验，加强会员之间的合作与凝聚力。活动以小组形式进行，各组需在限定时间内根据情境设定破解线索、完成挑战，并成功“通关”。
 
-关于宣传工作，会员们发挥特长，通过海报、社交媒体和宣传视频来推广比赛，使其得到姐妹们的关注。每一年的比赛流程都有所创新，加入流行元素点燃大家的学习热情，同时也设有紧张刺激的抢答环节和颇有悬念感的翻盘环节，带给参赛者和观众们难忘的体验。
+在筹备阶段，执委与会员共同构思活动主题，设计剧情背景与关卡内容，确保任务兼具趣味性与思考性。我们也负责道具制作、场地布置及流程安排，全面统筹活动运作。活动当天，筹委成员担任关卡负责人，向参与者讲解规则、提供适度引导，并维持秩序与时间控制，确保活动顺利进行。
 
-今年我们重新回到礼堂，各位参赛者能够切身感受到在座观众的热情支持！这几年来，从借助广播竞猜，到拨打热线电话抢答，再到恢复现场比赛的模式。我们全体成员体会变化的速度，但有一点是不变的——只要精心准备、用心付出，就能让更多的同学爱上华文！</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture14.jpg"><br>
-<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture15.jpg"></td></tr>
+本活动的一大特色是加入NPC（角色扮演人员）。NPC在游戏中扮演关键角色，推动剧情发展，与参与者互动并提供线索或制造挑战，增强沉浸感与紧张感。会员不仅参与解谜，也有机会担任NPC，训练表达能力与临场反应能力。
 
-<tr><td style="width:40%"><b>Learning Journey to Peranakan Museum</b><br><br><b>土生文化馆学习之旅</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture5.jpg"></td></tr>			
+在活动结束后，我们带领参与者进行总结与反思，分享解题思路与合作经验。通过此次活动，会员不仅提升了团队合作、沟通协调及临场应变能力，也增强了彼此之间的信任与整体凝聚力。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9C.jpg"></td></tr>
 
-<tr><td style="width:40%"><b>Cultural Programme</b><br><br><b>文化课程</b><br><br>新加坡土生文化馆重新开幕，我们文化学会的学生就兴致勃勃地来这里打卡！同学们认真聆听导游的讲解，领略本地文化特色，对新加坡的本土文化有更深一层的理解与欣赏！<br><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture8.jpg"></td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture6.jpg"><br>
-	<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture7.jpg"></td></tr>
+<tr><td style="width:40%"><b>学习之旅</b><br><br>在过去的几年，我们的CCA去了牛车水、新加坡土生博物馆、和樟宜机场的星耀樟宜。在那里，我们的会员们通过一系列的游戏、任务和讲座，认识了这些地方的历史、文化，以及这些地方的特别之处。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture12C.jpg"></td></tr>			
 
-<tr><td style="width:40%"><b>National Calligraphy Competition</b><br><br><b>     全国书法比赛</b><br><br>从中一开始第一次与书法结缘到中四毕业，文化学会的学生们在一次次练习中书写出沉稳与自信，提升观察能力、分析能力和审美能力。在这个追求速度的社会，还有这样一群静得下心来享受书法艺术的学生们，用一笔一划来滋养心灵。</td>
-<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture9.jpg"></td></tr>		
+<tr><td style="width:40%"><b>VIA</b><br><br>华文文化学会每年都会积极参与各类VIA活动，让会员们在学习与传承华文文化的同时，也能回馈社会，培养同理心与社会责任感。通过这些活动，会员不仅深化了对传统文化的理解，也能在服务他人的过程中陶冶性情、提升个人素养。以下是我们在2023年至2025年所参与的部分VIA活动：
 
-<tr><td style="width:40%"><b>National Chinese Short Film Competition</b><br><br>这两年我们开始参加“全国中学及初院华语短片制作比赛”，同学们有幸与本地注明导演、演员近距离接触，学习专业技巧。该比赛历时三个月的精心准备与筹划，同学们在设计、编导、拍摄、演绎、剪辑等各方面积极迎接着一个又一个的挑战和惊喜！&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2023年我校华文文化学会制作的海报《“绝”醒》，在网上赢得了最高的票选，荣获了今年的最受欢迎海报奖！2024年我校文化学会代表获得《勇于尝试》短片的全国最佳演员奖！<br>
-<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture11.jpg">
-</td><td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture10.jpg"><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture16.jpg"></td></tr>
+**2023****年**6月24日，我们走进社区，为长者介绍端午节的由来与历史背景，并与他们一同进行手工制作活动。在交流与互动中，会员们不仅传播了中华传统文化，也拉近了与长者之间的距离，促进代际之间的理解与关怀。
+
+**2024****年**我们与图书馆学会合作，前往幼儿园，与小朋友一起进行手工活动，并通过讲故事的方式向他们介绍华文文化。这项合作不仅为学生提供了实践与服务学习的机会，培养社会责任感，也促进了两个课程辅助活动之间的协作与交流，让会员在筹备与带领活动的过程中提升沟通与组织能力。此外，我们也参与了IJYM VIA活动，进一步拓展服务对象与社会参与的层面，让会员在更广泛的社区平台上发挥所学。
+
+**2025****年**我们参与了Project Lavande所举办的VIA活动，通过书法展示与手工制作，为患有疾病的长者带来陪伴与欢乐，帮助他们舒缓情绪与压力。在活动过程中，会员们深刻体会到文化艺术不仅是学习内容，更是一种能够温暖人心、传递关爱的媒介。通过这些VIA活动，华文文化学会不仅推广与传承中华文化，也在实践中培养会员的责任感、同理心与团队合作精神，实现文化学习与社会服务的双重意义。</td>
+<td><img src="/images/06%20CCA/CS%20Chinese%20CS/Picture13C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture14C.jpg"><br>
+<img src="/images/06%20CCA/CS%20Chinese%20CS/Picture15C.jpg"></td></tr>
+
+
 </tbody></table>
 
 #### **CCA Achievements**
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-|National Chinese Short Film Competition<br>全国中学及初院华语短片制作比赛|Secondary<br>Junior College|The most popular poster Award (2023)<br>Best Actress Award (2024)|
-|The 4th International "Zhong Hua Han Mo Qing" Chinese Calligraphy Competition<br> 第四届“中华瀚墨情”国际书法比赛|Secondary|Exhibition in Singapore, Foshan, Hongkong, Macao, Taiwan|
-|The 31rd National Youth Exhibition of Chinese Calligraphy<br>第三十一届全国青少年书法展|Secondary|Exhibition in Singapore|
-|2023 National Calligraphy Competition 2023<br>年福清会馆培青学校 第十二届全国中小学生书法比赛|Secondary<br>Primary|Champion award &amp;<br> Consolation prize|
-|Zhang Shoushi’s Secondary School Calligraphy and Painting Exhibition<br>张瘦石全国中学书法绘画展|Secondary|Silver Award|
-|The 33rd National School Chinese Calligraphy Competition<br>第三十三届全国中学书法比赛|Secondary|Third Prize|
-|Fo Guang Shan National Chinese Calligraphy Competition<br>威德智海全国硬笔书法比赛|Secondary|Harmony Award<br>Merit Award|
-|The 5th Sing Chu National Student Chinese Calligraphy Competition<br>第五届“星衢墨艺”全国中小学书法比赛|Secondary|Achievement Award|
+| 2025 義安全国学生书法现场比赛 <br>Ngee Ann National Students' Calligraphy <br>Competition 2025 | Secondary School | Participation|
+| 2025年威德智海全国硬笔书法比赛<br>(新加坡佛光山） | Secondary School | Got into Finals|
+| 2024 義安全国学生书法现场比赛<br>Ngee Ann National Students’ Calligraphy Competition | Secondary School | Participation|
+| 第十六届全国中学及初院华语短片制作赛 | Secondary School | Participation|

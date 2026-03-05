@@ -53,18 +53,18 @@ The CHIJ Youth Mission provides an enabling environment for students to recogniz
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>NLB Kidsread Programme</b><br><br>IJYM partners with the National Library Board (NLB) in the KidsRead Programme, where we go down to Ang Mo Kio Primary on Thursdays to read to Primary One children. Through this programme, we aim to help them cultivate a love for reading and support the development of their reading skills.<br>
-</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture3C.jpg"><br></td></tr>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture3D.jpg"><br><img src="/images/06%20CCA/CS%20IJYM/Picture12.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Teck Ghee CC Carnival</b><br><br>Together with IJSC, IJYM held the Teck Ghee CC Carnival for all children from Ang Mo Kio. We facilitated games and crafts booths at the carnival for the children to enjoy. Through this event, we hope they had fun and made many happy memories.<br></td>
 <td><img src="/images/06%20CCA/CS%20IJYM/Picture5C.jpg"><br>
 <img src="/images/06%20CCA/CS%20IJYM/Picture6C.jpg" style="width:100%"></td></tr>
 
 <tr><td style="width:50%"><b>IJSC outreach</b><br><br>IJYM partners with Infant Jesus Sanctuary for Children (IJSC), a student care for St Nicks Primary students, to interact with the children, from helping them with their homework to organising activities for them such as games and arts and crafts. We aim to bring joy to the children and exercise our sisterly love through these IJSC outreach sessions.<br>
-</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture4C.jpg"><br></td></tr>	
-	
-<tr><td style="width:50%"><b>Homework Buddies (Beekind)</b><br><br>IJYM started this initiative to facilitate tutoring collaboration between St.Nicks Secondary and Primary sections. Our goal is to guide our meimei with their homework and tutor them on the subjects they find challenging. Through this, we also aim to foster an encouraging and nurturing environment for our meimei and strengthen our 姐妹同心 spirit in school.<br>
-</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture8C.jpg"><br></td></tr>	
-	
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture1D.jpg"><br></td></tr>	
+
+<tr><td style="width:50%"><b>Beekind</b><br><br>Beekind is a programme started by IJYM where we plan initiatives that benefit the community, whether it is the elderly, young children, our primary section 妹妹们, and even our own schoolmates. One of our Beekind initiatives was the Valentine’s Day recess booth, where we taught our schoolmates how to make pipe cleaner crafts in theme for Valentine’s Day and Chinese New Year. Another of our initiatives is Peer Tutoring, where we pair the upper secondary students with lower secondary students for tutoring in various subjects to promote our school’s 姐妹同心 spirit. This year we also launched the Borrow An Umbrella campaign, which seeks to help provide students with umbrellas on rainy days.<br>
+</td><td><br><img src="/images/06%20CCA/CS%20IJYM/Picture2D.jpg"><br></td></tr>	
+
 </tbody></table>
 
 #### **CCA Achievements**
