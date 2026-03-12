@@ -77,14 +77,16 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>Singapore Youth Festival Arts Presentation 2025</b><br><br>SN Choir was at her best at the arts presentation! The students truly had an invaluable and memorable experience from the preparation to the actual performance. Our heartfelt thanks and appreciation to our choir conductor, Ms Lim Ai Hooi, the support from all the parents, teachers and school leaders.<br><br>
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture6C.jpg"><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture7C.jpg"><br></td>
 
-<tr><td style="width:50%"><b>80th Anniversary of the End of World War II</b><br><br>SN Choir was very honoured to participate in the Commemoration Ceremony for the 80th Anniversary of the End of World War II at the Kranji War Memorial. The students had the privilege to witness the ceremony and uplifted the atmosphere with their voices!</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__8_.jpg"><br></td></tr>
+<td>	<img src="/images/06%20CCA/VPA%20Choir/Picture8C.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/Picture9C.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/Picture10C.jpg"></td></tr>
+
+<tr><td style="width:50%"><b>80th Anniversary of the End of World War II</b><br><br>SN Choir was very honoured to participate in the Commemoration Ceremony for the 80th Anniversary of the End of World War II at the Kranji War Memorial. The students had the privilege to witness the ceremony and uplifted the atmosphere with their voices!<br><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture14C.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/Picture11C.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture12C.jpg"><br></td></tr>
 
 <tr><td style="width:50%"><b>Choir workshop with Dr Paulo Lourenco</b><br><br>With his cheerful personality, Dr Paulo Lourenco, a music clinician from Portugal taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
 <td><img src="/images/06%20CCA/VPA%20Choir/PictureA__1_.jpg">
