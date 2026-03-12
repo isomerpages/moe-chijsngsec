@@ -94,8 +94,9 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 </td></tr>
 
 <tr><td style="width:50%"><b>VIA in collaboration with the Five Elements Movement</b><br><br>       SN Choir had the privilege of working with our alumnae in presenting an singing item with many other talented and renowned performers at the outreach programme with the Five Elements Movement at the Woodlands Health Campus. The students benefitted much more than from the VIA!<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__10_.jpg">
-		<img src="/images/06%20CCA/VPA%20Choir/PictureA__11_.jpg"></td></tr>
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/Picture24C.jpg"><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture15C.jpg">
+		<img src="/images/06%20CCA/VPA%20Choir/Picture16C.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Choir exchanges</b><br><br>SNChoir had other activities such as choir exchanges with Catholic High School, Tanjong Katong Girls’ School, and also the Shenzhen Chanson De Montagne Children’s Choir. Through exchanges, the students improve their social and leadership skills while learning and improving their singing techniques.<br>
 </td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
