@@ -50,11 +50,11 @@ variant: markdown
 <tr><td style="width:50%"><b>Sports Camp</b><br><br>During our 2025 sports camp, the team embarked on a journey to step outside of our comfort zones and explore the true depths of our potential. It allowed us to gain a deeper understanding of the world of sports whilst bonding and having fun together.
 </td><td><img src="/images/06%20CCA/PS%20Badminton/Picture2C.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Friendly Matches</b><br><br>SNBT has the opportunity to have a sparring session with Badminton teams from other schools. This allows the team to gain more experience and exposure to players of different caliber and play styles.</td>
-<td><img src="/images/06%20CCA/PS%20Badminton/Picture41.jpg"></td></tr>	
+<tr><td style="width:50%"><b>Friendly Matches</b><br><br>To gain more game experience and put into practice the skills we have trained at. The school organises friendly matches for us to turn our efforts into tangible, rewarding experiences. Friendly matches are an opening for players to showcase their skills in a non-stressful environment.</td>
+<td><img src="/images/06%20CCA/PS%20Badminton/Picture3C.jpg"></td></tr>	
 
-<tr><td style="width:50%"><b>C Division League One Champions 2024</b><br><br>Culminating the 2024 season at OCBC arena and achieving the title, the smiles on everyone’s face highlights their happiness and satisfaction to see their hard work pay off!
-</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture42.jpg">
+<tr><td style="width:50%"><b>North Zone Champion 2026</b><br><br>Culminating the 2024 season at OCBC arena and achieving the title, the smiles on everyone’s face highlights their happiness and satisfaction to see their hard work pay off!
+</td><td><img src="/images/06%20CCA/PS%20Badminton/Picture4C.jpg">
 </td></tr>
 	
 <tr><td style="width:50%"><b>SNBT VIA with IJHCC students</b><br><br>During the end of year holidays of 2024, our team had conducted a Values In Action (VIA) event with Infant Jesus Homes and Children’s Centre (IJHCC).
