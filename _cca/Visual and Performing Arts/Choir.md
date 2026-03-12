@@ -52,21 +52,22 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Ooi Chien Wen</td><td>Sec 4C</td><td>President</td></tr>
-<tr><td>Rachel Tiew</td><td>Sec 4G</td><td>Vice President</td></tr>
-<tr><td>Natalie Tan Shi Qi</td><td>Sec 4J</td><td>Secretary</td></tr>
-<tr><td>Ella Phipatanasuphorn</td><td>Sec 4P</td><td>Resource Manager</td></tr>
-<tr><td>Scarlett Wan Ying</td><td>Sec 4J</td><td>Welfare Manager</td></tr>
-<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 4G</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Chin Rue Xing</td><td>Sec 4C</td><td>Sectional Leader (Sop 2)</td></tr>
-<tr><td>Lai Qian Rong</td><td>Sec 4W</td><td>Sectional Leader (Alto 1)</td></tr>
-	<tr><td>Charisse Chua Xin Yi</td><td>Sec 3L</td><td>Sectional Leader (Alto 2)</td></tr>
-<tr><td>Chan Qinn Ann</td><td>Sec 3G</td><td>Assistant Resource Manager</td></tr>
-<tr><td>Chan Yin Kay</td><td>Sec 3W</td><td>Assistant Secretary</td></tr>
-<tr><td>Tara Chua Kai Ting</td><td>Sec 3L</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
-<tr><td>Tuang Ruihan</td><td>Sec 3P</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
-<tr><td>Tan Qi Xuan, Estee</td><td>Sec 3P</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
-<tr><td>Woo Zhi-Rui Emma</td><td>Sec 3W</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
+<tr><td>Chan Yin Kay</td><td>Sec 4W</td><td>President</td></tr>
+<tr><td>Chan Qinn Ann</td><td>Sec 4G</td><td>Vice President</td></tr>
+<tr><td>Charisse Chua Xin Yi</td><td>Sec 4L</td><td>Student Conductor</td></tr>
+<tr><td>Allyna Lim Xin Hui</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Evangeline Ang Zuxin</td><td>Sec 4U</td><td>Resource Manager</td></tr>	
+<tr><td>Dannielle Kathleen Hermawan</td><td>Sec 4W</td><td>Welfare Manager</td></tr>
+<tr><td>Tara Chua Kai Ting</td><td>Sec 4L</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Tuang Ruihan</td><td>Sec 4P</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Woo Zhi Rui Emma</td><td>Sec 4W</td><td>Sectional Leader (Alto 1)</td></tr>
+<tr><td>Charisse Chua Xin Yi</td><td>Sec 4L</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Koh You Ling, Bernelle</td><td>Sec 3P</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Cayla Lim Xi Ning</td><td>Sec 3J</td><td>Assistant Secretary</td></tr>
+<tr><td>Deborah Lee Xin Hui</td><td>Sec 3T</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Ng Jing En, Bridgette</td><td>Sec 3F</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Jiang Pearlrin</td><td>Sec 3F</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Andrea Lee Si Zhen</td><td>Sec 3T</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
 
