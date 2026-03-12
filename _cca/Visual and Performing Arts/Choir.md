@@ -91,28 +91,12 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
 </td></tr>
 
-<tr><td style="width:50%"><b>Jubilate 15</b><br><br>The choir girls truly had a good time performing 我们这一班 , singing their hearts out at our Jubilate 15 in the school hall!<br>
+<tr><td style="width:50%"><b>VIA in collaboration with the Five Elements Movement</b><br><br>       SN Choir had the privilege of working with our alumnae in presenting an singing item with many other talented and renowned performers at the outreach programme with the Five Elements Movement at the Woodlands Health Campus. The students benefitted much more than from the VIA!<br>
 </td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__10_.jpg">
 		<img src="/images/06%20CCA/VPA%20Choir/PictureA__11_.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br>
+<tr><td style="width:50%"><b>Choir exchanges</b><br><br>SNChoir had other activities such as choir exchanges with Catholic High School, Tanjong Katong Girls’ School, and also the Shenzhen Chanson De Montagne Children’s Choir. Through exchanges, the students improve their social and leadership skills while learning and improving their singing techniques.<br>
 </td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
-</td></tr>
-	
-<tr><td style="width:50%"><b>TGIF Music Station</b><br><br>To SNChoir, we had an exciting experience performing to the public outdoors and live-streamed at the Singapore Chinese Cultural Centre for the TGIF Music Station. Many thanks to yes933 and the Cross Ratio Entertainment for this opportunity! It surely has been an enriching experience, creating wonderful dreams and memories for them.
-
-**Photos with courtesy from**<br>
-@singaporechineseculturalcentre, tag and hashtag the below, when posting.
-Tags: @crossratio @yes933 @8world.entlife @kkboxsg
-Hashtags: #周5音乐站 #TGIFMusicStation<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__13_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__14_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg">
-</td></tr>
-<tr><td style="width:50%"><b>VIA at Tan Tock Seng Art of Healing Programme</b><br><br>SNChoir performed at the lunchtime performance at TTSH bringing joy and comfort to visitors, patients and staff at the hospital.<br>	
-<img src="/images/06%20CCA/VPA%20Choir/PictureA__16_.jpg">
-</td><td><br><img src="/images/06%20CCA/VPA%20Choir/PictureA__17_.jpg">
-		<img src="/images/06%20CCA/VPA%20Choir/PictureA__18_.jpg">
 </td></tr>
 </tbody></table>
 
