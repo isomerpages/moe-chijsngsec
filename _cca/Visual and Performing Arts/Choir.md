@@ -25,11 +25,11 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th>
-<td>AVA Room (S5-L3-07)<br>Lang Rooms 1, 2 &amp; 3</td></tr>
+<td>AVA Room (S5-L3-07)</td></tr>
 <tr><th>Training Day / Time</th>
 <td>Wednesday<br>3.45 pm - 6.15 pm<br>Friday<br>4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
-<td>Miss Lim Ai Hooi (Conductor)</td></tr>
+<td>Miss Lim Ai Hooi (Conductor)<br>Miss Cherie Chai (Assistant Conductor)</td></tr>
 </tbody>
 </table>
 
@@ -38,7 +38,7 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <table style="width:100%">
 <tbody>
 <tr>
-<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na</td>
+<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na<br>Mr Low Tung Mun</td>
 </tr>
 </tbody>
 </table>
@@ -52,21 +52,22 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Ooi Chien Wen</td><td>Sec 4C</td><td>President</td></tr>
-<tr><td>Rachel Tiew</td><td>Sec 4G</td><td>Vice President</td></tr>
-<tr><td>Natalie Tan Shi Qi</td><td>Sec 4J</td><td>Secretary</td></tr>
-<tr><td>Ella Phipatanasuphorn</td><td>Sec 4P</td><td>Resource Manager</td></tr>
-<tr><td>Scarlett Wan Ying</td><td>Sec 4J</td><td>Welfare Manager</td></tr>
-<tr><td>Chua Avery Belle Chua Chiaco</td><td>Sec 4G</td><td>Sectional Leader (Sop 1)</td></tr>
-<tr><td>Chin Rue Xing</td><td>Sec 4C</td><td>Sectional Leader (Sop 2)</td></tr>
-<tr><td>Lai Qian Rong</td><td>Sec 4W</td><td>Sectional Leader (Alto 1)</td></tr>
-	<tr><td>Charisse Chua Xin Yi</td><td>Sec 3L</td><td>Sectional Leader (Alto 2)</td></tr>
-<tr><td>Chan Qinn Ann</td><td>Sec 3G</td><td>Assistant Resource Manager</td></tr>
-<tr><td>Chan Yin Kay</td><td>Sec 3W</td><td>Assistant Secretary</td></tr>
-<tr><td>Tara Chua Kai Ting</td><td>Sec 3L</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
-<tr><td>Tuang Ruihan</td><td>Sec 3P</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
-<tr><td>Tan Qi Xuan, Estee</td><td>Sec 3P</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
-<tr><td>Woo Zhi-Rui Emma</td><td>Sec 3W</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
+<tr><td>Chan Yin Kay</td><td>Sec 4W</td><td>President</td></tr>
+<tr><td>Chan Qinn Ann</td><td>Sec 4G</td><td>Vice President</td></tr>
+<tr><td>Charisse Chua Xin Yi</td><td>Sec 4L</td><td>Student Conductor</td></tr>
+<tr><td>Allyna Lim Xin Hui</td><td>Sec 4P</td><td>Secretary</td></tr>
+<tr><td>Evangeline Ang Zuxin</td><td>Sec 4U</td><td>Resource Manager</td></tr>	
+<tr><td>Dannielle Kathleen Hermawan</td><td>Sec 4W</td><td>Welfare Manager</td></tr>
+<tr><td>Tara Chua Kai Ting</td><td>Sec 4L</td><td>Sectional Leader (Sop 1)</td></tr>
+<tr><td>Tuang Ruihan</td><td>Sec 4P</td><td>Sectional Leader (Sop 2)</td></tr>
+<tr><td>Woo Zhi Rui Emma</td><td>Sec 4W</td><td>Sectional Leader (Alto 1)</td></tr>
+<tr><td>Charisse Chua Xin Yi</td><td>Sec 4L</td><td>Sectional Leader (Alto 2)</td></tr>
+<tr><td>Koh You Ling, Bernelle</td><td>Sec 3P</td><td>Assistant Resource Manager</td></tr>
+<tr><td>Cayla Lim Xi Ning</td><td>Sec 3J</td><td>Assistant Secretary</td></tr>
+<tr><td>Deborah Lee Xin Hui</td><td>Sec 3T</td><td>Assistant Sectional Leader (Sop 1)</td></tr>
+<tr><td>Ng Jing En, Bridgette</td><td>Sec 3F</td><td>Assistant Sectional Leader (Sop 2)</td></tr>
+<tr><td>Jiang Pearlrin</td><td>Sec 3F</td><td>Assistant Sectional Leader (Alto 1)</td></tr>
+<tr><td>Andrea Lee Si Zhen</td><td>Sec 3T</td><td>Assistant Sectional Leader (Alto 2)</td></tr>
 </tbody>
 </table>
 
@@ -75,45 +76,36 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Limelight@Esplanade</b><br><br>SN Choir started the year with a public performance at one of the Limelight series at the Esplanade Concert, under our choir conductor, Ms Lim Ai Hooi.
-Our heartfelt thanks and appreciation for your presence at the concert.
-We are also grateful for the AV and technical support from school and the Limelight backstage crew and ushers for making the performance experience so authentic and meaningful to the girls. The students truly had a good time and will be enriched and touched in many ways by this performance opportunity.<br><br>
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__3_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__4_.jpg"></td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__5_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__6_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__7_.jpg"></td></tr>
+<tr><td style="width:50%"><b>Singapore Youth Festival Arts Presentation 2025</b><br><br>SN Choir was at her best at the arts presentation! The students truly had an invaluable and memorable experience from the preparation to the actual performance. Our heartfelt thanks and appreciation to our choir conductor, Ms Lim Ai Hooi, the support from all the parents, teachers and school leaders.<br><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture6C.jpg"><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture7C.jpg"><br></td>
 
-<tr><td style="width:50%"><b>Choir Workshop with Dr Harper</b><br><br>Dr TJ Harper R is an Associate Professor of Music, Director of Choral Activities, and Chair of the Department of Music at Loyola Marymount University in Los Angeles, CA. With his cheerful personality, Dr Harper taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__8_.jpg"><br></td></tr>
+<td>	<img src="/images/06%20CCA/VPA%20Choir/Picture8C.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/Picture9C.jpg">
+	<img src="/images/06%20CCA/VPA%20Choir/Picture10C.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>J 170 Anniversary Combined Choir at the National Stadium</b><br><br>SN Choir joined the other IJ school choirs at the IJ 170 Anniversary. It was a memorable and exciting occasion to praise God and be a part of the IJ family!</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__1_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
+<tr><td style="width:50%"><b>80th Anniversary of the End of World War II</b><br><br>SN Choir was very honoured to participate in the Commemoration Ceremony for the 80th Anniversary of the End of World War II at the Kranji War Memorial. The students had the privilege to witness the ceremony and uplifted the atmosphere with their voices!<br><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture14C.jpg"></td>
+<td><img src="/images/06%20CCA/VPA%20Choir/Picture11C.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture12C.jpg"><br></td></tr>
+
+<tr><td style="width:50%"><b>Choir workshop with Dr Paulo Lourenco</b><br><br>With his cheerful personality, Dr Paulo Lourenco, a music clinician from Portugal taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
+<td><img src="/images/06%20CCA/VPA%20Choir/Picture13C.jpg">
+
 </td></tr>
 
-<tr><td style="width:50%"><b>Jubilate 15</b><br><br>The choir girls truly had a good time performing 我们这一班 , singing their hearts out at our Jubilate 15 in the school hall!<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__10_.jpg">
-		<img src="/images/06%20CCA/VPA%20Choir/PictureA__11_.jpg"></td></tr>
+<tr><td style="width:50%"><b>VIA in collaboration with the Five Elements Movement</b><br><br>       SN Choir had the privilege of working with our alumnae in presenting an singing item with many other talented and renowned performers at the outreach programme with the Five Elements Movement at the Woodlands Health Campus. The students benefitted much more than from the VIA!<br><br><img src="/images/06%20CCA/VPA%20Choir/Picture24C.jpg">
+</td><td><br>
+	<img src="/images/06%20CCA/VPA%20Choir/Picture15C.jpg"><br>
+		<img src="/images/06%20CCA/VPA%20Choir/Picture16C.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>Doing our part at the school National Day Celebrations</b><br><br>SN Choir joined the school in celebrating our National Day with dance and song!<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__12_.jpg">
-</td></tr>
-	
-<tr><td style="width:50%"><b>TGIF Music Station</b><br><br>To SNChoir, we had an exciting experience performing to the public outdoors and live-streamed at the Singapore Chinese Cultural Centre for the TGIF Music Station. Many thanks to yes933 and the Cross Ratio Entertainment for this opportunity! It surely has been an enriching experience, creating wonderful dreams and memories for them.
-
-**Photos with courtesy from**<br>
-@singaporechineseculturalcentre, tag and hashtag the below, when posting.
-Tags: @crossratio @yes933 @8world.entlife @kkboxsg
-Hashtags: #周5音乐站 #TGIFMusicStation<br>
-</td><td>	<img src="/images/06%20CCA/VPA%20Choir/PictureA__13_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__14_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__2_.jpg">
-</td></tr>
-<tr><td style="width:50%"><b>VIA at Tan Tock Seng Art of Healing Programme</b><br><br>SNChoir performed at the lunchtime performance at TTSH bringing joy and comfort to visitors, patients and staff at the hospital.<br>	
-<img src="/images/06%20CCA/VPA%20Choir/PictureA__16_.jpg">
-</td><td><br><img src="/images/06%20CCA/VPA%20Choir/PictureA__17_.jpg">
-		<img src="/images/06%20CCA/VPA%20Choir/PictureA__18_.jpg">
+<tr><td style="width:50%"><b>Choir exchanges</b><br><br>SNChoir had other activities such as choir exchanges with Catholic High School, Tanjong Katong Girls’ School, and also the Shenzhen Chanson De Montagne Children’s Choir. Through exchanges, the students improve their social and leadership skills while learning and improving their singing techniques.<br><br>	
+<img src="/images/06%20CCA/VPA%20Choir/Picture17C.jpg"><br>	
+	<img src="/images/06%20CCA/VPA%20Choir/Picture19C.jpg"><br>	
+	<img src="/images/06%20CCA/VPA%20Choir/Picture20C.png"><br>		
+</td><td>	<img src="/images/06%20CCA/VPA%20Choir/Picture18C.jpg"><br>	
+	<img src="/images/06%20CCA/VPA%20Choir/Picture21C.jpg"><br>	
+	<img src="/images/06%20CCA/VPA%20Choir/Picture22C.jpg"><br>	
+	<img src="/images/06%20CCA/VPA%20Choir/Picture23C.jpg">
 </td></tr>
 </tbody></table>
 
