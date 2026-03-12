@@ -25,11 +25,11 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th>
-<td>AVA Room (S5-L3-07)<br>Lang Rooms 1, 2 &amp; 3</td></tr>
+<td>AVA Room (S5-L3-07)</td></tr>
 <tr><th>Training Day / Time</th>
 <td>Wednesday<br>3.45 pm - 6.15 pm<br>Friday<br>4.00 pm - 6.30 pm</td></tr>
 <tr><th>Instructor</th>
-<td>Miss Lim Ai Hooi (Conductor)</td></tr>
+<td>Miss Lim Ai Hooi (Conductor)<br>Miss Cherie Chai (Assistant Conductor)</td></tr>
 </tbody>
 </table>
 
@@ -38,7 +38,7 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <table style="width:100%">
 <tbody>
 <tr>
-<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na</td>
+<td><b>Mrs Fung Hwee Hua</b><br>Ms Tay Li Na<br>Mr Low Tung Mun</td>
 </tr>
 </tbody>
 </table>
