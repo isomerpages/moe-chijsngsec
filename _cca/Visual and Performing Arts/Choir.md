@@ -89,8 +89,8 @@ Guided by our dedicated conductor and supportive teachers, we continually strive
 <td><img src="/images/06%20CCA/VPA%20Choir/Picture11C.jpg"><br><img src="/images/06%20CCA/VPA%20Choir/Picture12C.jpg"><br></td></tr>
 
 <tr><td style="width:50%"><b>Choir workshop with Dr Paulo Lourenco</b><br><br>With his cheerful personality, Dr Paulo Lourenco, a music clinician from Portugal taught and shared on singing techniques and expressions. The choir students enjoyed and learnt new ways of expressing themselves and benefitted much from the workshop.</td>
-<td><img src="/images/06%20CCA/VPA%20Choir/PictureA__1_.jpg">
-	<img src="/images/06%20CCA/VPA%20Choir/PictureA__9_.jpg">
+<td><img src="/images/06%20CCA/VPA%20Choir/Picture13C.jpg">
+
 </td></tr>
 
 <tr><td style="width:50%"><b>VIA in collaboration with the Five Elements Movement</b><br><br>       SN Choir had the privilege of working with our alumnae in presenting an singing item with many other talented and renowned performers at the outreach programme with the Five Elements Movement at the Woodlands Health Campus. The students benefitted much more than from the VIA!<br>
