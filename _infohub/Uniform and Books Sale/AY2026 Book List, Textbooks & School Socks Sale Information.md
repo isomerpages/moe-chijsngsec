@@ -48,10 +48,10 @@ Website:&nbsp;[http://www.pacificbookstores.com](http://www.pacificbookstores.co
 
 #### **School bookshop (canteen)**
 
-Ms Fanny<br>
-Tel: 64569943 Tel: 64599860
+Siew Chin/Chery<br>
+Contact Number: 9365 4382
 
 
 <b>Operating Hours :</b><br>
 Mon - Fri (within school term),<br>
-7.30am - 3.00pm<br>Payment by cash and cheque only
+8.00am - 3.00pm<br>Payment by cash and QR only
