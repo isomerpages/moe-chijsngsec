@@ -43,7 +43,7 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <tr><td><b>Ms Juliana Grahan</b><br>Ms Ou Wanjun<br>Ms Vilochana D/O Veloo<br>Ms Haslinda Bte Shafiee</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
@@ -52,10 +52,10 @@ To nurture players of character so as to become Girls of Grace, Women of Strengt
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>TAY HUI XIN CLAIRE</td><td>Sec 4L</td><td> 'B' Division Captain</td></tr>
-<tr><td>RACHEL TAN YI TING </td><td>Sec 4L</td><td> 'B' Division Vice-Captain</td></tr>
-<tr><td>LIN YITING, KAIRA </td><td>Sec 2P</td><td>'C' Division Captain</td></tr>
-<tr><td>NOELLE OH TING JIA</td><td>Sec 2W</td><td> 'C' Division Vice-Captain</td></tr>
+<tr><td> Soh Joasta </td><td>Sec 4U</td><td> 'B' Division Captain</td></tr>
+<tr><td> Lee Jorine </td><td>Sec 4G</td><td> 'B' Division Vice-Captain</td></tr>
+<tr><td>Low Wen Xin Sophie </td><td>Sec 2U</td><td>'C' Division Captain</td></tr>
+<tr><td>Ella Lin Koloen</td><td>Sec 2F</td><td> 'C' Division Vice-Captain</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
