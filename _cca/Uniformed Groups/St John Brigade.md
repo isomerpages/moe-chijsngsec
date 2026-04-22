@@ -10,7 +10,7 @@ variant: markdown
 
 #### **St John Brigade**
 
-<img src="/images/06%20CCA/UG%20St%20John/Picture5B.jpg" style="width:75%">
+<img src="/images/06%20CCA/UG%20St%20John/Picture1D.jpg" style="width:75%">
 
 **St John Brigade (SJB)** seeks to develop disciplined and responsible cadets who are committed to serving the public and the wider school community.<br><br>Our programme is built on three key pillars:<br>
 1.&nbsp;&nbsp;&nbsp;&nbsp; First Aid Knowledge<br>
@@ -38,7 +38,7 @@ variant: markdown
 <tr><td><b>Ms Fatmah Talib</b><br>Mr Tan Chin Guan<br>Mr Damien Lee Ming Xuan</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025-2026)**
+#### **Student Executive Committee (2026-2027)**
 
 <table style="width:100%">
 <tbody>
@@ -47,12 +47,12 @@ variant: markdown
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td> Ang Hui Ya Keona</td><td>Sec 4D</td><td>Overall-in-charge</td></tr>
-<tr><td> Tanya Koh</td><td>Sec 4W</td><td>Assistant-in-charge</td></tr>
-<tr><td> Angelina Chai Xiang Hui</td><td>Sec 4L</td><td>Secretary</td></tr>
-<tr><td> Teh En Theng<br>Tan Jing Ning Stacie</td><td>Sec 4G<br>Sec 4P</td><td> Head of Cadet Proficiency Badge Scheme</td></tr>
-<tr><td> Huang Xianglin Jade</td><td>Sec 4F</td><td>Discipline Mistress</td></tr>
-<tr><td> Megon Lek Yu Yan</td><td>Sec 4W</td><td>Quarter Mistress</td></tr>
+<tr><td> Victoria Low Hui Wen</td><td>Sec 3P</td><td>Overall-in-charge</td></tr>
+<tr><td> Mak Hor Teng, Chloe</td><td>Sec 3P</td><td>Assistant-in-charge</td></tr>
+<tr><td> Destinee Tay Xun</td><td>Sec 3D</td><td>Secretary</td></tr>
+<tr><td> Yong Yu Shuang Natalie</td><td>Sec 3D</td><td> Head of Cadet Proficiency Badge Scheme</td></tr>
+<tr><td> Phoebe Bae Yoon Hee</td><td>Sec 3D</td><td>Discipline Mistress</td></tr>
+<tr><td> Phua Zhi Xing</td><td>Sec 3W</td><td>Quarter Mistress</td></tr>
 </tbody></table>
 
 

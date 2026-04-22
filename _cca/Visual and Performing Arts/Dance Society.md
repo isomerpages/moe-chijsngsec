@@ -20,10 +20,6 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
   
 <tr><th>Training Day / Time</th>
 <td>Wed &amp; Fri<br>4.00 pm - 6.30 pm</td></tr>
-
-<tr><th>Instructors</th>
-<td>Ms Li Yingying <br>Ms Shi Yun<br>Ms Yu Liqun</td></tr>
-
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -40,7 +36,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <td><b>Ms Li Yingying</b><br>Ms HaoNa</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
@@ -50,7 +46,7 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
 <th style="width:30%">Position</th>
 </tr>
 <tr><td>Kim Jua</td><td>Sec 4L</td><td>President</td></tr>
-<tr><td>⁠Mikayla Seah Tian Xin</td><td>Sec 4C</td><td>Vice President</td></tr>
+<tr><td>⁠Mikayla Seah Tian Xin</td><td>Sec 4F</td><td>Vice President</td></tr>
 <tr><td>⁠Lau Dianne</td><td>Sec 4P</td><td>Sec 4 Level-Coordinator (Chinese Dance)</td></tr>
 <tr><td>Soh Yu Xin</td><td>Sec 4U</td><td>Sec 4 Level-Coordinator (International Dance)</td></tr>
 <tr><td>Ang Ning Xuan Paige (Hong Ningxuan)</td><td>Sec 3W</td><td>Sec 3 Level-Coordinator (Chinese Dance)</td></tr>
