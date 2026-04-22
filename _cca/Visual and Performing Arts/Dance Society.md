@@ -20,10 +20,6 @@ CHIJ St Nicholas Girls' School Dance Society seeks to develop the passion for da
   
 <tr><th>Training Day / Time</th>
 <td>Wed &amp; Fri<br>4.00 pm - 6.30 pm</td></tr>
-
-<tr><th>Instructors</th>
-<td>Ms Li Yingying <br>Ms Shi Yun<br>Ms Yu Liqun</td></tr>
-
 </tbody></table>
 
 #### **Teachers-in-charge**
