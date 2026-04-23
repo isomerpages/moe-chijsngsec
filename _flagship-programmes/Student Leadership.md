@@ -118,9 +118,9 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
 ##### (1) Trainings  
 All St Nicholas students go through leadership workshops which provide differentiated and structured developmental training. This includes leadership milestone training sessions, which identifies specific leadership skills to be taught at each level. These training sessions include Mass Leadership Training, Level Specific Training and Positional Leadership Specific Training.
 
-|<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture3.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture4.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
+|<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture2A.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture4.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
 |  -------- | -------- | -------- |
-| **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
+| **2026 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
 
 ##### (2) **Opportunities** <br> 
 Our school believes in empowering students and developing important 21 Century Competencies (21CCs) through an array of platforms, as outlined in the table below. Students are invited to actively participate as members of the St Nicholas family.<br> <br> **Leadership Development at CHIJ St Nicholas Girls’ School (Sec)**<br> **Future Readiness (21 CC Skills)** 
