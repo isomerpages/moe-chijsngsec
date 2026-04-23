@@ -53,12 +53,12 @@ As a CCA, we aim to create lasting memories as our members strive to grow to be 
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 3L</td><td>President</td></tr>
-<tr><td>Ho Yean Yean Grace</td><td>Sec 3P</td><td>Vice-President</td></tr>
-<tr><td>Wee Heong Ru Gabrielle</td><td>Sec 3U</td><td>Welfare Head</td></tr>
-<tr><td>Ng Si Hui</td><td>Sec 3C</td><td>Upper Secondry Executive Member</td></tr>
-<tr><td>Lucia Wu</td><td>Sec 2U</td><td>Secretary</td></tr>
-<tr><td>Imelda Marianne Wee</td><td>Sec 2G</td><td>Lower Secondry Executive Member</td></tr>
+<tr><td>Lim Zi Xuan Jermaine</td><td>Sec 4L</td><td>President</td></tr>
+<tr><td>Ho Yean Yean Grace</td><td>Sec 4P</td><td>Vice-President</td></tr>
+<tr><td>Wee Heong Ru Gabrielle</td><td>Sec 4U</td><td>Welfare Head</td></tr>
+<tr><td>Ng Si Hui</td><td>Sec 4C</td><td>Upper Secondry Executive Member</td></tr>
+<tr><td>Lucia Wu</td><td>Sec 3U</td><td>Secretary</td></tr>
+<tr><td>Imelda Marianne Wee</td><td>Sec 3T</td><td>Lower Secondry Executive Member</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
