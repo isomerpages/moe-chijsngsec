@@ -166,14 +166,14 @@ Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 		<th style="width:25%">Class</th>
 		<th style="width:25%">Position</th> 
     </tr>
-<tr><td>Hannah Li-Wen de Lang-Ho</td><td>Sec 3C</td><td>President</td></tr>
-<tr><td>Yew Yi Zenn<br>Krisshana Kannan</td><td>Sec 3J<br>Sec 3T</td><td>Vice-President</td></tr>
-<tr><td>Kim Jua<br>Chan Yin Kay</td><td>Sec 3L<br>Sec 3W</td><td>Heads (Logistics Wing)</td></tr>
-<tr><td>Phua Hui Yu Ashleigh<br>Yeo Chen Xi</td><td>Sec 3T<br>Sec 3W</td><td>Heads (Events Wing)</td></tr>		
-<tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 3F<br>Sec 3T</td><td>Head (Welfare Wing)</td></tr>
+<tr><td>Hannah Li-Wen de Lang-Ho</td><td>Sec 4C</td><td>President</td></tr>
+<tr><td>Yew Yi Zenn<br>Krisshana Kannan</td><td>Sec 4J<br>Sec 4T</td><td>Vice-President</td></tr>
+<tr><td>Kim Jua<br>Chan Yin Kay</td><td>Sec 4L<br>Sec 4W</td><td>Heads (Logistics Wing)</td></tr>
+<tr><td>Phua Hui Yu Ashleigh<br>Yeo Chen Xi</td><td>Sec 4T<br>Sec 4W</td><td>Heads (Events Wing)</td></tr>		
+<tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 4F<br>Sec 4T</td><td>Head (Welfare Wing)</td></tr>
 </tbody></table>
 
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture8.jpg" style="width:80%"><center>The 18th Student Council (2024 - 2025)</center>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture6A.jpg" style="width:80%"><center>The 18th Student Council (2024 - 2025)</center>
 
 The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exchange with our Joint Integrated Programme (JIP) partner schools.
 
