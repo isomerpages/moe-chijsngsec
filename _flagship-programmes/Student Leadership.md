@@ -118,9 +118,9 @@ Anchored on The Leadership Challenge, **St Nicholas Student Leadership** is base
 ##### (1) Trainings  
 All St Nicholas students go through leadership workshops which provide differentiated and structured developmental training. This includes leadership milestone training sessions, which identifies specific leadership skills to be taught at each level. These training sessions include Mass Leadership Training, Level Specific Training and Positional Leadership Specific Training.
 
-|<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture3.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture4.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
+|<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture2A.jpg" style="width:100%"> | <img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture3A.jpg" style="width:100%"> | <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture5.jpg" style="width:100%"> |
 |  -------- | -------- | -------- |
-| **2025 S1 Mass Leadership Training**| **2025 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
+| **2026 S1 Mass Leadership Training**| **2026 S3 &amp; S4 Mass Leadership Training**|**2025 Student Council Workshop**|
 
 ##### (2) **Opportunities** <br> 
 Our school believes in empowering students and developing important 21 Century Competencies (21CCs) through an array of platforms, as outlined in the table below. Students are invited to actively participate as members of the St Nicholas family.<br> <br> **Leadership Development at CHIJ St Nicholas Girls’ School (Sec)**<br> **Future Readiness (21 CC Skills)** 
@@ -139,7 +139,8 @@ Our school believes in empowering students and developing important 21 Century C
 **Non-positional Leadership**
 <br>Being a good influence and a contributing and involved member of the school community.
 
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture6.jpg">
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture4A.jpg"><br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture5A.jpg">
 Our Student Leaders at the An-Nahdhah Mosque, understanding the importance of cross-cultural skills and engaging with the community.
 
 ##### **SNGS Student Council**
@@ -165,27 +166,27 @@ Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 		<th style="width:25%">Class</th>
 		<th style="width:25%">Position</th> 
     </tr>
-<tr><td>Hannah Li-Wen de Lang-Ho</td><td>Sec 3C</td><td>President</td></tr>
-<tr><td>Yew Yi Zenn<br>Krisshana Kannan</td><td>Sec 3J<br>Sec 3T</td><td>Vice-President</td></tr>
-<tr><td>Kim Jua<br>Chan Yin Kay</td><td>Sec 3L<br>Sec 3W</td><td>Heads (Logistics Wing)</td></tr>
-<tr><td>Phua Hui Yu Ashleigh<br>Yeo Chen Xi</td><td>Sec 3T<br>Sec 3W</td><td>Heads (Events Wing)</td></tr>		
-<tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 3F<br>Sec 3T</td><td>Head (Welfare Wing)</td></tr>
+<tr><td>Hannah Li-Wen de Lang-Ho</td><td>Sec 4C</td><td>President</td></tr>
+<tr><td>Yew Yi Zenn<br>Krisshana Kannan</td><td>Sec 4J<br>Sec 4T</td><td>Vice-President</td></tr>
+<tr><td>Kim Jua<br>Chan Yin Kay</td><td>Sec 4L<br>Sec 4W</td><td>Heads (Logistics Wing)</td></tr>
+<tr><td>Phua Hui Yu Ashleigh<br>Yeo Chen Xi</td><td>Sec 4T<br>Sec 4W</td><td>Heads (Events Wing)</td></tr>		
+<tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 4F<br>Sec 4T</td><td>Head (Welfare Wing)</td></tr>
 </tbody></table>
 
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture8.jpg" style="width:80%"><center>The 18th Student Council (2024 - 2025)</center>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture6A.jpg" style="width:80%"><center>The 18th Student Council (2025 - 2026)</center>
 
 The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exchange with our Joint Integrated Programme (JIP) partner schools.
 
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture9.jpg" style="width:80%"><center>2025 JIP Student Leadership Exchange</center>
 
-##### **Student Council  Highlights (2023/2024)**
+##### **Student Council  Highlights (2025/2026)**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>2024 Student Council Presidential Elections<br></b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture10.jpg" style="width:80%">
-	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture11.jpg" style="width:80%">
-	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture12.jpg" style="width:80%"></td></tr>
+<tr><td style="width:50%"><b>2025 Student Council Presidential Elections<br></b></td>
+<td><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture7A.jpg" style="width:80%"><br>
+	<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8A.jpg" style="width:80%">
+</td></tr>
 
 <tr><td style="width:50%"><b>Serving the Community at the Kebun Baru Community Club Digital Family Day</b></td>
 <td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture13.png" style="width:80%"></td></tr>
@@ -193,12 +194,14 @@ The Student Council seizes valuable networking opportunities to work with studen
 <tr><td style="width:50%"><b>Student Council Touchpoints</b></td>
 <td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture14.jpg" style="width:80%"></td></tr>
 
-<tr><td style="width:50%"><b>2024 Pinnacle Programme</b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture15.jpg" style="width:80%"></td></tr>
+<tr><td style="width:50%"><b>2025 Pinnacle Programme</b></td>
+<td><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8B.jpg" style="width:80%"><br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8C.jpg" style="width:80%"></td></tr>
 	
-<tr><td style="width:50%"><b>18th Student Council Leading Teacher’s Day Celebrations</b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture16.jpg" style="width:80%">
-	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture17.jpg" style="width:80%"></td></tr>
+<tr><td style="width:50%"><b>19th Student Council Leading Teacher’s Day Celebrations</b></td>
+<td><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8D.jpg" style="width:80%"><br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8E.jpg" style="width:80%"><br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8F.jpg" style="width:80%"></td></tr>
 </tbody></table>
 
 **Through our DSA (Leadership) programme, we aim to develop leaders who:**
@@ -224,5 +227,5 @@ Candidates should have:
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture21.jpg" style="width:70%">
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture22.jpg" style="width:70%">
 <center>S1 DSA Student Leaders Leading SNGS Primary P4 NE Camp</center>
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture23.jpg" style="width:70%">
-<center>S2 DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</center>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8G.jpg" style="width:70%">
+<center>S2 DSA Student Leaders in the 2026 Friends of Singa Campaign Programme</center>
