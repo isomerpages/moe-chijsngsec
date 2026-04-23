@@ -227,5 +227,5 @@ Candidates should have:
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture21.jpg" style="width:70%">
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture22.jpg" style="width:70%">
 <center>S1 DSA Student Leaders Leading SNGS Primary P4 NE Camp</center>
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture23.jpg" style="width:70%">
-<center>S2 DSA Student Leaders Pitching Ideas for Singapore Kindness Movement</center>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8G.jpg" style="width:70%">
+<center>S2 DSA Student Leaders in the 2026 Friends of Singa Campaign Programme</center>
