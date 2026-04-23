@@ -179,14 +179,14 @@ The Student Council seizes valuable networking opportunities to work with studen
 
 <img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture9.jpg" style="width:80%"><center>2025 JIP Student Leadership Exchange</center>
 
-##### **Student Council  Highlights (2023/2024)**
+##### **Student Council  Highlights (2025/2026)**
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>2024 Student Council Presidential Elections<br></b></td>
-<td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture10.jpg" style="width:80%">
-	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture11.jpg" style="width:80%">
-	<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture12.jpg" style="width:80%"></td></tr>
+<tr><td style="width:50%"><b>2025 Student Council Presidential Elections<br></b></td>
+<td><img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture7A.jpg" style="width:80%">
+	<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture8A.jpg" style="width:80%">
+</td></tr>
 
 <tr><td style="width:50%"><b>Serving the Community at the Kebun Baru Community Club Digital Family Day</b></td>
 <td><img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture13.png" style="width:80%"></td></tr>
