@@ -173,7 +173,7 @@ Ms Fatmah Ismail Talib, Ms Michelle Chan &amp; Mrs Uma Jacob
 <tr><td>Chan Lok Ngan Miriam<br>Er E-Tzine Zene</td><td>Sec 4F<br>Sec 4T</td><td>Head (Welfare Wing)</td></tr>
 </tbody></table>
 
-<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture6A.jpg" style="width:80%"><center>The 18th Student Council (2024 - 2025)</center>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture6A.jpg" style="width:80%"><center>The 18th Student Council (2025 - 2026)</center>
 
 The Student Council seizes valuable networking opportunities to work with student leaders from other schools. Through a variety of platforms and programmes, they gain exposure to a wide range of issues, learn problem-solving skills and feel empowered to speak up for causes they strongly believe in. Some programmes that our Councillors have participated in are the Hwa Chong Institution’s Student Leadership Convention, River Valley High School’s Y.LEAD Seminar and Student Leadership Exchange with our Joint Integrated Programme (JIP) partner schools.
 
