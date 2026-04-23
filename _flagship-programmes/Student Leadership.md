@@ -139,7 +139,8 @@ Our school believes in empowering students and developing important 21 Century C
 **Non-positional Leadership**
 <br>Being a good influence and a contributing and involved member of the school community.
 
-<img src="/images/05%20Student%20Development/03%20Student%20Leadership/Picture6.jpg">
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture4A.jpg"><br>
+<img src="/images/02%20Flagship%20Programmes/Student%20Leadership/Picture5A.jpg">
 Our Student Leaders at the An-Nahdhah Mosque, understanding the importance of cross-cultural skills and engaging with the community.
 
 ##### **SNGS Student Council**
