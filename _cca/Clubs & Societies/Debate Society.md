@@ -57,6 +57,10 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td style="width:50%"><b>Singapore Secondary Schools Debating Championships</b><br><br>   The Singapore Secondary Schools Debating Championships, organised by Julia Gabriel, is an annual tournament taking place over the course of 2 months. Through the tournament, our debaters hone their resilience, self-confidence and teamwork alongside their ability to formulate and deliver strategic arguments. This year, our team advanced to the Quarter-Finals. We also had Yew Yi Zenn named the Top Best Speaker, Zhou Yi An named 4th Best Speaker and Tan Tian Lan named 14th Best Speaker in the overall tournament.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture17.jpg"><br><img src="/images/06%20CCA/CS%20Debate%20Society/Picture18.jpg"></td></tr>
 
+<tr><td style="width:50%"><b> Orator’s Trophy 2025</b><br><br>The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience.
+<br><br>Our Junior League participant, Ethel Ebenezer John, was a finalist at the competition..</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture19.jpg"></td></tr>
+
 <tr><td style="width:50%"><b>SyNerGiSe exhibition debate</b><br><br>During SyNerGiSe, SNGS’ hallmark end-of-year event, our debaters introduced our schoolmates to the fundamentals of debate and put up two exhibition debates to showcase the skills they had just taught; this not only served as a unique opportunity to show our peers what the activity of debating entailed, but also allowed our debaters a valuable platform to hone their debating skills outside of competitions and in doing so, work together with their seniors and juniors.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture4.jpg"></td></tr>
 	
