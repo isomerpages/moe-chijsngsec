@@ -10,7 +10,7 @@ variant: markdown
 
 #### **Debate Society**
 
-<img src="/images/06%20CCA/CS%20Debate%20Society/Picture6.jpg" style="width:100%">
+<img src="/images/06%20CCA/CS%20Debate%20Society/Picture15.jpg" style="width:100%">
 
 The most important tactic in an argument, next to being right, is to leave an escape hatch for your opponent, so that he can gracefully swing over to your side without an embarrassing loss of face.
 
@@ -24,7 +24,7 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Wed - 2C &amp; Spare Classroom 1 (S4-L3-02 &amp; 03)<br>Fri - Computer Lab 1</td></tr>
 <tr><th>Training Day / Time</th><td>Wed: 3:45 pm - 6:15 pm <br>Fri: 4:00 pm - 6:30 pm</td></tr>
-<tr><th>Instructors</th><td>Mr Ian Dylan Chai</td></tr>
+<tr><th>Coach</th><td>Miss Rachel Lee</td></tr>
 </tbody></table>
 
 #### **Teachers-in-charge**
@@ -34,28 +34,32 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 <tr><td><b>Mrs Uma Jacob</b><br>Mrs Chong Mei Ling<br>Ms Tan Chork Meng<br></td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2026 - 2027)**
 
 <table style="width:100%">
  <tbody>
 <tr><th style="width:45%">Name</th><th style="width:25%">Class</th> <th style="width:30%">Position</th></tr>
- <tr><td>Andrea Liu Xin En </td><td>Sec 4T</td><td>President (Debate Chairperson)</td></tr>
-<tr><td>Ng Kiat Kee Rachel</td><td>Sec 4T</td><td>Vice-President (Debate Vice-Chairperson)</td></tr>
-<tr><td>Cao Ziyi</td><td>Sec 4P</td><td>Secretary (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Bernice Ho Gene Ya</td><td>Sec 4G</td><td>Welfare Head (Upper Sec Debate EXCO)</td></tr>
-<tr><td>Yew Yi Zenn</td><td>Sec 3J</td><td>Upper Sec Debate Comm Member</td></tr>
-<tr><td>Glossoti Alexa En<br></td><td>Sec 2F</td><td>Lower Sec Debate Comm Member</td></tr>
+ <tr><td> Xue Jiarui </td><td>Sec 3P</td><td> President</td></tr>
+<tr><td> Louisa Woo</td><td>Sec 3J</td><td> Vice-President</td></tr>
+<tr><td> Phoebe Chew Yu Xuan</td><td>Sec 3G</td><td> Secretary</td></tr>
+<tr><td> Alyssa Lim En Ting</td><td>Sec 3P</td><td> Welfare Head</td></tr>
+<tr><td> Goh Zi Yan, Jayne</td><td>Sec 2T</td><td> Sec 2 Level Coordinator</td></tr>
+<tr><td> Tan Jia Ci<br></td><td>Sec 1F</td><td> Sec 1 Level Coordinator</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
 
 <table style="width:100%">
 <tbody>
-<tr></tr><tr><td style="width:50%"><b>Singapore Secondary Schools Debating Championships</b><br><br>The Singapore Secondary Schools Debating Championships, organised by Julia Gabriel, is an annual tournament taking place over the course of 2 months. Through the tournament, our debaters hone their resilience, self-confidence and teamwork alongside their ability to formulate and deliver strategic arguments. This year, our team achieved the title of Plate Finalists, with one of our speakers being named the Best Speaker of the Plate Finals.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture7.jpg"></td></tr>
+<tr></tr><tr><td style="width:50%"><b>National Schools Debate Challenge</b><br><br> The National Schools Debate Challenge 2026 is organised by Dialogic Academy in collaboration with Tanglin Trust School. This tournament provides students with an invaluable opportunity to engage in competitive debate and hone their skills against peers. This year, our team clinched the Runner-Up position in the Gold Finals. We also had two of our speakers. Tan Tian Lan and Xue Jiarui ranking 2nd and 10th Best Overall Speakers respectively.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture16.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>Orator's Trophy 2024</b><br><br> The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience. This year, one of our debaters achieved 1st Runner-Up in the Junior League.</td>
-<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture8.jpg"></td></tr>
+<tr><td style="width:50%"><b>Singapore Secondary Schools Debating Championships</b><br><br>   The Singapore Secondary Schools Debating Championships, organised by Julia Gabriel, is an annual tournament taking place over the course of 2 months. Through the tournament, our debaters hone their resilience, self-confidence and teamwork alongside their ability to formulate and deliver strategic arguments. This year, our team advanced to the Quarter-Finals. We also had Yew Yi Zenn named the Top Best Speaker, Zhou Yi An named 4th Best Speaker and Tan Tian Lan named 14th Best Speaker in the overall tournament.</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture17.jpg"><br><img src="/images/06%20CCA/CS%20Debate%20Society/Picture18.jpg"></td></tr>
+
+<tr><td style="width:50%"><b> Orator’s Trophy 2025</b><br><br>The Hybrid Orator’s Trophy competition organised by Anglo-Chinese Junior College gives our debaters a different context in which they can utilise the improvisational skills and stylistic speaking techniques they learn through debate, as well as build their confidence in speaking to a large audience.
+<br><br>Our Junior League participant, Ethel Ebenezer John, was a finalist at the competition..</td>
+<td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture19.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>SyNerGiSe exhibition debate</b><br><br>During SyNerGiSe, SNGS’ hallmark end-of-year event, our debaters introduced our schoolmates to the fundamentals of debate and put up two exhibition debates to showcase the skills they had just taught; this not only served as a unique opportunity to show our peers what the activity of debating entailed, but also allowed our debaters a valuable platform to hone their debating skills outside of competitions and in doing so, work together with their seniors and juniors.</td>
 <td><img src="/images/06%20CCA/CS%20Debate%20Society/Picture4.jpg"></td></tr>
@@ -70,6 +74,11 @@ Whether as an abstract construct or as the constructed exercise with strict rule
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Singapore Secondary School<br>Debating Championships 2026     |  Secondary 3 &amp; 4     | Quarter-Finalists<br>Overall Best Speaker in Division I<br>4th Best Speaker in Division I<br>17th Best Speaker in Division I    |
+|Malaysia International World Schools Debate<br>Championships 202 |  | Participation |
+|Orator's Trophy 2026 | Secondary 2 | Junior League Finalist |
+| National Schools Debate Challenge 2026     | Secondary 3 &amp; 4 | Runner-Up Gold Finals. 2nd Overall Best Speaker<br>10th Best Overall Speaker     |
+| Eunoia Debating Championship 2026     | Secondary 3 &amp; 4 | Participation     |
 | Eunoia Debating Championship 2024     | Secondary 3 &amp; 4     | Semi-finalists, 8th and 9th Best Speakers     |
 | Orator's Trophy 2024     | Secondary 2     | 1st Runner-up in Junior League     |
 | Singapore Secondary School<br>Debating Championships 2024     |  Secondary 3 &amp; 4     |Runners-up in Division I Plate Final<br>Best Speaker in Division I Plate Final    |
