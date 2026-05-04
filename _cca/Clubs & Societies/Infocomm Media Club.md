@@ -9,8 +9,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/05%20subpage%20cca.jpg">
 </div>
 <h4><strong>Infocomm Media Club</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture17.jpg">
 </div>
 <p>SNGS Infocomm Media Club offers students a dynamic and engaging platform
 to explore the world of technology, media, and communication. As part of
