@@ -78,7 +78,7 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 <tbody>
 <tr><td style="width:50%">
 <b>Competition</b><br>The Media Challenge by Republic Polytechnic – School of Business<br>
-<img src="/images/06%20CCA/CS%20Publications/Picture6.png"></td><td><b>Achievement</b><br> Champion <br>2nd Runner-Up**<br>
+<img src="/images/06%20CCA/CS%20Publications/Picture6.png"></td><td><b>Achievement</b><br> Champion <br>2nd Runner-Up<br>
 <img src="/images/06%20CCA/CS%20Publications/Picture7.png"></td></tr>
 
 </tbody></table>
