@@ -15,7 +15,7 @@ We strive to make&nbsp;PE&nbsp;a meaningful and engaging experience for students
 
 **Secondary 2 &amp; 3 – Intermediate Skills Development**<br>You will continue to hone psychomotor, cognitive and affective skills during movement and games.
   
-**Secondary 4 – Advance Skills Development**<br>You will deepen your psychomotor, cognitive and affective learning through specially designed innovative games and elective PE game modules.  
+**Secondary 4 – Advance Skills Development**<br>You will deepen your psychomotor, cognitive and affective learning through specially designed innovative games and elective PE game modules.
   
 **Sec 3/4 – Exercise and Sports Science (O Level Programme)**  
   
