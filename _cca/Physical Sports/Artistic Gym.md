@@ -76,7 +76,7 @@ In addition to regular training, our gymnasts take part in a range of school act
 <td><img src="/images/06%20CCA/PS%20AGym/Picture13.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture14.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>NSG Artistic Gymnastics Competition 2026</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture15.jpg"><br></td></tr>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture15.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture16.jpg"></td></tr>
 	
 </tbody></table>
 
