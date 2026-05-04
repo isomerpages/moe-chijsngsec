@@ -9,11 +9,11 @@ variant: markdown
 
 #### **Artistic Gym**
 
-<img src="/images/06%20CCA/PS%20AGym/Picture1B.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20AGym/Picture8A.jpg" style="width:100%">
 
-Artistic Gymnastics is a sport where gymnasts compete by doing short routines on four apparatus: balance beam, uneven bars, vault and floor exercise. In Trampoline, gymnasts perform acrobatic moves while bouncing on a trampoline. These sports are known for their artistry and grace which require gymnasts to display exceptional balance, strength and flexibility.  
-  
-Besides training for competitions, our gymnasts are exposed to a wide range of activities that allow them to interact socially to develop holistically. These activities include an annual sports camp, VIA activities, CCA fair and the School Open House. Through such activities, our gymnasts develop and display teamwork and creativity, as well as compassion and empathy. Gymnastics is not all about winning but displaying good sportsmanship. It is about developing resilience and a positive attitude that will empower our gymnasts in the future. This is exemplified through their willingness to devote long training hours to hone their skills to perfection.  
+Artistic Gymnastics is a discipline where students perform structured routines on four apparatus—the balance beam, uneven bars, vault, and floor exercise. In Trampoline, gymnasts carry out a series of controlled jumps and acrobatic skills while maintaining rhythm and height. Both areas of gymnastics emphasize not only physical ability, but also control, coordination, and confidence, as students learn to move with precision and composure.
+
+In addition to regular training, our gymnasts take part in a range of school activities that support their personal growth. These include the annual sports camp, VIA initiatives, CCA fair, and the School Open House. Through these experiences, students learn to work well with others, express themselves creatively, and show care and respect for the people around them. Gymnastics is therefore not just about performance, but about developing discipline, resilience, and a positive attitude. The commitment shown by our gymnasts in training reflects their determination to improve and their willingness to persevere, both in sport and in their daily lives. 
 
 #### **CCA Information**
 
