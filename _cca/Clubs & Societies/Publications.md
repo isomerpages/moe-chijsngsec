@@ -58,20 +58,16 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 
 <table style="width:100%">
 <tbody>
-<tr><td style="width:50%"><b>Workshop</b><br><br>Our students participate in a variety of enriching workshops, covering skills from mastering photography and videography to conducting effective and professional interviews. These experiences equip our students with practical abilities and confidence, preparing them for real-world applications and personal growth.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/picture7(d).jpg"></td></tr>
+<tr><td style="width:50%"><b>
 
-<tr><td style="width:50%"><b>Interview</b><br><br>We actively engage with our students through interviews, providing a platform for them to share their perspectives on a range of important topics. This approach helps us understand their views and ensures that their voices contribute meaningfully to our school community.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture2.jpg">
-<img src="/images/06%20CCA/CS%20Publications/Picture3.jpg">
-<img src="/images/06%20CCA/CS%20Publications/Picture4.jpg"></td></tr>
+1.&nbsp;&nbsp;&nbsp;&nbsp; CCA Fair 2026
 
-<tr><td style="width:50%"><b>Social Media Engagement</b><br><br>Since last year, our students have taken&nbsp; on the exciting role of crafting captions for the school’s Instagram posts. Through their efforts, they covered major events like this year’s Community Engagement at the An-Nahdhah Mosque during Ramadan and Total Defence Day Celebrations, honing their skills in concise and impactful writing. This initiative has not only enriched their learning experience but has also helped the school connect with a diverse audience, reaching people of all ages through these thoughtful, age-inclusive captions.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture5.jpg">
+2.&nbsp;&nbsp;&nbsp;&nbsp; Book Bar Learning Journey
+
+3.&nbsp;&nbsp;&nbsp;&nbsp; Creative Writing Workshop Collaboration with Library
 	
-</td></tr><tr><td style="width:50%"><b>Competitions</b><br><br>Our students actively participate in prestigious competitions such as the Queen’s Commonwealth Essay Competition and The Media Challenge. These opportunities encourage innovative thinking and help sharpen their writing abilities and media literacy skills, fostering critical engagement with global issues.</td>
-<td><img src="/images/06%20CCA/CS%20Publications/Picture6.jpg">
-<img src="/images/06%20CCA/CS%20Publications/Picture7.jpg"></td></tr>
+4.&nbsp;&nbsp;&nbsp;&nbsp; Sec Four Farewell Party
+</b></td><td><img src="/images/06%20CCA/CS%20Publications/picture7(d).jpg"></td></tr>
 
 </tbody></table>
 
