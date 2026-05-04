@@ -46,7 +46,10 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 </tr>
 <tr><td> KLARA TAN HWEE YA</td><td>Sec 3W</td><td>President</td></tr>
 <tr><td> KHONG SEE KEI</td><td>Sec 3G</td><td>Vice President</td></tr>
-<tr><td> KHONG SEE KEI</td><td>Sec 3G</td><td>Vice President</td></tr>	
+<tr><td> WONG XUAN LE JULIETTE</td><td>Sec 3D</td><td> Upper Sec EXCO</td></tr>	
+<tr><td> LIM JIE QI</td><td>Sec 2C</td><td>Lower Sec EXCO</td></tr>
+<tr><td>NEO YU NING PHOEBE</td><td>Sec 2G</td><td>Lower Sec EXCO</td></tr>
+<tr><td>DARRYLYN ONG</td><td>Sec 2J</td><td>Lower Sec EXCO</td></tr>
 </tbody></table>
 
 
