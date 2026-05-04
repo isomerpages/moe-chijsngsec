@@ -24,7 +24,5 @@ We strive to make&nbsp;PE&nbsp;a meaningful and engaging experience for students
 
 **Our Enrichment**  
 *   Games Carnival
-*   Sports Fiesta
-*   Passion Pursuit modules
 *   Sports Camp
 *   Sports Leader Programme
