@@ -114,10 +114,10 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clarisse Fong Jie Min</p>
+<p>Alyvia Wong Yuk Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4L</p>
+<p>Sec 4D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -125,7 +125,7 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Si Ju, Stephanie</p>
+<p>Hoo Sue Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4D</p>
@@ -136,10 +136,10 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caitlyn Ciana Cho</p>
+<p>Olivia Meghan Wong Teng Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4L</p>
+<p>Sec 4W</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (PA)</p>
@@ -147,10 +147,10 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tea Xin Qin Valerie</p>
+<p>Sim Yu Hui, Meagan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4J</p>
+<p>Sec 4F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (Media)</p>
@@ -158,21 +158,21 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Wan Tian, Phylicia</p>
+<p>Chen Zi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4U</p>
+<p>Sec 4W</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head (Project)</p>
+<p>Head (Admin)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alyvia Wong Yuk Ting</p>
+<p>Zhang Enxi Anissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3D</p>
+<p>Sec 3P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Level Coordinator</p>
@@ -180,7 +180,7 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hoo Sue Ee</p>
+<p>Tay Yu Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3D</p>
