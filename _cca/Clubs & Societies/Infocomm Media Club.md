@@ -292,7 +292,7 @@ grow as a closely connected Infocomm family.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>rojects</strong>
+<p><strong>Projects</strong>
 <br>
 <br>Working and presenting in projects forms a vibrant and integral part of
 the Infocomm Media Club experience. Throughout the CCA programme, members
