@@ -341,10 +341,10 @@ and adaptability.</p>
 <p>Sec 1 – Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Gold Award,</p>
-<p>5 Silver Award,</p>
-<p>10 Bronze Award,</p>
-<p>5 Honorable Mention.</p>
+<p>3 Gold Award,
+<br>5 Silver Award,
+<br>10 Bronze Award,
+<br>5 Honorable Mention</p>
 </td>
 </tr>
 <tr>
@@ -355,10 +355,10 @@ and adaptability.</p>
 <p>Sec 1 – Sec 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Gold Award,</p>
-<p>7 Silver Award,</p>
-<p>6 Bronze Award,</p>
-<p>11 Honorable Mention.</p>
+<p>3 Gold Award,
+<br>7 Silver Award,
+<br>6 Bronze Award,
+<br>11 Honorable Mention</p>
 </td>
 </tr>
 <tr>
