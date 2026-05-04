@@ -67,7 +67,8 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 3.&nbsp;&nbsp;&nbsp;&nbsp; Creative Writing Workshop Collaboration with Library
 	
 4.&nbsp;&nbsp;&nbsp;&nbsp; Sec Four Farewell Party
-</b></td><td><img src="/images/06%20CCA/CS%20Publications/picture7(d).jpg"></td></tr>
+</b></td><td><img src="/images/06%20CCA/CS%20Publications/Picture4A.jpg"><br>
+<img src="/images/06%20CCA/CS%20Publications/Picture5.png"></td></tr>
 
 </tbody></table>
 
