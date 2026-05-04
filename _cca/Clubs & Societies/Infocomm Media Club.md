@@ -283,14 +283,16 @@ another better.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Projects</strong>
 <br>
-<br>During the CCA programmes, Infocomm Media Club members do projects that
-offer students hands-on experience in technology and media production,
-such as coding apps or creating digital content.
-<br>
-<br>These projects allow students to apply their knowledge in real-world scenarios,
-fostering critical 21st-century skills like problem-solving, teamwork,
-and creativity. In these collaborative projects, students enhance their
-technical abilities, improve communication, and gain leadership experience.</p>
+<br>Working and presenting in projects forms a vibrant and integral part of
+the Infocomm Media Club experience. Throughout the CCA programme, members
+engage in a range of technology and media-based projects that provide authentic
+hands-on opportunities to design, create, and innovate. From developing
+coding applications to producing digital media content, students are challenged
+to transform ideas into purposeful outcomes.</p>
+<p>These project experiences allow members to apply technical knowledge in
+meaningful real-world contexts while sharpening essential 21st-century
+competencies such as critical thinking, creative problem-solving, collaboration
+and adaptability.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
