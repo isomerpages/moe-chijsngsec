@@ -330,6 +330,34 @@ and adaptability.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>BEBRAS Challenge 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold Award,</p>
+<p>5 Silver Award,</p>
+<p>10 Bronze Award,</p>
+<p>5 Honorable Mention.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BEBRAS Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold Award,</p>
+<p>7 Silver Award,</p>
+<p>6 Bronze Award,</p>
+<p>11 Honorable Mention.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Design Thinking and Computational
 <br>Thinking International
 <br>Competition 2024 <strong>(DrCT)</strong>
