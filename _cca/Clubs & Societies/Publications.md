@@ -9,12 +9,15 @@ variant: markdown
 
 #### **Publications**
 
-<img src="/images/06%20CCA/CS%20Publications/Picture1.jpg" style="width:50%">
+<img src="/images/06%20CCA/CS%20Publications/Picture1A.jpg" style="width:50%">
+<img src="/images/06%20CCA/CS%20Publications/Picture2A.jpg" style="width:50%">
 
-At SN Publications, **_writing meets passion_**! We invite readers to experience stories that resonate with them and capture slices of student life in St Nicks. Members have numerous opportunities to refine their skills and express their voices through our vibrant blog, as well as in various writing competitions.
-<br><br>Our club fosters a welcoming environment where members gather to share their love for writing and enjoy each other’s company. Focused on creative expression and teamwork, we aim to inspire all our writers to explore and develop their unique talents.
-<br><br>Beyond creative writing, our members delve into journalism by interviewing members of the school community, gathering stories, and producing videos. One highlight this year has been our _After School Stories_ series where we capture meaningful exchanges with staff and students alike. Our series kicked off with a feature on our Principal, Ms Tan who shared with us many of her insights. In 2024, our team also began writing captions for the school’s Instagram page as a channel for students’ voices to be heard by covering various school events.
-<br><br>Beyond our journalistic pursuit, we also celebrate the long lasting friendships we form along the way. Together, as a team of dedicated writers, we remain committed to crafting stories that inspire and connect with our readers
+**Vision**  
+To become the heartbeat and pulse of St. Nick’s, where student voices drive storytelling, creativity thrives, and the life of the St. Nick's girl is recorded, celebrated, and shared.
+
+**Mission Statement**
+
+The Publications CCA aims to empower students to communicate ideas with clarity, creativity, and integrity through print and digital media. We nurture responsible journalists, editors, designers, and storytellers who inform, engage, and represent the diverse voices of the school community while upholding ethical standards, excellence in publication and connecting our community.
 
 #### **CCA Information**
 
@@ -22,17 +25,17 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Computer Lab 1</td></tr>
 <tr><th>Training Day / Time</th><td>Wednesday<br>3.45 pm - 5.45 pm</td></tr>
-<tr><th>Instructors</th><td>-</td></tr>
+
 </tbody></table>
 
 #### **Teachers-in-charge**
 
 <table style="width:100%">
 <tbody>
-<tr><td>Mdm Hema Khaira<br>Ms Lau Siew Min Rachel</td></tr>
+<tr><td>Mdm Hema Khaira<br>Ms Rachel Lau</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025)**
+#### **Student Executive Committee (2026 - 2027)**
 
 <table style="width:100%">
 <tbody>
@@ -41,8 +44,9 @@ At SN Publications, **_writing meets passion_**! We invite readers to experience
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Darissa Ong</td><td>Sec 3L</td><td>President</td></tr>
-<tr><td>Hannah Li-Wen De Lang-Ho</td><td>Sec 3C</td><td>Vice President</td></tr>
+<tr><td> KLARA TAN HWEE YA</td><td>Sec 3W</td><td>President</td></tr>
+<tr><td> KHONG SEE KEI</td><td>Sec 3G</td><td>Vice President</td></tr>
+<tr><td> KHONG SEE KEI</td><td>Sec 3G</td><td>Vice President</td></tr>	
 </tbody></table>
 
 
