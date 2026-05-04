@@ -262,16 +262,23 @@ and solution designers in an increasingly digital world.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>Learning Journeys</strong>
-<br>
-<br>Through various learning journeys around Singapore, Infocomm members get
-to learn more and deepen their understanding about the various skills.&nbsp;
-<br>
-<br>For instance, going to the Headrock VR at Sentosa helped the members learn
-more about the advancing technology in today’s society. This also allows
-the members to forge stronger bonds with each other and get to know one
-another better.</p>
+</p>
+<p>Infocomm Media Club members are regularly given opportunities to participate
+in specially curated learning journeys across Singapore, allowing them
+to extend their learning beyond the classroom and experience technology
+in authentic real-world settings. These experiential sessions provide members
+with deeper insights into emerging digital innovations, media applications
+and evolving technological trends shaping today’s society.</p>
+<p>One such example is the immersive visit to HeadRock VR at Sentosa, where
+members explored the exciting possibilities of virtual reality and interactive
+digital experiences firsthand. Through such technology-rich encounters,
+students gain a broader appreciation of how Infocomm solutions are transforming
+industries and user experiences in the modern world.</p>
+<p>Beyond technical exposure, these shared journeys also strengthen camaraderie
+within the club. As members learn, explore and problem-solve together in
+new environments, they forge stronger friendships, build teamwork, and
+grow as a closely connected Infocomm family.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
