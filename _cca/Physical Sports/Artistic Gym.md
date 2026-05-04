@@ -85,7 +85,7 @@ In addition to regular training, our gymnasts take part in a range of school act
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
-| NSG Artistic Gymnastics Competition 2025     | 'B' Division    | Champions (1st Place) |Champions (1st Place) |
-| NSG Artistic Gymnastics Competition 2025 &nbsp; &nbsp; | 'C' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
-| NSG Artistic Trampoline Competition 2025 &nbsp; &nbsp;  | 'B' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
-| NSG Artistic Trampoline Competition 2025 &nbsp; &nbsp;  | 'C' Division &nbsp;  | Champions (1st Place) |Champions (1st Place) |
+| National School Games Trampoline Competition |  'B' Division<br>  'C' Division   | Team: 1st <br> Team: 1st  |
+| National School Games Artistic Gymnastics Competition    | 'B' Division<br>  'C' Division   | Team: 1st <br> Team: 1st  |
+|  National School Games Trampoline Competition    | 'B' Division<br>  'C' Division   | Team: 1st <br> Team: 1st  |
+| National School Games Artistic Gymnastics Competition    | 'B' Division<br>  'C' Division   | Team: 1st <br> Team: 1st  |
