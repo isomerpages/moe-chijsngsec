@@ -202,9 +202,12 @@ they learn to create with it, lead through it and make an impact with it.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Public Announcement (PA) Duty for school events</strong>
 <br>
-<br>All members are rostered to perform PA duties during school events. For
-many of the members, this eventually forms a memorable part of their school
-life.</p>
+<br>Public Announcement duties form a core part of the Infocomm experience
+at SNGS. Members are trained to operate professional audio-visual equipment,
+oversee microphone and sound management and support the technical execution
+of school-wide programmes. This unique backstage role allows students to
+combine technical competence with calm decision-making under real event
+conditions, creating experiences that are both enriching and unforgettable.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -214,14 +217,18 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Photography and Videography</strong>
-<br>
-<br>All Infocomm Media Club members underwent basic photography and videography
-courses and also regular photo review sessions.&nbsp;
-<br>
-<br>These sharing and critique sessions aimed to provide the members with
-greater knowledge and awareness about photo composition and the story that
-the photos convey. This develops the students’ photo taking skill.</p>
+<p><strong>Photography and Videography&nbsp;</strong>
+</p>
+<p>All Infocomm Media Club members undergo foundational training in photography
+and videography, equipping them with essential technical skills in camera
+handling, framing, lighting and visual capture. Beyond mastering equipment,
+members are guided to view every shot through the lens of storytelling.</p>
+<p>Regular photo review and critique sessions form an important part of this
+developmental journey. Through guided sharing, professional feedback and
+collaborative discussions, members sharpen their eye for composition, timing,
+perspective and visual impact. These sessions cultivate a deeper artistic
+awareness of how meaningful moments can be transformed into compelling
+visual stories.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -233,20 +240,29 @@ the photos convey. This develops the students’ photo taking skill.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Coding</strong>
 <br>
-<br>From basic icon-based coding to almost hardcore programming, learning
-to code is a core skill for all members.&nbsp;
-<br>
-<br>Students learn to code on a variety of platforms and through various courses
-throughout the 4 years..</p>
+<br>Coding forms a key pillar of the Infocomm Media Club experience, with
+every member embarking on a progressive journey from foundational programming
+to advanced computational design. In the process, students build confidence
+in logical thinking, algorithmic reasoning, and digital creation.</p>
+<p>Across their four years in the club, students are exposed to a wide range
+of coding platforms, applications and specialised courses that strengthen
+both technical fluency and innovation. Through these experiences, students
+do not merely learn to code, they learn to think like creators, engineers
+and solution designers in an increasingly digital world.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture19.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Learning Journeys</strong>
 <br>
 <br>Through various learning journeys around Singapore, Infocomm members get
