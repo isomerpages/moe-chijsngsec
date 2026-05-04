@@ -281,14 +281,18 @@ new environments, they forge stronger friendships, build teamwork, and
 grow as a closely connected Infocomm family.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Infocomm Media Club4.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture20.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Projects</strong>
+<p><strong>rojects</strong>
 <br>
 <br>Working and presenting in projects forms a vibrant and integral part of
 the Infocomm Media Club experience. Throughout the CCA programme, members
