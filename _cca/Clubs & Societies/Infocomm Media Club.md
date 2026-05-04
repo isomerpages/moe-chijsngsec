@@ -13,23 +13,43 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture17.jpg">
 </div>
-<p>SNGS Infocomm Media Club offers students a dynamic and engaging platform
-to explore the world of technology, media, and communication. As part of
-the club, students gain hands-on experience in various aspects of Infocomm
-technology, such as coding, digital media creation, video production and
-graphic design. Through workshops, projects, and competitions, members
-can develop critical skills in problem-solving, creativity, and collaboration.
-The club encourages students to harness technology not only as a tool for
-innovation but also to create meaningful impact in their communities.</p>
-<p>SNGS Infocomm Media Club aims to develop students’ skills and character
-through service to the school community. Members take on important roles
-such as photography and videography for school events, ensuring moments
-are captured and shared. They also engage in coding projects, enhancing
-their technical expertise, and support school programmes through public
-announcement duties. By participating in these meaningful responsibilities,
-students not only sharpen their Infocomm skills but also contribute to
-the smooth running and vibrancy of school life, embodying a spirit of service
-and teamwork.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At SNGS Infocomm Media Club, technology meets creativity and innovation
+comes alive.</p>
+<p>More than just learning about computing and technology, the club offers
+students an exciting platform to explore the ever-evolving world of digital
+technology, media production and communication design. Members are immersed
+in authentic hands-on experiences ranging from coding and digital content
+creation to photography, videography, public announcement systems and multimedia
+storytelling.</p>
+<p>Through specially curated workshops, real-world projects, and national
+competitions, students are equipped with future-ready technical competencies
+in areas such as computational thinking, media editing, graphic design,
+and digital production. Whether it is programming solutions, producing
+impactful videos, designing visual content or managing audio-visual systems,
+every member develops confidence in using technology as a powerful tool
+for creation and problem-solving.</p>
+<p>&nbsp;What makes SNGS Infocomm Media Club especially dynamic is its strong
+spirit of service and ownership within the school community. Members play
+an integral role behind the scenes of many key school events, capturing
+memorable moments through photography and videography, supporting assemblies
+and programmes through professional PA operations, and producing digital
+media that communicates the vibrant life of SNGS. Beyond technical expertise,
+the club nurtures creativity, teamwork, adaptability, and leadership. Students
+learn to think on their feet, collaborate effectively and contribute meaningfully
+while working in fast-paced event settings and project-based environments.</p>
+<p>&nbsp;In Infocomm Media Club, members do not simply consume technology,
+they learn to create with it, lead through it and make an impact with it.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Information</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
