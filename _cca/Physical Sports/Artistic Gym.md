@@ -69,14 +69,14 @@ In addition to regular training, our gymnasts take part in a range of school act
 <img src="/images/06%20CCA/PS%20AGym/Picture10.jpg"></td>
 <td><br><img src="/images/06%20CCA/PS%20AGym/Picture11.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture9.jpg"></td></tr>
 	
-<tr><td style="width:50%"><b>NSG Competition - Beam</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture3B.jpg"></td></tr>
+<tr><td style="width:50%"><b>Gymnasts in action during CCA Fair</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture12.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>NSG Competition - Vault</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture4B.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>NSG Trampoline Competition 2026</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture13.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture14.jpg"></td></tr>
 
-<tr><td style="width:50%"><b>NSG Trampoline competition 2025</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture5B.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>NSG Artistic Gymnastics Competition 2026</b></td>
+<td><img src="/images/06%20CCA/PS%20AGym/Picture15.jpg"><br></td></tr>
 	
 </tbody></table>
 
