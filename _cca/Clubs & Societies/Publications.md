@@ -74,10 +74,11 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 
 #### **CCA Achievement**
 
-| Competition | Level | Achievement |
-| -------- | -------- | -------- |
-| Media Challenge 2025 |Secondary 2 &amp; 3|Best Social Media Assets<br>- Darissa Ong (3L)<br>- Carys Lim Shi Ying (3P)<br>-    Khong See Kei (2C<br>- Wong Xuan Le Juliette (2J)<br>- Klara Tan Hwee Ya (2T)|
-| Media Challenge 2024 |Secondary 2 &amp; 3|1st Runner-Up<br>- Sim Yu Ting Mischa (2T)<br>- Lim Rui Xin Nicole (3L)<br>- Naomi Tan En Lea (3P)<br>- Wong Yu Xuan (3W)<br><br>2nd Runner-Up<br>- Hannah de Lang<br>-Ho (2J)<br>- Claire Kik Zhi Yu (3P)<br>- Alicia Chua Xin Jie (3T)<br>- Ng Xanafee (3U)|
-| The Queen’s Commonwealth Essay Competition 2024 |Junior|Gold <br>- Lim Rui Xian Emma (1P)<br>- Zhou Yuhan (1W)|
-| Live On Festival 2024 |Junior| Distinction Award<br>- Zhou Yuhan (1W)<br>- Avril Lee En Xuan (2G)|
-| NIE Flash Fiction Contest |N/A|Joint Third Prize<br>- Amber Cheng Yan Yu (2P)|
+<table style="width:100%">
+<tbody>
+<tr><td style="width:50%">
+<b>Competition</b><br>The Media Challenge by Republic Polytechnic – School of Business<br>
+<img src="/images/06%20CCA/CS%20Publications/Picture6.png"></td><td><b>Achievement</b><br> Champion <br>2nd Runner-Up**<br>
+<img src="/images/06%20CCA/CS%20Publications/Picture7.png"></td></tr>
+
+</tbody></table>
