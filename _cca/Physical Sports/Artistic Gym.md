@@ -63,12 +63,11 @@ In addition to regular training, our gymnasts take part in a range of school act
 #### **CCA Highlights**
 
 
-
-**Both B &amp; C Division achieved 1st place (Champions)**<table style="width:100%">
+<table style="width:100%">
 <tbody>
-
-<tr><td style="width:50%"><b>Open House 2024</b></td>
-<td><img src="/images/06%20CCA/PS%20AGym/Picture2B.jpg"><br></td></tr>
+<tr><td style="width:50%"><b>Gymnasts in action during sports camp</b><br>
+<img src="/images/06%20CCA/PS%20AGym/Picture10.jpg"></td>
+<td><br><img src="/images/06%20CCA/PS%20AGym/Picture11.jpg"><br><img src="/images/06%20CCA/PS%20AGym/Picture9.jpg"></td></tr>
 	
 <tr><td style="width:50%"><b>NSG Competition - Beam</b></td>
 <td><img src="/images/06%20CCA/PS%20AGym/Picture3B.jpg"></td></tr>
