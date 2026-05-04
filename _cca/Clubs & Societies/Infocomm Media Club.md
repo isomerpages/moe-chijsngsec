@@ -302,8 +302,9 @@ competencies such as critical thinking, creative problem-solving, collaboration
 and adaptability.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureD.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture21.jpg">
 </div>
 </td>
 </tr>
