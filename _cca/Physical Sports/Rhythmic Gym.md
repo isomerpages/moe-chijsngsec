@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Rhythmic Gym**
 
-<img src="/images/06%20CCA/PS%20RGym/Picture1.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20RGym/260505A.jpg" style="width:100%">
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
@@ -31,7 +31,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <tr><td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
@@ -53,16 +53,16 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>FIG gymnast</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture2.jpg"></td>
+<td><img src="/images/06%20CCA/PS%20RGym/260505B.jpg"><br><img src="/images/06%20CCA/PS%20RGym/260505C.jpg"></td>
 
-</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 group event</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture3.jpg"></td>
+</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 &amp; 5 group event</td>
+<td><img src="/images/06%20CCA/PS%20RGym/260505D.jpg"><br><img src="/images/06%20CCA/PS%20RGym/260505E.jpg"></td>
 	
-</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 5 gymnasts</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture4.jpg"></td></tr>
+</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>B Division gymnasts</td>
+<td><img src="/images/06%20CCA/PS%20RGym/260505F.jpg"></td></tr>
 
 <tr><td style="width:50%"><b>Sports Camp</b><br><br>Kayaking</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture1C.jpg"></td></tr>	
+<td><img src="/images/06%20CCA/PS%20RGym/260505G.jpg"></td></tr>	
 
 </tbody></table>
 
@@ -71,6 +71,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| National Inter-school Competition 2026  | 'C' Division<br>'B' Division     | Second<br>Champion     |
 | National Inter-school Competition 2025   | 'C' Division<br>'B' Division     | Champion<br>Champion     |
 | National Inter-school Competition 2024   | 'C' Division<br>'B' Division     | Second<br>Champion     |
 | National Inter-School Competition 2023     | 'C' Division<br>'B' Division     |Champion<br>Champion     |

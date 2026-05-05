@@ -9,26 +9,47 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/05%20subpage%20cca.jpg">
 </div>
 <h4><strong>Infocomm Media Club</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture17.jpg">
 </div>
-<p>SNGS Infocomm Media Club offers students a dynamic and engaging platform
-to explore the world of technology, media, and communication. As part of
-the club, students gain hands-on experience in various aspects of Infocomm
-technology, such as coding, digital media creation, video production and
-graphic design. Through workshops, projects, and competitions, members
-can develop critical skills in problem-solving, creativity, and collaboration.
-The club encourages students to harness technology not only as a tool for
-innovation but also to create meaningful impact in their communities.</p>
-<p>SNGS Infocomm Media Club aims to develop students’ skills and character
-through service to the school community. Members take on important roles
-such as photography and videography for school events, ensuring moments
-are captured and shared. They also engage in coding projects, enhancing
-their technical expertise, and support school programmes through public
-announcement duties. By participating in these meaningful responsibilities,
-students not only sharpen their Infocomm skills but also contribute to
-the smooth running and vibrancy of school life, embodying a spirit of service
-and teamwork.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>At SNGS Infocomm Media Club, technology meets creativity and innovation
+comes alive.</p>
+<p>More than just learning about computing and technology, the club offers
+students an exciting platform to explore the ever-evolving world of digital
+technology, media production and communication design. Members are immersed
+in authentic hands-on experiences ranging from coding and digital content
+creation to photography, videography, public announcement systems and multimedia
+storytelling.</p>
+<p>Through specially curated workshops, real-world projects, and national
+competitions, students are equipped with future-ready technical competencies
+in areas such as computational thinking, media editing, graphic design,
+and digital production. Whether it is programming solutions, producing
+impactful videos, designing visual content or managing audio-visual systems,
+every member develops confidence in using technology as a powerful tool
+for creation and problem-solving.</p>
+<p>&nbsp;What makes SNGS Infocomm Media Club especially dynamic is its strong
+spirit of service and ownership within the school community. Members play
+an integral role behind the scenes of many key school events, capturing
+memorable moments through photography and videography, supporting assemblies
+and programmes through professional PA operations, and producing digital
+media that communicates the vibrant life of SNGS. Beyond technical expertise,
+the club nurtures creativity, teamwork, adaptability, and leadership. Students
+learn to think on their feet, collaborate effectively and contribute meaningfully
+while working in fast-paced event settings and project-based environments.</p>
+<p>&nbsp;In Infocomm Media Club, members do not simply consume technology,
+they learn to create with it, lead through it and make an impact with it.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>CCA Information</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -93,10 +114,10 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Clarisse Fong Jie Min</p>
+<p>Alyvia Wong Yuk Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4L</p>
+<p>Sec 4D</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>President</p>
@@ -104,7 +125,7 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Si Ju, Stephanie</p>
+<p>Hoo Sue Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4D</p>
@@ -115,10 +136,10 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caitlyn Ciana Cho</p>
+<p>Olivia Meghan Wong Teng Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4L</p>
+<p>Sec 4W</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (PA)</p>
@@ -126,10 +147,10 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tea Xin Qin Valerie</p>
+<p>Sim Yu Hui, Meagan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4J</p>
+<p>Sec 4F</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head (Media)</p>
@@ -137,21 +158,21 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tay Wan Tian, Phylicia</p>
+<p>Chen Zi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4U</p>
+<p>Sec 4W</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head (Project)</p>
+<p>Head (Admin)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alyvia Wong Yuk Ting</p>
+<p>Zhang Enxi Anissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3D</p>
+<p>Sec 3P</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 2 Level Coordinator</p>
@@ -159,7 +180,7 @@ and teamwork.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hoo Sue Ee</p>
+<p>Tay Yu Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3D</p>
@@ -181,9 +202,12 @@ and teamwork.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Public Announcement (PA) Duty for school events</strong>
 <br>
-<br>All members are rostered to perform PA duties during school events. For
-many of the members, this eventually forms a memorable part of their school
-life.</p>
+<br>Public Announcement duties form a core part of the Infocomm experience
+at SNGS. Members are trained to operate professional audio-visual equipment,
+oversee microphone and sound management and support the technical execution
+of school-wide programmes. This unique backstage role allows students to
+combine technical competence with calm decision-making under real event
+conditions, creating experiences that are both enriching and unforgettable.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -193,14 +217,18 @@ life.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Photography and Videography</strong>
-<br>
-<br>All Infocomm Media Club members underwent basic photography and videography
-courses and also regular photo review sessions.&nbsp;
-<br>
-<br>These sharing and critique sessions aimed to provide the members with
-greater knowledge and awareness about photo composition and the story that
-the photos convey. This develops the students’ photo taking skill.</p>
+<p><strong>Photography and Videography&nbsp;</strong>
+</p>
+<p>All Infocomm Media Club members undergo foundational training in photography
+and videography, equipping them with essential technical skills in camera
+handling, framing, lighting and visual capture. Beyond mastering equipment,
+members are guided to view every shot through the lens of storytelling.</p>
+<p>Regular photo review and critique sessions form an important part of this
+developmental journey. Through guided sharing, professional feedback and
+collaborative discussions, members sharpen their eye for composition, timing,
+perspective and visual impact. These sessions cultivate a deeper artistic
+awareness of how meaningful moments can be transformed into compelling
+visual stories.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -212,33 +240,53 @@ the photos convey. This develops the students’ photo taking skill.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Coding</strong>
 <br>
-<br>From basic icon-based coding to almost hardcore programming, learning
-to code is a core skill for all members.&nbsp;
-<br>
-<br>Students learn to code on a variety of platforms and through various courses
-throughout the 4 years..</p>
+<br>Coding forms a key pillar of the Infocomm Media Club experience, with
+every member embarking on a progressive journey from foundational programming
+to advanced computational design. In the process, students build confidence
+in logical thinking, algorithmic reasoning, and digital creation.</p>
+<p>Across their four years in the club, students are exposed to a wide range
+of coding platforms, applications and specialised courses that strengthen
+both technical fluency and innovation. Through these experiences, students
+do not merely learn to code, they learn to think like creators, engineers
+and solution designers in an increasingly digital world.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture19.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Learning Journeys</strong>
-<br>
-<br>Through various learning journeys around Singapore, Infocomm members get
-to learn more and deepen their understanding about the various skills.&nbsp;
-<br>
-<br>For instance, going to the Headrock VR at Sentosa helped the members learn
-more about the advancing technology in today’s society. This also allows
-the members to forge stronger bonds with each other and get to know one
-another better.</p>
+</p>
+<p>Infocomm Media Club members are regularly given opportunities to participate
+in specially curated learning journeys across Singapore, allowing them
+to extend their learning beyond the classroom and experience technology
+in authentic real-world settings. These experiential sessions provide members
+with deeper insights into emerging digital innovations, media applications
+and evolving technological trends shaping today’s society.</p>
+<p>One such example is the immersive visit to HeadRock VR at Sentosa, where
+members explored the exciting possibilities of virtual reality and interactive
+digital experiences firsthand. Through such technology-rich encounters,
+students gain a broader appreciation of how Infocomm solutions are transforming
+industries and user experiences in the modern world.</p>
+<p>Beyond technical exposure, these shared journeys also strengthen camaraderie
+within the club. As members learn, explore and problem-solve together in
+new environments, they forge stronger friendships, build teamwork, and
+grow as a closely connected Infocomm family.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/Infocomm%20Media%20Club4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Infocomm Media Club4.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture20.jpg">
 </div>
 </td>
 </tr>
@@ -246,18 +294,21 @@ another better.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Projects</strong>
 <br>
-<br>During the CCA programmes, Infocomm Media Club members do projects that
-offer students hands-on experience in technology and media production,
-such as coding apps or creating digital content.
-<br>
-<br>These projects allow students to apply their knowledge in real-world scenarios,
-fostering critical 21st-century skills like problem-solving, teamwork,
-and creativity. In these collaborative projects, students enhance their
-technical abilities, improve communication, and gain leadership experience.</p>
+<br>Working and presenting in projects forms a vibrant and integral part of
+the Infocomm Media Club experience. Throughout the CCA programme, members
+engage in a range of technology and media-based projects that provide authentic
+hands-on opportunities to design, create, and innovate. From developing
+coding applications to producing digital media content, students are challenged
+to transform ideas into purposeful outcomes.</p>
+<p>These project experiences allow members to apply technical knowledge in
+meaningful real-world contexts while sharpening essential 21st-century
+competencies such as critical thinking, creative problem-solving, collaboration
+and adaptability.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/06%20CCA/CS%20Infocomm%20MC/PictureD.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/06 CCA/CS Infocomm MC/Picture21.jpg">
 </div>
 </td>
 </tr>
@@ -281,6 +332,34 @@ technical abilities, improve communication, and gain leadership experience.</p>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BEBRAS Challenge 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold Award,
+<br>5 Silver Award,
+<br>10 Bronze Award,
+<br>5 Honorable Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BEBRAS Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – Sec 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Gold Award,
+<br>7 Silver Award,
+<br>6 Bronze Award,
+<br>11 Honorable Mention</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
