@@ -60,12 +60,9 @@ The Publications CCA aims to empower students to communicate ideas with clarity,
 <tbody>
 <tr><td style="width:50%"><b>
 
-1.&nbsp;&nbsp;&nbsp;&nbsp; CCA Fair 2026
-
-2.&nbsp;&nbsp;&nbsp;&nbsp; Book Bar Learning Journey
-
-3.&nbsp;&nbsp;&nbsp;&nbsp; Creative Writing Workshop Collaboration with Library
-	
+1.&nbsp;&nbsp;&nbsp;&nbsp; CCA Fair 2026<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp; Book Bar Learning Journey<br>
+3.&nbsp;&nbsp;&nbsp;&nbsp; Creative Writing Workshop Collaboration with Library<br>	
 4.&nbsp;&nbsp;&nbsp;&nbsp; Sec Four Farewell Party
 </b></td><td><img src="/images/06%20CCA/CS%20Publications/Picture4A.jpg"><br>
 <img src="/images/06%20CCA/CS%20Publications/Picture5.png"></td></tr>
