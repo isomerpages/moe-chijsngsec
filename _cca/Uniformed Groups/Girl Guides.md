@@ -41,12 +41,12 @@ To keep the Guide Law
 <table style="width:100%">
 <tbody>
 <tr><th style="width:40%">Name</th><th style="width:20%">Class</th> <th style="width:40%">Position</th></tr>
-<tr><td>Lim Rui En</td><td>Sec 3C</td><td>Company Leader</td></tr>
-<tr><td>Aw Zhe Min Zara</td><td>Sec 3D</td><td>Company Leader</td></tr>
-<tr><td> Lee Yi Xuan Marien</td><td>Sec 3P</td><td>Company Leader</td></tr>
-<tr><td> Tiah Yu-Ann</td><td>Sec 3C</td><td>Assistant Company Leader</td></tr>
-<tr><td> Tiara Thng Jia En</td><td>Sec3D</td><td>Assistant Company Leader</td></tr>
-<tr><td> Kelly Bey Jia Ning</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
+<tr><td> Jeorgia Tay An Tong</td><td>Sec 3C</td><td>Company Leader</td></tr>
+<tr><td> Tay Han Yu Celeste</td><td>Sec 3U</td><td>Company Leader</td></tr>
+<tr><td> Goh Li Ying, Natalie</td><td>Sec 3W</td><td>Company Leader</td></tr>
+<tr><td> Teng Li Ting</td><td>Sec 3D</td><td>Assistant Company Leader</td></tr>
+<tr><td> Clara Yang Zhong Le</td><td>Sec3U</td><td>Assistant Company Leader</td></tr>
+<tr><td> Phua Shi En Yvette</td><td>Sec 3W</td><td>Assistant Company Leader</td></tr>
 </tbody></table>
 
 
