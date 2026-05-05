@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Literary Drama Society**
 
-<img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/Picture17.jpg" style="width:100%">
+<img src="/images/06%20CCA/VPA%20Literary%20Drama%20Society/260505A.jpg" style="width:100%">
 
 The Literary Drama Society (LDS) provides a platform for our members to convey their thoughts and ideas through the theatrical arts, writing and performing our very own pieces of plays and poetry.  
   
@@ -22,7 +22,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
   <tbody>
 		<tr>
     <th>Training / Meeting Venue</th>
-    <td>MPR 1, 2, Dance Studio</td>
+    <td> Drama Studio / MPR</td>
   </tr>
   <tr>
     <th>Training Day / Time</th>
@@ -41,7 +41,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <table style="width:100%">
   <tbody>
 		<tr>
-			<td><b>Mr Jason Koh</b><br>Ms Sharon Law<br>Ms Kok Choy Yoke</td>
+			<td><b>Mr Jason Koh</b><br>Ms Sharon Law<br>Ms Cindy Beh</td>
   </tr>
   </tbody>
 </table>
