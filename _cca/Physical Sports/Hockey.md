@@ -38,10 +38,10 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Yang Ziyu</td><td>Sec 3U</td><td> 'B' Division Captain (2026)</td></tr>
-<tr><td>Natasha Ong Kia En</td><td>Sec 3G</td><td> 'B' Division Vice-Captain (2026)</td></tr>
-<tr><td>Yap Wan Qin Megan</td><td>Sec 2U</td><td> 'C' Division Captain (2025)</td></tr>
-<tr><td>Avery Leow Le Chi</td><td>Sec 2P</td><td>'C' Division Vice-Captain (2025)</td></tr>
+<tr><td>Yang Ziyu</td><td>Sec 4U</td><td> 'B' Division Captain (2026)</td></tr>
+<tr><td>Natasha Ong Kia En</td><td>Sec 4G</td><td> 'B' Division Vice-Captain (2026)</td></tr>
+<tr><td>Yap Wan Qin Megan</td><td>Sec 3T</td><td> 'C' Division Captain (2025)</td></tr>
+<tr><td>Avery Leow Le Chi</td><td>Sec 3U</td><td>'C' Division Vice-Captain (2025)</td></tr>
 </tbody></table>
 
 #### **CCA Highlights**
