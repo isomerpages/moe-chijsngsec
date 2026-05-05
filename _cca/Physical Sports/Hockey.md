@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Hockey**
 
-<img src="/images/06%20CCA/PS%20Hockey/Hockey.jpeg" style="width:100%">
+<img src="/images/06%20CCA/PS%20Hockey/Hockey.jpg" style="width:100%">
 
 The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fearless group of students who will go all out in pursuit of excellence while always acting in a morally upright manner. The team goes through a rigorous training program to work on their skillsets as well as their fitness. A close-knit group where friendships are formed and fun is always on the agenda.  
 
