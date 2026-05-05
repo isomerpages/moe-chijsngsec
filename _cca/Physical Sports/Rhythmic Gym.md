@@ -9,7 +9,7 @@ variant: markdown
 
 #### **Rhythmic Gym**
 
-<img src="/images/06%20CCA/PS%20RGym/Picture1.jpg" style="width:100%">
+<img src="/images/06%20CCA/PS%20RGym/260505A.jpg" style="width:100%">
 
 Rhythmic Gymnastics is a sport in which gymnasts perform on the floor with apparatus such as rope, ball, hoop, clubs or ribbon accompanied by music. It combines the elements of gymnastics, ballet, dance and the use of apparatus.&nbsp;
 
@@ -31,7 +31,7 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <tr><td><b>Ms Catherine Sim</b><br>Mrs Tan Siew Kim<br>Mrs Josephine Sherwood<br>Ms Jennifer Lim</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
