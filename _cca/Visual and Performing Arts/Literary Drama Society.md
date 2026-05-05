@@ -46,7 +46,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
   </tbody>
 </table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
