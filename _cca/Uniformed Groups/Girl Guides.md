@@ -55,7 +55,7 @@ To keep the Guide Law
 <table style="width:100%">
 <tbody>
 <tr><td style="width:40%"><b>Annual Girl Guides Camp and Campfire</b><br><br>The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their skills, bond with one another and demonstrate their capabilities.<br><br>It is also a time where Guides look forward to every year for activities like outdoor cooking, Kim’s games and campfire.<br><br></td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture17.jpg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/260505g.jpg"></td></tr>
 
 <tr><td style="width:40%"><b>5-Point Programme, Proficiency and Interest Badges</b><br><br>
 	The 5-Point Programme provides opportunities for Girl Guides to develop in the following areas
@@ -75,8 +75,8 @@ On top of that, Guides are also able to attain different proficiency and interes
 	<li>Singapore Anti-Narcotics Association (SANA) badge</li>
 </ul>  
 </td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture19.jpg"><br>
-	<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture10.jpg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/260505f.jpg"><br>
+	<img src="/images/06%20CCA/UG%20Girl%20Guides/260505d.jpg"></td></tr>
 	
 <tr><td style="width:40%"><b>Competitions and Other HQ Activities</b>
 <br><br>Guides can take part in competitions and HQ events like the annual World Thinking Day Celebrations and North Division Fest.
@@ -86,7 +86,7 @@ On top of that, Guides are also able to attain different proficiency and interes
 </td></tr><tr><td style="width:40%"><b>Cookie Project </b>
 <br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
 <br><br>Each year, on top of contributing to this project, St Nicks Guides also take part in the Public Cookie Sales.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/picture12(d).jpg"></td></tr>
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/260505e.jpg"></td></tr>
 </tbody></table>
 
 #### **CCA Achievements**
