@@ -17,7 +17,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-<tr><th>Training / Meeting Venue</th><td>School Hockey Pitch<br>PESEB Hockey Pitch / Sengkang Hockey Stadium</td></tr>
+<tr><th>Training / Meeting Venue</th><td>School Hockey Pitch<br>PSOEB Hockey Pitch, Sengkang Hockey Stadium</td></tr>
 <tr><th>Training Day / Time</th><td>Monday &amp; Wednesday <br>3.45 pm - 6.30 pm<br>Friday <br>4.00 pm - 6.30 pm</td></tr>
 <tr><th>Coach</th><td>Mr Robin Ng</td></tr>
 </tbody></table>
@@ -26,7 +26,7 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 <table style="width:100%">
 <tbody>
-	<tr><td><b>Ms Siti Wajihah Zar'an</b><br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Ng Kok Kuen</td></tr>
+	<tr><td><b>Ms Siti Wajihah Zar'an</b><br>Ms Nurulhuda Bte Mohammed Arslan<br>Mr Peter Loke<br>Mr Ng Kok Kuen</td></tr>
 </tbody></table>
 
 #### **Student Executive Committee (2025 - 2026)**
