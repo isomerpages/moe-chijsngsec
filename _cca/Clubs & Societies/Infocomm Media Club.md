@@ -93,7 +93,7 @@ they learn to create with it, lead through it and make an impact with it.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Student Executive Committee (2024 - 2025)</strong></h4>
+<h4><strong>Student Executive Committee (2025 - 2026)</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
