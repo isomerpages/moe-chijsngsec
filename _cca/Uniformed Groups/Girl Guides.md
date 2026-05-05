@@ -79,9 +79,9 @@ On top of that, Guides are also able to attain different proficiency and interes
 	<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture10.jpg"></td></tr>
 	
 <tr><td style="width:40%"><b>Competitions and Other HQ Activities</b>
-<br><br>Guides can take part in competitions and HQ events like the annual World Thinking Day Celebrations and North Division Day.
+<br><br>Guides can take part in competitions and HQ events like the annual World Thinking Day Celebrations and North Division Fest.
 <br><br>Events such as these are when both Girl Guides and Brownies meet to learn from and share with each other their Guiding practices through activities and competitions.</td>
-<td><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture11.jpg"><br><img src="/images/06%20CCA/UG%20Girl%20Guides/Picture12.jpg">
+<td><img src="/images/06%20CCA/UG%20Girl%20Guides/260505B.jpg"><br><img src="/images/06%20CCA/UG%20Girl%20Guides/260505C.jpg">
 
 </td></tr><tr><td style="width:40%"><b>Cookie Project and Public Cookie Sales</b>
 <br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
