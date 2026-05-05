@@ -100,4 +100,4 @@ On top of that, Guides are also able to attain different proficiency and interes
 | North Division Fest 2026<br>Outdoor Cooking Competition     | Division     | <b>2nd Place</b><br>      Shauna Teo Ng Sueng (2 Charity)<br> Lew Jia Yu, Emma (2 Charity)     |
 | North Division Fest 2026<br>Mini Gadget Competition     | Division     | <b>2nd Place</b><br>               Pang Jing Yi (4 Diligence)<br> Lew Jia Yu, Emma (2 Charity)     |
 | North Division Fest 2026 Sustainable Craft Competition | Division |<b>2nd Place</b><br>Lim En Xin Lydia (2 Diligence)<br>Goh Jia Xuan (2 Unity)<br>Lim Jia Yi Sarah (2 Unity)<br>Lim Aiping Hannah (2 Wisdom)|
-
+| North Division Fest 2026 Telematch | Division |<b>1st Place</b><br>Teng Li Ting (3 Diligence)<br>Colette Peng Yu Wen (3 Faith)<br>Kang Xin Yu Eloise (3 Grace)<br>Goh Li Ying, Natalie (3 Wisdom)|
