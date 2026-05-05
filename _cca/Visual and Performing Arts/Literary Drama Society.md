@@ -84,6 +84,7 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| 2025 Singapore Youth Festival Arts Presentation | Secondary School|Certificate of Accomplishment |
 | 2023 Singapore Youth Festival Arts Presentation | Secondary School|Certificate of Accomplishment |
 | 2023 National Schools Literature Festival<br>Choral Speaking Competition |Secondary School &nbsp; &nbsp; | 2nd place&nbsp; &nbsp; |
 | 2023 National Schools Literature Festival<br>Book Trailer Competition | Secondary School &nbsp; &nbsp; | 3rd place&nbsp; &nbsp; |
