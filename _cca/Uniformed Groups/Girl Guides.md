@@ -94,9 +94,8 @@ On top of that, Guides are also able to attain different proficiency and interes
 
 | Competition | Level | Achievement / Recipients |
 | -------- | -------- | -------- |
-| Puan Noor Aishah Award 2024     | National     | Gold     | 
-| Puan Noor Aishah Award 2023     | National     | Gold     | 
-|Baden Powell Award |National | Faith Jaylene Cheong Huai Yin (4 Grace)<br>Christine Grace Sofyan (4 Justice)<br>Joylene Linggajaya (4 Purity)|
+| Puan Noor Aishah Award 2025     | National     | Gold     | 
+|Baden Powell Award |National | Charis Low (4 Charity)<br> Teo Min Xuan (4 Diligence)<br> Wong Zi Xuan Valerie (4 Faith)<br> Allison Yum Jade Lyn (4 Justice)<br>Lee En Hui, Kaylynn (4 Justice)<br>       Tan Rui Yue (4 Unity)|
 | North Division Fest 2025 <br>Poster Competition    | Division     |<b>Merit </b><br> Tiah Yu-Ann (3 Charity)<br> Aw Zhe Min Zara (3 Diligence)<br> Lim Jie Xi (3 Faith)<br> Ng Hui Yun (3 Grace)     |
 | North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
 | North Division Fest 2025<br>Cooking Competition     | Division     | <b>Merit</b><br> Guo Yuxuan Erica (2 Unity)<br> Phua Shi En Yvette (2 Wisdom)     |
