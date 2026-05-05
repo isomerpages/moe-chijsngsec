@@ -98,6 +98,8 @@ On top of that, Guides are also able to attain different proficiency and interes
 | World Thinking Day 2026 Trivia x Treasure Hunt | Division |<b>2nd Place</b><br>Jeorgia Tay An Tong (3 Charity)<br>Koh Kay Ern (3 Charity)<br>Goh Isabella Emmanuel (3 Grace)<br>Phua Shi En Yvette (3 Wisdom)|
 | Puan Noor Aishah Award 2025     | National     | Gold     | 
 | North Division Fest 2026<br>Outdoor Cooking Competition     | Division     | <b>2nd Place</b><br>      Shauna Teo Ng Sueng (2 Charity)<br> Lew Jia Yu, Emma (2 Charity)     |
+| North Division Fest 2026<br>Mini Gadget Competition     | Division     | <b>2nd Place</b><br>               Pang Jing Yi (4 Diligence)<br> Lew Jia Yu, Emma (2 Charity)     |
+| North Division Fest 2026 Sustainable Craft Competition | Division |<b>2nd Place</b><br>Lim En Xin Lydia (2 Diligence)<br>Goh Jia Xuan (2 Unity)<br>Lim Jia Yi Sarah (2 Unity)<br>Lim Aiping Hannah (2 Wisdom)|
 
 | North Division Fest 2025 <br>Poster Competition    | Division     |<b>Merit </b><br> Tiah Yu-Ann (3 Charity)<br> Aw Zhe Min Zara (3 Diligence)<br> Lim Jie Xi (3 Faith)<br> Ng Hui Yun (3 Grace)     |
 | North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
