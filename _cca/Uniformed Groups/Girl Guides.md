@@ -96,6 +96,7 @@ On top of that, Guides are also able to attain different proficiency and interes
 | -------- | -------- | -------- |
 | Puan Noor Aishah Award 2025     | National     | Gold     | 
 |Baden Powell Award |National | Charis Low (4 Charity)<br> Teo Min Xuan (4 Diligence)<br> Wong Zi Xuan Valerie (4 Faith)<br> Allison Yum Jade Lyn (4 Justice)<br>Lee En Hui, Kaylynn (4 Justice)<br>       Tan Rui Yue (4 Unity)|
+| World Thinking Day 2026 Trivia x Treasure Hunt |2nd Place |Jeorgia Tay An Tong (3 Charity)<br>Koh Kay Ern (3 Charity)<br>Goh Isabella Emmanuel (3 Grace)<br>Phua Shi En Yvette (3 Wisdom)|
 | North Division Fest 2025 <br>Poster Competition    | Division     |<b>Merit </b><br> Tiah Yu-Ann (3 Charity)<br> Aw Zhe Min Zara (3 Diligence)<br> Lim Jie Xi (3 Faith)<br> Ng Hui Yun (3 Grace)     |
 | North Division Fest 2025<br>Campfire Remix Competition    | Division     | <b>3rd Place</b><br> Eva Choo (2 Diligence)<br>         Kang Xin Yu Eloise (2 Diligence)|
 | North Division Fest 2025<br>Cooking Competition     | Division     | <b>Merit</b><br> Guo Yuxuan Erica (2 Unity)<br> Phua Shi En Yvette (2 Wisdom)     |
