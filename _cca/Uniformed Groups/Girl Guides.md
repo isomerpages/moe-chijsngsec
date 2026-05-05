@@ -9,9 +9,9 @@ variant: markdown
 
 #### **Girl Guides**
 
-<img src="/images/06%20CCA/UG%20Girl%20Guides/Picture9.jpg" style="width:100%">
+<img src="/images/06%20CCA/UG%20Girl%20Guides/260505A.jpg" style="width:100%">
 
-The annual Girl Guides camp is held during the March break. The camp provides Guides with a platform to hone their leadership and campcraft skills, bond with one another and demonstrate their capabilities.
+Girl Guides aims to prepare guides to handle challenges and new situations with a sense of confidence and self-assuredness. Through its 5 Point Programme and various badges, guides are able to develop their leadership, decision-making and team-building skills.
 
 <b>Guide Motto:</b><br>Be Prepared  
 <b>Guide Promise:</b><br>
