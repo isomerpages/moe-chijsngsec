@@ -79,9 +79,9 @@ The SN Hockey team prides itself on the 2 R’s : Respect and Resilience. A fear
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| National School Games 2026 | 'B' Division | 4th |
+| National School Games 2025  | 'C' Division | 4th |
 | National School Games 2025 |  'B' Division  | 4th |
 | National School Games 2024 | 'C' Division  | 2nd |
 | National School Games 2024 | 'B' Division  | 3rd |
 | Pesta Sukan 5-a-side 2024 | Under 15  | 2nd and 4th |
-| National School Games 2023     | 'C' Division | 2nd |
-| National School Games 2023 | 'B' Division | 1st |
