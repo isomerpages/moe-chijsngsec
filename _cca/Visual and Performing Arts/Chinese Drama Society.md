@@ -32,7 +32,7 @@ Chinese Drama Society (CDS) is an open and welcoming family. Each and every memb
 </tbody>
 </table>
 
-#### **Student Executive Committee (2024 - 2025)**
+#### **Student Executive Committee (2025 - 2026)**
 
 <table style="width:100%">
 <tbody>
