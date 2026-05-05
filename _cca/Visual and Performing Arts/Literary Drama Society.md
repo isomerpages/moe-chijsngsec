@@ -55,11 +55,11 @@ Every year, we go on an exhilarating roller coaster ride of new experiences that
 <th style="width:25%">Class</th> 
 <th style="width:30%">Position</th>
 </tr>
-<tr><td>Tan Kai Qi Glenda</td><td>Sec 4P</td><td>President</td></tr>
-<tr><td>Selynne Chew Zhi Ling</td><td>Sec 4H</td><td>Vice President</td></tr>
-<tr><td>Teo Yi Xin</td><td>Sec 4P</td><td>Secretary</td></tr>
-<tr><td>Tan Yi Xi</td><td>Sec 4U</td><td>Stage Manager</td></tr>
- <tr><td>Yew Kai Qi, Rebekah</td><td>Sec 4G</td><td>Level Coordinator</td></tr>
+<tr><td> Er E-Tzine Zene</td><td>Sec 4T</td><td>President</td></tr>
+<tr><td>Kaylene Ang Yi En</td><td>Sec 4T</td><td>Vice President</td></tr>
+<tr><td>Poh Xue En Zoey</td><td>Sec 4W</td><td>Secretary</td></tr>
+<tr><td>Chan Lok Ngan, Miriam</td><td>Sec 4F</td><td>Stage Manager</td></tr>
+ <tr><td>Chua Ying En</td><td>Sec 4P</td><td>Level Coordinator</td></tr>
 </tbody>
 </table>
 
