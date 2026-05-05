@@ -53,10 +53,10 @@ Beyond physical training, the St. Nicks Rhythmic Gym is dedicated to the holisti
 <table style="width:100%">
 <tbody>
 <tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>FIG gymnast</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture2.jpg"></td>
+<td><img src="/images/06%20CCA/PS%20RGym/260505B.jpg"><br><img src="/images/06%20CCA/PS%20RGym/260505C.jpg"></td>
 
-</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 group event</td>
-<td><img src="/images/06%20CCA/PS%20RGym/Picture3.jpg"></td>
+</tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 4 &amp; 5 group event</td>
+<td><img src="/images/06%20CCA/PS%20RGym/260505D.jpg"><br><img src="/images/06%20CCA/PS%20RGym/260505E.jpg"></td>
 	
 </tr><tr><td style="width:50%"><b>National Inter-school Competition</b><br><br>The Level 5 gymnasts</td>
 <td><img src="/images/06%20CCA/PS%20RGym/Picture4.jpg"></td></tr>
