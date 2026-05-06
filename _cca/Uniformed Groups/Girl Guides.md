@@ -85,7 +85,7 @@ On top of that, Guides are also able to attain different proficiency and interes
 
 </td></tr><tr><td style="width:40%"><b>Cookie Project </b>
 <br><br>The Girl Guides Singapore Cookies project serves as a platform for each girl to help raise awareness and resources for Girl Guides Singapore. Proceeds from this project will be used on programmes and activities aimed at developing girls and women to achieve their greatest potentials.
-<br><br>Each year, on top of contributing to this project, St Nicks Guides also take part in the Public Cookie Sales.</td>
+</td>
 <td><img src="/images/06%20CCA/UG%20Girl%20Guides/260505e.jpg"></td></tr>
 </tbody></table>
 
