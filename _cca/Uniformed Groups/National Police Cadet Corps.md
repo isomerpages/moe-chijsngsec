@@ -67,8 +67,8 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Ho Wan Leum (He Wanlin), Isabelle<br>Lim Jia Ning Ashlyn</td>
-    <td>Sec 4J<br>Sec 4U</td>
+    <td>Yeo Ni Xuan Riko<br>Chew Woon Lim, Emeline<br>Quek Xu Ying</td>
+    <td>Sec 3G<br>Sec 3G<br>Sec 3J</td>
     <td>Sec 1 Squad-in-charge</td>
   </tr>
 </tbody></table>
