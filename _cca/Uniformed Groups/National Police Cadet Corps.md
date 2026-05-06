@@ -9,7 +9,7 @@ variant: markdown
 
 #### **National Police Cadet Corps**
 
-<img src="/images/06%20CCA/UG%20NPCC/picture1.jpg" style="width:100%">
+<img src="/images/06%20CCA/UG%20NPCC/260506.jpg" style="width:100%">
 
 Our school’s National Police Cadet Corps (NPCC) unit seeks to inculcate leadership, courage, tenacity and a spirit of adventure in our students. This is accomplished through lessons on police knowledge, law, outdoor skills, drills and firearm training.  
 
@@ -22,7 +22,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
-<tr><th>Training Day / Time</th><td>Friday (or Wed if Fri is a holiday)<br> 4:00 pm - 6:30 pm<br>Any One Saturday of month (no Friday activity on that week)<br>8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br></td></tr>
+<tr><th>Training Day / Time</th><td>Friday (or Wed if Fri is a holiday)<br> 4:00 pm - 6:30 pm<br>Any One Saturday in a term (no Friday activity on that week)<br>8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br></td></tr>
 <tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zhen@ Sophia<br>Miss Chin Xin Xuan, Gwen<br>Miss Chung Min Yee, Claire<br>Miss Ng Joo Geng</td></tr>
 </tbody></table>
 
@@ -33,7 +33,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 	Mr Chang Zheng</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025 - 2026)**
+#### **Student Executive Committee (2026 - 2027)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -42,33 +42,33 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Tham Jing Yun</td>
-    <td>Sec 4P</td>
+    <td>Nicole Neo Yu Xuan</td>
+    <td>Sec 3P</td>
     <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
-    <td>Sng Yew En Shevonne</td>
-    <td>Sec 4F</td>
+    <td>Vivienne Yu Zhiyi</td>
+    <td>Sec 3W</td>
     <td>Field Instructress</td>
   </tr>
   <tr>
-    <td>Ng Ze Ting Brenda<br> Ng Jing Qi, Verilyn</td>
-		<td>Sec 4F<br>Sec 4G</td>
+    <td>Leow Ning Rui<br>Janelle Koh Ling Le</td>
+		<td>Sec 3C<br>Sec 3D</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Li Zi'en, Janelle<br>Jovana Huang</td>
-    <td>Sec 4C<br>Sec 4L</td>
+    <td>Jovelle Tan Yun En<br>Tan Yun Tong</td>
+    <td>Sec 3D<br>Sec 3D</td>
     <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Chen Jing Xi<br>Shannon Wong Yi Shyan</td>
-    <td>Sec 4L<br>Sec 4L</td>
+    <td> Audrey Wo Caini<br>Siah Yee Han Sophie</td>
+    <td>Sec 3C<br>Sec 3G</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Ho Wan Leum (He Wanlin), Isabelle<br>Lim Jia Ning Ashlyn</td>
-    <td>Sec 4J<br>Sec 4U</td>
+    <td>Yeo Ni Xuan Riko<br>Chew Woon Lim, Emeline<br>Quek Xu Ying</td>
+    <td>Sec 3G<br>Sec 3G<br>Sec 3J</td>
     <td>Sec 1 Squad-in-charge</td>
   </tr>
 </tbody></table>
@@ -99,6 +99,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Unit Overall Proficiency Award 2025    | Secondary School     | Distinction     |
 | GOTC II Virtual Tournament 2025  | All     |Team: Second Runner-Up   |
 | NPCC Inter Unit Camp Craft Competition 2025  | Secondary Schools     | Bronze    |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2025  | Secondary Schools     | Team 1: 2nd<br>Team 2: 5th<br>Individual: 2nd and 5th    |
