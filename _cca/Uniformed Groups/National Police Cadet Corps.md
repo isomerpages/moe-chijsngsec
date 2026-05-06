@@ -22,7 +22,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 <table style="width:100%">
 <tbody>
 <tr><th>Training / Meeting Venue</th><td>Field<br>Basketball court <br> Classroom 3U (S3-L2-04)<br>* Venues as designated by NPCC HQ</td></tr>
-<tr><th>Training Day / Time</th><td>Friday (or Wed if Fri is a holiday)<br> 4:00 pm - 6:30 pm<br>Any One Saturday of month (no Friday activity on that week)<br>8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br></td></tr>
+<tr><th>Training Day / Time</th><td>Friday (or Wed if Fri is a holiday)<br> 4:00 pm - 6:30 pm<br>Any One Saturday in a term (no Friday activity on that week)<br>8:00 am - 12:00 pm*<br>* (HQ courses, activities and competitions according to HQ Schedule)<br></td></tr>
 <tr><th>Instructors</th><td><b>Honorary Officer</b><br>Mr Chan Siang Long Eugene <br>Miss Hazel Wong<br><br><b>Cadet Inspector</b><br>Miss Lim Li Xuan Jillianne<br>Miss Chen Wen Zhen@ Sophia<br>Miss Chin Xin Xuan, Gwen<br>Miss Chung Min Yee, Claire<br>Miss Ng Joo Geng</td></tr>
 </tbody></table>
 
