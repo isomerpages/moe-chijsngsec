@@ -33,7 +33,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 	Mr Chang Zheng</td></tr>
 </tbody></table>
 
-#### **Student Executive Committee (2025 - 2026)**
+#### **Student Executive Committee (2026 - 2027)**
 
 <table style="width:100%">
   <tbody><tr>
@@ -42,28 +42,28 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
     <th style="width:30%">Position</th>
   </tr>
   <tr>
-    <td>Tham Jing Yun</td>
-    <td>Sec 4P</td>
+    <td>Nicole Neo Yu Xuan</td>
+    <td>Sec 3P</td>
     <td>Unit Overall-in-charge</td>
   </tr>
   <tr>
-    <td>Sng Yew En Shevonne</td>
-    <td>Sec 4F</td>
+    <td>Vivienne Yu Zhiyi</td>
+    <td>Sec 3W</td>
     <td>Field Instructress</td>
   </tr>
   <tr>
-    <td>Ng Ze Ting Brenda<br> Ng Jing Qi, Verilyn</td>
-		<td>Sec 4F<br>Sec 4G</td>
+    <td>Leow Ning Rui<br>Janelle Koh Ling Le</td>
+		<td>Sec 3C<br>Sec 3D</td>
     <td>Sec 4 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Li Zi'en, Janelle<br>Jovana Huang</td>
-    <td>Sec 4C<br>Sec 4L</td>
+    <td>Jovelle Tan Yun En<br>Tan Yun Tong</td>
+    <td>Sec 3D<br>Sec 3D</td>
     <td>Sec 3 Squad-in-charge</td>
   </tr>
   <tr>
-    <td>Chen Jing Xi<br>Shannon Wong Yi Shyan</td>
-    <td>Sec 4L<br>Sec 4L</td>
+    <td> Audrey Wo Caini<br>Siah Yee Han Sophie</td>
+    <td>Sec 3C<br>Sec 3G</td>
     <td>Sec 2 Squad-in-charge</td>
   </tr>
   <tr>
