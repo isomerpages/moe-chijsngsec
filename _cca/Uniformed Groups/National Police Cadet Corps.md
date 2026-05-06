@@ -99,6 +99,7 @@ NPCC Vision<br>To become the best youth organisation in Singapore, one that acti
 
 | Competition | Level | Achievement |
 | -------- | -------- | -------- |
+| Unit Overall Proficiency Award 2025    | Secondary School     | Distinction     |
 | GOTC II Virtual Tournament 2025  | All     |Team: Second Runner-Up   |
 | NPCC Inter Unit Camp Craft Competition 2025  | Secondary Schools     | Bronze    |
 | NPCC Inter Unit .22 Revolver Shooting Competition 2025  | Secondary Schools     | Team 1: 2nd<br>Team 2: 5th<br>Individual: 2nd and 5th    |
