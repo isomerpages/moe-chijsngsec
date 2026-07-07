@@ -76,7 +76,7 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
 
 * <img src="/images/05%20Student%20Development/10%20Education%20Career%20Guidance/sngs%20ecgc%20qr%20code.png" style="width:180px;height:180px;margin-left:15px;" align="right">
     
-   * In-house ECG Counsellor (Ms Grace Champion)
+   * In-house ECG Counsellor (Ms Jacqueline Ong)
        *   To contact or make an appointment with our ECG Counsellor, please refer to contact details at: 
 		[go.gov.sg/sngsecg](http://go.gov.sg/sngsecg) or scan the QR Code on the right.
 		
