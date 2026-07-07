@@ -94,7 +94,6 @@ Through ECG, social emotional competencies and qualities of proactivity, adaptab
 		
 *   <b>FOR PARENTS</b>
 
-    *   <i>Journeying with Our Children, Achieving their Aspirations</i>
 
-        *   [Link for parents](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx)
-        *   This guide for parents contains tips and advice on ECG and considerations at key education stages to guide our children.
+    *   <i>[Journeying with Our Children, Achieving their Aspirations](/files/04%20Student%20Development/ECG/12806_MOE_Parent_Guide_2021.pdf)</i>
+This guide for parents contains tips and advice on ECG and considerations at key education stages to guide our children.
