@@ -26,7 +26,7 @@ variant: tiptap
 <br>May 8, 29
 <br>Jul 1, 24
 <br>Aug 6 (Thu), 21
-<br>Sept 2 (Wed), 25
+<br>Sept 3 (Wed), 25
 <br>Oct 9, 23</p>
 <p><strong>Operating Hours</strong>: 9 am - 3 pm
 <br><strong>Walk-in purchase / Parent Entry Timing</strong>: After 2pm
